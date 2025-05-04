@@ -122,7 +122,7 @@
 			"type": "Token Artifact — Specimen ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_Specimen.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/6t_Specimen.png"
 			}
 		},
 		{
@@ -1624,158 +1624,160 @@
 		}
 	]
 [RareSlot(1)]
-2 Burgeoning Ascomycota
-2 Orbital Drop Troopers
-2 Consider the Cosmos
-2 Lunar Archfiend
-2 Agent of Retribution
-2 Unearthly Encounter
-2 Mutagen Spreader
-2 Orchestrator of Wills
-2 Bravo-2, Ruthless Commando
-2 Emberwing Emissary
-2 Path Treading Tank
-2 Assault Landing
-2 Station Monitor
-2 Into the Pit
-2 Lithura, Maiden of Fates
-2 Orbital Lift
-2 Hullbreaker Horror
-2 Reactor Ignition
-2 Augmented Starfighter
-2 Heart of Astorethe
-2 Exhurga, Origin of Mania
-2 Dyson Sphere
-2 Projection Armor
-2 Outpost Zero
+1 Burgeoning Ascomycota
+1 Orbital Drop Troopers
+1 Consider the Cosmos
+1 Lunar Archfiend
+1 Agent of Retribution
+1 Unearthly Encounter
+1 Mutagen Spreader
+1 Orchestrator of Wills
+1 Bravo-2, Ruthless Commando
+1 Emberwing Emissary
+1 Path Treading Tank
+1 Assault Landing
+1 Station Monitor
+1 Into the Pit
+1 Lithura, Maiden of Fates
+1 Orbital Lift
+1 Hullbreaker Horror
+1 Reactor Ignition
+1 Augmented Starfighter
+1 Heart of Astorethe
+1 Exhurga, Origin of Mania
+1 Dyson Sphere
+1 Projection Armor
+1 Outpost Zero
 [UncommonSlot(3)]
-9 Renegade Academy
-9 Expedition Range
-9 Ozone Skipper
-9 Plithium Quarry
-9 Innovative Hangar
-9 Determined Strike Team
-9 Rothmas Scouts
-9 Keen-eyed Engineer
-9 Expanse Runners
-9 Mistweaver
-9 Overwatch Sentinel
-9 Observation Crew
-9 Manifested Chimera
-9 Splinter Brute
-9 Nimble Crewmate
-9 Extraction Team
-9 Ignominious Executive
-9 Frontline Dropship
-9 Construction Bot
-9 Ops Pointman
-9 Drone Operator
-9 Houkkipi Scavengers
-9 Biogenic Upgrade
-9 Rapid Incubation
-9 Organic Printer
-9 Ecological Survey
-9 EMP Blast
-9 Anomalous Animation
-9 Sanguine Stalker
-9 Corpse Subsumer
-9 Sinister Sabotage
-9 Commune With Evil
-9 Scorched Desolation
-9 Despondent Colonists
-9 Artificial Warfront
-9 Cuphro Invasion
+2 Renegade Academy
+2 Expedition Range
+2 Ozone Skipper
+2 Plithium Quarry
+2 Innovative Hangar
+2 Determined Strike Team
+2 Rothmas Scouts
+2 Keen-eyed Engineer
+2 Expanse Runners
+2 Mistweaver
+2 Overwatch Sentinel
+2 Observation Crew
+2 Manifested Chimera
+2 Splinter Brute
+2 Nimble Crewmate
+2 Extraction Team
+2 Ignominious Executive
+2 Frontline Dropship
+2 Construction Bot
+2 Ops Pointman
+2 Drone Operator
+2 Houkkipi Scavengers
+2 Biogenic Upgrade
+2 Rapid Incubation
+2 Organic Printer
+2 Ecological Survey
+2 EMP Blast
+2 Anomalous Animation
+2 Sanguine Stalker
+2 Corpse Subsumer
+2 Sinister Sabotage
+2 Commune With Evil
+2 Scorched Desolation
+2 Despondent Colonists
+2 Artificial Warfront
+2 Cuphro Invasion
 [CommonSlot(9)]
-30 Doomed Expedition
-30 Portent Resonance
-30 Taloncrawler
-30 Proto-Genesis Jellyfish
-30 Ambitious Lab Techs
-30 Targeted Strike
-30 Acrid Chiropteran
-30 Steamcaller
-30 Haunting Amalgamate
-30 Stalking Wispbeast
-30 Transferred Soul
-30 Digital Reconstruction
-30 City Sweep
-30 Servitor Drone
-30 Gleaming Kite
-30 Swift Response
-30 Convening Nomad
-30 Cryo Chamber
-30 Containment Breach
-30 Disposal Personnel
-30 Android Maintenance
-30 Don't Make a Sound
-30 Frigid Pass Officers
-30 Painful Excision
-30 Aerial Heistman
-30 Disfigure
-30 Remote Disintegration
-30 Recovery Mission
-30 Frightened Trainee
-30 Mining Rig
-30 Thrill of Possibility
-30 Tactical Breach
-30 Pyroclastic Crewmate
-30 Skittering Swarm
-30 Incinerating Blast
-30 Ambush Drone
-30 Brush Surveyor
-30 Consuming Polyp
-30 Spontaneous Outburst
-30 Brutal Acquisition
-30 Poison Whip-tail
-30 Whirring Surveyor
-30 Agile Furrowite
-30 Profound Discovery
-30 Methodical Infantry
-30 Anti-Aerial Crawler
-30 Hazard Enviro-Mech
-30 Shielding Dome
-30 Charging Octomare
-30 Levicycle Courier
-30 Sudden Evacuation
-30 Navigator Core
-30 Watcher in the Mist
-30 Digitized Duo
-30 Xeno Reliquary
-30 Salvage Hunter
-30 Tremor Spikeworm
-30 Stasis Field
-30 Quell Rebellion
-30 Scarab Behemoth
-30 Afflicted Researcher
-30 Void Specter
-30 Crashsite Prowler
-30 Duress
-30 Subjugation
-30 Brood Warden
-30 Wreckage Raiders
-30 Field Expeditioners
-30 Mission Coordinator
-30 Smoldering Defiance
-30 Abrade
-30 Corrupted Monitor
-30 Hull Mechanic
-30 Tri-Lateral Grenade
-30 Sampling Laser
-30 Nurturing Mantisworm
-30 Arachnae Behemoth
-30 Unbound Subject
-30 Broken Wings
-30 Field Navigator
-30 Enticing Discovery
+3 Doomed Expedition
+3 Portent Resonance
+3 Taloncrawler
+3 Proto-Genesis Jellyfish
+3 Ambitious Lab Techs
+3 Targeted Strike
+3 Acrid Chiropteran
+3 Steamcaller
+3 Haunting Amalgamate
+3 Stalking Wispbeast
+3 Transferred Soul
+3 Digital Reconstruction
+3 City Sweep
+3 Servitor Drone
+3 Gleaming Kite
+3 Swift Response
+3 Convening Nomad
+3 Cryo Chamber
+3 Containment Breach
+3 Disposal Personnel
+3 Android Maintenance
+3 Don't Make a Sound
+3 Frigid Pass Officers
+3 Painful Excision
+3 Aerial Heistman
+3 Disfigure
+3 Remote Disintegration
+3 Recovery Mission
+3 Frightened Trainee
+3 Mining Rig
+3 Thrill of Possibility
+3 Tactical Breach
+3 Pyroclastic Crewmate
+3 Skittering Swarm
+3 Incinerating Blast
+3 Ambush Drone
+3 Brush Surveyor
+3 Consuming Polyp
+3 Spontaneous Outburst
+3 Brutal Acquisition
+3 Poison Whip-tail
+3 Whirring Surveyor
+3 Agile Furrowite
+3 Profound Discovery
+3 Methodical Infantry
+3 Anti-Aerial Crawler
+3 Hazard Enviro-Mech
+3 Shielding Dome
+3 Charging Octomare
+3 Levicycle Courier
+3 Sudden Evacuation
+3 Navigator Core
+3 Watcher in the Mist
+3 Digitized Duo
+3 Xeno Reliquary
+3 Salvage Hunter
+3 Tremor Spikeworm
+3 Stasis Field
+3 Quell Rebellion
+3 Scarab Behemoth
+3 Afflicted Researcher
+3 Void Specter
+3 Crashsite Prowler
+3 Duress
+3 Subjugation
+3 Brood Warden
+3 Wreckage Raiders
+3 Field Expeditioners
+3 Mission Coordinator
+3 Smoldering Defiance
+3 Abrade
+3 Corrupted Monitor
+3 Hull Mechanic
+3 Tri-Lateral Grenade
+3 Sampling Laser
+3 Nurturing Mantisworm
+3 Arachnae Behemoth
+3 Unbound Subject
+3 Broken Wings
+3 Field Navigator
+3 Enticing Discovery
 [LandSlot(1)]
-10 Radar Glade
-10 Plithium Processing Plant
-10 Buoyant Bay Port
-10 Bismuth Flats
-10 Cultivation Platforms
-10 Wetland Botany Lab
-10 Glacial Mill
-10 Isle of Prophecy
-10 Cavern of Piety
-10 Auroral Cliffs
-10 Precursor Colony
+3 Radar Glade
+3 Plithium Processing Plant
+3 Buoyant Bay Port
+3 Bismuth Flats
+3 Cultivation Platforms
+3 Wetland Botany Lab
+3 Glacial Mill
+3 Isle of Prophecy
+2 Cavern of Piety
+3 Auroral Cliffs
+3 Precursor Colony
+[SpecimenSlot(1)]
+8 Specimen
