@@ -1976,6 +1976,7 @@
 30 Unbound Subject
 30 Broken Wings
 30 Enticing Discovery
+30 Precursor Colony
 [LandSlot(1)]
 10 Radar Glade
 10 Plithium Processing Plant
@@ -1987,4 +1988,3 @@
 10 Isle of Prophecy
 10 Cavern of Piety
 10 Auroral Cliffs
-10 Precursor Colony
