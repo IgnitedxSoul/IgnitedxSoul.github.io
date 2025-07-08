@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "OPZ", "set_name": "Outpost Zero", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "OPZ",
+            "set_name": "Outpost Zero",
+            "formats": ""
+        }
+    ]
+}

@@ -2339,56 +2339,6 @@
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/127_Stellar Phoenix.png"
 			}
 		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/227_Mountain.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "228",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/228_Forest.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "225",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/225_Island.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "226",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/226_Swamp.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "224",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/224_Plains.png"
-			}
-		},
 	]
 
 [rare(1)]
