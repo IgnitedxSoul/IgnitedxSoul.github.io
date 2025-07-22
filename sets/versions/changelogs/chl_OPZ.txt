@@ -1,4 +1,603 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Doomed Expedition
+rules_text: At the beginning of your end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => At the beginning of your end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Portent Resonance
+
+Taloncrawler
+rules_text: Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a +1/+1 counter if it assimilated. => Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a +1/+1 counter if it assimilated.
+
+Renegade Academy
+
+Expedition Range
+
+Voyager Station
+
+Plithium Quarry
+
+Innovative Hangar
+
+Specimen
+
+Proto-Genesis Jellyfish
+
+Determined Strike Team
+
+Ambitious Lab Techs
+
+Targeted Strike
+rules_text: Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Acrid Chiropteran
+rules_text: Flying
+At the beginning of your end step, if you're desperate, each opponent loses 1 life and you gain 1 life. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => Flying
+At the beginning of your end step, if you're desperate, each opponent loses 1 life and you gain 1 life. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Steamcaller
+rules_text: Assimilate {3}{U} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. => Assimilate {3}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+
+Haunting Amalgamate
+rules_text: Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with your choice of a haste or +1/+1 counter. => Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with your choice of a haste or +1/+1 counter on it.
+
+Stalking Wispbeast
+
+Rothmas Scouts
+
+Construct
+
+Transferred Soul
+
+Drone
+
+Keen-Eyed Engineer
+
+Digital Reconstruction
+
+City Sweep
+
+Servitor Drone
+
+Expanse Runners
+
+Gleaming Kite
+
+Swift Response
+
+Convening Nomad
+
+Cryo Chamber
+
+Containment Breach
+
+Mistweaver
+rules_text: Assimilate {5}{U} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Assimilate {5}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Overwatch Sentinel
+
+Observation Crew
+
+Manifested Chimera
+
+Disposal Personnel
+
+Android Maintenance
+
+Don't Make a Sound
+
+Frigid Pass Officers
+
+Splinter Brute
+rules_text: Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Deathtouch
+When this creature enters, if it assimilated, each opponent sacrifices a creature. => Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Deathtouch
+When this creature enters, if it assimilated, each opponent sacrifices a creature.
+
+Painful Excision
+
+Nimble Crewmate
+rules_text: This creature enters tapped.
+{1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => This creature enters tapped.
+{1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Extraction Team
+
+Aerial Heistman
+
+Ignominious Executive
+
+Disfigure
+
+Remote Disintegration
+rules_text: This spell costs {2} less to cast if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]
+Destroy target creature or planeswalker. => This spell costs {2} less to cast if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+Destroy target creature or planeswalker.
+
+Recovery Mission
+
+Mercenary
+
+Frightened Trainee
+
+Mining Rig
+
+Thrill of Possibility
+
+Tactical Breach
+
+Frontline Dropship
+
+Construction Bot
+
+Pyroclastic Crewmate
+
+Ops Pointman
+
+Drone Operator
+
+Skittering Swarm
+rules_text: At the beginning of your end step, if you're desperate, this creature deals 1 damage to each opponent. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => At the beginning of your end step, if you're desperate, this creature deals 1 damage to each opponent. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Incinerating Blast
+
+Ambush Drone
+
+Houkkipi Scavengers
+
+Biogenic Upgrade
+
+Brush Surveyor
+
+Consuming Polyp
+rules_text: Assimilate {3}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, if it assimilated, destroy up to one target artifact or enchantment. => Assimilate {3}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, if it assimilated, destroy up to one target artifact or enchantment.
+
+Spontaneous Outburst
+
+Brutal Acquisition
+
+Rapid Incubation
+
+Beast
+
+Poison Whip-Tail
+
+Burgeoning Ascomycota
+
+Radar Glade
+
+Whirring Surveyor
+
+Agile Furrowite
+
+Profound Discovery
+rules_text: Target player draws three cards. If you control an Outpost or there is an Outpost card in your graveyard, strain up to one target nonland permanent. [i](To strain, tap it then put a stun counter on it.)[/i] => Target player draws three cards. If you control an Outpost, strain up to one target nonland permanent. [i](To strain, tap it then put a stun counter on it.)[/i]
+
+Methodical Infantry
+
+Anti-Aerial Crawler
+rules_text: Reach
+This creature enters with a +1/+1 counter if you control an Outpost or there is an Outpost card in your graveyard. => Reach
+This creature enters with a +1/+1 counter if you control an Outpost.
+
+Hazard Enviro-Mech
+rules_text: As long as you control an Outpost or there is an Outpost card in your graveyard, this creature gets +2/+0 and has trample. => As long as you control an Outpost, this creature gets +2/+0 and has trample.
+
+Plithium Processing Plant
+
+Buoyant Bay Port
+
+Bismuth Flats
+
+Shielding Dome
+rules_text: Defender, reach
+When this creature enters, if you control an Outpost or there is an Outpost card in your graveyard, draw a card. => Defender, reach
+When this creature enters, if you control an Outpost, draw a card.
+
+Charging Octomare
+
+Levicycle Courier
+
+Sudden Evacuation
+
+Navigator Core
+
+Watcher in the Void
+
+Digitized Duo
+
+Cultivation Platforms
+
+Wetland Botany Lab
+
+Glacial Mill
+
+Isle of Prophecy
+
+Cavern of Piety
+
+Auroral Cliffs
+
+Precursor Colony
+rules_text: {T}: Add {C}.
+Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery. => {T}: Add {C}.
+[i]Catastrophe[/i] — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Xeno Reliquary
+
+Salvage Hunter
+
+Tremor Spikeworm
+
+Stasis Field
+
+Quell Rebellion
+
+Scarab Behemoth
+
+Afflicted Researcher
+
+Void Specter
+
+Outskirts Prowler
+rules_text: Deathtouch
+When this creature enters, if you control an Outpost or there is an Outpost card in your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Deathtouch
+When this creature enters, if you control an Outpost, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Duress
+
+Subjugation
+
+Parasite
+rules_text: This can't block. => This creature can't block.
+
+Brood Warden
+
+Wreckage Raiders
+
+Field Expeditioners
+rules_text: Whenever you cast your second spell each turn, create a specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Whenever you cast your second spell each turn, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+
+Mission Coordinator
+
+Smoldering Defiance
+
+Abrade
+
+Corrupted Monitor
+
+Hull Mechanic
+
+Tri-Lateral Grenade
+rules_text: Flash
+{4}, {T}, Sacrifice this artifact: It deals 4 damage to target creature. => Flash
+{4}, {T}, Sacrifice this artifact: Tri-Lateral Grenade deals 4 damage to target creature.
+
+Sampling Laser
+
+Nurturing Mantisworm
+
+Arachnae Behemoth
+rules_text: Reach, trample
+This creature enters with two +1/+1 counters on it if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => Reach, trample
+This creature enters with two +1/+1 counters on it if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Unbound Subject
+
+Broken Wings
+
+Organic Printer
+
+Ecological Survey
+
+EMP Blast
+
+Anomalous Animation
+
+Sanguine Stalker
+
+Corpse Subsumer
+rules_text: Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, draw a card if a creature died this turn. => Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, draw a card if a creature died this turn.
+
+Sinister Sabotage
+
+Commune With Evil
+
+Scorched Desolation
+
+Despondent Colonists
+
+Artificial Warfront
+
+Cuphro Invasion
+rules_text: Whenever you attack, if you control a creature with power 4 or greater, draw a card. Then if you control a creature with power 7 or greater, creatures you control can't be blocked by more than one creature until end of turn. => Whenever you attack, if you control a creature with power 4 or greater, draw a card. Then if you control a creature with power 7 or greater, each creature you control you control can't be blocked by more than one creature until end of turn.
+
+Orbital Drop Troopers
+
+Consider the Cosmos
+
+Lunar Archfiend
+
+Agent of Retribution
+
+Enticing Discovery
+
+Unearthly Encounter
+rules_text: Search your library for a basic land card. If you're desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => Search your library for a basic land card. If you're desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Mutagen Spreader
+
+Orchestrator of Wills
+
+Bravo-2, Ruthless Commando
+
+Emberwing Emissary
+
+Path Treading Tank
+
+Assault Landing
+
+Station Monitor
+
+Into the Pit
+
+Lithura, Maiden of Fates
+rules_text: Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell. => Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.
+
+Orbital Lift
+
+Hullbreaker Horror
+
+Reactor Ignition
+
+Augmented Starfighter
+rules_text: Flying
+Whenever this vehicle enters or attacks, it deals damage to target creature or planeswalker an opponent controls equal to the number of artifact creatures you control.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+Whenever this Vehicle enters or attacks, it deals damage to target creature or planeswalker an opponent controls equal to the number of artifact creatures you control.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Heart of Astorethe
+
+Exhurga, Origin of Mania
+rules_text: Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Vigilance, trample, haste
+At the beginning of your end step, if you sacrificed a permanent this turn, create a 1/1 black Parasite creature token with “This creature can't block.” => Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Vigilance, trample, haste
+At the beginning of your end step, if you sacrificed a permanent this turn, create a 1/1 black Parasite creature token with “This creature can't block.”
+
+Celestial Generator
+
+Projection Armor
+
+Outpost Zero
+
+Deflector Operative
+
+Neon Enforcement
+
+Clattering Chitin
+
+Consuming Tide
+
+Bravo-2 Contractee
+
+Suppression Fire
+
+Exfiltration Coordinator
+
+Call to Action
+
+Luminescent Aberration
+
+Genome Sequencing
+
+Morphose Plague
+
+Bioweapon Engineers
+rules_text: Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with “This creature can't block.”
+{B}, {T}, Sacrifice X tokens you control: Destroy target creature with power X or less. X cannot be 0. Activate only as a sorcery. => Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with “This creature can't block.”
+{B}, {T}, Sacrifice X tokens: Target creature gets -X/-X until end of turn.
+
+Circuit Liberator
+
+Galactic Rending
+
+Ghoulish Stillthroat
+rules_text: Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with a +1/+1 counter on it for each creature that died this turn. => Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with a +1/+1 counter on it for each creature that died this turn.
+
+Field of Decay
+rules_text: At the beginning of your end step, if you're desperate, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]
+{1}{B}{G}, Exile this enchantment: Return target permanent card from your graveyard to your hand. => At the beginning of your end step, if you're desperate, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+{1}{B}{G}, Exile this enchantment: Return target permanent card from your graveyard to your hand.
+
+Pathcutter Drone
+
+Razefire Raid
+
+Twilight Observer
+
+Vegetative Biopsy
+
+Lunar Bog
+
+Basaltic Reef
+
+Luminous Fen
+
+Saltspire Expanse
+
+Cascading Grotto
+
+Null-Tide Seabed
+
+Tendril Quagmire
+
+Crimson Moor
+
+Brewing Crag
+
+Stillgrove Narrows
+
+Ruins Analysis
+
+Agricultural Analysis
+
+Militech Analysis
+
+Contain for Study
+
+Colony Map
+
+Devastating Blast
+
+Insatiable Petrifier
+rules_text: Assimilate {4}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i] => Assimilate {4}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i]
+
+Origin Stone Shard
+
+Fallback Plan
+
+Tundra Lurker
+
+Omen of Contagion
+
+Crash Landing
+
+Telemagnetic Reclaimation
+
+Kinetic Shieldbearer
+type: Creature => Creature — Human Soldier
+
+Hapless Innovators
+
+Intensive Study
+
+Brain Eater
+
+Twincannon Warbot
+
+Undead Bioroid
+rules_text: Menace
+At the beginning of your end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a creature you control died this turn. You're fully desperate if you've done all three.)[/i] => Menace
+At the beginning of each end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a creature you control died this turn. You're fully desperate if you've done all three.)[/i]
+
+Abandon Ship
+
+Creeping Scavenger
+rules_text: Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a number of +1/+1 counters equal to the number of creatures that died this turn. => Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a number of +1/+1 counters equal to the number of creatures that died this turn.
+
+Desperate Wayfarer
+rules_text: At the beginning of each end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => At the beginning of each end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Hardened Commando
+
+Devastating Dilema
+rules_text: Target opponent chooses one:
+• Discard a card.
+• Lose 3 life.
+• Sacrifice a creature.
+If they are desperate, they must choose all instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => Target opponent chooses one:
+• They discard a card.
+• They lose 3 life.
+• They sacrifice a creature.
+If they are desperate, they must choose all instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Xathyz, Eternal Matriarch
+rules_text: Ward {2}
+You may assimilate Xathyz from exile.
+Assimilate {6}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When Xathyz enters, you may move any number of counters from Symbiotes you control onto her. => Ward {2}
+You may assimilate Xathyz from exile.
+Assimilate {6}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When Xathyz enters, you may move any number of counters from Symbiotes you control onto her.
+
+Blackmarket Orchestrator
+rules_text: {3}{B}, Sacrifice a creature: Draw a card.
+At the beginning of your end step, if you're desperate, create a 1/1 red Mercenary creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i] => {3}{B}, Sacrifice a creature: Draw a card.
+At the beginning of your end step, if you're desperate, create a 1/1 red Mercenary creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Mobile Containment Unit
+
+Crisis Assayer
+
+Terminal Infection
+
+Relentless Miscreant
+
+Climactic Rebuke
+rules_text: If any player is desperate, this spell costs {U} less. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]
+Counter target spell. => If any player is desperate, this spell costs {U} less. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+Counter target spell.
+
+Eldritch Summoning
+
+Stun Baton
+
+Portable Incinerator
+
+Intel Breach
+rules_text: You may cast this spell for {R} rather than its mana cost if an opponent is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards. => You may cast this spell for {R} rather than its mana cost if an opponent is desperate. [i](They're desperate if they've discarded a card, lost 3 or more life, or a creature died under their control this turn.)[/i]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Piercing Duplicant
+rules_text: Assimilate {2}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+You may have other artifacts and creatures you control enter as copies of this creature.
+Symbiotes you control get +1/+1. => Assimilate {2}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+You may have other artifacts and creatures you control enter as copies of this creature.
+Symbiotes you control get +1/+1.
+
+Scallia, Primal Morphling
+rules_text: Whenever NAME attacks, it deals damage equal to its power to any target.
+Tap three untapped mercenaries you control: Return this card from your graveyard to your hand. => Whenever Scallia attacks, it deals damage equal to its power to any target.
+Tap three untapped mercenaries you control: Return this card from your graveyard to your hand.
+
+Invader Construct
+
+Predatious Bristleback
+
+Parsec Tactician
+
+Garruk, Augmented Tracker
+rules_text:  => Whenever a creature you control enters, put a +1/+1 counter on it if its power is less than Garruk's loyalty.
+[+1]: Look at the top two cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+[0]: Add {G}{G}. Spend this mana only to cast creature spells.
+[-6]: Creatures you control get +3/+3 and gain vigilance, trample, and indestructible until end of turn.
+
+Stellar Phoenix
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

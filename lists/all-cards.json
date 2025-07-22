@@ -8,7 +8,7 @@
             "number": 145,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "At the beginning of your end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "At the beginning of your end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i]FT[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -16,6 +16,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/GvmRKW\n\nIDEA\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -35,6 +36,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Antoine Collignon",
+            "alias": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/gJLGW8\n\nJumpstart\nproto_u",
             "image_type": "png"
         },
@@ -46,7 +48,7 @@
             "number": 98,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nMenace\nThis creature enters with a +1/+1 counter if it assimilated.",
+            "rules_text": "Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nMenace\nThis creature enters with a +1/+1 counter if it assimilated.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -54,6 +56,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Kevin Glint",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Aql8re\n\nIDEA\n\nJumpstart\nproto_b",
             "image_type": "png"
         },
@@ -73,16 +76,18 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Matt Allsopp",
+            "alias": "",
             "card_name2": "What Lurks Beneath",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
             "cost2": "",
-            "rules_text2": "When this land transforms, and at the beginning of your upkeep, create two 1/1 black Parasite creature tokens with \u201cThis creature can't block.\u201d\n{T}: Add {W}.",
+            "rules_text2": "When this land transforms, and at the beginning of your upkeep, you gain 1 life and create a 1/1 black Parasite creature token with \u201cThis creature can't block.\u201d\n{T}: Add {W}.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Solarliu",
+            "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/zxkvGw\n\nhttps://www.artstation.com/artwork/y4ZPP9",
             "image_type": "png"
         },
@@ -102,6 +107,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hermann Kromer",
+            "alias": "",
             "card_name2": "Voracious Wildgrowth",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -112,6 +118,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Hermann Kromer",
+            "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/Bka5vz\n\nhttps://www.artstation.com/artwork/0laoGE",
             "image_type": "png"
         },
@@ -131,6 +138,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Wojtek Fus",
+            "alias": "",
             "card_name2": "Cosmic Encounter",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -141,6 +149,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Col Price",
+            "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/mqgeAY\n\nhttps://www.artstation.com/artwork/XBlOPn",
             "image_type": "png"
         },
@@ -160,6 +169,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jean Baptiste Cambier",
+            "alias": "",
             "card_name2": "Consuming Spores",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -170,6 +180,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Hermann Kromer",
+            "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr",
             "image_type": "png"
         },
@@ -189,6 +200,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alex Pi",
+            "alias": "",
             "card_name2": "Reactor Meltdown",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -199,6 +211,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Spencer Parke",
+            "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/4XogkW\n\nhttps://www.artstation.com/artwork/14EBq3",
             "image_type": "png"
         },
@@ -218,6 +231,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Shadoe Crews",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DAVVny",
             "image_type": "png"
         },
@@ -237,6 +251,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Leon Tukker",
+            "alias": "",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/oWBBk",
             "image_type": "png"
         },
@@ -256,6 +271,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Lee Fitzgerald",
+            "alias": "",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/X1rzxL\n\nJumpstart\nproto_w",
             "image_type": "png"
         },
@@ -275,6 +291,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XybdY",
             "image_type": "png"
         },
@@ -286,7 +303,7 @@
             "number": 129,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -294,6 +311,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bastien Grivet",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -305,7 +323,7 @@
             "number": 67,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flying\nAt the beginning of your end step, if you're desperate, each opponent loses 1 life and you gain 1 life. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "Flying\nAt the beginning of your end step, if you're desperate, each opponent loses 1 life and you gain 1 life. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -313,6 +331,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Charmaine O'Reilly",
+            "alias": "",
             "notes": "idea\n\nhttps://www.artstation.com/artwork/rlOBE6\n\nJumpstart\nproto_b",
             "image_type": "png"
         },
@@ -324,14 +343,15 @@
             "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Assimilate {3}{U} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nFlying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Assimilate {3}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nFlying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
+            "flavor_text": "[i]FT[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "OPZ",
             "loyalty": "",
             "artist": "Connor Sheehan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aRx4d9",
             "image_type": "png"
         },
@@ -343,7 +363,7 @@
             "number": 149,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nThis creature enters with your choice of a haste or +1/+1 counter.",
+            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nThis creature enters with your choice of a haste or +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -351,6 +371,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/68Oyl0",
             "image_type": "png"
         },
@@ -370,6 +391,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/xYZLPO\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -389,6 +411,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "DOFRESH .",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5WKmXw",
             "image_type": "png"
         },
@@ -408,6 +431,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "idea\n\nhttps://www.artstation.com/artwork/JErAZ",
             "image_type": "png"
         },
@@ -427,6 +451,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ying Ding",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5X6gJJ",
             "image_type": "png"
         },
@@ -446,6 +471,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "David Knapp",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1EOKX",
             "image_type": "png"
         },
@@ -465,6 +491,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Brenoch Adams",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/mzgPn9\n\nJumpstart\nproto_w",
             "image_type": "png"
         },
@@ -484,6 +511,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Julia GorokhovaPro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/r9nkVJ",
             "image_type": "png"
         },
@@ -503,6 +531,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LyJbR",
             "image_type": "png"
         },
@@ -522,6 +551,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Haekel Lav.",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1lqE2",
             "image_type": "png"
         },
@@ -541,6 +571,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alex Ichim",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w",
             "image_type": "png"
         },
@@ -560,6 +591,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Chris Falkenberg",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/elKo2D",
             "image_type": "png"
         },
@@ -579,6 +611,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "DOFRESH .",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Xgxl3D\n\nJumpstart\nproto_w",
             "image_type": "png"
         },
@@ -598,7 +631,8 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Klaus Pillon",
-            "notes": "https://www.artstation.com/artwork/q9E9kN\n\nJumpstart\nproto_w",
+            "alias": "",
+            "notes": "https://www.artstation.com/artwork/q9E9kN",
             "image_type": "png"
         },
         {
@@ -617,6 +651,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vinh Pham",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Je13Ev",
             "image_type": "png"
         },
@@ -636,6 +671,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "John Griffiths",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ELZ9o2\n\nJumpstart\nproto_u",
             "image_type": "png"
         },
@@ -647,7 +683,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Assimilate {5}{U} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nAt the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "Assimilate {5}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nAt the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -655,6 +691,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Dominik Mayer",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Ye81yV",
             "image_type": "png"
         },
@@ -674,6 +711,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Luciano Neves",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/N8krz",
             "image_type": "png"
         },
@@ -693,6 +731,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ivan Laliashvili",
+            "alias": "",
             "notes": "proto_u\nJumpstart\n\nhttps://www.artstation.com/artwork/3k2bo",
             "image_type": "png"
         },
@@ -712,6 +751,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/vDQ8PD",
             "image_type": "png"
         },
@@ -731,6 +771,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Luciano Neves",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/w6EaZ5",
             "image_type": "png"
         },
@@ -750,6 +791,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "DOFRESH .",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ob1BBO",
             "image_type": "png"
         },
@@ -769,6 +811,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Nick Hiatt",
+            "alias": "",
             "notes": "proto_u\nJumpstart\n\nhttps://www.artstation.com/artwork/v1Rqm3",
             "image_type": "png"
         },
@@ -788,6 +831,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Dmitry Vishnevsky",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/GabrVN",
             "image_type": "png"
         },
@@ -799,7 +843,7 @@
             "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nDeathtouch\nWhen this creature enters, if it assimilated, each opponent sacrifices a creature.",
+            "rules_text": "Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nDeathtouch\nWhen this creature enters, if it assimilated, each opponent sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -807,6 +851,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/klay4l\n\nIDEA\n\nJumpstart\nproto_b",
             "image_type": "png"
         },
@@ -826,6 +871,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hakob Minasian",
+            "alias": "",
             "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/Gm2v1",
             "image_type": "png"
         },
@@ -837,7 +883,7 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "This creature enters tapped.\n{1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "This creature enters tapped.\n{1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -845,6 +891,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Evlvw0",
             "image_type": "png"
         },
@@ -864,6 +911,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Adrian Mihai Marchidan",
+            "alias": "",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/8lloPG",
             "image_type": "png"
         },
@@ -883,6 +931,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "James Lewis-Vines",
+            "alias": "",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/1nxzoo",
             "image_type": "png"
         },
@@ -902,6 +951,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Brandon Liao",
+            "alias": "",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/OyB88",
             "image_type": "png"
         },
@@ -921,6 +971,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/wb5m9\n\nWATCHLIST",
             "image_type": "png"
         },
@@ -932,7 +983,7 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "This spell costs {2} less to cast if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]\nDestroy target creature or planeswalker.",
+            "rules_text": "This spell costs {2} less to cast if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]\nDestroy target creature or planeswalker.",
             "flavor_text": "[i]FT[/i]",
             "pt": "",
             "special_text": "",
@@ -940,6 +991,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Dmitry Vishnevsky",
+            "alias": "",
             "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/rAQy2E",
             "image_type": "png"
         },
@@ -959,6 +1011,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Quentin Stipp",
+            "alias": "",
             "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/WKO4lG",
             "image_type": "png"
         },
@@ -978,6 +1031,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Stephanie Folse",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YevkxP",
             "image_type": "png"
         },
@@ -997,6 +1051,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Argentics",
+            "alias": "",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/DAvOln",
             "image_type": "png"
         },
@@ -1016,6 +1071,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/QnrVvr",
             "image_type": "png"
         },
@@ -1035,6 +1091,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "DOFRESH .",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/39OVrg",
             "image_type": "png"
         },
@@ -1054,6 +1111,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "G-Hamm",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B1rnA4\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -1073,6 +1131,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Cody Williams",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/AakaW\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -1092,6 +1151,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Maksym Harahulin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L2ee1w",
             "image_type": "png"
         },
@@ -1111,6 +1171,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1NEYk2",
             "image_type": "png"
         },
@@ -1130,6 +1191,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "KEAL",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/P6Emor\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -1149,6 +1211,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Marek Okon",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -1160,7 +1223,7 @@
             "number": 125,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "At the beginning of your end step, if you're desperate, this creature deals 1 damage to each opponent. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "At the beginning of your end step, if you're desperate, this creature deals 1 damage to each opponent. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1168,6 +1231,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oO2olO\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -1187,6 +1251,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DvyKwE\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png"
         },
@@ -1206,6 +1271,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bohao Wang",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8BRR8w",
             "image_type": "png"
         },
@@ -1225,6 +1291,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Garrett Post",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/2qlLoe\n\nIDEA\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -1244,6 +1311,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jude Smith",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ryx12\n\nIDEA\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -1263,6 +1331,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/G8abbQ",
             "image_type": "png"
         },
@@ -1274,7 +1343,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Assimilate {3}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, if it assimilated, destroy up to one target artifact or enchantment.",
+            "rules_text": "Assimilate {3}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, if it assimilated, destroy up to one target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1282,6 +1351,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/VdL4ZP",
             "image_type": "png"
         },
@@ -1301,6 +1371,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Andrei Artefact",
+            "alias": "",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/aY2dqk\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -1320,6 +1391,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "COLIN SHULVER Pro",
+            "alias": "",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/OG4wGK\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -1339,6 +1411,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/rlOBw6\n\nJumpstart\nproto_g",
             "image_type": "png"
         },
@@ -1358,6 +1431,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PeAKlr",
             "image_type": "png"
         },
@@ -1377,6 +1451,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alan Albiach",
+            "alias": "",
             "notes": "Jumpstart\nproto_g\n\nhttps://www.artstation.com/artwork/XgrvYl",
             "image_type": "png"
         },
@@ -1396,6 +1471,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3d9z5Y",
             "image_type": "png"
         },
@@ -1415,6 +1491,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Fran Hao Shuang",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/k4BaVl\n\n!landslot",
             "image_type": "png"
         },
@@ -1434,6 +1511,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "David Knapp",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/zAP6k4",
             "image_type": "png"
         },
@@ -1453,6 +1531,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "jordi van hees",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/yDYgPx",
             "image_type": "png"
         },
@@ -1464,7 +1543,7 @@
             "number": 57,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Target player draws three cards. If you control an Outpost or there is an Outpost card in your graveyard, strain up to one target nonland permanent. [i](To strain, tap it then put a stun counter on it.)[/i]",
+            "rules_text": "Target player draws three cards. If you control an Outpost, strain up to one target nonland permanent. [i](To strain, tap it then put a stun counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1472,6 +1551,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Atomhawk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nEqdqO",
             "image_type": "png"
         },
@@ -1491,6 +1571,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Wadim Kashin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YaEoxq",
             "image_type": "png"
         },
@@ -1502,7 +1583,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Reach\nThis creature enters with a +1/+1 counter if you control an Outpost or there is an Outpost card in your graveyard.",
+            "rules_text": "Reach\nThis creature enters with a +1/+1 counter if you control an Outpost.",
             "flavor_text": "[i]FT[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1510,6 +1591,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/VgWOvb",
             "image_type": "png"
         },
@@ -1521,7 +1603,7 @@
             "number": 150,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "As long as you control an Outpost or there is an Outpost card in your graveyard, this creature gets +2/+0 and has trample.",
+            "rules_text": "As long as you control an Outpost, this creature gets +2/+0 and has trample.",
             "flavor_text": "[i]FT\nFT[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1529,6 +1611,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ivan Laliashvili",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/w8yVxV",
             "image_type": "png"
         },
@@ -1548,6 +1631,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "G liulian",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0l6ynG\n\n!landslot",
             "image_type": "png"
         },
@@ -1567,6 +1651,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XnX1mR\n\n!landslot",
             "image_type": "png"
         },
@@ -1586,6 +1671,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/dK8LqJ\n\n!landslot",
             "image_type": "png"
         },
@@ -1597,7 +1683,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Defender, reach\nWhen this creature enters, if you control an Outpost or there is an Outpost card in your graveyard, draw a card.",
+            "rules_text": "Defender, reach\nWhen this creature enters, if you control an Outpost, draw a card.",
             "flavor_text": "[i]FT[/i]",
             "pt": "0/4",
             "special_text": "",
@@ -1605,6 +1691,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sasa Kunic",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/bl4r3G",
             "image_type": "png"
         },
@@ -1624,6 +1711,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5Bn21A",
             "image_type": "png"
         },
@@ -1643,6 +1731,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/eRaVYb",
             "image_type": "png"
         },
@@ -1662,6 +1751,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/6aD29V",
             "image_type": "png"
         },
@@ -1681,6 +1771,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Lav Games",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lGr0AO",
             "image_type": "png"
         },
@@ -1700,6 +1791,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Connor Sheehan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/kDDyEn?collection_id=2324707",
             "image_type": "png"
         },
@@ -1719,6 +1811,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Reuben Lane",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/981qwo",
             "image_type": "png"
         },
@@ -1738,6 +1831,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "David Knapp",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1n4Q88\n\n!landslot",
             "image_type": "png"
         },
@@ -1757,6 +1851,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "David Knapp",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4qLX2\n\n!landslot",
             "image_type": "png"
         },
@@ -1776,6 +1871,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Adrien Usa-Lucas",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/kNe3Oz\n\n!landslot",
             "image_type": "png"
         },
@@ -1795,6 +1891,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9Nk04W\n\n!landslot",
             "image_type": "png"
         },
@@ -1814,6 +1911,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Quentin Stipp",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/18bO3K\n\n!landslot",
             "image_type": "png"
         },
@@ -1833,6 +1931,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/491XQq\n\n!landslot",
             "image_type": "png"
         },
@@ -1844,7 +1943,7 @@
             "number": 207,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\nCatastrophe \u2013 {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.",
+            "rules_text": "{T}: Add {C}.\n[i]Catastrophe[/i] \u2013 {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1852,6 +1951,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Artificial Dimension",
+            "alias": "",
             "card_name2": "Precursor Ruins",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -1862,6 +1962,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Vertigo Studios",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/Al0DRe\n\nhttps://www.artstation.com/artwork/QXbE1Z",
             "image_type": "png"
         },
@@ -1881,6 +1982,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hao Wang",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Nqbn3d",
             "image_type": "png"
         },
@@ -1900,6 +2002,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0XL33y",
             "image_type": "png"
         },
@@ -1919,6 +2022,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hao",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ZwPLN",
             "image_type": "png"
         },
@@ -1938,6 +2042,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Nicolas Teetz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Jll4ZD",
             "image_type": "png"
         },
@@ -1957,6 +2062,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nYLAEO",
             "image_type": "png"
         },
@@ -1976,6 +2082,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Garrett Post",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/vEn2A",
             "image_type": "png"
         },
@@ -1995,6 +2102,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alejandro Mirabal",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/N5qkWJ",
             "image_type": "png"
         },
@@ -2014,6 +2122,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Elvira Shatunova",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L3mA5v",
             "image_type": "png"
         },
@@ -2025,7 +2134,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Deathtouch\nWhen this creature enters, if you control an Outpost or there is an Outpost card in your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "Deathtouch\nWhen this creature enters, if you control an Outpost, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i]FT[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2033,6 +2142,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sanj Thavaraja",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/dO6Z5W",
             "image_type": "png"
         },
@@ -2052,6 +2162,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oO1bNk",
             "image_type": "png"
         },
@@ -2071,6 +2182,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/AZlZaV",
             "image_type": "png"
         },
@@ -2082,7 +2194,7 @@
             "number": 1,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "This can't block.",
+            "rules_text": "This creature can't block.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2090,6 +2202,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Thomas Elliott",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nEW031",
             "image_type": "png"
         },
@@ -2109,6 +2222,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/oO2olO",
             "image_type": "png"
         },
@@ -2128,6 +2242,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alex Ichim",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8lyVB6",
             "image_type": "png"
         },
@@ -2139,7 +2254,7 @@
             "number": 111,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever you cast your second spell each turn, create a specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Whenever you cast your second spell each turn, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2147,6 +2262,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alvaro Martin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nYKzb1",
             "image_type": "png"
         },
@@ -2166,6 +2282,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Kim Trouwborst",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/04wB25",
             "image_type": "png"
         },
@@ -2185,6 +2302,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0XaDE5",
             "image_type": "png"
         },
@@ -2204,6 +2322,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Adrian Biloz\u00f3r",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/NqW8d",
             "image_type": "png"
         },
@@ -2223,6 +2342,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Finnian MacManus",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qAnxwR",
             "image_type": "png"
         },
@@ -2242,6 +2362,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "John Wallin Liberto",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1aV42",
             "image_type": "png"
         },
@@ -2253,7 +2374,7 @@
             "number": 194,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Flash\n{4}, {T}, Sacrifice this artifact: It deals 4 damage to target creature.",
+            "rules_text": "Flash\n{4}, {T}, Sacrifice this artifact: Tri-Lateral Grenade deals 4 damage to target creature.",
             "flavor_text": "[i]FT\nFT[/i]",
             "pt": "",
             "special_text": "",
@@ -2261,6 +2382,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Victor Rathsmann",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Jl4qVv",
             "image_type": "png"
         },
@@ -2280,6 +2402,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Andrei Artefact",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aY2dqk",
             "image_type": "png"
         },
@@ -2299,6 +2422,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1xwYkX",
             "image_type": "png"
         },
@@ -2310,7 +2434,7 @@
             "number": 134,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Reach, trample\nThis creature enters with two +1/+1 counters on it if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "Reach, trample\nThis creature enters with two +1/+1 counters on it if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i]FT[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2318,6 +2442,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "David Auden Nash",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nvJR1",
             "image_type": "png"
         },
@@ -2337,6 +2462,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Christian Fell",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/V4wrg",
             "image_type": "png"
         },
@@ -2356,6 +2482,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Joshua Clarke",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3q0eEv",
             "image_type": "png"
         },
@@ -2375,6 +2502,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "OS",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ARqmV",
             "image_type": "png"
         },
@@ -2394,6 +2522,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Steven Bongers",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/V2a4Yb",
             "image_type": "png"
         },
@@ -2413,6 +2542,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hethe Srodawa",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/z6J9q",
             "image_type": "png"
         },
@@ -2432,6 +2562,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Nivanh Chanthara",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8beOLG",
             "image_type": "png"
         },
@@ -2451,6 +2582,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Yaa2WV",
             "image_type": "png"
         },
@@ -2462,7 +2594,7 @@
             "number": 142,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, draw a card if a creature died this turn.",
+            "rules_text": "Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, draw a card if a creature died this turn.",
             "flavor_text": "[i]FT[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2470,6 +2602,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Wmd3PJ?collection_id=2324707",
             "image_type": "png"
         },
@@ -2489,6 +2622,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Dmitriy Kuzin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/P6gKaZ",
             "image_type": "png"
         },
@@ -2508,6 +2642,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alvaro Martin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YeAYxd",
             "image_type": "png"
         },
@@ -2527,6 +2662,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bohao Wang",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1NlnP8",
             "image_type": "png"
         },
@@ -2546,6 +2682,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "DOFRESH .",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/BXW0bm66-66-",
             "image_type": "png"
         },
@@ -2565,6 +2702,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "G-Hamm",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9mLZgo",
             "image_type": "png"
         },
@@ -2576,7 +2714,7 @@
             "number": 143,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever you attack, if you control a creature with power 4 or greater, draw a card. Then if you control a creature with power 7 or greater, creatures you control can't be blocked by more than one creature until end of turn.",
+            "rules_text": "Whenever you attack, if you control a creature with power 4 or greater, draw a card. Then if you control a creature with power 7 or greater, each creature you control you control can't be blocked by more than one creature until end of turn.",
             "flavor_text": "[i]FT[/i]",
             "pt": "",
             "special_text": "",
@@ -2584,6 +2722,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Damian Krzywonos",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/w8EDXO",
             "image_type": "png"
         },
@@ -2603,6 +2742,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Satyaki Sarkar",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/8BPdxm",
             "image_type": "png"
         },
@@ -2622,6 +2762,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alena Aenami",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9eKmBN",
             "image_type": "png"
         },
@@ -2641,6 +2782,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/6bOoan",
             "image_type": "png"
         },
@@ -2660,6 +2802,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Roman Groph",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5WYgQ1",
             "image_type": "png"
         },
@@ -2679,6 +2822,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Navid pourkhak",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/OyO2Xg",
             "image_type": "png"
         },
@@ -2690,7 +2834,7 @@
             "number": 162,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Search your library for a basic land card. If you're desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "Search your library for a basic land card. If you're desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2698,6 +2842,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Christer Degerman",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rlvrd5",
             "image_type": "png"
         },
@@ -2717,6 +2862,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Rashed AlAkroka \u2726",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Kaz9Y9",
             "image_type": "png"
         },
@@ -2736,6 +2882,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qeKG8e",
             "image_type": "png"
         },
@@ -2755,6 +2902,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jeff Bartzis",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ARWDz",
             "image_type": "png"
         },
@@ -2774,6 +2922,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sam White",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/1n2Gwe",
             "image_type": "png"
         },
@@ -2793,6 +2942,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Daniel McGarry",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3qnPRB",
             "image_type": "png"
         },
@@ -2812,6 +2962,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Col Price",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/obV2mz",
             "image_type": "png"
         },
@@ -2831,6 +2982,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Leif Heanzo",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/r9JaNJ",
             "image_type": "png"
         },
@@ -2850,6 +3002,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Aleksandr Kravchuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/BkvrR8",
             "image_type": "png"
         },
@@ -2861,7 +3014,7 @@
             "number": 87,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+            "rules_text": "Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2869,6 +3022,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/49JKQL",
             "image_type": "png"
         },
@@ -2888,6 +3042,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jordan William Hughes",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/PX3848",
             "image_type": "png"
         },
@@ -2907,6 +3062,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hamish Kentwell",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/KOElVG",
             "image_type": "png"
         },
@@ -2926,6 +3082,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/0nLA38",
             "image_type": "png"
         },
@@ -2937,7 +3094,7 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Flying\nWhenever this vehicle enters or attacks, it deals damage to target creature or planeswalker an opponent controls equal to the number of artifact creatures you control.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "Flying\nWhenever this Vehicle enters or attacks, it deals damage to target creature or planeswalker an opponent controls equal to the number of artifact creatures you control.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2945,6 +3102,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Mathieu Boyer",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L4gAav",
             "image_type": "png"
         },
@@ -2964,6 +3122,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B1248A",
             "image_type": "png"
         },
@@ -2975,7 +3134,7 @@
             "number": 147,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nVigilance, trample, haste\nAt the beginning of your end step, if you sacrificed a permanent this turn, create a 1/1 black Parasite creature token with \u201cThis creature can't block.\u201d",
+            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nVigilance, trample, haste\nAt the beginning of your end step, if you sacrificed a permanent this turn, create a 1/1 black Parasite creature token with \u201cThis creature can't block.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -2983,6 +3142,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Walter Brocca",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XaxK0",
             "image_type": "png"
         },
@@ -3002,6 +3162,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Anh Le",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/18L6v3",
             "image_type": "png"
         },
@@ -3021,6 +3182,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bart Tchorzewski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ykwJK5",
             "image_type": "png"
         },
@@ -3040,6 +3202,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Amir Zand",
+            "alias": "",
             "card_name2": "Ground Zero",
             "color2": "",
             "type2": "Legendary Enchantment Land \u2013 Outpost",
@@ -3050,6 +3213,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Alexander Dudar",
+            "alias2": "",
             "notes": "https://www.artstation.com/artwork/wdEdV\n\nhttps://www.artstation.com/artwork/ZG5DNN",
             "image_type": "png"
         },
@@ -3069,6 +3233,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Tommy Suhartono",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/VgLdqn",
             "image_type": "png"
         },
@@ -3088,6 +3253,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Blake Rottinger",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/JeY3B0",
             "image_type": "png"
         },
@@ -3107,6 +3273,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "NUARE",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/k1grd",
             "image_type": "png"
         },
@@ -3126,6 +3293,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Tully Summers",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/B1vb24",
             "image_type": "png"
         },
@@ -3145,6 +3313,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bram Sels",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aGgJ",
             "image_type": "png"
         },
@@ -3164,6 +3333,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ismail Inceoglu",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Ga9dQW",
             "image_type": "png"
         },
@@ -3183,6 +3353,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "MOOD Visuals",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/EvWyJe",
             "image_type": "png"
         },
@@ -3202,6 +3373,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rWKd2",
             "image_type": "png"
         },
@@ -3221,6 +3393,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jordi Versteege",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/14qV52",
             "image_type": "png"
         },
@@ -3240,6 +3413,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "OS",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ARqmV",
             "image_type": "png"
         },
@@ -3259,6 +3433,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/9NB2ma",
             "image_type": "png"
         },
@@ -3270,7 +3445,7 @@
             "number": 164,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with \u201cThis creature can't block.\u201d\n{B}, {T}, Sacrifice X tokens you control: Destroy target creature with power X or less. X cannot be 0. Activate only as a sorcery.",
+            "rules_text": "Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with \u201cThis creature can't block.\u201d\n{B}, {T}, Sacrifice X tokens: Target creature gets -X/-X until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -3278,6 +3453,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5884ag",
             "image_type": "png"
         },
@@ -3297,6 +3473,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Michael Black",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/AqwPlV",
             "image_type": "png"
         },
@@ -3316,6 +3493,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "\u666e\u901a\u7684\u4eba",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ZlDEQ1",
             "image_type": "png"
         },
@@ -3327,7 +3505,7 @@
             "number": 175,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nThis creature enters with a +1/+1 counter on it for each creature that died this turn.",
+            "rules_text": "Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nThis creature enters with a +1/+1 counter on it for each creature that died this turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3335,6 +3513,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bobby Rebholz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/mAn1EY",
             "image_type": "png"
         },
@@ -3346,7 +3525,7 @@
             "number": 172,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "At the beginning of your end step, if you're desperate, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]\n{1}{B}{G}, Exile this enchantment: Return target permanent card from your graveyard to your hand.",
+            "rules_text": "At the beginning of your end step, if you're desperate, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]\n{1}{B}{G}, Exile this enchantment: Return target permanent card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3354,6 +3533,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Adrian Virlan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/EVWJzK",
             "image_type": "png"
         },
@@ -3373,6 +3553,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "David Knapp",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/zBGDq",
             "image_type": "png"
         },
@@ -3392,6 +3573,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Wojtek Fus",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/o8RWm",
             "image_type": "png"
         },
@@ -3411,6 +3593,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "W\u0112T\u0100 WORKSHOP DESIGN STUDIO",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3o5XWo",
             "image_type": "png"
         },
@@ -3430,6 +3613,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Robin Bouwmeester",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LR1JVK",
             "image_type": "png"
         },
@@ -3449,6 +3633,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bram Sels",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/RnDE",
             "image_type": "png"
         },
@@ -3468,6 +3653,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Zana Bamarni",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5W0P6P",
             "image_type": "png"
         },
@@ -3487,6 +3673,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qQQeN",
             "image_type": "png"
         },
@@ -3506,6 +3693,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Lola Yiting Zhang",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/K3JYkx",
             "image_type": "png"
         },
@@ -3525,6 +3713,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Ea46b8",
             "image_type": "png"
         },
@@ -3544,6 +3733,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Robin Bouwmeester",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YKoZyP",
             "image_type": "png"
         },
@@ -3563,6 +3753,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Tully Summers",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/nYxzb6",
             "image_type": "png"
         },
@@ -3582,6 +3773,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Pascal Blanch\u00e9",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4vKLl",
             "image_type": "png"
         },
@@ -3601,6 +3793,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/WXXVQ3",
             "image_type": "png"
         },
@@ -3620,6 +3813,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/L4R3Gv",
             "image_type": "png"
         },
@@ -3639,6 +3833,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alexander Winkler",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/g0G1mL",
             "image_type": "png"
         },
@@ -3658,6 +3853,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Marcel Wissel",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3EZyND",
             "image_type": "png"
         },
@@ -3677,6 +3873,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Bram Sels",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ABAay",
             "image_type": "png"
         },
@@ -3696,6 +3893,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ren\u00e9 Aigner",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/RxRDO",
             "image_type": "png"
         },
@@ -3715,6 +3913,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Igor Savin",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/YZgxV",
             "image_type": "png"
         },
@@ -3734,6 +3933,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Wiktor \u00d6hman",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/14agEK",
             "image_type": "png"
         },
@@ -3745,7 +3945,7 @@
             "number": 85,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Assimilate {4}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i]",
+            "rules_text": "Assimilate {4}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3753,6 +3953,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Niyaz Karimov",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/ZlXYPm",
             "image_type": "png"
         },
@@ -3772,6 +3973,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aRgx4L",
             "image_type": "png"
         },
@@ -3791,6 +3993,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Anthony Catillaz",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LRBayA",
             "image_type": "png"
         },
@@ -3810,6 +4013,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Maxwell Heartfield",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aRmxAL",
             "image_type": "png"
         },
@@ -3829,6 +4033,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/X4Wv3",
             "image_type": "png"
         },
@@ -3848,6 +4053,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "No\u00e9 Leyva",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/m0Zvy",
             "image_type": "png"
         },
@@ -3867,6 +4073,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/6abd8r",
             "image_type": "png"
         },
@@ -3874,7 +4081,7 @@
             "card_name": "Kinetic Shieldbearer",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature",
+            "type": "Creature \u2013 Human Soldier",
             "number": 48,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -3886,6 +4093,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "VOLTA",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lVJJ4Y?collection_id=2324707",
             "image_type": "png"
         },
@@ -3905,6 +4113,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "MOOD Visuals",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lVaYao",
             "image_type": "png"
         },
@@ -3924,6 +4133,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Andrey Serov / Auqrew",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rRlVJe",
             "image_type": "png"
         },
@@ -3943,6 +4153,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Antoine Collignon",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Eoxl4",
             "image_type": "png"
         },
@@ -3962,6 +4173,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Vizlab Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/d0A62Q",
             "image_type": "png"
         },
@@ -3973,7 +4185,7 @@
             "number": 99,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Menace\nAt the beginning of your end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a creature you control died this turn. You're fully desperate if you've done all three.)[/i]",
+            "rules_text": "Menace\nAt the beginning of each end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a creature you control died this turn. You're fully desperate if you've done all three.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3981,6 +4193,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ninja Jo",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4bwDq1",
             "image_type": "png"
         },
@@ -4000,6 +4213,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jakub Dzikowski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/3qnRoJ",
             "image_type": "png"
         },
@@ -4011,7 +4225,7 @@
             "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nMenace\nThis creature enters with a number of +1/+1 counters equal to the number of creatures that died this turn.",
+            "rules_text": "Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nMenace\nThis creature enters with a number of +1/+1 counters equal to the number of creatures that died this turn.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -4019,6 +4233,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/bl5Nrr",
             "image_type": "png"
         },
@@ -4030,7 +4245,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "At the beginning of each end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "At the beginning of each end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4038,6 +4253,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Maciej Wojtala",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/5vbqw",
             "image_type": "png"
         },
@@ -4057,6 +4273,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "mist XG",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Rym8NW",
             "image_type": "png"
         },
@@ -4068,7 +4285,7 @@
             "number": 76,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "Target opponent chooses one:\n\u2022 Discard a card.\n\u2022 Lose 3 life.\n\u2022 Sacrifice a creature.\nIf they are desperate, they must choose all instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "Target opponent chooses one:\n\u2022 They discard a card.\n\u2022 They lose 3 life.\n\u2022 They sacrifice a creature.\nIf they are desperate, they must choose all instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4076,6 +4293,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Christina P. Myrvold",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/rJvwl2",
             "image_type": "png"
         },
@@ -4087,7 +4305,7 @@
             "number": 186,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
-            "rules_text": "Ward {2}\nYou may assimilate Xathyz from exile.\nAssimilate {6}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen Xathyz enters, you may move any number of counters from Symbiotes you control onto her.",
+            "rules_text": "Ward {2}\nYou may assimilate Xathyz from exile.\nAssimilate {6}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen Xathyz enters, you may move any number of counters from Symbiotes you control onto her.",
             "flavor_text": "[i][/i]",
             "pt": "5/7",
             "special_text": "",
@@ -4095,6 +4313,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Christina P. Myrvold",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/48bWK1",
             "image_type": "png"
         },
@@ -4106,7 +4325,7 @@
             "number": 71,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "{3}{B}, Sacrifice a creature: Draw a card.\nAt the beginning of your end step, if you're desperate, create a 1/1 red Mercenary creature token with \u201c{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\u201d [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]",
+            "rules_text": "{3}{B}, Sacrifice a creature: Draw a card.\nAt the beginning of your end step, if you're desperate, create a 1/1 red Mercenary creature token with \u201c{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\u201d [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4114,6 +4333,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/r9gONE",
             "image_type": "png"
         },
@@ -4133,6 +4353,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Terraform Studios",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Krvm6o",
             "image_type": "png"
         },
@@ -4152,6 +4373,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Lukasz Jaskolski",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/W2qmny",
             "image_type": "png"
         },
@@ -4171,6 +4393,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Jama Jurabaev",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/lG5lqV",
             "image_type": "png"
         },
@@ -4190,6 +4413,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/m8vo4y",
             "image_type": "png"
         },
@@ -4201,7 +4425,7 @@
             "number": 35,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "If any player is desperate, this spell costs {U} less. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]\nCounter target spell.",
+            "rules_text": "If any player is desperate, this spell costs {U} less. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]\nCounter target spell.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4209,6 +4433,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Christina P. Myrvold",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/4mrZk",
             "image_type": "png"
         },
@@ -4228,6 +4453,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/aYmgr9",
             "image_type": "png"
         },
@@ -4247,6 +4473,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Emilio Di Pietro, MSc.",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/x3KZ9r",
             "image_type": "png"
         },
@@ -4266,6 +4493,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/qAomLR",
             "image_type": "png"
         },
@@ -4277,7 +4505,7 @@
             "number": 114,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "You may cast this spell for {R} rather than its mana cost if an opponent is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a creature died under your control this turn.)[/i]\nExile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+            "rules_text": "You may cast this spell for {R} rather than its mana cost if an opponent is desperate. [i](They're desperate if they've discarded a card, lost 3 or more life, or a creature died under their control this turn.)[/i]\nExile the top two cards of your library. Until the end of your next turn, you may play those cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4285,6 +4513,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Michael Michera",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/WykAD",
             "image_type": "png"
         },
@@ -4296,7 +4525,7 @@
             "number": 180,
             "color_identity": "UBG",
             "cost": "{B}{G}{U}",
-            "rules_text": "Assimilate {2}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a nonartifact creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nYou may have other artifacts and creatures you control enter as copies of this creature.\nSymbiotes you control get +1/+1.",
+            "rules_text": "Assimilate {2}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nYou may have other artifacts and creatures you control enter as copies of this creature.\nSymbiotes you control get +1/+1.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4304,6 +4533,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/LR5oZ5",
             "image_type": "png"
         },
@@ -4315,7 +4545,7 @@
             "number": 182,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
-            "rules_text": "Whenever NAME attacks, it deals damage equal to its power to any target.\nTap three untapped mercenaries you control: Return this card from your graveyard to your hand.",
+            "rules_text": "Whenever Scallia attacks, it deals damage equal to its power to any target.\nTap three untapped mercenaries you control: Return this card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4323,6 +4553,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Ian Barker",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/vk4VY",
             "image_type": "png"
         },
@@ -4342,6 +4573,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/DgOwA",
             "image_type": "png"
         },
@@ -4361,6 +4593,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Hao",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/JlkwaZ",
             "image_type": "png"
         },
@@ -4380,6 +4613,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "8durian",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/WXz9d3",
             "image_type": "png"
         },
@@ -4391,7 +4625,7 @@
             "number": 148,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "",
+            "rules_text": "Whenever a creature you control enters, put a +1/+1 counter on it if its power is less than Garruk's loyalty.\n[+1]: Look at the top two cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n[0]: Add {G}{G}. Spend this mana only to cast creature spells.\n[-6]: Creatures you control get +3/+3 and gain vigilance, trample, and indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever a creature you control enters, put a +1/+1 counter on it if its power is less than Garruk's loyalty.\n[+1]: Look at the top two cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n[0]: Add {G}{G}. Spend this mana only to cast creature spells.\n[-6]: Creatures you control get +3/+3 and gain vigilance, trample, and indestructible until end of turn.",
@@ -4399,6 +4633,7 @@
             "set": "OPZ",
             "loyalty": "3",
             "artist": "Tek Tan",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/A3RXe",
             "image_type": "png"
         },
@@ -4418,6 +4653,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Renee LeCompte",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/Ze648m",
             "image_type": "png"
         },
@@ -4437,6 +4673,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/baKRgn",
             "image_type": "png"
         },
@@ -4456,6 +4693,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Alan Albiach",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/XgrvYl",
             "image_type": "png"
         },
@@ -4475,6 +4713,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/r9AmrG",
             "image_type": "png"
         },
@@ -4494,6 +4733,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/o8VKB",
             "image_type": "png"
         },
@@ -4513,6 +4753,7 @@
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
+            "alias": "",
             "notes": "https://www.artstation.com/artwork/6N1JK6",
             "image_type": "png"
         }
