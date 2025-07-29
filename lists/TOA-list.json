@@ -1,0 +1,893 @@
+﻿[
+    {
+        "card_name": "CW01 Eager Fledgling",
+        "number": 1,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "RU Xanthicar, the Mad Prohpet",
+        "number": 27,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "MB Bitterblossom",
+        "number": 43,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "MR Nyhela Awoken",
+        "number": 59,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "RG Bramble Fiend",
+        "number": 78,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW02 Against the Odds",
+        "number": 2,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "RU Xanthicar's Augury",
+        "number": 28,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UB Bog Crystals",
+        "number": 44,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "RR Harness... something...",
+        "number": 60,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG01 Corpse Adorner",
+        "number": 65,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW03 Nephiiram Martyr",
+        "number": 3,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UU Nebulous Confirmation",
+        "number": 29,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UB Deepwoods Stalker",
+        "number": 45,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "RR Raze the Fields",
+        "number": 61,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG02 Giant Growth",
+        "number": 66,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW04 Royal Escort",
+        "number": 4,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU01 Il'Umari Trapper",
+        "number": 14,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB01 Delayed Atonement",
+        "number": 30,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UR Assault Elemental",
+        "number": 62,
+        "shape": "modal double faced",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG03 Noxious Spore",
+        "number": 67,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW05 Agile Lifeweaver",
+        "number": 5,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU02 Witching Well",
+        "number": 15,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB02 Il'Umari Practitioner",
+        "number": 31,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UR Rapacious Dragon",
+        "number": 63,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG04 Lingering Croc",
+        "number": 68,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW06 Orrery Guard",
+        "number": 6,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU03 Il'Umari Dreamer",
+        "number": 16,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB03 Ebon Anointer",
+        "number": 32,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UR Volcanic Forge",
+        "number": 64,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG05 Bramble Armor",
+        "number": 69,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW07 Savage Strike",
+        "number": 7,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU04 Essence Tamer",
+        "number": 17,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB04 Covert Operative",
+        "number": 33,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR01 Omenseer Imbuer",
+        "number": 46,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG06 Heart of the Forest",
+        "number": 70,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW08 Sanctum Blade",
+        "number": 8,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU05 Crystaline Carapace",
+        "number": 18,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB05 K'Llei Ritual",
+        "number": 34,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR02 Galvanic Blast",
+        "number": 47,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG07 Quick-Draw Archer",
+        "number": 71,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW09 Ceremony Leader",
+        "number": 9,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU06 Spell Stutter",
+        "number": 19,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB06 Battleworthy Sacrifice",
+        "number": 35,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR03 Battle Rage",
+        "number": 48,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG08 Decaying Swine",
+        "number": 72,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW10 Smite the Mighty",
+        "number": 10,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU07 Frontline Sprite",
+        "number": 20,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB07 Mourning Blade",
+        "number": 36,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR04 Vault Robber",
+        "number": 49,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG09 Nature's Reach",
+        "number": 73,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW11 Guiding Herald",
+        "number": 11,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU08 Eliuum Construct",
+        "number": 21,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB08 Il'Umari Herald",
+        "number": 37,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR05 Hilgarde Plunderer",
+        "number": 50,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG10 Ancestral Dryad",
+        "number": 74,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW12 Cloudsworn Blessing",
+        "number": 12,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU09 Majestic Metamorphosis",
+        "number": 22,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB09 Undercity Scrounger",
+        "number": 38,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR06 Unstable Chargestone",
+        "number": 51,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG11 Hunter's Pursuit",
+        "number": 75,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CW13 Militia Caller",
+        "number": 13,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CU10 Crystaline Titan",
+        "number": 23,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB10 Il'Umari Web-Weaver",
+        "number": 39,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR07 Sailkite Bandit",
+        "number": 52,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG12 Bramble Envoy",
+        "number": 76,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU11 Wayward Swarm",
+        "number": 24,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB11 Grim Bounty",
+        "number": 40,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR08 Bonewhip Brawler",
+        "number": 53,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CG13 Bloodthirsty Bear",
+        "number": 77,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU12 Plunging Gator",
+        "number": 25,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB12 Striking Owl",
+        "number": 41,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR09 Omen Steelform",
+        "number": 54,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU13 Afflicted Vision",
+        "number": 26,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CB13 Graveyard Prowler",
+        "number": 42,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CR10 Molten Brute",
+        "number": 55,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR11 Big Score",
+        "number": 56,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR12 Capricious Royal",
+        "number": 57,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR13 Pursue the Weak",
+        "number": 58,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "UM01 Cloudsworn Warden",
+        "number": 79,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM02 Stubborn Guardian",
+        "number": 80,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Vileform Hydra",
+        "number": 89,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM04 Burning Rebel",
+        "number": 82,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM05 Daybreaker Diviner",
+        "number": 83,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM01 River Guardian",
+        "number": 90,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM02 Il'Umari Deceiver",
+        "number": 91,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM03 Blackmarket Dealer",
+        "number": 81,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM04 Pit Fight",
+        "number": 93,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM05 Centaur Safeguard",
+        "number": 94,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CM03 Runic Daemon",
+        "number": 92,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UM06 Procession Figure",
+        "number": 84,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM07 Mad Marauder",
+        "number": 85,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM08 Desecration Boar",
+        "number": 86,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM09 Adept Blacksmith",
+        "number": 87,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "UM10 Paralytic Serpent",
+        "number": 88,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM06 Confession",
+        "number": 95,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM07 Mischevious Faerie",
+        "number": 96,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM08 Rooftop Miscreant",
+        "number": 97,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM09 Fresh-Faced Recruit",
+        "number": 98,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CM10 Square Up",
+        "number": 99,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "UC01 Soulshard",
+        "number": 104,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CC01 Skozall Monitor",
+        "number": 100,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CC02 Cloudsworn Enforcer",
+        "number": 101,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CC03 Annealed Brute",
+        "number": 102,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CC04 Imbued Arrow",
+        "number": 103,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 Prophetic Peak",
+        "number": 105,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "CL02 Aspiring Bloom",
+        "number": 106,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Island",
+        "number": 108,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 110,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Plains",
+        "number": 107,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 109,
+        "shape": "normal",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Designer Credits",
+        "number": 1,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Trials of Aenaris Archetypes",
+        "number": 2,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Incite",
+        "number": 7,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 8,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Weapon",
+        "number": 9,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Faerie Rogue",
+        "number": 3,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 4,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Saproling",
+        "number": 5,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "Devotee",
+        "number": 6,
+        "shape": "token",
+        "set": "TOA"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

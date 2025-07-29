@@ -1,0 +1,1576 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment Weapon",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9_Weapon.png"
+			}
+		},
+		{
+			"name": "Trials of Aenaris Archetypes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2_Trials of Aenaris Archetypes.png"
+			}
+		},
+		{
+			"name": "UM04 Burning Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/82_UM04 Burning Rebel.png"
+			}
+		},
+		{
+			"name": "CW04 Royal Escort",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4_CW04 Royal Escort.png"
+			}
+		},
+		{
+			"name": "CR05 Hilgarde Plunderer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/50_CR05 Hilgarde Plunderer.png"
+			}
+		},
+		{
+			"name": "Incite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Tracker",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7_Incite.png"
+			}
+		},
+		{
+			"name": "UM07 Mad Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/85_UM07 Mad Marauder.png"
+			}
+		},
+		{
+			"name": "UM09 Adept Blacksmith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/87_UM09 Adept Blacksmith.png"
+			}
+		},
+		{
+			"name": "UM03 Blackmarket Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Devil",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/81_UM03 Blackmarket Dealer.png"
+			}
+		},
+		{
+			"name": "Saproling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Saproling",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5_Saproling.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8_Treasure.png"
+			}
+		},
+		{
+			"name": "RU Xanthicar's Augury",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/28_RU Xanthicar's Augury.png"
+			}
+		},
+		{
+			"name": "RR Raze the Fields",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/61_RR Raze the Fields.png"
+			}
+		},
+		{
+			"name": "MR Nyhela Awoken",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/59_MR Nyhela Awoken.png"
+			}
+		},
+		{
+			"name": "RU Xanthicar, the Mad Prohpet",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/27_RU Xanthicar, the Mad Prohpet.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4_Elemental.png"
+			}
+		},
+		{
+			"name": "Faerie Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Rogue",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3_Faerie Rogue.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/108_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/110_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/107_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/109_Swamp.png"
+			}
+		},
+		{
+			"name": "CW05 Agile Lifeweaver",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5_CW05 Agile Lifeweaver.png"
+			}
+		},
+		{
+			"name": "CG13 Bloodthirsty Bear",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/77_CG13 Bloodthirsty Bear.png"
+			}
+		},
+		{
+			"name": "CR01 Omenseer Imbuer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/46_CR01 Omenseer Imbuer.png"
+			}
+		},
+		{
+			"name": "CC04 Imbued Arrow",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/103_CC04 Imbued Arrow.png"
+			}
+		},
+		{
+			"name": "MB Bitterblossom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Typal Enchantment — Faerie",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/43_MB Bitterblossom.png"
+			}
+		},
+		{
+			"name": "CB02 Il'Umari Practitioner",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/31_CB02 Il'Umari Practitioner.png"
+			}
+		},
+		{
+			"name": "UM05 Daybreaker Diviner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/83_UM05 Daybreaker Diviner.png"
+			}
+		},
+		{
+			"name": "CM01 River Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Drake",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/90_CM01 River Guardian.png"
+			}
+		},
+		{
+			"name": "UM02 Stubborn Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Faerie Knight",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/80_UM02 Stubborn Guardian.png"
+			}
+		},
+		{
+			"name": "CU10 Crystaline Titan",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/23_CU10 Crystaline Titan.png"
+			}
+		},
+		{
+			"name": "CB10 Il'Umari Web-Weaver",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Faerie",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/39_CB10 Il'Umari Web-Weaver.png"
+			}
+		},
+		{
+			"name": "UC01 Soulshard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/104_UC01 Soulshard.png"
+			}
+		},
+		{
+			"name": "UR Volcanic Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Treasure",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/64_UR Volcanic Forge.png"
+			}
+		},
+		{
+			"name": "UB Deepwoods Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/45_UB Deepwoods Stalker.png"
+			}
+		},
+		{
+			"name": "RR Harness... something...",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/60_RR Harness... something....png"
+			}
+		},
+		{
+			"name": "UB Bog Crystals",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Treasure",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/44_UB Bog Crystals.png"
+			}
+		},
+		{
+			"name": "Designer Credits",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1_Designer Credits.png"
+			}
+		},
+		{
+			"name": "Devotee",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Devotee",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6_Devotee.png"
+			}
+		},
+		{
+			"name": "UM06 Procession Figure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/84_UM06 Procession Figure.png"
+			}
+		},
+		{
+			"name": "CB12 Striking Owl",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/41_CB12 Striking Owl.png"
+			}
+		},
+		{
+			"name": "CU12 Plunging Gator",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Crocodile",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/25_CU12 Plunging Gator.png"
+			}
+		},
+		{
+			"name": "UM10 Paralytic Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/88_UM10 Paralytic Serpent.png"
+			}
+		},
+		{
+			"name": "UM08 Desecration Boar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/86_UM08 Desecration Boar.png"
+			}
+		},
+		{
+			"name": "UR Assault Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/62_UR Assault Elemental_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/62_UR Assault Elemental_front.png"
+			}
+		},
+		{
+			"name": "CU07 Frontline Sprite",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/20_CU07 Frontline Sprite.png"
+			}
+		},
+		{
+			"name": "UM01 Cloudsworn Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Angel Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/79_UM01 Cloudsworn Warden.png"
+			}
+		},
+		{
+			"name": "CW13 Militia Caller",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/13_CW13 Militia Caller.png"
+			}
+		},
+		{
+			"name": "CW02 Against the Odds",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2_CW02 Against the Odds.png"
+			}
+		},
+		{
+			"name": "CW08 Sanctum Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8_CW08 Sanctum Blade.png"
+			}
+		},
+		{
+			"name": "CW03 Nephiiram Martyr",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3_CW03 Nephiiram Martyr.png"
+			}
+		},
+		{
+			"name": "CW09 Ceremony Leader",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9_CW09 Ceremony Leader.png"
+			}
+		},
+		{
+			"name": "CW12 Cloudsworn Blessing",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/12_CW12 Cloudsworn Blessing.png"
+			}
+		},
+		{
+			"name": "CW01 Eager Fledgling",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1_CW01 Eager Fledgling.png"
+			}
+		},
+		{
+			"name": "CW07 Savage Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7_CW07 Savage Strike.png"
+			}
+		},
+		{
+			"name": "CW06 Orrery Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6_CW06 Orrery Guard.png"
+			}
+		},
+		{
+			"name": "CW11 Guiding Herald",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/11_CW11 Guiding Herald.png"
+			}
+		},
+		{
+			"name": "CW10 Smite the Mighty",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/10_CW10 Smite the Mighty.png"
+			}
+		},
+		{
+			"name": "CU03 Il'Umari Dreamer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/16_CU03 Il'Umari Dreamer.png"
+			}
+		},
+		{
+			"name": "CU05 Crystaline Carapace",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/18_CU05 Crystaline Carapace.png"
+			}
+		},
+		{
+			"name": "UU Nebulous Confirmation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/29_UU Nebulous Confirmation.png"
+			}
+		},
+		{
+			"name": "CU13 Afflicted Vision",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/26_CU13 Afflicted Vision.png"
+			}
+		},
+		{
+			"name": "CU01 Il'Umari Trapper",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/14_CU01 Il'Umari Trapper.png"
+			}
+		},
+		{
+			"name": "CU04 Essence Tamer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/17_CU04 Essence Tamer.png"
+			}
+		},
+		{
+			"name": "CU06 Spell Stutter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/19_CU06 Spell Stutter.png"
+			}
+		},
+		{
+			"name": "CU08 Eliuum Construct",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/21_CU08 Eliuum Construct.png"
+			}
+		},
+		{
+			"name": "CU09 Majestic Metamorphosis",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/22_CU09 Majestic Metamorphosis.png"
+			}
+		},
+		{
+			"name": "CU11 Wayward Swarm",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/24_CU11 Wayward Swarm.png"
+			}
+		},
+		{
+			"name": "CU02 Witching Well",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/15_CU02 Witching Well.png"
+			}
+		},
+		{
+			"name": "CB01 Delayed Atonement",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/30_CB01 Delayed Atonement.png"
+			}
+		},
+		{
+			"name": "CB09 Undercity Scrounger",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Human Rogue",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/38_CB09 Undercity Scrounger.png"
+			}
+		},
+		{
+			"name": "CB11 Grim Bounty",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/40_CB11 Grim Bounty.png"
+			}
+		},
+		{
+			"name": "CB04 Covert Operative",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/33_CB04 Covert Operative.png"
+			}
+		},
+		{
+			"name": "CB03 Ebon Anointer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Cleric",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/32_CB03 Ebon Anointer.png"
+			}
+		},
+		{
+			"name": "CB07 Mourning Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/36_CB07 Mourning Blade.png"
+			}
+		},
+		{
+			"name": "CB05 K'Llei Ritual",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/34_CB05 K'Llei Ritual.png"
+			}
+		},
+		{
+			"name": "CB06 Battleworthy Sacrifice",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/35_CB06 Battleworthy Sacrifice.png"
+			}
+		},
+		{
+			"name": "CB13 Graveyard Prowler",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/42_CB13 Graveyard Prowler.png"
+			}
+		},
+		{
+			"name": "CB08 Il'Umari Herald",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/37_CB08 Il'Umari Herald.png"
+			}
+		},
+		{
+			"name": "CR02 Galvanic Blast",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/47_CR02 Galvanic Blast.png"
+			}
+		},
+		{
+			"name": "CR03 Battle Rage",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/48_CR03 Battle Rage.png"
+			}
+		},
+		{
+			"name": "CR04 Vault Robber",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/49_CR04 Vault Robber.png"
+			}
+		},
+		{
+			"name": "CR06 Unstable Chargestone",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/51_CR06 Unstable Chargestone.png"
+			}
+		},
+		{
+			"name": "CR07 Sailkite Bandit",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/52_CR07 Sailkite Bandit.png"
+			}
+		},
+		{
+			"name": "CR08 Bonewhip Brawler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/53_CR08 Bonewhip Brawler.png"
+			}
+		},
+		{
+			"name": "CR09 Omen Steelform",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/54_CR09 Omen Steelform.png"
+			}
+		},
+		{
+			"name": "CR10 Molten Brute",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/55_CR10 Molten Brute.png"
+			}
+		},
+		{
+			"name": "UR Rapacious Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/63_UR Rapacious Dragon.png"
+			}
+		},
+		{
+			"name": "CR12 Capricious Royal",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/57_CR12 Capricious Royal.png"
+			}
+		},
+		{
+			"name": "CR11 Big Score",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/56_CR11 Big Score.png"
+			}
+		},
+		{
+			"name": "CR13 Pursue the Weak",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/58_CR13 Pursue the Weak.png"
+			}
+		},
+		{
+			"name": "CG07 Quick-Draw Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/71_CG07 Quick-Draw Archer.png"
+			}
+		},
+		{
+			"name": "CG08 Decaying Swine",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/72_CG08 Decaying Swine.png"
+			}
+		},
+		{
+			"name": "CG03 Noxious Spore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/67_CG03 Noxious Spore.png"
+			}
+		},
+		{
+			"name": "Aenaris",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
+			}
+		},
+		{
+			"name": "Aenaris",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
+			}
+		},
+		{
+			"name": "Aenaris",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
+			}
+		},
+		{
+			"name": "Aenaris",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
+			}
+		},
+		{
+			"name": "CG01 Corpse Adorner",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/65_CG01 Corpse Adorner.png"
+			}
+		},
+		{
+			"name": "CG04 Lingering Croc",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/68_CG04 Lingering Croc.png"
+			}
+		},
+		{
+			"name": "CG05 Bramble Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/69_CG05 Bramble Armor.png"
+			}
+		},
+		{
+			"name": "CG02 Giant Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/66_CG02 Giant Growth.png"
+			}
+		},
+		{
+			"name": "CG09 Nature's Reach",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/73_CG09 Nature's Reach.png"
+			}
+		},
+		{
+			"name": "CG06 Heart of the Forest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/70_CG06 Heart of the Forest.png"
+			}
+		},
+		{
+			"name": "CG10 Ancestral Dryad",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/74_CG10 Ancestral Dryad.png"
+			}
+		},
+		{
+			"name": "CG11 Hunter's Pursuit",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/75_CG11 Hunter's Pursuit.png"
+			}
+		},
+		{
+			"name": "RG Bramble Fiend",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/78_RG Bramble Fiend.png"
+			}
+		},
+		{
+			"name": "CM02 Il'Umari Deceiver",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/91_CM02 Il'Umari Deceiver.png"
+			}
+		},
+		{
+			"name": "CM03 Runic Daemon",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Devil",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/92_CM03 Runic Daemon.png"
+			}
+		},
+		{
+			"name": "CM04 Pit Fight",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/93_CM04 Pit Fight.png"
+			}
+		},
+		{
+			"name": "CM05 Centaur Safeguard",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/94_CM05 Centaur Safeguard.png"
+			}
+		},
+		{
+			"name": "CM06 Confession",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/95_CM06 Confession.png"
+			}
+		},
+		{
+			"name": "CM07 Mischevious Faerie",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/96_CM07 Mischevious Faerie.png"
+			}
+		},
+		{
+			"name": "CG12 Bramble Envoy",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/76_CG12 Bramble Envoy.png"
+			}
+		},
+		{
+			"name": "CM08 Rooftop Miscreant",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/97_CM08 Rooftop Miscreant.png"
+			}
+		},
+		{
+			"name": "CM09 Fresh-Faced Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/98_CM09 Fresh-Faced Recruit.png"
+			}
+		},
+		{
+			"name": "CM10 Square Up",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/99_CM10 Square Up.png"
+			}
+		},
+		{
+			"name": "CL01 Prophetic Peak",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/105_CL01 Prophetic Peak.png"
+			}
+		},
+		{
+			"name": "CL02 Aspiring Bloom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/106_CL02 Aspiring Bloom.png"
+			}
+		},
+		{
+			"name": "CC03 Annealed Brute",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/102_CC03 Annealed Brute.png"
+			}
+		},
+		{
+			"name": "CC02 Cloudsworn Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/101_CC02 Cloudsworn Enforcer.png"
+			}
+		},
+		{
+			"name": "CC01 Skozall Monitor",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dog Horror",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/100_CC01 Skozall Monitor.png"
+			}
+		},
+		{
+			"name": "Vileform Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{R}",
+			"type": "Creature — Hydra Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/89_Vileform Hydra.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RU Xanthicar's Augury
+	2 RR Raze the Fields
+	1 MR Nyhela Awoken
+	2 RU Xanthicar, the Mad Prohpet
+	1 MB Bitterblossom
+	2 RR Harness... something...
+	2 RG Bramble Fiend
+	2 Vileform Hydra
+[uncommon(3)]
+	4 UM04 Burning Rebel
+	4 UM07 Mad Marauder
+	4 UM09 Adept Blacksmith
+	4 UM03 Blackmarket Dealer
+	4 UM05 Daybreaker Diviner
+	4 UM02 Stubborn Guardian
+	4 UC01 Soulshard
+	4 UR Volcanic Forge
+	4 UB Deepwoods Stalker
+	4 UB Bog Crystals
+	4 UM06 Procession Figure
+	4 UM10 Paralytic Serpent
+	4 UM08 Desecration Boar
+	4 UR Assault Elemental
+	4 UM01 Cloudsworn Warden
+	4 UU Nebulous Confirmation
+	4 UR Rapacious Dragon
+[common(7)]
+	8 CW04 Royal Escort
+	8 CR05 Hilgarde Plunderer
+	8 CW05 Agile Lifeweaver
+	8 CG13 Bloodthirsty Bear
+	8 CR01 Omenseer Imbuer
+	8 CC04 Imbued Arrow
+	8 CB02 Il'Umari Practitioner
+	8 CM01 River Guardian
+	8 CU10 Crystaline Titan
+	8 CB10 Il'Umari Web-Weaver
+	8 CB12 Striking Owl
+	8 CU12 Plunging Gator
+	8 CU07 Frontline Sprite
+	8 CW13 Militia Caller
+	8 CW02 Against the Odds
+	8 CW08 Sanctum Blade
+	8 CW03 Nephiiram Martyr
+	8 CW09 Ceremony Leader
+	8 CW12 Cloudsworn Blessing
+	8 CW01 Eager Fledgling
+	8 CW07 Savage Strike
+	8 CW06 Orrery Guard
+	8 CW11 Guiding Herald
+	8 CW10 Smite the Mighty
+	8 CU03 Il'Umari Dreamer
+	8 CU05 Crystaline Carapace
+	8 CU13 Afflicted Vision
+	8 CU01 Il'Umari Trapper
+	8 CU04 Essence Tamer
+	8 CU06 Spell Stutter
+	8 CU08 Eliuum Construct
+	8 CU09 Majestic Metamorphosis
+	8 CU11 Wayward Swarm
+	8 CU02 Witching Well
+	8 CB01 Delayed Atonement
+	8 CB09 Undercity Scrounger
+	8 CB11 Grim Bounty
+	8 CB04 Covert Operative
+	8 CB03 Ebon Anointer
+	8 CB07 Mourning Blade
+	8 CB05 K'Llei Ritual
+	8 CB06 Battleworthy Sacrifice
+	8 CB13 Graveyard Prowler
+	8 CB08 Il'Umari Herald
+	8 CR02 Galvanic Blast
+	8 CR03 Battle Rage
+	8 CR04 Vault Robber
+	8 CR06 Unstable Chargestone
+	8 CR07 Sailkite Bandit
+	8 CR08 Bonewhip Brawler
+	8 CR09 Omen Steelform
+	8 CR10 Molten Brute
+	8 CR12 Capricious Royal
+	8 CR11 Big Score
+	8 CR13 Pursue the Weak
+	8 CG07 Quick-Draw Archer
+	8 CG08 Decaying Swine
+	8 CG03 Noxious Spore
+	8 Aenaris
+	8 Aenaris
+	8 Aenaris
+	8 Aenaris
+	8 CG01 Corpse Adorner
+	8 CG04 Lingering Croc
+	8 CG05 Bramble Armor
+	8 CG02 Giant Growth
+	8 CG09 Nature's Reach
+	8 CG06 Heart of the Forest
+	8 CG10 Ancestral Dryad
+	8 CG11 Hunter's Pursuit
+	8 CM02 Il'Umari Deceiver
+	8 CM03 Runic Daemon
+	8 CM04 Pit Fight
+	8 CM05 Centaur Safeguard
+	8 CM06 Confession
+	8 CM07 Mischevious Faerie
+	8 CG12 Bramble Envoy
+	8 CM08 Rooftop Miscreant
+	8 CM09 Fresh-Faced Recruit
+	8 CM10 Square Up
+	8 CL01 Prophetic Peak
+	8 CL02 Aspiring Bloom
+	8 CC03 Annealed Brute
+	8 CC02 Cloudsworn Enforcer
+	8 CC01 Skozall Monitor
+[foil(1)]
+	6 UM04 Burning Rebel
+	12 CW04 Royal Escort
+	12 CR05 Hilgarde Plunderer
+	6 UM07 Mad Marauder
+	6 UM09 Adept Blacksmith
+	6 UM03 Blackmarket Dealer
+	2 RU Xanthicar's Augury
+	2 RR Raze the Fields
+	1 MR Nyhela Awoken
+	2 RU Xanthicar, the Mad Prohpet
+	12 CW05 Agile Lifeweaver
+	12 CG13 Bloodthirsty Bear
+	12 CR01 Omenseer Imbuer
+	12 CC04 Imbued Arrow
+	1 MB Bitterblossom
+	12 CB02 Il'Umari Practitioner
+	6 UM05 Daybreaker Diviner
+	12 CM01 River Guardian
+	6 UM02 Stubborn Guardian
+	12 CU10 Crystaline Titan
+	12 CB10 Il'Umari Web-Weaver
+	6 UC01 Soulshard
+	6 UR Volcanic Forge
+	6 UB Deepwoods Stalker
+	2 RR Harness... something...
+	6 UB Bog Crystals
+	6 UM06 Procession Figure
+	12 CB12 Striking Owl
+	12 CU12 Plunging Gator
+	6 UM10 Paralytic Serpent
+	6 UM08 Desecration Boar
+	6 UR Assault Elemental
+	12 CU07 Frontline Sprite
+	6 UM01 Cloudsworn Warden
+	12 CW13 Militia Caller
+	12 CW02 Against the Odds
+	12 CW08 Sanctum Blade
+	12 CW03 Nephiiram Martyr
+	12 CW09 Ceremony Leader
+	12 CW12 Cloudsworn Blessing
+	12 CW01 Eager Fledgling
+	12 CW07 Savage Strike
+	12 CW06 Orrery Guard
+	12 CW11 Guiding Herald
+	12 CW10 Smite the Mighty
+	12 CU03 Il'Umari Dreamer
+	12 CU05 Crystaline Carapace
+	6 UU Nebulous Confirmation
+	12 CU13 Afflicted Vision
+	12 CU01 Il'Umari Trapper
+	12 CU04 Essence Tamer
+	12 CU06 Spell Stutter
+	12 CU08 Eliuum Construct
+	12 CU09 Majestic Metamorphosis
+	12 CU11 Wayward Swarm
+	12 CU02 Witching Well
+	12 CB01 Delayed Atonement
+	12 CB09 Undercity Scrounger
+	12 CB11 Grim Bounty
+	12 CB04 Covert Operative
+	12 CB03 Ebon Anointer
+	12 CB07 Mourning Blade
+	12 CB05 K'Llei Ritual
+	12 CB06 Battleworthy Sacrifice
+	12 CB13 Graveyard Prowler
+	12 CB08 Il'Umari Herald
+	12 CR02 Galvanic Blast
+	12 CR03 Battle Rage
+	12 CR04 Vault Robber
+	12 CR06 Unstable Chargestone
+	12 CR07 Sailkite Bandit
+	12 CR08 Bonewhip Brawler
+	12 CR09 Omen Steelform
+	12 CR10 Molten Brute
+	6 UR Rapacious Dragon
+	12 CR12 Capricious Royal
+	12 CR11 Big Score
+	12 CR13 Pursue the Weak
+	12 CG07 Quick-Draw Archer
+	12 CG08 Decaying Swine
+	12 CG03 Noxious Spore
+	12 Aenaris
+	12 Aenaris
+	12 Aenaris
+	12 Aenaris
+	12 CG01 Corpse Adorner
+	12 CG04 Lingering Croc
+	12 CG05 Bramble Armor
+	12 CG02 Giant Growth
+	12 CG09 Nature's Reach
+	12 CG06 Heart of the Forest
+	12 CG10 Ancestral Dryad
+	12 CG11 Hunter's Pursuit
+	2 RG Bramble Fiend
+	12 CM02 Il'Umari Deceiver
+	12 CM03 Runic Daemon
+	12 CM04 Pit Fight
+	12 CM05 Centaur Safeguard
+	12 CM06 Confession
+	12 CM07 Mischevious Faerie
+	12 CG12 Bramble Envoy
+	12 CM08 Rooftop Miscreant
+	12 CM09 Fresh-Faced Recruit
+	12 CM10 Square Up
+	12 CL01 Prophetic Peak
+	12 CL02 Aspiring Bloom
+	12 CC03 Annealed Brute
+	12 CC02 Cloudsworn Enforcer
+	12 CC01 Skozall Monitor
+	2 Vileform Hydra
+[wildcard(1)]
+	15 UM04 Burning Rebel
+	6 CW04 Royal Escort
+	6 CR05 Hilgarde Plunderer
+	15 UM07 Mad Marauder
+	15 UM09 Adept Blacksmith
+	15 UM03 Blackmarket Dealer
+	7 RU Xanthicar's Augury
+	7 RR Raze the Fields
+	4 MR Nyhela Awoken
+	7 RU Xanthicar, the Mad Prohpet
+	6 CW05 Agile Lifeweaver
+	6 CG13 Bloodthirsty Bear
+	6 CR01 Omenseer Imbuer
+	6 CC04 Imbued Arrow
+	4 MB Bitterblossom
+	6 CB02 Il'Umari Practitioner
+	15 UM05 Daybreaker Diviner
+	6 CM01 River Guardian
+	15 UM02 Stubborn Guardian
+	6 CU10 Crystaline Titan
+	6 CB10 Il'Umari Web-Weaver
+	15 UC01 Soulshard
+	15 UR Volcanic Forge
+	15 UB Deepwoods Stalker
+	7 RR Harness... something...
+	15 UB Bog Crystals
+	15 UM06 Procession Figure
+	6 CB12 Striking Owl
+	6 CU12 Plunging Gator
+	15 UM10 Paralytic Serpent
+	15 UM08 Desecration Boar
+	15 UR Assault Elemental
+	6 CU07 Frontline Sprite
+	15 UM01 Cloudsworn Warden
+	6 CW13 Militia Caller
+	6 CW02 Against the Odds
+	6 CW08 Sanctum Blade
+	6 CW03 Nephiiram Martyr
+	6 CW09 Ceremony Leader
+	6 CW12 Cloudsworn Blessing
+	6 CW01 Eager Fledgling
+	6 CW07 Savage Strike
+	6 CW06 Orrery Guard
+	6 CW11 Guiding Herald
+	6 CW10 Smite the Mighty
+	6 CU03 Il'Umari Dreamer
+	6 CU05 Crystaline Carapace
+	15 UU Nebulous Confirmation
+	6 CU13 Afflicted Vision
+	6 CU01 Il'Umari Trapper
+	6 CU04 Essence Tamer
+	6 CU06 Spell Stutter
+	6 CU08 Eliuum Construct
+	6 CU09 Majestic Metamorphosis
+	6 CU11 Wayward Swarm
+	6 CU02 Witching Well
+	6 CB01 Delayed Atonement
+	6 CB09 Undercity Scrounger
+	6 CB11 Grim Bounty
+	6 CB04 Covert Operative
+	6 CB03 Ebon Anointer
+	6 CB07 Mourning Blade
+	6 CB05 K'Llei Ritual
+	6 CB06 Battleworthy Sacrifice
+	6 CB13 Graveyard Prowler
+	6 CB08 Il'Umari Herald
+	6 CR02 Galvanic Blast
+	6 CR03 Battle Rage
+	6 CR04 Vault Robber
+	6 CR06 Unstable Chargestone
+	6 CR07 Sailkite Bandit
+	6 CR08 Bonewhip Brawler
+	6 CR09 Omen Steelform
+	6 CR10 Molten Brute
+	15 UR Rapacious Dragon
+	6 CR12 Capricious Royal
+	6 CR11 Big Score
+	6 CR13 Pursue the Weak
+	6 CG07 Quick-Draw Archer
+	6 CG08 Decaying Swine
+	6 CG03 Noxious Spore
+	6 Aenaris
+	6 Aenaris
+	6 Aenaris
+	6 Aenaris
+	6 CG01 Corpse Adorner
+	6 CG04 Lingering Croc
+	6 CG05 Bramble Armor
+	6 CG02 Giant Growth
+	6 CG09 Nature's Reach
+	6 CG06 Heart of the Forest
+	6 CG10 Ancestral Dryad
+	6 CG11 Hunter's Pursuit
+	7 RG Bramble Fiend
+	6 CM02 Il'Umari Deceiver
+	6 CM03 Runic Daemon
+	6 CM04 Pit Fight
+	6 CM05 Centaur Safeguard
+	6 CM06 Confession
+	6 CM07 Mischevious Faerie
+	6 CG12 Bramble Envoy
+	6 CM08 Rooftop Miscreant
+	6 CM09 Fresh-Faced Recruit
+	6 CM10 Square Up
+	6 CL01 Prophetic Peak
+	6 CL02 Aspiring Bloom
+	6 CC03 Annealed Brute
+	6 CC02 Cloudsworn Enforcer
+	6 CC01 Skozall Monitor
+	7 Vileform Hydra
