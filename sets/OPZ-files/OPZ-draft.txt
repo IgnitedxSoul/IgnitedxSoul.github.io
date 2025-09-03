@@ -1,13 +1,13 @@
-[CustomCards]
+ï»¿[CustomCards]
 	[
 		{
-			"name": "Doomed Expedition",
+			"name": "Forsaken Expedition",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "145",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/145_Doomed Expedition.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/151_Forsaken Expedition.png"
 			}
 		},
 		{
@@ -15,131 +15,131 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/56_Portent Resonance.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/57_Portent Resonance.png"
 			}
 		},
 		{
 			"name": "Taloncrawler",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "98",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/98_Taloncrawler.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/101_Taloncrawler.png"
 			}
 		},
 		{
 			"name": "Renegade Academy",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "208",
+			"type": "Land â€” Outpost",
+			"collector_number": "217",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/208_Renegade Academy_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/217_Renegade Academy_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/208_Renegade Academy_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/217_Renegade Academy_front.png"
 			}
 		},
 		{
 			"name": "Expedition Range",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "200",
+			"type": "Land â€” Outpost",
+			"collector_number": "209",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/200_Expedition Range_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/209_Expedition Range_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/200_Expedition Range_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/209_Expedition Range_front.png"
 			}
 		},
 		{
 			"name": "Voyager Station",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "212",
+			"type": "Land â€” Outpost",
+			"collector_number": "221",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/212_Voyager Station_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/221_Voyager Station_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/212_Voyager Station_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/221_Voyager Station_front.png"
 			}
 		},
 		{
 			"name": "Plithium Quarry",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "206",
+			"type": "Land â€” Outpost",
+			"collector_number": "215",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/206_Plithium Quarry_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/215_Plithium Quarry_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/206_Plithium Quarry_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/215_Plithium Quarry_front.png"
 			}
 		},
 		{
 			"name": "Innovative Hangar",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "201",
+			"type": "Land â€” Outpost",
+			"collector_number": "210",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/201_Innovative Hangar_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/210_Innovative Hangar_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/201_Innovative Hangar_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/210_Innovative Hangar_front.png"
 			}
 		},
 		{
 			"name": "Specimen",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Specimen",
+			"type": "Token Artifact â€” Specimen",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/6t_Specimen.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_Specimen.png"
 			}
 		},
 		{
 			"name": "Proto-Genesis Jellyfish",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Jellyfish",
-			"collector_number": "58",
+			"type": "Creature â€” Jellyfish",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/58_Proto-Genesis Jellyfish.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/60_Proto-Genesis Jellyfish.png"
 			}
 		},
 		{
 			"name": "Determined Strike Team",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/10_Determined Strike Team.png"
@@ -149,10 +149,10 @@
 			"name": "Ambitious Lab Techs",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "33",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/33_Ambitious Lab Techs.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/34_Ambitious Lab Techs.png"
 			}
 		},
 		{
@@ -160,56 +160,56 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/129_Targeted Strike.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/133_Targeted Strike.png"
 			}
 		},
 		{
 			"name": "Acrid Chiropteran",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Bat",
-			"collector_number": "67",
+			"type": "Creature â€” Bat",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/67_Acrid Chiropteran.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/69_Acrid Chiropteran.png"
 			}
 		},
 		{
 			"name": "Steamcaller",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "64",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/64_Steamcaller.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/66_Steamcaller.png"
 			}
 		},
 		{
 			"name": "Haunting Amalgamate",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "149",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/149_Haunting Amalgamate.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/153_Haunting Amalgamate.png"
 			}
 		},
 		{
 			"name": "Stalking Wispbeast",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Beast",
-			"collector_number": "160",
+			"type": "Creature â€” Beast",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/160_Stalking Wispbeast.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/165_Stalking Wispbeast.png"
 			}
 		},
 		{
 			"name": "Rothmas Scouts",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Artifact Creature — Construct Soldier",
+			"type": "Artifact Creature â€” Construct Soldier",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/22_Rothmas Scouts.png"
@@ -219,17 +219,17 @@
 			"name": "Construct",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
+			"type": "Token Artifact Creature â€” Construct",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/4t_Construct.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/4_Construct.png"
 			}
 		},
 		{
 			"name": "Transferred Soul",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/30_Transferred Soul.png"
@@ -239,17 +239,17 @@
 			"name": "Drone",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Drone",
+			"type": "Token Artifact Creature â€” Drone",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/5t_Drone.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/5_Drone.png"
 			}
 		},
 		{
 			"name": "Keen-Eyed Engineer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Scientist",
+			"type": "Creature â€” Human Scientist",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/15_Keen-Eyed Engineer.png"
@@ -279,7 +279,7 @@
 			"name": "Servitor Drone",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Artifact Creature — Drone",
+			"type": "Artifact Creature â€” Drone",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/24_Servitor Drone.png"
@@ -289,7 +289,7 @@
 			"name": "Expanse Runners",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/13_Expanse Runners.png"
@@ -299,7 +299,7 @@
 			"name": "Gleaming Kite",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Bird Construct",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/14_Gleaming Kite.png"
@@ -319,7 +319,7 @@
 			"name": "Convening Nomad",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_Convening Nomad.png"
@@ -340,59 +340,59 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/38_Containment Breach.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/39_Containment Breach.png"
 			}
 		},
 		{
 			"name": "Mistweaver",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "50",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/50_Mistweaver.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/51_Mistweaver.png"
 			}
 		},
 		{
 			"name": "Overwatch Sentinel",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "55",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/55_Overwatch Sentinel.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/56_Overwatch Sentinel.png"
 			}
 		},
 		{
 			"name": "Observation Crew",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "52",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/52_Observation Crew.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/53_Observation Crew.png"
 			}
 		},
 		{
 			"name": "Manifested Chimera",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Beast Illusion",
-			"collector_number": "49",
+			"type": "Creature â€” Beast Illusion",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/49_Manifested Chimera.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/50_Manifested Chimera.png"
 			}
 		},
 		{
 			"name": "Disposal Personnel",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "41",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/41_Disposal Personnel.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/42_Disposal Personnel.png"
 			}
 		},
 		{
@@ -400,9 +400,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/34_Android Maintenance.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/35_Android Maintenance.png"
 			}
 		},
 		{
@@ -410,29 +410,29 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/42_Don't Make a Sound.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/43_Don't Make a Sound.png"
 			}
 		},
 		{
 			"name": "Frigid Pass Officers",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "44",
+			"type": "Creature â€” Human Soldier",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/44_Frigid Pass Officers.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/45_Frigid Pass Officers.png"
 			}
 		},
 		{
 			"name": "Splinter Brute",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "96",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/96_Splinter Brute.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/99_Splinter Brute.png"
 			}
 		},
 		{
@@ -440,49 +440,49 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/92_Painful Excision.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/95_Painful Excision.png"
 			}
 		},
 		{
 			"name": "Nimble Crewmate",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Human Survivor",
-			"collector_number": "90",
+			"type": "Creature â€” Human Survivor",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/90_Nimble Crewmate.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/93_Nimble Crewmate.png"
 			}
 		},
 		{
 			"name": "Extraction Team",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "80",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/80_Extraction Team.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/82_Extraction Team.png"
 			}
 		},
 		{
 			"name": "Aerial Heistman",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "68",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/68_Aerial Heistman.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/70_Aerial Heistman.png"
 			}
 		},
 		{
 			"name": "Ignominious Executive",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Noble",
-			"collector_number": "84",
+			"type": "Creature â€” Human Noble",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/84_Ignominious Executive.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/86_Ignominious Executive.png"
 			}
 		},
 		{
@@ -490,9 +490,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/77_Disfigure.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/79_Disfigure.png"
 			}
 		},
 		{
@@ -500,9 +500,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/94_Remote Disintegration.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/97_Remote Disintegration.png"
 			}
 		},
 		{
@@ -510,39 +510,39 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/93_Recovery Mission.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/96_Recovery Mission.png"
 			}
 		},
 		{
 			"name": "Mercenary",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Mercenary",
+			"type": "Token Creature â€” Mercenary",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/2t_Mercenary.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/2_Mercenary.png"
 			}
 		},
 		{
 			"name": "Frightened Trainee",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "82",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/82_Frightened Trainee.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/84_Frightened Trainee.png"
 			}
 		},
 		{
 			"name": "Mining Rig",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Artifact Creature — Robot",
-			"collector_number": "116",
+			"type": "Artifact Creature â€” Robot",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/116_Mining Rig.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/120_Mining Rig.png"
 			}
 		},
 		{
@@ -550,9 +550,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "130",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/130_Thrill of Possibility.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/134_Thrill of Possibility.png"
 			}
 		},
 		{
@@ -560,9 +560,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "128",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/128_Tactical Breach.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/132_Tactical Breach.png"
 			}
 		},
 		{
@@ -570,59 +570,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/112_Frontline Dropship.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/116_Frontline Dropship.png"
 			}
 		},
 		{
 			"name": "Construction Bot",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "107",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/107_Construction Bot.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/111_Construction Bot.png"
 			}
 		},
 		{
 			"name": "Pyroclastic Crewmate",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "121",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/121_Pyroclastic Crewmate.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/125_Pyroclastic Crewmate.png"
 			}
 		},
 		{
 			"name": "Ops Pointman",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "119",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/119_Ops Pointman.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/123_Ops Pointman.png"
 			}
 		},
 		{
 			"name": "Drone Operator",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "109",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/109_Drone Operator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/113_Drone Operator.png"
 			}
 		},
 		{
 			"name": "Skittering Swarm",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Insect",
-			"collector_number": "125",
+			"type": "Creature â€” Insect",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/125_Skittering Swarm.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/129_Skittering Swarm.png"
 			}
 		},
 		{
@@ -630,29 +630,29 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/113_Incinerating Blast.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/117_Incinerating Blast.png"
 			}
 		},
 		{
 			"name": "Ambush Drone",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "103",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/103_Ambush Drone.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/107_Ambush Drone.png"
 			}
 		},
 		{
 			"name": "Houkkipi Scavengers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Beast",
-			"collector_number": "152",
+			"type": "Creature â€” Beast",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/152_Houkkipi Scavengers.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/156_Houkkipi Scavengers.png"
 			}
 		},
 		{
@@ -660,29 +660,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "135",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/135_Biogenic Upgrade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/139_Biogenic Upgrade.png"
 			}
 		},
 		{
 			"name": "Brush Surveyor",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact Creature — Ape Construct",
-			"collector_number": "137",
+			"type": "Artifact Creature â€” Ape Construct",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/137_Brush Surveyor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/141_Brush Surveyor.png"
 			}
 		},
 		{
 			"name": "Consuming Polyp",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "141",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/141_Consuming Polyp.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/145_Consuming Polyp.png"
 			}
 		},
 		{
@@ -690,9 +690,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/159_Spontaneous Outburst.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/164_Spontaneous Outburst.png"
 			}
 		},
 		{
@@ -700,9 +700,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/138_Brutal Acquisition.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/142_Brutal Acquisition.png"
 			}
 		},
 		{
@@ -710,66 +710,66 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "156",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/156_Rapid Incubation.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/160_Rapid Incubation.png"
 			}
 		},
 		{
 			"name": "Beast",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Beast",
+			"type": "Token Creature â€” Beast",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/3t_Beast.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/3_Beast.png"
 			}
 		},
 		{
 			"name": "Poison Whip-Tail",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Lizard",
-			"collector_number": "154",
+			"type": "Creature â€” Lizard",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/154_Poison Whip-Tail.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/158_Poison Whip-Tail.png"
 			}
 		},
 		{
 			"name": "Burgeoning Ascomycota",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Fungus Horror",
-			"collector_number": "139",
+			"type": "Creature â€” Fungus Horror",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/139_Burgeoning Ascomycota.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/143_Burgeoning Ascomycota.png"
 			}
 		},
 		{
 			"name": "Radar Glade",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "222",
+			"type": "Land â€” Outpost",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/222_Radar Glade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/231_Radar Glade.png"
 			}
 		},
 		{
 			"name": "Whirring Surveyor",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "195",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/195_Whirring Surveyor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/204_Whirring Surveyor.png"
 			}
 		},
 		{
 			"name": "Agile Furrowite",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Weasel",
+			"type": "Creature â€” Weasel",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/1_Agile Furrowite.png"
@@ -780,76 +780,76 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/57_Profound Discovery.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/59_Profound Discovery.png"
 			}
 		},
 		{
 			"name": "Methodical Infantry",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "89",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/89_Methodical Infantry.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/91_Methodical Infantry.png"
 			}
 		},
 		{
 			"name": "Anti-Aerial Crawler",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "104",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/104_Anti-Aerial Crawler.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/108_Anti-Aerial Crawler.png"
 			}
 		},
 		{
 			"name": "Hazard Enviro-Mech",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "150",
+			"type": "Artifact Creature â€” Construct",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/150_Hazard Enviro-Mech.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/154_Hazard Enviro-Mech.png"
 			}
 		},
 		{
 			"name": "Plithium Processing Plant",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "221",
+			"type": "Land â€” Outpost",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/221_Plithium Processing Plant.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/230_Plithium Processing Plant.png"
 			}
 		},
 		{
 			"name": "Buoyant Bay Port",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "216",
+			"type": "Land â€” Outpost",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/216_Buoyant Bay Port.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/225_Buoyant Bay Port.png"
 			}
 		},
 		{
 			"name": "Bismuth Flats",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "215",
+			"type": "Land â€” Outpost",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/215_Bismuth Flats.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/224_Bismuth Flats.png"
 			}
 		},
 		{
 			"name": "Shielding Dome",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Wall",
+			"type": "Artifact Creature â€” Wall",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/25_Shielding Dome.png"
@@ -859,7 +859,7 @@
 			"name": "Charging Octomare",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Horse",
+			"type": "Creature â€” Horse",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/4_Charging Octomare.png"
@@ -869,7 +869,7 @@
 			"name": "Levicycle Courier",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Pilot",
+			"type": "Creature â€” Human Pilot",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/16_Levicycle Courier.png"
@@ -889,124 +889,124 @@
 			"name": "Navigator Core",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact Creature — Robot",
-			"collector_number": "51",
+			"type": "Artifact Creature â€” Robot",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/51_Navigator Core.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/52_Navigator Core.png"
 			}
 		},
 		{
 			"name": "Watcher in the Void",
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Spirit",
-			"collector_number": "66",
+			"type": "Creature â€” Spirit",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/66_Watcher in the Void.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/68_Watcher in the Void.png"
 			}
 		},
 		{
 			"name": "Digitized Duo",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Illusion",
-			"collector_number": "40",
+			"type": "Creature â€” Illusion",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/40_Digitized Duo.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/41_Digitized Duo.png"
 			}
 		},
 		{
 			"name": "Cultivation Platforms",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "218",
+			"type": "Land â€” Outpost",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/218_Cultivation Platforms.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/227_Cultivation Platforms.png"
 			}
 		},
 		{
 			"name": "Wetland Botany Lab",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "223",
+			"type": "Land â€” Outpost",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/223_Wetland Botany Lab.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/232_Wetland Botany Lab.png"
 			}
 		},
 		{
 			"name": "Glacial Mill",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "219",
+			"type": "Land â€” Outpost",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/219_Glacial Mill.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/228_Glacial Mill.png"
 			}
 		},
 		{
 			"name": "Isle of Prophecy",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "220",
+			"type": "Land â€” Outpost",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/220_Isle of Prophecy.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/229_Isle of Prophecy.png"
 			}
 		},
 		{
 			"name": "Cavern of Piety",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "217",
+			"type": "Land â€” Outpost",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/217_Cavern of Piety.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/226_Cavern of Piety.png"
 			}
 		},
 		{
 			"name": "Auroral Cliffs",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "214",
+			"type": "Land â€” Outpost",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/214_Auroral Cliffs.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/223_Auroral Cliffs.png"
 			}
 		},
 		{
 			"name": "Precursor Colony",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Outpost",
-			"collector_number": "207",
+			"type": "Land â€” Outpost",
+			"collector_number": "216",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/207_Precursor Colony_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/216_Precursor Colony_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/207_Precursor Colony_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/216_Precursor Colony_front.png"
 			}
 		},
 		{
 			"name": "Xeno Reliquary",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "213",
+			"type": "Artifact Land â€” Specimen",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/213_Xeno Reliquary.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/222_Xeno Reliquary.png"
 			}
 		},
 		{
 			"name": "Salvage Hunter",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/23_Salvage Hunter.png"
@@ -1016,7 +1016,7 @@
 			"name": "Tremor Spikeworm",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Worm",
+			"type": "Creature â€” Worm",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/31_Tremor Spikeworm.png"
@@ -1026,10 +1026,10 @@
 			"name": "Stasis Field",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "62",
+			"type": "Enchantment â€” Aura",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/62_Stasis Field.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/64_Stasis Field.png"
 			}
 		},
 		{
@@ -1037,49 +1037,49 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/59_Quell Rebellion.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/61_Quell Rebellion.png"
 			}
 		},
 		{
 			"name": "Scarab Behemoth",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Insect",
-			"collector_number": "95",
+			"type": "Creature â€” Insect",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/95_Scarab Behemoth.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/98_Scarab Behemoth.png"
 			}
 		},
 		{
 			"name": "Afflicted Researcher",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Zombie Horror",
-			"collector_number": "69",
+			"type": "Creature â€” Zombie Horror",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/69_Afflicted Researcher.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/71_Afflicted Researcher.png"
 			}
 		},
 		{
 			"name": "Void Specter",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Specter",
-			"collector_number": "100",
+			"type": "Creature â€” Specter",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/100_Void Specter.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/104_Void Specter.png"
 			}
 		},
 		{
 			"name": "Outskirts Prowler",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Beast",
-			"collector_number": "91",
+			"type": "Creature â€” Beast",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/91_Outskirts Prowler.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/94_Outskirts Prowler.png"
 			}
 		},
 		{
@@ -1087,9 +1087,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/78_Duress.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/80_Duress.png"
 			}
 		},
 		{
@@ -1097,59 +1097,59 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/97_Subjugation.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/100_Subjugation.png"
 			}
 		},
 		{
 			"name": "Parasite",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Parasite",
+			"type": "Token Creature â€” Parasite",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/1t_Parasite.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/1_Parasite.png"
 			}
 		},
 		{
 			"name": "Brood Warden",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Insect",
-			"collector_number": "106",
+			"type": "Creature â€” Insect",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/106_Brood Warden.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/110_Brood Warden.png"
 			}
 		},
 		{
 			"name": "Wreckage Raiders",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "132",
+			"type": "Creature â€” Human Rogue",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/132_Wreckage Raiders.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/136_Wreckage Raiders.png"
 			}
 		},
 		{
 			"name": "Field Expeditioners",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "111",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/111_Field Expeditioners.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/115_Field Expeditioners.png"
 			}
 		},
 		{
 			"name": "Mission Coordinator",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "117",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/117_Mission Coordinator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/121_Mission Coordinator.png"
 			}
 		},
 		{
@@ -1157,9 +1157,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/126_Smoldering Defiance.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/130_Smoldering Defiance.png"
 			}
 		},
 		{
@@ -1167,29 +1167,29 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/101_Abrade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/105_Abrade.png"
 			}
 		},
 		{
 			"name": "Corrupted Monitor",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Robot",
-			"collector_number": "188",
+			"type": "Artifact Creature â€” Robot",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/188_Corrupted Monitor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/197_Corrupted Monitor.png"
 			}
 		},
 		{
 			"name": "Hull Mechanic",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Robot",
-			"collector_number": "189",
+			"type": "Artifact Creature â€” Robot",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/189_Hull Mechanic.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/198_Hull Mechanic.png"
 			}
 		},
 		{
@@ -1197,49 +1197,49 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "194",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/194_Tri-Lateral Grenade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/203_Tri-Lateral Grenade.png"
 			}
 		},
 		{
 			"name": "Sampling Laser",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Artifact — Equipment",
-			"collector_number": "158",
+			"type": "Artifact â€” Equipment",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/158_Sampling Laser.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/162_Sampling Laser.png"
 			}
 		},
 		{
 			"name": "Nurturing Mantisworm",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Insect",
-			"collector_number": "153",
+			"type": "Creature â€” Insect",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/153_Nurturing Mantisworm.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/157_Nurturing Mantisworm.png"
 			}
 		},
 		{
 			"name": "Arachnae Behemoth",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Spider Horror",
-			"collector_number": "134",
+			"type": "Creature â€” Spider Horror",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/134_Arachnae Behemoth.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/138_Arachnae Behemoth.png"
 			}
 		},
 		{
 			"name": "Unbound Subject",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Ooze Mutant",
-			"collector_number": "161",
+			"type": "Creature â€” Ooze Mutant",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/161_Unbound Subject.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/167_Unbound Subject.png"
 			}
 		},
 		{
@@ -1247,9 +1247,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "136",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/136_Broken Wings.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/140_Broken Wings.png"
 			}
 		},
 		{
@@ -1257,9 +1257,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "191",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/191_Organic Printer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/200_Organic Printer.png"
 			}
 		},
 		{
@@ -1277,39 +1277,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/43_EMP Blast.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/44_EMP Blast.png"
 			}
 		},
 		{
 			"name": "Anomalous Animation",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "70",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/70_Anomalous Animation.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/72_Anomalous Animation.png"
 			}
 		},
 		{
 			"name": "Sanguine Stalker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Horror",
-			"collector_number": "123",
+			"type": "Creature â€” Horror",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/123_Sanguine Stalker.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/127_Sanguine Stalker.png"
 			}
 		},
 		{
 			"name": "Corpse Subsumer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "142",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/142_Corpse Subsumer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/146_Corpse Subsumer.png"
 			}
 		},
 		{
@@ -1317,9 +1317,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/61_Sinister Sabotage.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/63_Sinister Sabotage.png"
 			}
 		},
 		{
@@ -1327,9 +1327,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/74_Commune With Evil.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/76_Commune With Evil.png"
 			}
 		},
 		{
@@ -1337,19 +1337,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/124_Scorched Desolation.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/128_Scorched Desolation.png"
 			}
 		},
 		{
 			"name": "Despondent Colonists",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "144",
+			"type": "Creature â€” Human Rogue",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/144_Despondent Colonists.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/148_Despondent Colonists.png"
 			}
 		},
 		{
@@ -1367,16 +1367,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "143",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/143_Cuphro Invasion.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/147_Cuphro Invasion.png"
 			}
 		},
 		{
 			"name": "Orbital Drop Troopers",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/19_Orbital Drop Troopers.png"
@@ -1387,29 +1387,29 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/36_Consider the Cosmos.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/37_Consider the Cosmos.png"
 			}
 		},
 		{
 			"name": "Lunar Archfiend",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Demon",
-			"collector_number": "88",
+			"type": "Creature â€” Demon",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/88_Lunar Archfiend.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/90_Lunar Archfiend.png"
 			}
 		},
 		{
 			"name": "Agent of Retribution",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "102",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/102_Agent of Retribution.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/106_Agent of Retribution.png"
 			}
 		},
 		{
@@ -1417,9 +1417,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/146_Enticing Discovery.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/149_Enticing Discovery.png"
 			}
 		},
 		{
@@ -1427,16 +1427,16 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/162_Unearthly Encounter.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/168_Unearthly Encounter.png"
 			}
 		},
 		{
 			"name": "Mutagen Spreader",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Mutant",
+			"type": "Creature â€” Human Mutant",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/17_Mutagen Spreader.png"
@@ -1446,40 +1446,40 @@
 			"name": "Orchestrator of Wills",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Horror Wizard",
-			"collector_number": "53",
+			"type": "Creature â€” Horror Wizard",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/53_Orchestrator of Wills.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/54_Orchestrator of Wills.png"
 			}
 		},
 		{
 			"name": "Bravo-2, Ruthless Commando",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "73",
+			"type": "Legendary Creature â€” Human Mercenary",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/73_Bravo-2, Ruthless Commando.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/75_Bravo-2, Ruthless Commando.png"
 			}
 		},
 		{
 			"name": "Emberwing Emissary",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Demon",
-			"collector_number": "110",
+			"type": "Creature â€” Demon",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/110_Emberwing Emissary.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/114_Emberwing Emissary.png"
 			}
 		},
 		{
 			"name": "Path Treading Tank",
 			"rarity": "rare",
 			"mana_cost": "{X}{X}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "192",
+			"type": "Artifact Creature â€” Construct",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/192_Path Treading Tank.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/201_Path Treading Tank.png"
 			}
 		},
 		{
@@ -1496,10 +1496,10 @@
 			"name": "Station Monitor",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "63",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/63_Station Monitor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/65_Station Monitor.png"
 			}
 		},
 		{
@@ -1507,19 +1507,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "86",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/86_Into the Pit.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/88_Into the Pit.png"
 			}
 		},
 		{
 			"name": "Lithura, Maiden of Fates",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Artifact Creature — Symbiote",
-			"collector_number": "87",
+			"type": "Legendary Artifact Creature â€” Symbiote",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/87_Lithura, Maiden of Fates.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/89_Lithura, Maiden of Fates.png"
 			}
 		},
 		{
@@ -1536,10 +1536,10 @@
 			"name": "Hullbreaker Horror",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Kraken Horror",
-			"collector_number": "46",
+			"type": "Creature â€” Kraken Horror",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/46_Hullbreaker Horror.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/47_Hullbreaker Horror.png"
 			}
 		},
 		{
@@ -1547,19 +1547,19 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/122_Reactor Ignition.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/126_Reactor Ignition.png"
 			}
 		},
 		{
 			"name": "Augmented Starfighter",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "105",
+			"type": "Artifact â€” Vehicle",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/105_Augmented Starfighter.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/109_Augmented Starfighter.png"
 			}
 		},
 		{
@@ -1567,19 +1567,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "151",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/151_Heart of Astorethe.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/155_Heart of Astorethe.png"
 			}
 		},
 		{
 			"name": "Exhurga, Origin of Mania",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
-			"type": "Legendary Artifact Creature — Symbiote",
-			"collector_number": "147",
+			"type": "Legendary Artifact Creature â€” Symbiote",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/147_Exhurga, Origin of Mania.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/150_Exhurga, Origin of Mania.png"
 			}
 		},
 		{
@@ -1587,46 +1587,46 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "187",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/187_Celestial Generator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/196_Celestial Generator.png"
 			}
 		},
 		{
 			"name": "Projection Armor",
 			"rarity": "rare",
 			"mana_cost": "{4}",
-			"type": "Artifact — Equipment",
-			"collector_number": "193",
+			"type": "Artifact â€” Equipment",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/193_Projection Armor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/202_Projection Armor.png"
 			}
 		},
 		{
 			"name": "Outpost Zero",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land — Outpost",
-			"collector_number": "205",
+			"type": "Legendary Land â€” Outpost",
+			"collector_number": "214",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/205_Outpost Zero_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/214_Outpost Zero_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/205_Outpost Zero_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/214_Outpost Zero_front.png"
 			}
 		},
 		{
 			"name": "Deflector Operative",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "170",
+			"type": "Creature â€” Human Soldier",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/170_Deflector Operative.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/177_Deflector Operative.png"
 			}
 		},
 		{
@@ -1634,19 +1634,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "178",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/178_Neon Enforcement.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/185_Neon Enforcement.png"
 			}
 		},
 		{
 			"name": "Clattering Chitin",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Creature — Insect Horror",
-			"collector_number": "168",
+			"type": "Creature â€” Insect Horror",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/168_Clattering Chitin.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/175_Clattering Chitin.png"
 			}
 		},
 		{
@@ -1654,19 +1654,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "169",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/169_Consuming Tide.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/176_Consuming Tide.png"
 			}
 		},
 		{
 			"name": "Bravo-2 Contractee",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "165",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/165_Bravo-2 Contractee.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/172_Bravo-2 Contractee.png"
 			}
 		},
 		{
@@ -1674,19 +1674,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/183_Suppression Fire.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/192_Suppression Fire.png"
 			}
 		},
 		{
 			"name": "Exfiltration Coordinator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "171",
+			"type": "Creature â€” Human Soldier",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/171_Exfiltration Coordinator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/178_Exfiltration Coordinator.png"
 			}
 		},
 		{
@@ -1694,19 +1694,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/166_Call to Action.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/173_Call to Action.png"
 			}
 		},
 		{
 			"name": "Luminescent Aberration",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Beast Mutant",
-			"collector_number": "176",
+			"type": "Creature â€” Beast Mutant",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/176_Luminescent Aberration.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/183_Luminescent Aberration.png"
 			}
 		},
 		{
@@ -1714,9 +1714,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "174",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/174_Genome Sequencing.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/180_Genome Sequencing.png"
 			}
 		},
 		{
@@ -1724,29 +1724,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Instant",
-			"collector_number": "177",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/177_Morphose Plague.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/184_Morphose Plague.png"
 			}
 		},
 		{
 			"name": "Bioweapon Engineers",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "164",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/164_Bioweapon Engineers.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/171_Bioweapon Engineers.png"
 			}
 		},
 		{
 			"name": "Circuit Liberator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "167",
+			"type": "Artifact Creature â€” Construct",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/167_Circuit Liberator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/174_Circuit Liberator.png"
 			}
 		},
 		{
@@ -1754,39 +1754,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/173_Galactic Rending.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/179_Galactic Rending.png"
 			}
 		},
 		{
 			"name": "Ghoulish Stillthroat",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "175",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/175_Ghoulish Stillthroat.png"
-			}
-		},
-		{
-			"name": "Field of Decay",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{G}",
-			"type": "Enchantment",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/172_Field of Decay.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/181_Ghoulish Stillthroat.png"
 			}
 		},
 		{
 			"name": "Pathcutter Drone",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "179",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/179_Pathcutter Drone.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/187_Pathcutter Drone.png"
 			}
 		},
 		{
@@ -1794,129 +1784,129 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "181",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/181_Razefire Raid.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/190_Razefire Raid.png"
 			}
 		},
 		{
 			"name": "Twilight Observer",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Creature — Xeno Wizard",
-			"collector_number": "184",
+			"type": "Creature â€” Xeno Wizard",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/184_Twilight Observer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/193_Twilight Observer.png"
 			}
 		},
 		{
 			"name": "Vegetative Biopsy",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Instant",
-			"collector_number": "185",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/185_Vegetative Biopsy.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/194_Vegetative Biopsy.png"
 			}
 		},
 		{
 			"name": "Lunar Bog",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "203",
+			"type": "Land â€” Plains Swamp",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/203_Lunar Bog.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/212_Lunar Bog.png"
 			}
 		},
 		{
 			"name": "Basaltic Reef",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
-			"collector_number": "196",
+			"type": "Land â€” Island Mountain",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/196_Basaltic Reef.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/205_Basaltic Reef.png"
 			}
 		},
 		{
 			"name": "Luminous Fen",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest",
-			"collector_number": "202",
+			"type": "Land â€” Swamp Forest",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/202_Luminous Fen.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/211_Luminous Fen.png"
 			}
 		},
 		{
 			"name": "Saltspire Expanse",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "209",
+			"type": "Land â€” Mountain Plains",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/209_Saltspire Expanse.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/218_Saltspire Expanse.png"
 			}
 		},
 		{
 			"name": "Cascading Grotto",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Island",
-			"collector_number": "198",
+			"type": "Land â€” Forest Island",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/198_Cascading Grotto.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/207_Cascading Grotto.png"
 			}
 		},
 		{
 			"name": "Null-Tide Seabed",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
-			"collector_number": "204",
+			"type": "Land â€” Plains Island",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/204_Null-Tide Seabed.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/213_Null-Tide Seabed.png"
 			}
 		},
 		{
 			"name": "Tendril Quagmire",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
-			"collector_number": "211",
+			"type": "Land â€” Island Swamp",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/211_Tendril Quagmire.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/220_Tendril Quagmire.png"
 			}
 		},
 		{
 			"name": "Crimson Moor",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
-			"collector_number": "199",
+			"type": "Land â€” Swamp Mountain",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/199_Crimson Moor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/208_Crimson Moor.png"
 			}
 		},
 		{
 			"name": "Brewing Crag",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
-			"collector_number": "197",
+			"type": "Land â€” Mountain Forest",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/197_Brewing Crag.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/206_Brewing Crag.png"
 			}
 		},
 		{
 			"name": "Stillgrove Narrows",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
-			"collector_number": "210",
+			"type": "Land â€” Forest Plains",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/210_Stillgrove Narrows.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/219_Stillgrove Narrows.png"
 			}
 		},
 		{
@@ -1924,9 +1914,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/60_Ruins Analysis.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/62_Ruins Analysis.png"
 			}
 		},
 		{
@@ -1934,9 +1924,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/133_Agricultural Analysis.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/137_Agricultural Analysis.png"
 			}
 		},
 		{
@@ -1944,19 +1934,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/115_Militech Analysis.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/119_Militech Analysis.png"
 			}
 		},
 		{
 			"name": "Contain for Study",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "37",
+			"type": "Enchantment â€” Aura",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/37_Contain for Study.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/38_Contain for Study.png"
 			}
 		},
 		{
@@ -1964,9 +1954,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Artifact",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/140_Colony Map.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/144_Colony Map.png"
 			}
 		},
 		{
@@ -1974,19 +1964,19 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/108_Devastating Blast.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/112_Devastating Blast.png"
 			}
 		},
 		{
 			"name": "Insatiable Petrifier",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "85",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/85_Insatiable Petrifier.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/87_Insatiable Petrifier.png"
 			}
 		},
 		{
@@ -1994,9 +1984,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/54_Origin Stone Shard.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/55_Origin Stone Shard.png"
 			}
 		},
 		{
@@ -2004,16 +1994,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment",
-			"collector_number": "81",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/81_Fallback Plan.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/83_Fallback Plan.png"
 			}
 		},
 		{
 			"name": "Tundra Lurker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Fox Mutant",
+			"type": "Creature â€” Fox Mutant",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/32_Tundra Lurker.png"
@@ -2023,7 +2013,7 @@
 			"name": "Omen of Contagion",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Nightmare",
+			"type": "Creature â€” Nightmare",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/18_Omen of Contagion.png"
@@ -2053,60 +2043,60 @@
 			"name": "Kinetic Shieldbearer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
-			"collector_number": "48",
+			"type": "Creature â€” Human Soldier",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/48_Kinetic Shieldbearer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/49_Kinetic Shieldbearer.png"
 			}
 		},
 		{
 			"name": "Hapless Innovators",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "45",
+			"type": "Creature â€” Human Scientist",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/45_Hapless Innovators.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/46_Hapless Innovators.png"
 			}
 		},
 		{
 			"name": "Intensive Study",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "47",
+			"type": "Enchantment â€” Aura",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/47_Intensive Study.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/48_Intensive Study.png"
 			}
 		},
 		{
 			"name": "Brain Eater",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Insect Horror",
-			"collector_number": "72",
+			"type": "Creature â€” Insect Horror",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/72_Brain Eater.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/74_Brain Eater.png"
 			}
 		},
 		{
 			"name": "Twincannon Warbot",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Artifact Creature — Robot",
-			"collector_number": "131",
+			"type": "Artifact Creature â€” Robot",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/131_Twincannon Warbot.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/135_Twincannon Warbot.png"
 			}
 		},
 		{
 			"name": "Undead Bioroid",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Artifact Creature — Zombie",
-			"collector_number": "99",
+			"type": "Artifact Creature â€” Zombie",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/99_Undead Bioroid.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/102_Undead Bioroid.png"
 			}
 		},
 		{
@@ -2114,26 +2104,26 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "163",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/163_Abandon Ship.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/170_Abandon Ship.png"
 			}
 		},
 		{
 			"name": "Creeping Scavenger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "75",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/75_Creeping Scavenger.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/77_Creeping Scavenger.png"
 			}
 		},
 		{
 			"name": "Desperate Wayfarer",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/9_Desperate Wayfarer.png"
@@ -2143,67 +2133,67 @@
 			"name": "Hardened Commando",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "83",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/83_Hardened Commando.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/85_Hardened Commando.png"
 			}
 		},
 		{
-			"name": "Devastating Dilema",
+			"name": "Devastating Dilemma",
 			"rarity": "rare",
-			"mana_cost": "{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "76",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/76_Devastating Dilema.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/78_Devastating Dilemma.png"
 			}
 		},
 		{
 			"name": "Xathyz, Eternal Matriarch",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Legendary Artifact Creature — Symbiote",
-			"collector_number": "186",
+			"type": "Legendary Artifact Creature â€” Symbiote",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/186_Xathyz, Eternal Matriarch.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/195_Xathyz, Eternal Matriarch.png"
 			}
 		},
 		{
 			"name": "Blackmarket Orchestrator",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Mercenary",
-			"collector_number": "71",
+			"type": "Creature â€” Human Mercenary",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/71_Blackmarket Orchestrator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/73_Blackmarket Orchestrator.png"
 			}
 		},
 		{
 			"name": "Mobile Containment Unit",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Artifact Creature — Drone",
-			"collector_number": "118",
+			"type": "Artifact Creature â€” Drone",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/118_Mobile Containment Unit.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/122_Mobile Containment Unit.png"
 			}
 		},
 		{
 			"name": "Crisis Assayer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "39",
+			"type": "Creature â€” Human Rogue",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/39_Crisis Assayer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/40_Crisis Assayer.png"
 			}
 		},
 		{
 			"name": "Terminal Infection",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/29_Terminal Infection.png"
@@ -2213,10 +2203,10 @@
 			"name": "Relentless Miscreant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Beast Mutant",
-			"collector_number": "157",
+			"type": "Creature â€” Beast Mutant",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/157_Relentless Miscreant.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/161_Relentless Miscreant.png"
 			}
 		},
 		{
@@ -2224,9 +2214,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/35_Climactic Rebuke.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/36_Climactic Rebuke.png"
 			}
 		},
 		{
@@ -2234,29 +2224,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/79_Eldritch Summoning.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/81_Eldritch Summoning.png"
 			}
 		},
 		{
 			"name": "Stun Baton",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact — Equipment",
-			"collector_number": "65",
+			"type": "Artifact â€” Equipment",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/65_Stun Baton.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/67_Stun Baton.png"
 			}
 		},
 		{
 			"name": "Portable Incinerator",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Artifact — Equipment",
-			"collector_number": "120",
+			"type": "Artifact â€” Equipment",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/120_Portable Incinerator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/124_Portable Incinerator.png"
 			}
 		},
 		{
@@ -2264,56 +2254,56 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/114_Intel Breach.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/118_Intel Breach.png"
 			}
 		},
 		{
 			"name": "Piercing Duplicant",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
-			"type": "Artifact Creature — Symbiote",
-			"collector_number": "180",
+			"type": "Artifact Creature â€” Symbiote",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/180_Piercing Duplicant.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/188_Piercing Duplicant.png"
 			}
 		},
 		{
 			"name": "Scallia, Primal Morphling",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Legendary Creature — Ooze Mercenary",
-			"collector_number": "182",
+			"type": "Legendary Creature â€” Ooze Mercenary",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/182_Scallia, Primal Morphling.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/191_Scallia, Primal Morphling.png"
 			}
 		},
 		{
 			"name": "Invader Construct",
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
-			"type": "Artifact Creature — Xeno Construct",
-			"collector_number": "190",
+			"type": "Artifact Creature â€” Xeno Construct",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/190_Invader Construct.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/199_Invader Construct.png"
 			}
 		},
 		{
 			"name": "Predatious Bristleback",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature",
-			"collector_number": "155",
+			"type": "Creature â€” Beast",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/155_Predatious Bristleback.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/159_Predatious Bristleback.png"
 			}
 		},
 		{
 			"name": "Parsec Tactician",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/21_Parsec Tactician.png"
@@ -2323,22 +2313,152 @@
 			"name": "Garruk, Augmented Tracker",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Planeswalker — Garruk",
-			"collector_number": "148",
+			"type": "Legendary Planeswalker â€” Garruk",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/148_Garruk, Augmented Tracker.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/152_Garruk, Augmented Tracker.png"
 			}
 		},
 		{
 			"name": "Stellar Phoenix",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Phoenix",
-			"collector_number": "127",
+			"type": "Creature â€” Phoenix",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/127_Stellar Phoenix.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/131_Stellar Phoenix.png"
 			}
 		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land â€” Mountain",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/236_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land â€” Forest",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/237_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land â€” Island",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/234_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land â€” Swamp",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/235_Swamp.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land â€” Plains",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/233_Plains.png"
+			}
+		},
+		{
+			"name": "Primordial Shaper",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature â€” Avatar",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/189_Primordial Shaper.png"
+			}
+		},
+		{
+			"name": "Mori-Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/92_Mori-Bloom.png"
+			}
+		},
+		{
+			"name": "Precognitive Tactics",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/58_Precognitive Tactics.png"
+			}
+		},
+		{
+			"name": "Orbital Distorter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature â€” Human Wizard",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/186_Orbital Distorter.png"
+			}
+		},
+		{
+			"name": "Spec-Ops Forerunner",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature â€” Human Soldier",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/163_Spec-Ops Forerunner.png"
+			}
+		},
+		{
+			"name": "Homogeneous Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature â€” Zombie",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/182_Homogeneous Vessel.png"
+			}
+		},
+		{
+			"name": "Synthesis Volunteer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature â€” Human Mutant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/166_Synthesis Volunteer.png"
+			}
+		},
+		{
+			"name": "Unwitting Host",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature â€” Human Horror",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/103_Unwitting Host.png"
+			}
+		}
 	]
 
 [rare(1)]
@@ -2385,7 +2505,7 @@
 	2 Undead Bioroid
 	2 Abandon Ship
 	2 Desperate Wayfarer
-	2 Devastating Dilema
+	2 Devastating Dilemma
 	1 Xathyz, Eternal Matriarch
 	2 Piercing Duplicant
 	2 Scallia, Primal Morphling
@@ -2393,6 +2513,9 @@
 	2 Parsec Tactician
 	1 Garruk, Augmented Tracker
 	1 Stellar Phoenix
+	2 Primordial Shaper
+	2 Precognitive Tactics
+	2 Orbital Distorter
 [uncommon(3)]
 	4 Renegade Academy
 	4 Expedition Range
@@ -2417,6 +2540,7 @@
 	4 Drone Operator
 	4 Houkkipi Scavengers
 	4 Biogenic Upgrade
+	4 Consuming Polyp
 	4 Rapid Incubation
 	4 Organic Printer
 	4 Ecological Survey
@@ -2445,7 +2569,6 @@
 	4 Circuit Liberator
 	4 Galactic Rending
 	4 Ghoulish Stillthroat
-	4 Field of Decay
 	4 Pathcutter Drone
 	4 Razefire Raid
 	4 Twilight Observer
@@ -2475,8 +2598,11 @@
 	4 Portable Incinerator
 	4 Intel Breach
 	4 Invader Construct
+	4 Mori-Bloom
+	4 Homogeneous Vessel
+	4 Unwitting Host
 [common(7)]
-	8 Doomed Expedition
+	8 Forsaken Expedition
 	8 Portent Resonance
 	8 Taloncrawler
 	8 Proto-Genesis Jellyfish
@@ -2513,16 +2639,19 @@
 	8 Incinerating Blast
 	8 Ambush Drone
 	8 Brush Surveyor
-	8 Consuming Polyp
 	8 Spontaneous Outburst
 	8 Brutal Acquisition
 	8 Poison Whip-Tail
+	8 Radar Glade
 	8 Whirring Surveyor
 	8 Agile Furrowite
 	8 Profound Discovery
 	8 Methodical Infantry
 	8 Anti-Aerial Crawler
 	8 Hazard Enviro-Mech
+	8 Plithium Processing Plant
+	8 Buoyant Bay Port
+	8 Bismuth Flats
 	8 Shielding Dome
 	8 Charging Octomare
 	8 Levicycle Courier
@@ -2530,6 +2659,12 @@
 	8 Navigator Core
 	8 Watcher in the Void
 	8 Digitized Duo
+	8 Cultivation Platforms
+	8 Wetland Botany Lab
+	8 Glacial Mill
+	8 Isle of Prophecy
+	8 Cavern of Piety
+	8 Auroral Cliffs
 	8 Precursor Colony
 	8 Xeno Reliquary
 	8 Salvage Hunter
@@ -2557,8 +2692,241 @@
 	8 Unbound Subject
 	8 Broken Wings
 	8 Enticing Discovery
-[wildcard(2)]
-	6 Doomed Expedition
+	8 Spec-Ops Forerunner
+	8 Synthesis Volunteer
+[foil(1)]
+	12 Forsaken Expedition
+	12 Portent Resonance
+	12 Taloncrawler
+	6 Renegade Academy
+	6 Expedition Range
+	6 Voyager Station
+	6 Plithium Quarry
+	6 Innovative Hangar
+	12 Proto-Genesis Jellyfish
+	6 Determined Strike Team
+	12 Ambitious Lab Techs
+	12 Targeted Strike
+	12 Acrid Chiropteran
+	12 Steamcaller
+	12 Haunting Amalgamate
+	12 Stalking Wispbeast
+	6 Rothmas Scouts
+	12 Transferred Soul
+	6 Keen-Eyed Engineer
+	12 Digital Reconstruction
+	12 City Sweep
+	12 Servitor Drone
+	6 Expanse Runners
+	12 Gleaming Kite
+	12 Swift Response
+	12 Convening Nomad
+	12 Cryo Chamber
+	12 Containment Breach
+	6 Mistweaver
+	6 Overwatch Sentinel
+	6 Observation Crew
+	6 Manifested Chimera
+	12 Disposal Personnel
+	12 Android Maintenance
+	12 Don't Make a Sound
+	12 Frigid Pass Officers
+	6 Splinter Brute
+	12 Painful Excision
+	6 Nimble Crewmate
+	6 Extraction Team
+	12 Aerial Heistman
+	6 Ignominious Executive
+	12 Disfigure
+	12 Remote Disintegration
+	12 Recovery Mission
+	12 Frightened Trainee
+	12 Mining Rig
+	12 Thrill of Possibility
+	12 Tactical Breach
+	6 Frontline Dropship
+	6 Construction Bot
+	12 Pyroclastic Crewmate
+	6 Ops Pointman
+	6 Drone Operator
+	12 Skittering Swarm
+	12 Incinerating Blast
+	12 Ambush Drone
+	6 Houkkipi Scavengers
+	6 Biogenic Upgrade
+	12 Brush Surveyor
+	6 Consuming Polyp
+	12 Spontaneous Outburst
+	12 Brutal Acquisition
+	6 Rapid Incubation
+	12 Poison Whip-Tail
+	2 Burgeoning Ascomycota
+	12 Radar Glade
+	12 Whirring Surveyor
+	12 Agile Furrowite
+	12 Profound Discovery
+	12 Methodical Infantry
+	12 Anti-Aerial Crawler
+	12 Hazard Enviro-Mech
+	12 Plithium Processing Plant
+	12 Buoyant Bay Port
+	12 Bismuth Flats
+	12 Shielding Dome
+	12 Charging Octomare
+	12 Levicycle Courier
+	12 Sudden Evacuation
+	12 Navigator Core
+	12 Watcher in the Void
+	12 Digitized Duo
+	12 Cultivation Platforms
+	12 Wetland Botany Lab
+	12 Glacial Mill
+	12 Isle of Prophecy
+	12 Cavern of Piety
+	12 Auroral Cliffs
+	12 Precursor Colony
+	12 Xeno Reliquary
+	12 Salvage Hunter
+	12 Tremor Spikeworm
+	12 Stasis Field
+	12 Quell Rebellion
+	12 Scarab Behemoth
+	12 Afflicted Researcher
+	12 Void Specter
+	12 Outskirts Prowler
+	12 Duress
+	12 Subjugation
+	12 Brood Warden
+	12 Wreckage Raiders
+	12 Field Expeditioners
+	12 Mission Coordinator
+	12 Smoldering Defiance
+	12 Abrade
+	12 Corrupted Monitor
+	12 Hull Mechanic
+	12 Tri-Lateral Grenade
+	12 Sampling Laser
+	12 Nurturing Mantisworm
+	12 Arachnae Behemoth
+	12 Unbound Subject
+	12 Broken Wings
+	6 Organic Printer
+	6 Ecological Survey
+	6 EMP Blast
+	6 Anomalous Animation
+	6 Sanguine Stalker
+	6 Corpse Subsumer
+	6 Sinister Sabotage
+	6 Commune With Evil
+	6 Scorched Desolation
+	6 Despondent Colonists
+	6 Artificial Warfront
+	6 Cuphro Invasion
+	2 Orbital Drop Troopers
+	2 Consider the Cosmos
+	2 Lunar Archfiend
+	2 Agent of Retribution
+	12 Enticing Discovery
+	2 Unearthly Encounter
+	2 Mutagen Spreader
+	2 Orchestrator of Wills
+	2 Bravo-2, Ruthless Commando
+	2 Emberwing Emissary
+	2 Path Treading Tank
+	2 Assault Landing
+	2 Station Monitor
+	2 Into the Pit
+	1 Lithura, Maiden of Fates
+	2 Orbital Lift
+	2 Hullbreaker Horror
+	2 Reactor Ignition
+	2 Augmented Starfighter
+	2 Heart of Astorethe
+	2 Exhurga, Origin of Mania
+	2 Celestial Generator
+	2 Projection Armor
+	2 Outpost Zero
+	6 Deflector Operative
+	6 Neon Enforcement
+	6 Clattering Chitin
+	6 Consuming Tide
+	6 Bravo-2 Contractee
+	6 Suppression Fire
+	6 Exfiltration Coordinator
+	6 Call to Action
+	6 Luminescent Aberration
+	6 Genome Sequencing
+	6 Morphose Plague
+	6 Bioweapon Engineers
+	6 Circuit Liberator
+	6 Galactic Rending
+	6 Ghoulish Stillthroat
+	6 Pathcutter Drone
+	6 Razefire Raid
+	6 Twilight Observer
+	6 Vegetative Biopsy
+	2 Lunar Bog
+	2 Basaltic Reef
+	2 Luminous Fen
+	2 Saltspire Expanse
+	2 Cascading Grotto
+	2 Null-Tide Seabed
+	2 Tendril Quagmire
+	2 Crimson Moor
+	2 Brewing Crag
+	2 Stillgrove Narrows
+	6 Ruins Analysis
+	6 Agricultural Analysis
+	6 Militech Analysis
+	2 Contain for Study
+	2 Colony Map
+	2 Devastating Blast
+	2 Insatiable Petrifier
+	6 Origin Stone Shard
+	6 Fallback Plan
+	6 Tundra Lurker
+	6 Omen of Contagion
+	6 Crash Landing
+	6 Telemagnetic Reclaimation
+	6 Kinetic Shieldbearer
+	6 Hapless Innovators
+	6 Intensive Study
+	2 Brain Eater
+	2 Twincannon Warbot
+	2 Undead Bioroid
+	2 Abandon Ship
+	6 Creeping Scavenger
+	2 Desperate Wayfarer
+	6 Hardened Commando
+	2 Devastating Dilemma
+	1 Xathyz, Eternal Matriarch
+	6 Blackmarket Orchestrator
+	6 Mobile Containment Unit
+	6 Crisis Assayer
+	6 Terminal Infection
+	6 Relentless Miscreant
+	6 Climactic Rebuke
+	6 Eldritch Summoning
+	6 Stun Baton
+	6 Portable Incinerator
+	6 Intel Breach
+	2 Piercing Duplicant
+	2 Scallia, Primal Morphling
+	6 Invader Construct
+	2 Predatious Bristleback
+	2 Parsec Tactician
+	1 Garruk, Augmented Tracker
+	1 Stellar Phoenix
+	2 Primordial Shaper
+	6 Mori-Bloom
+	2 Precognitive Tactics
+	2 Orbital Distorter
+	12 Spec-Ops Forerunner
+	6 Homogeneous Vessel
+	12 Synthesis Volunteer
+	6 Unwitting Host
+[wildcard(1)]
+	6 Forsaken Expedition
 	6 Portent Resonance
 	6 Taloncrawler
 	15 Renegade Academy
@@ -2618,18 +2986,22 @@
 	15 Houkkipi Scavengers
 	15 Biogenic Upgrade
 	6 Brush Surveyor
-	6 Consuming Polyp
+	15 Consuming Polyp
 	6 Spontaneous Outburst
 	6 Brutal Acquisition
 	15 Rapid Incubation
 	6 Poison Whip-Tail
 	7 Burgeoning Ascomycota
+	6 Radar Glade
 	6 Whirring Surveyor
 	6 Agile Furrowite
 	6 Profound Discovery
 	6 Methodical Infantry
 	6 Anti-Aerial Crawler
 	6 Hazard Enviro-Mech
+	6 Plithium Processing Plant
+	6 Buoyant Bay Port
+	6 Bismuth Flats
 	6 Shielding Dome
 	6 Charging Octomare
 	6 Levicycle Courier
@@ -2637,6 +3009,12 @@
 	6 Navigator Core
 	6 Watcher in the Void
 	6 Digitized Duo
+	6 Cultivation Platforms
+	6 Wetland Botany Lab
+	6 Glacial Mill
+	6 Isle of Prophecy
+	6 Cavern of Piety
+	6 Auroral Cliffs
 	6 Precursor Colony
 	6 Xeno Reliquary
 	6 Salvage Hunter
@@ -2714,7 +3092,6 @@
 	15 Circuit Liberator
 	15 Galactic Rending
 	15 Ghoulish Stillthroat
-	15 Field of Decay
 	15 Pathcutter Drone
 	15 Razefire Raid
 	15 Twilight Observer
@@ -2752,7 +3129,7 @@
 	15 Creeping Scavenger
 	7 Desperate Wayfarer
 	15 Hardened Commando
-	7 Devastating Dilema
+	7 Devastating Dilemma
 	4 Xathyz, Eternal Matriarch
 	15 Blackmarket Orchestrator
 	15 Mobile Containment Unit
@@ -2771,21 +3148,11 @@
 	7 Parsec Tactician
 	4 Garruk, Augmented Tracker
 	4 Stellar Phoenix
-[Commonland(1)]
-	3 Cultivation Platforms
-	3 Wetland Botany Lab
-	3 Glacial Mill
-	3 Isle of Prophecy
-	3 Cavern of Piety
-	3 Auroral Cliffs
-	3 Plithium Processing Plant
-	3 Buoyant Bay Port
-	3 Bismuth Flats
-	3 Radar Glade
-[Tokens(1)]
-	24 Specimen
-	3 Construct
-	3 Drone
-	3 Mercenary
-	3 Beast
-	3 Parasite
+	7 Primordial Shaper
+	15 Mori-Bloom
+	7 Precognitive Tactics
+	7 Orbital Distorter
+	6 Spec-Ops Forerunner
+	15 Homogeneous Vessel
+	6 Synthesis Volunteer
+	15 Unwitting Host

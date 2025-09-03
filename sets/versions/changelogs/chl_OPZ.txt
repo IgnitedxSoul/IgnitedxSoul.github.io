@@ -1,4 +1,188 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Forsaken Expedition added.
+Devastating Dilemma added.
+Primordial Shaper added.
+Mori-Bloom added.
+Precognitive Tactics added.
+Orbital Distorter added.
+Spec-Ops Forerunner added.
+Homogeneous Vessel added.
+Synthesis Volunteer added.
+Unwitting Host added.
+
+Doomed Expedition removed.
+Field of Decay removed.
+Devastating Dilema removed.
+
+Renegade Academy
+rules_text: This land enters tapped.
+{T}: Add {W}.
+[i]Catastrophe[/i] — {3}{W}, {T}, Exile five cards from your graveyard. Transform this land. Activate only as a sorcery. => This land enters tapped.
+{T}: Add {W}.
+[i]Catastrophe[/i] — {3}{W}, {T}: Transform this land. Activate only as a sorcery and only if you have seven or more cards in your graveyard.
+
+Expedition Range
+rules_text: This land enters tapped.
+{T}: Add {G}.
+[i]Catastrophe [/i]— {4}{G}, {T}, Exile five cards from your graveyard: Transform this land. Activate only as a sorcery. => This land enters tapped.
+{T}: Add {G}.
+[i]Catastrophe [/i]— {3}{G}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Voyager Station
+rules_text: This enters tapped.
+{T}: Add {U}.
+[i]Catastrophe[/i] — {2}{U}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {U}.
+[i]Catastrophe[/i] — {1}{U}, {T}: Transform this land. Activate only as a sorcery and only if you have seven or more cards in your graveyard.
+
+Plithium Quarry
+rules_text: This enters tapped.
+{T}: Add {B}.
+[i]Catastrophe[/i] — {4}{B}, {T}, Exile five cards from your graveyard. Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {B}.
+[i]Catastrophe[/i] — {3}{B}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery.
+
+Innovative Hangar
+rules_text: This enters tapped.
+{T}: Add {R}.
+[i]Catastrophe[/i] — {5}{R}, {T}, Exile six cards from your graveyard. Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {R}.
+[i]Catastrophe[/i] — {4}{R}, {T}, Exile five cards from your graveyard. Transform this land. Activate only as a sorcery.
+
+Gleaming Kite
+type: Artifact Creature — Construct => Artifact Creature — Bird Construct
+
+Painful Excision
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards and create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+
+Pyroclastic Crewmate
+rules_text: Whenever this creature becomes the target of a spell or ability you control for the first time each turn, it gets +1/+0 and gains first strike until end of turn. => You may strain this creature as it attacks. When you do, this creature deals 1 damage to each opponent. [i](To strain, tap it then put a stun counter on it.)[/i]
+{R}: This creature gets +1/+0 until end of turn.
+
+Skittering Swarm
+rules_text: At the beginning of your end step, if you're desperate, this creature deals 1 damage to each opponent. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Menace
+At the beginning of your end step, if you're desperate, you may discard a card. If you do, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+
+Consuming Polyp
+
+Spontaneous Outburst
+
+Methodical Infantry
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life. => When this creature enters, target creature an opponent controls gets -1/-1 until end of turn.
+{2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life.
+pt: 3/2 => 2/2
+
+Hazard Enviro-Mech
+rules_text: As long as you control an Outpost, this creature gets +2/+0 and has trample. => You may strain this creature as it attacks. When you do, this creature gains trample and gets +2/+2 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]
+
+Charging Octomare
+rules_text: During your turn, this creature has first strike.
+You may strain this creature as it attacks. When you do, creatures you control get +1/+1 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i] => During your turn, this creature has first strike.
+Whenever this creature attacks with two or more other creatures, untap it and put a +1/+1 counter on it.
+
+Sudden Evacuation
+rules_text: Target creature you control gets +2/+2 until end of turn. You may strain that creature. When you do, it also gains indestructible until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i] => Target creature you control gets +2/+2 until end of turn. If that creature is attacking, it also gains indestructible until end of turn.
+
+Precursor Colony
+rules_text: {T}: Add {C}.
+[i]Catastrophe[/i] — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery. => {T}: Add {C}.
+[i]Catastrophe[/i] — {T}: Transform this land. Activate only as a sorcery and only if you have four or more cards in your graveyard.
+
+Xeno Reliquary
+type: Land => Artifact Land — Specimen
+rules_text: This land enters tapped.
+When this land enters, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{1}, {T}, Sacrifice this land: Experiment on target permanent you control. Activate only as a sorcery. [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Void Specter
+rules_text: Flying
+{B}, Discard a card: This creature gets +1/+1 until end of turn. => Flying
+Discard a card: This creature gets +1/+1 until end of turn.
+
+Field Expeditioners
+rules_text: Whenever you cast your second spell each turn, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => You may strain this creature as it attacks. When you do, this creature gets +2/+1 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]
+When this creature dies, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+
+Nurturing Mantisworm
+rules_text: {T}: Add {G}.
+{2}, Sacrifice this creature: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => {T}: Add {G}.
+{1}{G}, Sacrifice this creature: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Anomalous Animation
+cost: {4}{B} => {2}{B}{B}
+rules_text: Put target creature card from a graveyard onto the battlefield under your control. Then experiment on that creature. [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i] => Choose one —
+• Return target creature card from your graveyard to the battlefield.
+• Create three 1/1 red Mercenary creature tokens with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+
+Artificial Warfront
+
+Exhurga, Origin of Mania
+rules_text: Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Vigilance, trample, haste
+At the beginning of your end step, if you sacrificed a permanent this turn, create a 1/1 black Parasite creature token with “This creature can't block.” => Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Vigilance, trample, haste
+At the beginning of your end step, if you sacrificed a permanent this turn, create two 1/1 black Parasite creature tokens with “This creature can't block.”
+
+Exfiltration Coordinator
+pt: 4/3 => 4/4
+
+Ghoulish Stillthroat
+rules_text: Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with a +1/+1 counter on it for each creature that died this turn. => Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Trample
+This creature enters with a +1/+1 counter on it for each creature that died this turn.
+
+Twilight Observer
+
+Vegetative Biopsy
+type: Instant => Enchantment
+cost: {1}{G}{U} => {G}{U}
+rules_text: Surveil 1, then draw a card. You may put a land card from your hand or graveyard onto the battlefield tapped. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => You may look at an additional card each time you surveil.
+When this enchantment enters, surveil 1, then draw a card. You may put a land card from your hand or graveyard onto the battlefield tapped. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Undead Bioroid
+rules_text: Menace
+At the beginning of each end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a creature you control died this turn. You're fully desperate if you've done all three.)[/i] => Menace
+At the beginning of each end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a permanent died under your control this turn. You're fully desperate if you've done all three.)[/i]
+
+Climactic Rebuke
+rules_text: If any player is desperate, this spell costs {U} less. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+Counter target spell. => This spell costs {U} less to cast if any player is desperate. [i](They're desperate if they've discarded a card, lost 3 or more life, or a permanent died under their control this turn.)[/i]
+Counter target spell.
+
+Intel Breach
+rules_text: You may cast this spell for {R} rather than its mana cost if an opponent is desperate. [i](They're desperate if they've discarded a card, lost 3 or more life, or a creature died under their control this turn.)[/i]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards. => This spell costs {2} less to cast if any player is desperate. [i](They're desperate if they've discarded a card, lost 3 or more life, or a permanent died under their control this turn.)[/i]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Predatious Bristleback
+type: Creature => Creature — Beast
+rules_text: Haste
+You may strain this creature as it attacks. When you do, it fights target creature. [i](To strain, tap it then put a stun counter on it.)[/i] => Trample
+You may strain this creature as it attacks. When you do, it fights target creature. Excess damage is dealt to that creature's controller instead. [i](To strain, tap it then put a stun counter on it.)[/i]
+
+
+type: Instant => Creature
+cost: {2}{U} => {U}
+rules_text: Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Return target nonland permanent to its owner's hand.
+Draw a card. => 
+
+
+type: Instant => Legendary Creature — Human Scientist
+cost: {2}{U} => {B}{G}{U}
+rules_text: Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Return target nonland permanent to its owner's hand.
+Draw a card. => 
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
