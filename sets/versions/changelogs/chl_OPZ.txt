@@ -1,4 +1,12 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Stalking Wispbeast
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Forsaken Expedition added.
