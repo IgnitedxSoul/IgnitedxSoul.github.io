@@ -2472,7 +2472,7 @@
 	3 Buoyant Bay Port
 	3 Bismuth Flats
 	3 Radar Glade
-[common(7)]
+[common(8)]
 	8 Forsaken Expedition
 	8 Portent Resonance
 	8 Taloncrawler
