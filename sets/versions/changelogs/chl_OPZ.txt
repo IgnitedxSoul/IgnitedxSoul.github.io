@@ -1,4 +1,19 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Temporal Harness added.
+Arboreal Sinewvine added.
+Enforcer's Assault Rifle added.
+
+Projection Armor removed.
+
+Celestial Generator
+rules_text: {T}: Add one mana of any color. Put a charge counter on this artifact.
+{T}, Remove X charge counters from this artifact: Copy target spell you control with mana value X. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => {T}: Add {C}. Put a charge counter on this artifact.
+{T}, Remove X charge counters from this artifact: Look at the top X cards of your library. You may cast a spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
