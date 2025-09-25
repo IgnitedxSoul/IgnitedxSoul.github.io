@@ -1,4 +1,41 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Shorecrasher Titan added.
+Maxine, Cynical Renegade added.
+Charim Kosta, Hullraider added.
+Plithium-Plated Mech added.
+Feasting Skittermaw added.
+Keilan, Rabble-Rouser added.
+Sterile Reconstruction added.
+Malignant Venomwing added.
+
+Hullbreaker Horror removed.
+Brain Eater removed.
+
+Consider the Cosmos
+type: Instant => Sorcery
+rules_text: Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order. => Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Draw X cards, then discard a card.
+
+Lunar Archfiend
+rules_text: Flying
+This creature's power and toughness are each equal to the number of creature cards in all graveyards.
+At the beginning of your upkeep, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flying
+At the beginning of your upkeep, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Whenever a creature card enters your graveyard from anywhere other than the battlefield, you may pay life equal to its mana value. When you do, return that card to your hand.
+pt: */* => 3/3
+
+Desperate Wayfarer
+rules_text: At the beginning of each end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Lifelink
+At the beginning of each end step, put a +1/+1 counter on this creature for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+pt: 1/1 => 1/2
+
+Hive Queen
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Scour the Ruins added.
