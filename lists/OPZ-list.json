@@ -1118,7 +1118,7 @@
     "a->gold",
     {
         "card_name": "Maxine, Cynical Renegade",
-        "number": 201,
+        "number": 205,
         "shape": "planeswalker",
         "set": "OPZ"
     },
@@ -1129,26 +1129,26 @@
         "set": "OPZ"
     },
     {
-        "card_name": "Charim Kosta, Hullraider",
-        "number": 188,
-        "shape": "planeswalker",
+        "card_name": "Scallia, Primal Morphling",
+        "number": 214,
+        "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Keilan, Rabble-Rouser",
-        "number": 198,
+        "number": 202,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Sterile Reconstruction",
-        "number": 210,
+        "number": 216,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Orbital Distorter",
-        "number": 204,
+        "number": 208,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1159,20 +1159,20 @@
         "set": "OPZ"
     },
     {
-        "card_name": "Scallia, Primal Morphling",
-        "number": 209,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Call to Action",
+        "card_name": "Bravo-2 Contractee",
         "number": 187,
         "shape": "normal",
         "set": "OPZ"
     },
     {
+        "card_name": "Call to Action",
+        "number": 188,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
         "card_name": "Genome Sequencing",
-        "number": 195,
+        "number": 199,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1189,35 +1189,26 @@
         "set": "OPZ"
     },
     {
-        "card_name": "Bravo-2 Contractee",
-        "number": 186,
+        "card_name": "Suppression Fire",
+        "number": 217,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Exfiltration Coordinator",
-        "number": 193,
+        "number": 196,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Luminescent Aberration",
-        "number": 199,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Neon Enforcement",
         "number": 203,
         "shape": "normal",
         "set": "OPZ"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Suppression Fire",
-        "number": 211,
+        "card_name": "Neon Enforcement",
+        "number": 207,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1228,7 +1219,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1241,6 +1235,39 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Seed of Infection",
+        "number": 215,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Evelyn, Battle Calculatrix",
+        "number": 195,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Xathyz, Eternal Matriarch",
+        "number": 220,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Blitzwing Striker",
+        "number": 186,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Eldritch Haruspex",
+        "number": 194,
+        "shape": "normal",
+        "set": "OPZ"
     },
     {
         "card_name": "Bioweapon Engineers",
@@ -1255,50 +1282,50 @@
         "set": "OPZ"
     },
     {
-        "card_name": "Xathyz, Eternal Matriarch",
-        "number": 214,
+        "card_name": "Dread Reaper",
+        "number": 193,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Pathcutter Drone",
-        "number": 205,
+        "number": 209,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Twilight Observer",
-        "number": 212,
+        "number": 218,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Morphose Plague",
-        "number": 202,
+        "number": 206,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Galactic Rending",
-        "number": 194,
+        "number": 198,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Ghoulish Stillthroat",
-        "number": 196,
+        "number": 200,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Razefire Raid",
-        "number": 208,
+        "number": 212,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Vegetative Biopsy",
-        "number": 213,
+        "number": 219,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1310,54 +1337,60 @@
     },
     {
         "card_name": "Homogeneous Vessel",
+        "number": 201,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Fluxreactor Manticore",
         "number": 197,
         "shape": "normal",
         "set": "OPZ"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
         "card_name": "Malignant Venomwing",
-        "number": 200,
+        "number": 204,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Piercing Duplicant",
-        "number": 206,
+        "number": 210,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Relentless Raid",
+        "number": 213,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Primordial Shaper",
-        "number": 207,
+        "number": 211,
         "shape": "normal",
         "set": "OPZ"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1374,73 +1407,73 @@
     "a->colorless",
     {
         "card_name": "Celestial Generator",
-        "number": 216,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Path Treading Tank",
-        "number": 223,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Temporal Harness",
-        "number": 224,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Astral Strategist",
-        "number": 215,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Ensnaring Matrix",
-        "number": 218,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Invader Construct",
-        "number": 220,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Multi-Point Waygate",
-        "number": 221,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Organic Printer",
         "number": 222,
         "shape": "normal",
         "set": "OPZ"
     },
     {
+        "card_name": "Path Treading Tank",
+        "number": 229,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Temporal Harness",
+        "number": 230,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Astral Strategist",
+        "number": 221,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Ensnaring Matrix",
+        "number": 224,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Invader Construct",
+        "number": 226,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Multi-Point Waygate",
+        "number": 227,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Organic Printer",
+        "number": 228,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
         "card_name": "Corrupted Monitor",
-        "number": 217,
+        "number": 223,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Hull Mechanic",
-        "number": 219,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Tri-Lateral Grenade",
         "number": 225,
         "shape": "normal",
         "set": "OPZ"
     },
     {
+        "card_name": "Tri-Lateral Grenade",
+        "number": 231,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
         "card_name": "Whirring Surveyor",
-        "number": 226,
+        "number": 232,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1468,31 +1501,31 @@
     "a->land",
     {
         "card_name": "Renegade Academy",
-        "number": 239,
+        "number": 245,
         "shape": "transform double faced",
         "set": "OPZ"
     },
     {
         "card_name": "Voyager Station",
-        "number": 243,
+        "number": 249,
         "shape": "transform double faced",
         "set": "OPZ"
     },
     {
         "card_name": "Plithium Quarry",
-        "number": 237,
+        "number": 243,
         "shape": "transform double faced",
         "set": "OPZ"
     },
     {
         "card_name": "Innovative Hangar",
-        "number": 232,
+        "number": 238,
         "shape": "transform double faced",
         "set": "OPZ"
     },
     {
         "card_name": "Expedition Range",
-        "number": 231,
+        "number": 237,
         "shape": "transform double faced",
         "set": "OPZ"
     },
@@ -1513,61 +1546,61 @@
     },
     {
         "card_name": "Null-Tide Seabed",
-        "number": 235,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Tendril Quagmire",
-        "number": 242,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Crimson Moor",
-        "number": 230,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Brewing Crag",
-        "number": 228,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Stillgrove Narrows",
         "number": 241,
         "shape": "normal",
         "set": "OPZ"
     },
     {
-        "card_name": "Buoyant Bay Port",
+        "card_name": "Tendril Quagmire",
+        "number": 248,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Crimson Moor",
+        "number": 236,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Brewing Crag",
+        "number": 234,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Stillgrove Narrows",
         "number": 247,
         "shape": "normal",
         "set": "OPZ"
     },
     {
-        "card_name": "Bismuth Flats",
-        "number": 246,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Auroral Cliffs",
-        "number": 245,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Radar Glade",
+        "card_name": "Buoyant Bay Port",
         "number": 253,
         "shape": "normal",
         "set": "OPZ"
     },
     {
-        "card_name": "Plithium Processing Plant",
+        "card_name": "Bismuth Flats",
         "number": 252,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Auroral Cliffs",
+        "number": 251,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Radar Glade",
+        "number": 259,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Plithium Processing Plant",
+        "number": 258,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1588,61 +1621,61 @@
     },
     {
         "card_name": "Lunar Bog",
-        "number": 234,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Basaltic Reef",
-        "number": 227,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Luminous Fen",
-        "number": 233,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Saltspire Expanse",
         "number": 240,
         "shape": "normal",
         "set": "OPZ"
     },
     {
+        "card_name": "Basaltic Reef",
+        "number": 233,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Luminous Fen",
+        "number": 239,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Saltspire Expanse",
+        "number": 246,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
         "card_name": "Cascading Grotto",
-        "number": 229,
+        "number": 235,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Cavern of Piety",
-        "number": 248,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Glacial Mill",
-        "number": 250,
-        "shape": "normal",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Wetland Botany Lab",
         "number": 254,
         "shape": "normal",
         "set": "OPZ"
     },
     {
+        "card_name": "Glacial Mill",
+        "number": 256,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Wetland Botany Lab",
+        "number": 260,
+        "shape": "normal",
+        "set": "OPZ"
+    },
+    {
         "card_name": "Cultivation Platforms",
-        "number": 249,
+        "number": 255,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Isle of Prophecy",
-        "number": 251,
+        "number": 257,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1663,19 +1696,19 @@
     },
     {
         "card_name": "Outpost Zero",
-        "number": 236,
+        "number": 242,
         "shape": "transform double faced",
         "set": "OPZ"
     },
     {
         "card_name": "Precursor Colony",
-        "number": 238,
+        "number": 244,
         "shape": "transform double faced",
         "set": "OPZ"
     },
     {
         "card_name": "Xeno Reliquary",
-        "number": 244,
+        "number": 250,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1702,31 +1735,31 @@
     },
     {
         "card_name": "Mountain",
-        "number": 258,
+        "number": 264,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Forest",
-        "number": 259,
+        "number": 265,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Island",
-        "number": 256,
+        "number": 262,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Swamp",
-        "number": 257,
+        "number": 263,
         "shape": "normal",
         "set": "OPZ"
     },
     {
         "card_name": "Plains",
-        "number": 255,
+        "number": 261,
         "shape": "normal",
         "set": "OPZ"
     },
@@ -1745,48 +1778,57 @@
     "a->token",
     {
         "card_name": "Construct",
-        "number": 4,
-        "shape": "token",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Drone",
-        "number": 5,
-        "shape": "token",
-        "set": "OPZ"
-    },
-    {
-        "card_name": "Specimen",
         "number": 6,
         "shape": "token",
         "set": "OPZ"
     },
     {
-        "card_name": "Parasite",
+        "card_name": "Drone",
+        "number": 7,
+        "shape": "token",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Specimen",
+        "number": 8,
+        "shape": "token",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Maxine, Cynical Renegade",
+        "number": 9,
+        "shape": "token",
+        "set": "OPZ"
+    },
+    {
+        "card_name": "Horror",
         "number": 1,
         "shape": "token",
         "set": "OPZ"
     },
     {
-        "card_name": "Mercenary",
+        "card_name": "Horror",
         "number": 2,
         "shape": "token",
         "set": "OPZ"
     },
     {
-        "card_name": "Beast",
+        "card_name": "Parasite",
         "number": 3,
         "shape": "token",
         "set": "OPZ"
     },
     {
-        "card_name": "e"
+        "card_name": "Mercenary",
+        "number": 4,
+        "shape": "token",
+        "set": "OPZ"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Beast",
+        "number": 5,
+        "shape": "token",
+        "set": "OPZ"
     },
     {
         "card_name": "e"

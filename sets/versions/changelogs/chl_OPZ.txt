@@ -1,4 +1,47 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Horror added.
+Seed of Infection added.
+Evelyn, Battle Calculatrix added.
+Dread Reaper added.
+Blitzwing Striker added.
+Eldritch Haruspex added.
+Fluxreactor Manticore added.
+Relentless Raid added.
+Maxine, Cynical Renegade added.
+Horror added.
+
+Charim Kosta, Hullraider removed.
+
+Taloncrawler
+
+Frightened Trainee
+
+Whirring Surveyor
+
+Parasite
+
+Creeping Scavenger
+rules_text: Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a number of +1/+1 counters equal to the number of creatures that died this turn. => Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card.
+pt: 0/0 => 1/1
+
+Scallia, Primal Morphling
+rules_text: Whenever Scallia attacks, it deals damage equal to its power to any target.
+Tap three untapped mercenaries you control: Return this card from your graveyard to your hand. => Whenever Scallia attacks, she deals damage equal to her power to any target.
+Tap three untapped mercenaries you control: Return this card from your graveyard to your hand.
+
+Sterile Reconstruction
+cost: {1}{G}{W} => {3}{G}{W}
+rules_text: As an additional cost to cast this spell, exile any number of creature cards from your graveyard and/or hand.
+Search your library for a creature card with a mana value less than or equal to the number of cards exiled to cast this spell, put it onto the battlefield, then shuffle. => You may exile any number of creature cards from your hand and/or graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.
+Search your library for up to two creature cards, each with mana value 3 or less. Reveal them. Put one of them onto the battlefield, put the other into your hand, and then shuffle.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Shorecrasher Titan added.
