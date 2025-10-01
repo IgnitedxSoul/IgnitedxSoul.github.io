@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -188,7 +189,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="TOA"><img src="/sets/TOA-files/icon.png">Trials of Aenaris</a>
 	
@@ -200,186 +201,186 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\TOA-files\img\1_CW01 Eager Fledgling.png" id="1_CW01 Eager Fledgling" data-flag="@X" onclick="openSidebar('1_CW01 Eager Fledgling',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\27_RU Xanthicar, the Mad Prohpet.png" id="27_RU Xanthicar, the Mad Prohpet" data-flag="@X" onclick="openSidebar('27_RU Xanthicar, the Mad Prohpet',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\43_MB Bitterblossom.png" id="43_MB Bitterblossom" data-flag="@X" onclick="openSidebar('43_MB Bitterblossom',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\59_MR Nyhela Awoken.png" id="59_MR Nyhela Awoken" data-flag="@X" onclick="openSidebar('59_MR Nyhela Awoken',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\78_RG Bramble Fiend.png" id="78_RG Bramble Fiend" data-flag="@X" onclick="openSidebar('78_RG Bramble Fiend',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\2_CW02 Against the Odds.png" id="2_CW02 Against the Odds" data-flag="@X" onclick="openSidebar('2_CW02 Against the Odds',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\28_RU Xanthicar's Augury.png" id="28_RU Xanthicars Augury" data-flag="@X" onclick="openSidebar('28_RU Xanthicars Augury',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\44_UB Bog Crystals.png" id="44_UB Bog Crystals" data-flag="@X" onclick="openSidebar('44_UB Bog Crystals',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\60_RR Harness... something....png" id="60_RR Harness... something..." data-flag="@X" onclick="openSidebar('60_RR Harness... something...',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\65_CG01 Corpse Adorner.png" id="65_CG01 Corpse Adorner" data-flag="@X" onclick="openSidebar('65_CG01 Corpse Adorner',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\3_CW03 Nephiiram Martyr.png" id="3_CW03 Nephiiram Martyr" data-flag="@X" onclick="openSidebar('3_CW03 Nephiiram Martyr',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\29_UU Nebulous Confirmation.png" id="29_UU Nebulous Confirmation" data-flag="@X" onclick="openSidebar('29_UU Nebulous Confirmation',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\45_UB Deepwoods Stalker.png" id="45_UB Deepwoods Stalker" data-flag="@X" onclick="openSidebar('45_UB Deepwoods Stalker',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\61_RR Raze the Fields.png" id="61_RR Raze the Fields" data-flag="@X" onclick="openSidebar('61_RR Raze the Fields',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\66_CG02 Giant Growth.png" id="66_CG02 Giant Growth" data-flag="@X" onclick="openSidebar('66_CG02 Giant Growth',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\4_CW04 Royal Escort.png" id="4_CW04 Royal Escort" data-flag="@X" onclick="openSidebar('4_CW04 Royal Escort',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\14_CU01 Il'Umari Trapper.png" id="14_CU01 IlUmari Trapper" data-flag="@X" onclick="openSidebar('14_CU01 IlUmari Trapper',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\30_CB01 Delayed Atonement.png" id="30_CB01 Delayed Atonement" data-flag="@X" onclick="openSidebar('30_CB01 Delayed Atonement',false)"></div>
-				<div class="container"><img data-alt_src="/sets\TOA-files\img\62_UR Assault Elemental_back.png" alt="/sets\TOA-files\img\62_UR Assault Elemental_front.png" id="62_UR Assault Elemental" data-flag="@XD" onclick="openSidebar('62_UR Assault Elemental',false)"><button class="flip-btn" onclick="imgFlip('62_UR Assault Elemental')"></button></div>
-				<div class="container"><img alt="/sets\TOA-files\img\67_CG03 Noxious Spore.png" id="67_CG03 Noxious Spore" data-flag="@X" onclick="openSidebar('67_CG03 Noxious Spore',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\5_CW05 Agile Lifeweaver.png" id="5_CW05 Agile Lifeweaver" data-flag="@X" onclick="openSidebar('5_CW05 Agile Lifeweaver',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\15_CU02 Witching Well.png" id="15_CU02 Witching Well" data-flag="@X" onclick="openSidebar('15_CU02 Witching Well',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\31_CB02 Il'Umari Practitioner.png" id="31_CB02 IlUmari Practitioner" data-flag="@X" onclick="openSidebar('31_CB02 IlUmari Practitioner',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\63_UR Rapacious Dragon.png" id="63_UR Rapacious Dragon" data-flag="@X" onclick="openSidebar('63_UR Rapacious Dragon',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\68_CG04 Lingering Croc.png" id="68_CG04 Lingering Croc" data-flag="@X" onclick="openSidebar('68_CG04 Lingering Croc',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\6_CW06 Orrery Guard.png" id="6_CW06 Orrery Guard" data-flag="@X" onclick="openSidebar('6_CW06 Orrery Guard',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\16_CU03 Il'Umari Dreamer.png" id="16_CU03 IlUmari Dreamer" data-flag="@X" onclick="openSidebar('16_CU03 IlUmari Dreamer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\32_CB03 Ebon Anointer.png" id="32_CB03 Ebon Anointer" data-flag="@X" onclick="openSidebar('32_CB03 Ebon Anointer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\64_UR Volcanic Forge.png" id="64_UR Volcanic Forge" data-flag="@X" onclick="openSidebar('64_UR Volcanic Forge',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\69_CG05 Bramble Armor.png" id="69_CG05 Bramble Armor" data-flag="@X" onclick="openSidebar('69_CG05 Bramble Armor',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\7_CW07 Savage Strike.png" id="7_CW07 Savage Strike" data-flag="@X" onclick="openSidebar('7_CW07 Savage Strike',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\17_CU04 Essence Tamer.png" id="17_CU04 Essence Tamer" data-flag="@X" onclick="openSidebar('17_CU04 Essence Tamer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\33_CB04 Covert Operative.png" id="33_CB04 Covert Operative" data-flag="@X" onclick="openSidebar('33_CB04 Covert Operative',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\46_CR01 Omenseer Imbuer.png" id="46_CR01 Omenseer Imbuer" data-flag="@X" onclick="openSidebar('46_CR01 Omenseer Imbuer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\70_CG06 Heart of the Forest.png" id="70_CG06 Heart of the Forest" data-flag="@X" onclick="openSidebar('70_CG06 Heart of the Forest',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\8_CW08 Sanctum Blade.png" id="8_CW08 Sanctum Blade" data-flag="@X" onclick="openSidebar('8_CW08 Sanctum Blade',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\18_CU05 Crystaline Carapace.png" id="18_CU05 Crystaline Carapace" data-flag="@X" onclick="openSidebar('18_CU05 Crystaline Carapace',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\34_CB05 K'Llei Ritual.png" id="34_CB05 KLlei Ritual" data-flag="@X" onclick="openSidebar('34_CB05 KLlei Ritual',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\47_CR02 Galvanic Blast.png" id="47_CR02 Galvanic Blast" data-flag="@X" onclick="openSidebar('47_CR02 Galvanic Blast',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\71_CG07 Quick-Draw Archer.png" id="71_CG07 Quick-Draw Archer" data-flag="@X" onclick="openSidebar('71_CG07 Quick-Draw Archer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\9_CW09 Ceremony Leader.png" id="9_CW09 Ceremony Leader" data-flag="@X" onclick="openSidebar('9_CW09 Ceremony Leader',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\19_CU06 Spell Stutter.png" id="19_CU06 Spell Stutter" data-flag="@X" onclick="openSidebar('19_CU06 Spell Stutter',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\35_CB06 Battleworthy Sacrifice.png" id="35_CB06 Battleworthy Sacrifice" data-flag="@X" onclick="openSidebar('35_CB06 Battleworthy Sacrifice',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\48_CR03 Battle Rage.png" id="48_CR03 Battle Rage" data-flag="@X" onclick="openSidebar('48_CR03 Battle Rage',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\72_CG08 Decaying Swine.png" id="72_CG08 Decaying Swine" data-flag="@X" onclick="openSidebar('72_CG08 Decaying Swine',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\10_CW10 Smite the Mighty.png" id="10_CW10 Smite the Mighty" data-flag="@X" onclick="openSidebar('10_CW10 Smite the Mighty',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\20_CU07 Frontline Sprite.png" id="20_CU07 Frontline Sprite" data-flag="@X" onclick="openSidebar('20_CU07 Frontline Sprite',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\36_CB07 Mourning Blade.png" id="36_CB07 Mourning Blade" data-flag="@X" onclick="openSidebar('36_CB07 Mourning Blade',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\49_CR04 Vault Robber.png" id="49_CR04 Vault Robber" data-flag="@X" onclick="openSidebar('49_CR04 Vault Robber',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\73_CG09 Nature's Reach.png" id="73_CG09 Natures Reach" data-flag="@X" onclick="openSidebar('73_CG09 Natures Reach',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\11_CW11 Guiding Herald.png" id="11_CW11 Guiding Herald" data-flag="@X" onclick="openSidebar('11_CW11 Guiding Herald',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\21_CU08 Eliuum Construct.png" id="21_CU08 Eliuum Construct" data-flag="@X" onclick="openSidebar('21_CU08 Eliuum Construct',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\37_CB08 Il'Umari Herald.png" id="37_CB08 IlUmari Herald" data-flag="@X" onclick="openSidebar('37_CB08 IlUmari Herald',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\50_CR05 Hilgarde Plunderer.png" id="50_CR05 Hilgarde Plunderer" data-flag="@X" onclick="openSidebar('50_CR05 Hilgarde Plunderer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\74_CG10 Ancestral Dryad.png" id="74_CG10 Ancestral Dryad" data-flag="@X" onclick="openSidebar('74_CG10 Ancestral Dryad',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\12_CW12 Cloudsworn Blessing.png" id="12_CW12 Cloudsworn Blessing" data-flag="@X" onclick="openSidebar('12_CW12 Cloudsworn Blessing',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\22_CU09 Majestic Metamorphosis.png" id="22_CU09 Majestic Metamorphosis" data-flag="@X" onclick="openSidebar('22_CU09 Majestic Metamorphosis',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\38_CB09 Undercity Scrounger.png" id="38_CB09 Undercity Scrounger" data-flag="@X" onclick="openSidebar('38_CB09 Undercity Scrounger',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\51_CR06 Unstable Chargestone.png" id="51_CR06 Unstable Chargestone" data-flag="@X" onclick="openSidebar('51_CR06 Unstable Chargestone',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\75_CG11 Hunter's Pursuit.png" id="75_CG11 Hunters Pursuit" data-flag="@X" onclick="openSidebar('75_CG11 Hunters Pursuit',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\13_CW13 Militia Caller.png" id="13_CW13 Militia Caller" data-flag="@X" onclick="openSidebar('13_CW13 Militia Caller',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\23_CU10 Crystaline Titan.png" id="23_CU10 Crystaline Titan" data-flag="@X" onclick="openSidebar('23_CU10 Crystaline Titan',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\39_CB10 Il'Umari Web-Weaver.png" id="39_CB10 IlUmari Web-Weaver" data-flag="@X" onclick="openSidebar('39_CB10 IlUmari Web-Weaver',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\52_CR07 Sailkite Bandit.png" id="52_CR07 Sailkite Bandit" data-flag="@X" onclick="openSidebar('52_CR07 Sailkite Bandit',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\76_CG12 Bramble Envoy.png" id="76_CG12 Bramble Envoy" data-flag="@X" onclick="openSidebar('76_CG12 Bramble Envoy',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\24_CU11 Wayward Swarm.png" id="24_CU11 Wayward Swarm" data-flag="@X" onclick="openSidebar('24_CU11 Wayward Swarm',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\40_CB11 Grim Bounty.png" id="40_CB11 Grim Bounty" data-flag="@X" onclick="openSidebar('40_CB11 Grim Bounty',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\53_CR08 Bonewhip Brawler.png" id="53_CR08 Bonewhip Brawler" data-flag="@X" onclick="openSidebar('53_CR08 Bonewhip Brawler',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\77_CG13 Bloodthirsty Bear.png" id="77_CG13 Bloodthirsty Bear" data-flag="@X" onclick="openSidebar('77_CG13 Bloodthirsty Bear',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\25_CU12 Plunging Gator.png" id="25_CU12 Plunging Gator" data-flag="@X" onclick="openSidebar('25_CU12 Plunging Gator',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\41_CB12 Striking Owl.png" id="41_CB12 Striking Owl" data-flag="@X" onclick="openSidebar('41_CB12 Striking Owl',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\54_CR09 Omen Steelform.png" id="54_CR09 Omen Steelform" data-flag="@X" onclick="openSidebar('54_CR09 Omen Steelform',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\26_CU13 Afflicted Vision.png" id="26_CU13 Afflicted Vision" data-flag="@X" onclick="openSidebar('26_CU13 Afflicted Vision',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\42_CB13 Graveyard Prowler.png" id="42_CB13 Graveyard Prowler" data-flag="@X" onclick="openSidebar('42_CB13 Graveyard Prowler',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\55_CR10 Molten Brute.png" id="55_CR10 Molten Brute" data-flag="@X" onclick="openSidebar('55_CR10 Molten Brute',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\56_CR11 Big Score.png" id="56_CR11 Big Score" data-flag="@X" onclick="openSidebar('56_CR11 Big Score',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\57_CR12 Capricious Royal.png" id="57_CR12 Capricious Royal" data-flag="@X" onclick="openSidebar('57_CR12 Capricious Royal',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\58_CR13 Pursue the Weak.png" id="58_CR13 Pursue the Weak" data-flag="@X" onclick="openSidebar('58_CR13 Pursue the Weak',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\1_CW01 Eager Fledgling.png" id="1_CW01 Eager Fledgling" data-flag="@X" onclick="openSidebar('1_CW01 Eager Fledgling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\27_RU Xanthicar, the Mad Prohpet.png" id="27_RU Xanthicar, the Mad Prohpet" data-flag="@X" onclick="openSidebar('27_RU Xanthicar, the Mad Prohpet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\43_MB Bitterblossom.png" id="43_MB Bitterblossom" data-flag="@X" onclick="openSidebar('43_MB Bitterblossom',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\59_MR Nyhela Awoken.png" id="59_MR Nyhela Awoken" data-flag="@X" onclick="openSidebar('59_MR Nyhela Awoken',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\78_RG Bramble Fiend.png" id="78_RG Bramble Fiend" data-flag="@X" onclick="openSidebar('78_RG Bramble Fiend',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\2_CW02 Against the Odds.png" id="2_CW02 Against the Odds" data-flag="@X" onclick="openSidebar('2_CW02 Against the Odds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\28_RU Xanthicar's Augury.png" id="28_RU Xanthicars Augury" data-flag="@X" onclick="openSidebar('28_RU Xanthicars Augury',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\44_UB Bog Crystals.png" id="44_UB Bog Crystals" data-flag="@X" onclick="openSidebar('44_UB Bog Crystals',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\60_RR Harness... something....png" id="60_RR Harness... something..." data-flag="@X" onclick="openSidebar('60_RR Harness... something...',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\65_CG01 Corpse Adorner.png" id="65_CG01 Corpse Adorner" data-flag="@X" onclick="openSidebar('65_CG01 Corpse Adorner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\3_CW03 Nephiiram Martyr.png" id="3_CW03 Nephiiram Martyr" data-flag="@X" onclick="openSidebar('3_CW03 Nephiiram Martyr',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\29_UU Nebulous Confirmation.png" id="29_UU Nebulous Confirmation" data-flag="@X" onclick="openSidebar('29_UU Nebulous Confirmation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\45_UB Deepwoods Stalker.png" id="45_UB Deepwoods Stalker" data-flag="@X" onclick="openSidebar('45_UB Deepwoods Stalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\61_RR Raze the Fields.png" id="61_RR Raze the Fields" data-flag="@X" onclick="openSidebar('61_RR Raze the Fields',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\66_CG02 Giant Growth.png" id="66_CG02 Giant Growth" data-flag="@X" onclick="openSidebar('66_CG02 Giant Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\4_CW04 Royal Escort.png" id="4_CW04 Royal Escort" data-flag="@X" onclick="openSidebar('4_CW04 Royal Escort',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\14_CU01 Il'Umari Trapper.png" id="14_CU01 IlUmari Trapper" data-flag="@X" onclick="openSidebar('14_CU01 IlUmari Trapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\30_CB01 Delayed Atonement.png" id="30_CB01 Delayed Atonement" data-flag="@X" onclick="openSidebar('30_CB01 Delayed Atonement',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\TOA-files\img\62_UR Assault Elemental_back.png" alt="/sets\TOA-files\img\62_UR Assault Elemental_front.png" id="62_UR Assault Elemental" data-flag="@XD" onclick="openSidebar('62_UR Assault Elemental',false)"><button class="flip-btn" onclick="imgFlip('62_UR Assault Elemental')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\67_CG03 Noxious Spore.png" id="67_CG03 Noxious Spore" data-flag="@X" onclick="openSidebar('67_CG03 Noxious Spore',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\5_CW05 Agile Lifeweaver.png" id="5_CW05 Agile Lifeweaver" data-flag="@X" onclick="openSidebar('5_CW05 Agile Lifeweaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\15_CU02 Witching Well.png" id="15_CU02 Witching Well" data-flag="@X" onclick="openSidebar('15_CU02 Witching Well',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\31_CB02 Il'Umari Practitioner.png" id="31_CB02 IlUmari Practitioner" data-flag="@X" onclick="openSidebar('31_CB02 IlUmari Practitioner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\63_UR Rapacious Dragon.png" id="63_UR Rapacious Dragon" data-flag="@X" onclick="openSidebar('63_UR Rapacious Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\68_CG04 Lingering Croc.png" id="68_CG04 Lingering Croc" data-flag="@X" onclick="openSidebar('68_CG04 Lingering Croc',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\6_CW06 Orrery Guard.png" id="6_CW06 Orrery Guard" data-flag="@X" onclick="openSidebar('6_CW06 Orrery Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\16_CU03 Il'Umari Dreamer.png" id="16_CU03 IlUmari Dreamer" data-flag="@X" onclick="openSidebar('16_CU03 IlUmari Dreamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\32_CB03 Ebon Anointer.png" id="32_CB03 Ebon Anointer" data-flag="@X" onclick="openSidebar('32_CB03 Ebon Anointer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\64_UR Volcanic Forge.png" id="64_UR Volcanic Forge" data-flag="@X" onclick="openSidebar('64_UR Volcanic Forge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\69_CG05 Bramble Armor.png" id="69_CG05 Bramble Armor" data-flag="@X" onclick="openSidebar('69_CG05 Bramble Armor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\7_CW07 Savage Strike.png" id="7_CW07 Savage Strike" data-flag="@X" onclick="openSidebar('7_CW07 Savage Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\17_CU04 Essence Tamer.png" id="17_CU04 Essence Tamer" data-flag="@X" onclick="openSidebar('17_CU04 Essence Tamer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\33_CB04 Covert Operative.png" id="33_CB04 Covert Operative" data-flag="@X" onclick="openSidebar('33_CB04 Covert Operative',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\46_CR01 Omenseer Imbuer.png" id="46_CR01 Omenseer Imbuer" data-flag="@X" onclick="openSidebar('46_CR01 Omenseer Imbuer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\70_CG06 Heart of the Forest.png" id="70_CG06 Heart of the Forest" data-flag="@X" onclick="openSidebar('70_CG06 Heart of the Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\8_CW08 Sanctum Blade.png" id="8_CW08 Sanctum Blade" data-flag="@X" onclick="openSidebar('8_CW08 Sanctum Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\18_CU05 Crystaline Carapace.png" id="18_CU05 Crystaline Carapace" data-flag="@X" onclick="openSidebar('18_CU05 Crystaline Carapace',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\34_CB05 K'Llei Ritual.png" id="34_CB05 KLlei Ritual" data-flag="@X" onclick="openSidebar('34_CB05 KLlei Ritual',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\47_CR02 Galvanic Blast.png" id="47_CR02 Galvanic Blast" data-flag="@X" onclick="openSidebar('47_CR02 Galvanic Blast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\71_CG07 Quick-Draw Archer.png" id="71_CG07 Quick-Draw Archer" data-flag="@X" onclick="openSidebar('71_CG07 Quick-Draw Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\9_CW09 Ceremony Leader.png" id="9_CW09 Ceremony Leader" data-flag="@X" onclick="openSidebar('9_CW09 Ceremony Leader',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\19_CU06 Spell Stutter.png" id="19_CU06 Spell Stutter" data-flag="@X" onclick="openSidebar('19_CU06 Spell Stutter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\35_CB06 Battleworthy Sacrifice.png" id="35_CB06 Battleworthy Sacrifice" data-flag="@X" onclick="openSidebar('35_CB06 Battleworthy Sacrifice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\48_CR03 Battle Rage.png" id="48_CR03 Battle Rage" data-flag="@X" onclick="openSidebar('48_CR03 Battle Rage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\72_CG08 Decaying Swine.png" id="72_CG08 Decaying Swine" data-flag="@X" onclick="openSidebar('72_CG08 Decaying Swine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\10_CW10 Smite the Mighty.png" id="10_CW10 Smite the Mighty" data-flag="@X" onclick="openSidebar('10_CW10 Smite the Mighty',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\20_CU07 Frontline Sprite.png" id="20_CU07 Frontline Sprite" data-flag="@X" onclick="openSidebar('20_CU07 Frontline Sprite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\36_CB07 Mourning Blade.png" id="36_CB07 Mourning Blade" data-flag="@X" onclick="openSidebar('36_CB07 Mourning Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\49_CR04 Vault Robber.png" id="49_CR04 Vault Robber" data-flag="@X" onclick="openSidebar('49_CR04 Vault Robber',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\73_CG09 Nature's Reach.png" id="73_CG09 Natures Reach" data-flag="@X" onclick="openSidebar('73_CG09 Natures Reach',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\11_CW11 Guiding Herald.png" id="11_CW11 Guiding Herald" data-flag="@X" onclick="openSidebar('11_CW11 Guiding Herald',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\21_CU08 Eliuum Construct.png" id="21_CU08 Eliuum Construct" data-flag="@X" onclick="openSidebar('21_CU08 Eliuum Construct',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\37_CB08 Il'Umari Herald.png" id="37_CB08 IlUmari Herald" data-flag="@X" onclick="openSidebar('37_CB08 IlUmari Herald',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\50_CR05 Hilgarde Plunderer.png" id="50_CR05 Hilgarde Plunderer" data-flag="@X" onclick="openSidebar('50_CR05 Hilgarde Plunderer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\74_CG10 Ancestral Dryad.png" id="74_CG10 Ancestral Dryad" data-flag="@X" onclick="openSidebar('74_CG10 Ancestral Dryad',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\12_CW12 Cloudsworn Blessing.png" id="12_CW12 Cloudsworn Blessing" data-flag="@X" onclick="openSidebar('12_CW12 Cloudsworn Blessing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\22_CU09 Majestic Metamorphosis.png" id="22_CU09 Majestic Metamorphosis" data-flag="@X" onclick="openSidebar('22_CU09 Majestic Metamorphosis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\38_CB09 Undercity Scrounger.png" id="38_CB09 Undercity Scrounger" data-flag="@X" onclick="openSidebar('38_CB09 Undercity Scrounger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\51_CR06 Unstable Chargestone.png" id="51_CR06 Unstable Chargestone" data-flag="@X" onclick="openSidebar('51_CR06 Unstable Chargestone',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\75_CG11 Hunter's Pursuit.png" id="75_CG11 Hunters Pursuit" data-flag="@X" onclick="openSidebar('75_CG11 Hunters Pursuit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\13_CW13 Militia Caller.png" id="13_CW13 Militia Caller" data-flag="@X" onclick="openSidebar('13_CW13 Militia Caller',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\23_CU10 Crystaline Titan.png" id="23_CU10 Crystaline Titan" data-flag="@X" onclick="openSidebar('23_CU10 Crystaline Titan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\39_CB10 Il'Umari Web-Weaver.png" id="39_CB10 IlUmari Web-Weaver" data-flag="@X" onclick="openSidebar('39_CB10 IlUmari Web-Weaver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\52_CR07 Sailkite Bandit.png" id="52_CR07 Sailkite Bandit" data-flag="@X" onclick="openSidebar('52_CR07 Sailkite Bandit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\76_CG12 Bramble Envoy.png" id="76_CG12 Bramble Envoy" data-flag="@X" onclick="openSidebar('76_CG12 Bramble Envoy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\24_CU11 Wayward Swarm.png" id="24_CU11 Wayward Swarm" data-flag="@X" onclick="openSidebar('24_CU11 Wayward Swarm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\40_CB11 Grim Bounty.png" id="40_CB11 Grim Bounty" data-flag="@X" onclick="openSidebar('40_CB11 Grim Bounty',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\53_CR08 Bonewhip Brawler.png" id="53_CR08 Bonewhip Brawler" data-flag="@X" onclick="openSidebar('53_CR08 Bonewhip Brawler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\77_CG13 Bloodthirsty Bear.png" id="77_CG13 Bloodthirsty Bear" data-flag="@X" onclick="openSidebar('77_CG13 Bloodthirsty Bear',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\25_CU12 Plunging Gator.png" id="25_CU12 Plunging Gator" data-flag="@X" onclick="openSidebar('25_CU12 Plunging Gator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\41_CB12 Striking Owl.png" id="41_CB12 Striking Owl" data-flag="@X" onclick="openSidebar('41_CB12 Striking Owl',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\54_CR09 Omen Steelform.png" id="54_CR09 Omen Steelform" data-flag="@X" onclick="openSidebar('54_CR09 Omen Steelform',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\26_CU13 Afflicted Vision.png" id="26_CU13 Afflicted Vision" data-flag="@X" onclick="openSidebar('26_CU13 Afflicted Vision',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\42_CB13 Graveyard Prowler.png" id="42_CB13 Graveyard Prowler" data-flag="@X" onclick="openSidebar('42_CB13 Graveyard Prowler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\55_CR10 Molten Brute.png" id="55_CR10 Molten Brute" data-flag="@X" onclick="openSidebar('55_CR10 Molten Brute',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\56_CR11 Big Score.png" id="56_CR11 Big Score" data-flag="@X" onclick="openSidebar('56_CR11 Big Score',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\57_CR12 Capricious Royal.png" id="57_CR12 Capricious Royal" data-flag="@X" onclick="openSidebar('57_CR12 Capricious Royal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\58_CR13 Pursue the Weak.png" id="58_CR13 Pursue the Weak" data-flag="@X" onclick="openSidebar('58_CR13 Pursue the Weak',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\79_UM01 Cloudsworn Warden.png" id="79_UM01 Cloudsworn Warden" data-flag="@X" onclick="openSidebar('79_UM01 Cloudsworn Warden',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\80_UM02 Stubborn Guardian.png" id="80_UM02 Stubborn Guardian" data-flag="@X" onclick="openSidebar('80_UM02 Stubborn Guardian',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\89_Vileform Hydra.png" id="89_Vileform Hydra" data-flag="@X" onclick="openSidebar('89_Vileform Hydra',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\82_UM04 Burning Rebel.png" id="82_UM04 Burning Rebel" data-flag="@X" onclick="openSidebar('82_UM04 Burning Rebel',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\83_UM05 Daybreaker Diviner.png" id="83_UM05 Daybreaker Diviner" data-flag="@X" onclick="openSidebar('83_UM05 Daybreaker Diviner',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\90_CM01 River Guardian.png" id="90_CM01 River Guardian" data-flag="@X" onclick="openSidebar('90_CM01 River Guardian',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\91_CM02 Il'Umari Deceiver.png" id="91_CM02 IlUmari Deceiver" data-flag="@X" onclick="openSidebar('91_CM02 IlUmari Deceiver',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\81_UM03 Blackmarket Dealer.png" id="81_UM03 Blackmarket Dealer" data-flag="@X" onclick="openSidebar('81_UM03 Blackmarket Dealer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\93_CM04 Pit Fight.png" id="93_CM04 Pit Fight" data-flag="@X" onclick="openSidebar('93_CM04 Pit Fight',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\94_CM05 Centaur Safeguard.png" id="94_CM05 Centaur Safeguard" data-flag="@X" onclick="openSidebar('94_CM05 Centaur Safeguard',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\92_CM03 Runic Daemon.png" id="92_CM03 Runic Daemon" data-flag="@X" onclick="openSidebar('92_CM03 Runic Daemon',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\84_UM06 Procession Figure.png" id="84_UM06 Procession Figure" data-flag="@X" onclick="openSidebar('84_UM06 Procession Figure',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\85_UM07 Mad Marauder.png" id="85_UM07 Mad Marauder" data-flag="@X" onclick="openSidebar('85_UM07 Mad Marauder',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\86_UM08 Desecration Boar.png" id="86_UM08 Desecration Boar" data-flag="@X" onclick="openSidebar('86_UM08 Desecration Boar',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\87_UM09 Adept Blacksmith.png" id="87_UM09 Adept Blacksmith" data-flag="@X" onclick="openSidebar('87_UM09 Adept Blacksmith',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\88_UM10 Paralytic Serpent.png" id="88_UM10 Paralytic Serpent" data-flag="@X" onclick="openSidebar('88_UM10 Paralytic Serpent',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\95_CM06 Confession.png" id="95_CM06 Confession" data-flag="@X" onclick="openSidebar('95_CM06 Confession',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\96_CM07 Mischevious Faerie.png" id="96_CM07 Mischevious Faerie" data-flag="@X" onclick="openSidebar('96_CM07 Mischevious Faerie',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\97_CM08 Rooftop Miscreant.png" id="97_CM08 Rooftop Miscreant" data-flag="@X" onclick="openSidebar('97_CM08 Rooftop Miscreant',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\98_CM09 Fresh-Faced Recruit.png" id="98_CM09 Fresh-Faced Recruit" data-flag="@X" onclick="openSidebar('98_CM09 Fresh-Faced Recruit',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\99_CM10 Square Up.png" id="99_CM10 Square Up" data-flag="@X" onclick="openSidebar('99_CM10 Square Up',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\79_UM01 Cloudsworn Warden.png" id="79_UM01 Cloudsworn Warden" data-flag="@X" onclick="openSidebar('79_UM01 Cloudsworn Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\80_UM02 Stubborn Guardian.png" id="80_UM02 Stubborn Guardian" data-flag="@X" onclick="openSidebar('80_UM02 Stubborn Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\89_Vileform Hydra.png" id="89_Vileform Hydra" data-flag="@X" onclick="openSidebar('89_Vileform Hydra',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\82_UM04 Burning Rebel.png" id="82_UM04 Burning Rebel" data-flag="@X" onclick="openSidebar('82_UM04 Burning Rebel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\83_UM05 Daybreaker Diviner.png" id="83_UM05 Daybreaker Diviner" data-flag="@X" onclick="openSidebar('83_UM05 Daybreaker Diviner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\90_CM01 River Guardian.png" id="90_CM01 River Guardian" data-flag="@X" onclick="openSidebar('90_CM01 River Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\91_CM02 Il'Umari Deceiver.png" id="91_CM02 IlUmari Deceiver" data-flag="@X" onclick="openSidebar('91_CM02 IlUmari Deceiver',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\81_UM03 Blackmarket Dealer.png" id="81_UM03 Blackmarket Dealer" data-flag="@X" onclick="openSidebar('81_UM03 Blackmarket Dealer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\93_CM04 Pit Fight.png" id="93_CM04 Pit Fight" data-flag="@X" onclick="openSidebar('93_CM04 Pit Fight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\94_CM05 Centaur Safeguard.png" id="94_CM05 Centaur Safeguard" data-flag="@X" onclick="openSidebar('94_CM05 Centaur Safeguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\92_CM03 Runic Daemon.png" id="92_CM03 Runic Daemon" data-flag="@X" onclick="openSidebar('92_CM03 Runic Daemon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\84_UM06 Procession Figure.png" id="84_UM06 Procession Figure" data-flag="@X" onclick="openSidebar('84_UM06 Procession Figure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\85_UM07 Mad Marauder.png" id="85_UM07 Mad Marauder" data-flag="@X" onclick="openSidebar('85_UM07 Mad Marauder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\86_UM08 Desecration Boar.png" id="86_UM08 Desecration Boar" data-flag="@X" onclick="openSidebar('86_UM08 Desecration Boar',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\87_UM09 Adept Blacksmith.png" id="87_UM09 Adept Blacksmith" data-flag="@X" onclick="openSidebar('87_UM09 Adept Blacksmith',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\88_UM10 Paralytic Serpent.png" id="88_UM10 Paralytic Serpent" data-flag="@X" onclick="openSidebar('88_UM10 Paralytic Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\95_CM06 Confession.png" id="95_CM06 Confession" data-flag="@X" onclick="openSidebar('95_CM06 Confession',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\96_CM07 Mischevious Faerie.png" id="96_CM07 Mischevious Faerie" data-flag="@X" onclick="openSidebar('96_CM07 Mischevious Faerie',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\97_CM08 Rooftop Miscreant.png" id="97_CM08 Rooftop Miscreant" data-flag="@X" onclick="openSidebar('97_CM08 Rooftop Miscreant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\98_CM09 Fresh-Faced Recruit.png" id="98_CM09 Fresh-Faced Recruit" data-flag="@X" onclick="openSidebar('98_CM09 Fresh-Faced Recruit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\99_CM10 Square Up.png" id="99_CM10 Square Up" data-flag="@X" onclick="openSidebar('99_CM10 Square Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\104_UC01 Soulshard.png" id="104_UC01 Soulshard" data-flag="@X" onclick="openSidebar('104_UC01 Soulshard',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\100_CC01 Skozall Monitor.png" id="100_CC01 Skozall Monitor" data-flag="@X" onclick="openSidebar('100_CC01 Skozall Monitor',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\101_CC02 Cloudsworn Enforcer.png" id="101_CC02 Cloudsworn Enforcer" data-flag="@X" onclick="openSidebar('101_CC02 Cloudsworn Enforcer',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\102_CC03 Annealed Brute.png" id="102_CC03 Annealed Brute" data-flag="@X" onclick="openSidebar('102_CC03 Annealed Brute',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\103_CC04 Imbued Arrow.png" id="103_CC04 Imbued Arrow" data-flag="@X" onclick="openSidebar('103_CC04 Imbued Arrow',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\105_CL01 Prophetic Peak.png" id="105_CL01 Prophetic Peak" data-flag="@X" onclick="openSidebar('105_CL01 Prophetic Peak',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\106_CL02 Aspiring Bloom.png" id="106_CL02 Aspiring Bloom" data-flag="@X" onclick="openSidebar('106_CL02 Aspiring Bloom',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\108_Island.png" id="108_Island" data-flag="@X" onclick="openSidebar('108_Island',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\110_Mountain.png" id="110_Mountain" data-flag="@X" onclick="openSidebar('110_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\107_Plains.png" id="107_Plains" data-flag="@X" onclick="openSidebar('107_Plains',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\109_Swamp.png" id="109_Swamp" data-flag="@X" onclick="openSidebar('109_Swamp',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\104_UC01 Soulshard.png" id="104_UC01 Soulshard" data-flag="@X" onclick="openSidebar('104_UC01 Soulshard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\100_CC01 Skozall Monitor.png" id="100_CC01 Skozall Monitor" data-flag="@X" onclick="openSidebar('100_CC01 Skozall Monitor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\101_CC02 Cloudsworn Enforcer.png" id="101_CC02 Cloudsworn Enforcer" data-flag="@X" onclick="openSidebar('101_CC02 Cloudsworn Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\102_CC03 Annealed Brute.png" id="102_CC03 Annealed Brute" data-flag="@X" onclick="openSidebar('102_CC03 Annealed Brute',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\103_CC04 Imbued Arrow.png" id="103_CC04 Imbued Arrow" data-flag="@X" onclick="openSidebar('103_CC04 Imbued Arrow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\105_CL01 Prophetic Peak.png" id="105_CL01 Prophetic Peak" data-flag="@X" onclick="openSidebar('105_CL01 Prophetic Peak',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\106_CL02 Aspiring Bloom.png" id="106_CL02 Aspiring Bloom" data-flag="@X" onclick="openSidebar('106_CL02 Aspiring Bloom',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\108_Island.png" id="108_Island" data-flag="@X" onclick="openSidebar('108_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\110_Mountain.png" id="110_Mountain" data-flag="@X" onclick="openSidebar('110_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\107_Plains.png" id="107_Plains" data-flag="@X" onclick="openSidebar('107_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\109_Swamp.png" id="109_Swamp" data-flag="@X" onclick="openSidebar('109_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\1t_Designer Credits.png" id="1t_Designer Credits" data-flag="@X" onclick="openSidebar('1t_Designer Credits',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\2t_Trials of Aenaris Archetypes.png" id="2t_Trials of Aenaris Archetypes" data-flag="@X" onclick="openSidebar('2t_Trials of Aenaris Archetypes',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\7t_Incite.png" id="7t_Incite" data-flag="@X" onclick="openSidebar('7t_Incite',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\8t_Treasure.png" id="8t_Treasure" data-flag="@X" onclick="openSidebar('8t_Treasure',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\9t_Weapon.png" id="9t_Weapon" data-flag="@X" onclick="openSidebar('9t_Weapon',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\3t_Faerie Rogue.png" id="3t_Faerie Rogue" data-flag="@X" onclick="openSidebar('3t_Faerie Rogue',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\4t_Elemental.png" id="4t_Elemental" data-flag="@X" onclick="openSidebar('4t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\5t_Saproling.png" id="5t_Saproling" data-flag="@X" onclick="openSidebar('5t_Saproling',false)"></div>
-				<div class="container"><img alt="/sets\TOA-files\img\6t_Devotee.png" id="6t_Devotee" data-flag="@X" onclick="openSidebar('6t_Devotee',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\1t_Designer Credits.png" id="1t_Designer Credits" data-flag="@X" onclick="openSidebar('1t_Designer Credits',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\2t_Trials of Aenaris Archetypes.png" id="2t_Trials of Aenaris Archetypes" data-flag="@X" onclick="openSidebar('2t_Trials of Aenaris Archetypes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\7t_Incite.png" id="7t_Incite" data-flag="@X" onclick="openSidebar('7t_Incite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\8t_Treasure.png" id="8t_Treasure" data-flag="@X" onclick="openSidebar('8t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\9t_Weapon.png" id="9t_Weapon" data-flag="@X" onclick="openSidebar('9t_Weapon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\3t_Faerie Rogue.png" id="3t_Faerie Rogue" data-flag="@X" onclick="openSidebar('3t_Faerie Rogue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\4t_Elemental.png" id="4t_Elemental" data-flag="@X" onclick="openSidebar('4t_Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\5t_Saproling.png" id="5t_Saproling" data-flag="@X" onclick="openSidebar('5t_Saproling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOA-files\img\6t_Devotee.png" id="6t_Devotee" data-flag="@X" onclick="openSidebar('6t_Devotee',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -476,27 +477,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -508,17 +533,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -551,6 +578,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -560,6 +588,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -582,21 +611,21 @@
 	}
 
 		function randomCard() {
-			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-			let random_card = card_list_arrayified[i];
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
 
-			const url = new URL('card', window.location.origin);
-			const params = {
-				set: random_card.set,
-				num: random_card.number,
-				name: random_card.card_name
-			}
-			for (const key in params) {
-				url.searchParams.append(key, params[key]);
-			}
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
 
-			window.location.href = url;
-		}
+				window.location.href = url;
+			}
 	</script>
 </body>
 </html>

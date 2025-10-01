@@ -1,4 +1,116 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Veylid Reliquary added.
+Sterile Synthesis added.
+Charim Kosta, Hullraider added.
+D'Emil, Apex Hunter added.
+Moira, Rapid Adapter added.
+Hextech Pilferer added.
+
+Xeno Reliquary removed.
+Sterile Reconstruction removed.
+
+Forsaken Expedition
+rules_text: At the beginning of your end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => At the beginning of your end step, if you're desperate, put a +1/+1 counter on this creature. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Targeted Strike
+rules_text: Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Acrid Chiropteran
+rules_text: Flying
+At the beginning of your end step, if you're desperate, each opponent loses 1 life and you gain 1 life. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Flying
+At the beginning of your end step, if you're desperate, each opponent loses 1 life and you gain 1 life. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Nimble Crewmate
+rules_text: This creature enters tapped.
+{1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => This creature enters tapped.
+{1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Remote Disintegration
+rules_text: This spell costs {2} less to cast if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+Destroy target creature or planeswalker. => This spell costs {2} less to cast if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+Destroy target creature or planeswalker.
+
+Skittering Swarm
+rules_text: Menace
+At the beginning of your end step, if you're desperate, you may discard a card. If you do, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Menace
+At the beginning of your end step, if you're desperate, you may discard a card. If you do, draw a card. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Arachnae Behemoth
+rules_text: Reach, trample
+This creature enters with two +1/+1 counters on it if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Reach, trample
+This creature enters with two +1/+1 counters on it if you're desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Unearthly Encounter
+rules_text: Search your library for a basic land card. If you're desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Search your library for a basic land card. If you're desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Twilight Observer
+type: Creature — Xeno Wizard => Creature — Veylid Wizard
+
+Desperate Wayfarer
+rules_text: Lifelink
+At the beginning of each end step, put a +1/+1 counter on this creature for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Lifelink
+At the beginning of each end step, put a +1/+1 counter on this creature for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Blackmarket Orchestrator
+rules_text: {3}{B}, Sacrifice a creature: Draw a card.
+At the beginning of your end step, if you're desperate, create a 1/1 red Mercenary creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => {3}{B}, Sacrifice a creature: Draw a card.
+At the beginning of your end step, if you're desperate, create a 1/1 red Mercenary creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Invader Construct
+type: Artifact Creature — Xeno Construct => Artifact Creature — Veylid Construct
+
+Synthesis Volunteer
+rules_text: When this creature enters, create a 3/3 green Beast creature token. Then if you're desperate, put a +1/+1 counter on that token. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => When this creature enters, create a 3/3 green Beast creature token. Then if you're desperate, put a +1/+1 counter on that token. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Arboreal Sinewvine
+type: Creature — Xeno Beast => Creature — Veylid Beast
+
+Awoken Warframe
+type: Artifact Creature — Xeno Juggernaut => Artifact Creature — Veylid Juggernaut
+
+Infernal Ravager
+type: Creature — Xeno Berserker => Creature — Veylid Berserker
+rules_text: Trample, haste
+Whenever this creature attacks, if you're desperate, it deals 1 damage to target player and each creature that player controls. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i] => Trample, haste
+Whenever this creature attacks, if you're desperate, it deals 1 damage to target player and each creature that player controls. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Feasting Skittermaw
+rules_text: At the beginning of each end step, put a +1/+1 counter on each creature you control for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a permanent died under your control this turn.)[/i]
+Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on this creature. => At the beginning of each end step, put a +1/+1 counter on each creature you control for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on this creature.
+
+Malignant Venomwing
+rules_text: Flying, deathtouch
+Whenever you attack, experiment on on target attacking creature. If you removed a counter this way, create a 1/1 black Parasite creature token with “This creature can't block.” [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i] => Flying, deathtouch
+Whenever you attack, experiment on each attacking creature. For each counter you remove this way, create a 1/1 black Parasite creature token with “This creature can't block.” [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Seed of Infection
+rules_text: Vigilance, lifelink
+Creature tokens you control get +1/+1.
+Whenever a nontoken creature you control dies, create X 1/1 black Parasite creature tokens, where X is that creature's power. The tokens have “This creature can't block.” => Vigilance, lifelink
+Creature tokens you control get +1/+1.
+Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with “This creature can't block.”
+
+Dread Reaper
+rules_text: Assimilate {4}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a player takes combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life. => Assimilate {4}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a player is dealt combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life.
+
+Eldritch Haruspex
+type: Creature — Xeno Wizard => Creature — Veylid Wizard
+
+Fluxreactor Manticore
+type: Artifact Creature — Beast Construct => Artifact Creature — Manticore Construct
+
+Relentless Raid
+rules_text: Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.
+Create X 1/1 red Mercenary creature tokens with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” They gain haste until end of turn. => Untap all creatures you control. If it's your combat phase, there is an additional main phase after this phase followed by an additional combat phase.
+Create X 1/1 red Mercenary creature tokens with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” They gain haste until end of turn.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Horror added.
