@@ -1,4 +1,48 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Charim Kosta, Hullraider added.
+
+
+Targeted Strike
+rules_text: Targeted Strike deals 2 damage to any target. If you're desperate, it deals 4 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i] => Targeted Strike deals 2 damage to any target. If you're desperate, it deals 3 damage instead. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Unearthly Encounter
+cost: {G} => {1}{G}
+
+Vegetative Biopsy
+cost: {G}{U} => {1}{G}{U}
+
+Adaptive Scoundrel
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+When this card leaves your graveyard, draw a card. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+When this card leaves your graveyard, you may pay {2}. When you do, draw a card.
+
+Desperate Wayfarer
+rules_text: Lifelink
+At the beginning of each end step, put a +1/+1 counter on this creature for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i] => Lifelink
+At the beginning of your end step, put a +1/+1 counter on this creature for each player that is desperate. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]
+
+Sterile Synthesis
+cost: {3}{G}{W} => {2}{G}{G}{W}
+rules_text: You may exile any number of creature cards from your hand and/or graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.
+Search your library for up to two creature cards, each with mana value 3 or less. Reveal them. Put one of them onto the battlefield, put the other into your hand, and then shuffle. => You may exile any number of creature cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.
+Search your library for up to two creature cards, each with mana value 3 or less. Reveal them. Put one of them onto the battlefield, put the other into your hand, and then shuffle.
+
+Seed of Infection
+rules_text: Vigilance, lifelink
+Creature tokens you control get +1/+1.
+Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with “This creature can't block.” => Vigilance, lifelink
+Creature tokens you control get +1/+1.
+Whenever another nontoken creature you control dies, create a 1/1 black Parasite creature token with “This creature can't block.”
+
+Evelyn, Battle Calculatrix
+cost: {U}{R} => {1}{U}{R}
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Veylid Reliquary added.

@@ -2094,8 +2094,15 @@
         "position": ""
     },
     {
-        "card_name": "Maxine, Cynical Renegade",
+        "card_name": "Charim Kosta, Hullraider",
         "number": 9,
+        "shape": "token",
+        "set": "OPZ",
+        "position": ""
+    },
+    {
+        "card_name": "Maxine, Cynical Renegade",
+        "number": 10,
         "shape": "token",
         "set": "OPZ",
         "position": ""
@@ -2134,9 +2141,6 @@
         "shape": "token",
         "set": "OPZ",
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

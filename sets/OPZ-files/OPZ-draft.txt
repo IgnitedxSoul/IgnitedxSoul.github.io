@@ -1415,7 +1415,7 @@
 		{
 			"name": "Unearthly Encounter",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
@@ -1782,7 +1782,7 @@
 		{
 			"name": "Vegetative Biopsy",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "223",
 			"image_uris": {
@@ -2672,7 +2672,7 @@
 		{
 			"name": "Sterile Synthesis",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{2}{G}{G}{W}",
 			"type": "Sorcery",
 			"collector_number": "220",
 			"image_uris": {
@@ -2712,7 +2712,7 @@
 		{
 			"name": "Evelyn, Battle Calculatrix",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Artifact Creature — Robot Soldier",
 			"collector_number": "199",
 			"image_uris": {
@@ -2774,9 +2774,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/9_Maxine, Cynical Renegade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/10_Maxine, Cynical Renegade.png"
 			}
 		},
 		{
@@ -2827,6 +2827,16 @@
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/52_Hextech Pilferer.png"
+			}
+		},
+		{
+			"name": "Charim Kosta, Hullraider",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/9_Charim Kosta, Hullraider.png"
 			}
 		}
 	]
