@@ -17,8 +17,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "0",
             "notes": "https://www.artstation.com/artwork/GvmRKW\n\nIDEA\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Portent Resonance",
@@ -37,8 +39,10 @@
             "loyalty": "",
             "artist": "Antoine Collignon",
             "alias": "",
+            "position": "1",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/gJLGW8\n\nJumpstart\nproto_u",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Taloncrawler",
@@ -48,7 +52,7 @@
             "number": 108,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nMenace\nThis creature enters with a +1/+1 counter if it assimilated.",
+            "rules_text": "Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nMenace\nThis creature enters with a +1/+1 counter if it assimilated.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -57,8 +61,10 @@
             "loyalty": "",
             "artist": "Volmi Games",
             "alias": "",
+            "position": "2",
             "notes": "https://www.artstation.com/artwork/A91Xlz\n\nIDEA\n\nJumpstart\nproto_b",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Renegade Academy",
@@ -68,7 +74,7 @@
             "number": 249,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W}.\n[i]Catastrophe[/i] \u2013 {3}{W}, {T}: Transform this land. Activate only as a sorcery and only if you have seven or more cards in your graveyard.",
+            "rules_text": "This land enters tapped.\n{T}: Add {W}.\n[i]Catastrophe[/i] \u2013 {3}{W}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -77,6 +83,7 @@
             "loyalty": "",
             "artist": "Matt Allsopp",
             "alias": "",
+            "position": "3",
             "card_name2": "What Lurks Beneath",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -89,7 +96,8 @@
             "artist2": "Solarliu",
             "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/zxkvGw\n\nhttps://www.artstation.com/artwork/y4ZPP9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Expedition Range",
@@ -108,6 +116,7 @@
             "loyalty": "",
             "artist": "Hermann Kromer",
             "alias": "",
+            "position": "4",
             "card_name2": "Voracious Wildgrowth",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -120,7 +129,8 @@
             "artist2": "Hermann Kromer",
             "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/Bka5vz\n\nhttps://www.artstation.com/artwork/0laoGE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Voyager Station",
@@ -130,7 +140,7 @@
             "number": 254,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "This enters tapped.\n{T}: Add {U}.\n[i]Catastrophe[/i] \u2013 {1}{U}, {T}: Transform this land. Activate only as a sorcery and only if you have seven or more cards in your graveyard.",
+            "rules_text": "This enters tapped.\n{T}: Add {U}.\nCatastrophe \u2013 {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -139,11 +149,12 @@
             "loyalty": "",
             "artist": "Wojtek Fus",
             "alias": "",
+            "position": "5",
             "card_name2": "Cosmic Encounter",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
             "cost2": "",
-            "rules_text2": "When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has six or more voyage counters on it, sacrifice it and create an 8/8 blue Horror creature token with hexproof.\n{T}: Add {U}.",
+            "rules_text2": "When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has five or more voyage counters on it, sacrifice it and create an 8/8 blue Horror creature token with hexproof.\n{T}: Add {U}.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -151,7 +162,8 @@
             "artist2": "Col Price",
             "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/mqgeAY\n\nhttps://www.artstation.com/artwork/XBlOPn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plithium Quarry",
@@ -161,7 +173,7 @@
             "number": 247,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "This enters tapped.\n{T}: Add {B}.\n[i]Catastrophe[/i] \u2013 {3}{B}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery.",
+            "rules_text": "This enters tapped.\n{T}: Add {B}.\n[i]Catastrophe[/i] \u2013 {3}{B}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -170,6 +182,7 @@
             "loyalty": "",
             "artist": "Jean Baptiste Cambier",
             "alias": "",
+            "position": "6",
             "card_name2": "Consuming Spores",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -182,7 +195,8 @@
             "artist2": "Hermann Kromer",
             "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Innovative Hangar",
@@ -192,7 +206,7 @@
             "number": 242,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "This enters tapped.\n{T}: Add {R}.\n[i]Catastrophe[/i] \u2013 {4}{R}, {T}, Exile five cards from your graveyard. Transform this land. Activate only as a sorcery.",
+            "rules_text": "This enters tapped.\n{T}: Add {R}.\n[i]Catastrophe[/i] \u2013 {4}{R}, {T}, Exile five cards from your graveyard: Transform this land. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -201,6 +215,7 @@
             "loyalty": "",
             "artist": "Alex Pi",
             "alias": "",
+            "position": "7",
             "card_name2": "Reactor Meltdown",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -213,7 +228,8 @@
             "artist2": "Spencer Parke",
             "alias2": "",
             "notes": "IDEA\n\nhttps://www.artstation.com/artwork/4XogkW\n\nhttps://www.artstation.com/artwork/14EBq3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Specimen",
@@ -232,8 +248,10 @@
             "loyalty": "",
             "artist": "Shadoe Crews",
             "alias": "",
+            "position": "8",
             "notes": "https://www.artstation.com/artwork/DAVVny",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Proto-Genesis Jellyfish",
@@ -252,8 +270,10 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
+            "position": "9",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/oWBBk",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ambitious Lab Techs",
@@ -263,7 +283,7 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]\n{2}, {T}: Draw a card, then discard a card.",
+            "rules_text": "When this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]\n{2}, {T}: Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -272,8 +292,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "10",
             "notes": "https://www.artstation.com/artwork/XybdY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Targeted Strike",
@@ -292,8 +314,10 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
+            "position": "11",
             "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Acrid Chiropteran",
@@ -312,8 +336,10 @@
             "loyalty": "",
             "artist": "Charmaine O'Reilly",
             "alias": "",
+            "position": "12",
             "notes": "idea\n\nhttps://www.artstation.com/artwork/rlOBE6\n\nJumpstart\nproto_b",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steamcaller",
@@ -323,7 +349,7 @@
             "number": 72,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Assimilate {3}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nFlying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
+            "rules_text": "Assimilate {4}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nFlying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
             "flavor_text": "[i]FT[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -332,8 +358,10 @@
             "loyalty": "",
             "artist": "Connor Sheehan",
             "alias": "",
+            "position": "13",
             "notes": "https://www.artstation.com/artwork/aRx4d9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Haunting Amalgamate",
@@ -343,7 +371,7 @@
             "number": 170,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nThis creature enters with your choice of a haste or +1/+1 counter on it.",
+            "rules_text": "Assimilate {6}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nThis creature enters with your choice of a haste or +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -352,8 +380,10 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
+            "position": "14",
             "notes": "https://www.artstation.com/artwork/68Oyl0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stalking Wispbeast",
@@ -363,7 +393,7 @@
             "number": 182,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nWhenever this creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nWhenever this creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -372,8 +402,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "15",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/xYZLPO\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rothmas Scouts",
@@ -392,8 +424,10 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "16",
             "notes": "https://www.artstation.com/artwork/5WKmXw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Construct",
@@ -412,8 +446,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "17",
             "notes": "idea\n\nhttps://www.artstation.com/artwork/JErAZ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Transferred Soul",
@@ -423,7 +459,7 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i]FT[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -432,8 +468,10 @@
             "loyalty": "",
             "artist": "Ying Ding",
             "alias": "",
+            "position": "18",
             "notes": "https://www.artstation.com/artwork/5X6gJJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drone",
@@ -452,8 +490,10 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
+            "position": "19",
             "notes": "https://www.artstation.com/artwork/1EOKX",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keen-Eyed Engineer",
@@ -472,8 +512,10 @@
             "loyalty": "",
             "artist": "Brenoch Adams",
             "alias": "",
+            "position": "20",
             "notes": "https://www.artstation.com/artwork/mzgPn9\n\nJumpstart\nproto_w",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Digital Reconstruction",
@@ -483,7 +525,7 @@
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -492,8 +534,10 @@
             "loyalty": "",
             "artist": "Julia GorokhovaPro",
             "alias": "",
+            "position": "21",
             "notes": "https://www.artstation.com/artwork/r9nkVJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "City Sweep",
@@ -512,14 +556,16 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
+            "position": "22",
             "notes": "https://www.artstation.com/artwork/LyJbR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Servitor Drone",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Scout",
             "number": 29,
             "color_identity": "W",
             "cost": "{W}",
@@ -532,8 +578,10 @@
             "loyalty": "",
             "artist": "Haekel Lav.",
             "alias": "",
+            "position": "23",
             "notes": "https://www.artstation.com/artwork/1lqE2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Expanse Runners",
@@ -552,8 +600,10 @@
             "loyalty": "",
             "artist": "Alex Ichim",
             "alias": "",
+            "position": "24",
             "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gleaming Kite",
@@ -572,8 +622,10 @@
             "loyalty": "",
             "artist": "Chris Falkenberg",
             "alias": "",
+            "position": "25",
             "notes": "https://www.artstation.com/artwork/elKo2D",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swift Response",
@@ -592,8 +644,10 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "26",
             "notes": "https://www.artstation.com/artwork/Xgxl3D\n\nJumpstart\nproto_w",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Convening Nomad",
@@ -612,8 +666,10 @@
             "loyalty": "",
             "artist": "Klaus Pillon",
             "alias": "",
+            "position": "27",
             "notes": "https://www.artstation.com/artwork/q9E9kN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cryo Chamber",
@@ -632,8 +688,10 @@
             "loyalty": "",
             "artist": "Vinh Pham",
             "alias": "",
+            "position": "28",
             "notes": "https://www.artstation.com/artwork/Je13Ev",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Containment Breach",
@@ -643,7 +701,7 @@
             "number": 44,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Surveil 3, then draw a card. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Surveil 3, then draw a card. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -652,8 +710,10 @@
             "loyalty": "",
             "artist": "John Griffiths",
             "alias": "",
+            "position": "29",
             "notes": "https://www.artstation.com/artwork/ELZ9o2\n\nJumpstart\nproto_u",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistweaver",
@@ -663,7 +723,7 @@
             "number": 56,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Assimilate {5}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nAt the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "Assimilate {6}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nAt the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -672,14 +732,16 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "30",
             "notes": "https://www.artstation.com/artwork/Ye81yV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overwatch Sentinel",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Soldier",
             "number": 61,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -692,8 +754,10 @@
             "loyalty": "",
             "artist": "Luciano Neves",
             "alias": "",
+            "position": "31",
             "notes": "https://www.artstation.com/artwork/N8krz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Observation Crew",
@@ -712,8 +776,10 @@
             "loyalty": "",
             "artist": "Ivan Laliashvili",
             "alias": "",
+            "position": "32",
             "notes": "proto_u\nJumpstart\n\nhttps://www.artstation.com/artwork/3k2bo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Manifested Chimera",
@@ -732,8 +798,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
+            "position": "33",
             "notes": "https://www.artstation.com/artwork/vDQ8PD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disposal Personnel",
@@ -752,8 +820,10 @@
             "loyalty": "",
             "artist": "Luciano Neves",
             "alias": "",
+            "position": "34",
             "notes": "https://www.artstation.com/artwork/w6EaZ5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Android Maintenance",
@@ -772,8 +842,10 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "35",
             "notes": "https://www.artstation.com/artwork/ob1BBO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Don't Make a Sound",
@@ -792,8 +864,10 @@
             "loyalty": "",
             "artist": "Nick Hiatt",
             "alias": "",
+            "position": "36",
             "notes": "proto_u\nJumpstart\n\nhttps://www.artstation.com/artwork/v1Rqm3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frigid Pass Officers",
@@ -812,8 +886,10 @@
             "loyalty": "",
             "artist": "Dmitry Vishnevsky",
             "alias": "",
+            "position": "37",
             "notes": "https://www.artstation.com/artwork/GabrVN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Splinter Brute",
@@ -823,7 +899,7 @@
             "number": 106,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nDeathtouch\nWhen this creature enters, if it assimilated, each opponent sacrifices a creature.",
+            "rules_text": "Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nDeathtouch\nWhen this creature enters, if it assimilated, each opponent sacrifices a creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -832,8 +908,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
+            "position": "38",
             "notes": "https://www.artstation.com/artwork/klay4l\n\nIDEA\n\nJumpstart\nproto_b",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Painful Excision",
@@ -843,7 +921,7 @@
             "number": 102,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards and create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards and create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i]\u201cTake a deep breath. This might sting a little.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -852,8 +930,10 @@
             "loyalty": "",
             "artist": "Hakob Minasian",
             "alias": "",
+            "position": "39",
             "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/Gm2v1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nimble Crewmate",
@@ -872,8 +952,10 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
+            "position": "40",
             "notes": "https://www.artstation.com/artwork/Evlvw0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Extraction Team",
@@ -892,8 +974,10 @@
             "loyalty": "",
             "artist": "Adrian Mihai Marchidan",
             "alias": "",
+            "position": "41",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/8lloPG",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aerial Heistman",
@@ -912,8 +996,10 @@
             "loyalty": "",
             "artist": "James Lewis-Vines",
             "alias": "",
+            "position": "42",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/1nxzoo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ignominious Executive",
@@ -932,8 +1018,10 @@
             "loyalty": "",
             "artist": "Brandon Liao",
             "alias": "",
+            "position": "43",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/OyB88",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disfigure",
@@ -952,8 +1040,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "44",
             "notes": "https://www.artstation.com/artwork/wb5m9\n\nWATCHLIST",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Remote Disintegration",
@@ -972,8 +1062,10 @@
             "loyalty": "",
             "artist": "Dmitry Vishnevsky",
             "alias": "",
+            "position": "45",
             "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/rAQy2E",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recovery Mission",
@@ -992,8 +1084,10 @@
             "loyalty": "",
             "artist": "Quentin Stipp",
             "alias": "",
+            "position": "46",
             "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/WKO4lG",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mercenary",
@@ -1012,8 +1106,10 @@
             "loyalty": "",
             "artist": "Stephanie Folse",
             "alias": "",
+            "position": "47",
             "notes": "https://www.artstation.com/artwork/YevkxP",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frightened Trainee",
@@ -1032,14 +1128,16 @@
             "loyalty": "",
             "artist": "Argentics",
             "alias": "",
+            "position": "48",
             "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/DAvOln",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mining Rig",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2013 Robot Scout",
             "number": 131,
             "color_identity": "R",
             "cost": "{R}",
@@ -1052,8 +1150,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "49",
             "notes": "https://www.artstation.com/artwork/QnrVvr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thrill of Possibility",
@@ -1072,8 +1172,10 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "50",
             "notes": "https://www.artstation.com/artwork/39OVrg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tactical Breach",
@@ -1092,8 +1194,10 @@
             "loyalty": "",
             "artist": "G-Hamm",
             "alias": "",
+            "position": "51",
             "notes": "https://www.artstation.com/artwork/B1rnA4\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frontline Dropship",
@@ -1112,14 +1216,16 @@
             "loyalty": "",
             "artist": "Cody Williams",
             "alias": "",
+            "position": "52",
             "notes": "https://www.artstation.com/artwork/AakaW\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Construction Bot",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Citizen",
             "number": 118,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1132,8 +1238,10 @@
             "loyalty": "",
             "artist": "Maksym Harahulin",
             "alias": "",
+            "position": "53",
             "notes": "https://www.artstation.com/artwork/L2ee1w",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pyroclastic Crewmate",
@@ -1152,8 +1260,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "54",
             "notes": "https://www.artstation.com/artwork/1NEYk2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ops Pointman",
@@ -1172,8 +1282,10 @@
             "loyalty": "",
             "artist": "KEAL",
             "alias": "",
+            "position": "55",
             "notes": "https://www.artstation.com/artwork/P6Emor\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drone Operator",
@@ -1192,8 +1304,10 @@
             "loyalty": "",
             "artist": "Marek Okon",
             "alias": "",
+            "position": "56",
             "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skittering Swarm",
@@ -1212,8 +1326,10 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
+            "position": "57",
             "notes": "https://www.artstation.com/artwork/oO2olO\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Incinerating Blast",
@@ -1232,14 +1348,16 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "58",
             "notes": "https://www.artstation.com/artwork/DvyKwE\n\nidea\n\nJumpstart\nproto_r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ambush Drone",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Soldier",
             "number": 114,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1252,8 +1370,10 @@
             "loyalty": "",
             "artist": "Bohao Wang",
             "alias": "",
+            "position": "59",
             "notes": "https://www.artstation.com/artwork/8BRR8w",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Houkkipi Scavengers",
@@ -1272,8 +1392,10 @@
             "loyalty": "",
             "artist": "Garrett Post",
             "alias": "",
+            "position": "60",
             "notes": "https://www.artstation.com/artwork/2qlLoe\n\nIDEA\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Biogenic Upgrade",
@@ -1292,8 +1414,10 @@
             "loyalty": "",
             "artist": "Jude Smith",
             "alias": "",
+            "position": "61",
             "notes": "https://www.artstation.com/artwork/ryx12\n\nIDEA\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brush Surveyor",
@@ -1312,8 +1436,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "62",
             "notes": "https://www.artstation.com/artwork/G8abbQ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consuming Polyp",
@@ -1323,7 +1449,7 @@
             "number": 159,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Assimilate {3}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, if it assimilated, destroy up to one target artifact or enchantment.",
+            "rules_text": "Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, if it assimilated, destroy up to one target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1332,8 +1458,10 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
+            "position": "63",
             "notes": "https://www.artstation.com/artwork/VdL4ZP",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spontaneous Outburst",
@@ -1352,8 +1480,10 @@
             "loyalty": "",
             "artist": "Andrei Artefact",
             "alias": "",
+            "position": "64",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/aY2dqk\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brutal Acquisition",
@@ -1363,7 +1493,7 @@
             "number": 156,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1372,8 +1502,10 @@
             "loyalty": "",
             "artist": "COLIN SHULVER Pro",
             "alias": "",
+            "position": "65",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/OG4wGK\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rapid Incubation",
@@ -1383,7 +1515,7 @@
             "number": 177,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "You may sacrifice two Specimens. If you do, creature two 3/3 green Beast creature tokens. Otherwise, create three Specimen tokens. [i](They're artifacts with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "You may sacrifice two Specimens. If you do, creature two 3/3 green Beast creature tokens. Otherwise, create three Specimen tokens. [i](They're artifacts with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1392,8 +1524,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "66",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/rlOBw6\n\nJumpstart\nproto_g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast",
@@ -1412,8 +1546,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "67",
             "notes": "https://www.artstation.com/artwork/PeAKlr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poison Whip-Tail",
@@ -1423,7 +1559,7 @@
             "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Reach, deathtouch\nWhen this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Reach, deathtouch\nWhen this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1432,8 +1568,10 @@
             "loyalty": "",
             "artist": "Alan Albiach",
             "alias": "",
+            "position": "68",
             "notes": "Jumpstart\nproto_g\n\nhttps://www.artstation.com/artwork/XgrvYl",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Burgeoning Ascomycota",
@@ -1452,8 +1590,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "69",
             "notes": "https://www.artstation.com/artwork/3d9z5Y",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Radar Glade",
@@ -1472,14 +1612,16 @@
             "loyalty": "",
             "artist": "Fran Hao Shuang",
             "alias": "",
+            "position": "70",
             "notes": "https://www.artstation.com/artwork/k4BaVl\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whirring Surveyor",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Scout",
             "number": 236,
             "color_identity": "C",
             "cost": "{2}",
@@ -1492,8 +1634,10 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
+            "position": "71",
             "notes": "https://www.artstation.com/artwork/zAP6k4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Agile Furrowite",
@@ -1512,8 +1656,10 @@
             "loyalty": "",
             "artist": "jordi van hees",
             "alias": "",
+            "position": "72",
             "notes": "https://www.artstation.com/artwork/yDYgPx",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Profound Discovery",
@@ -1532,8 +1678,10 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
+            "position": "73",
             "notes": "https://www.artstation.com/artwork/nEqdqO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Methodical Infantry",
@@ -1552,14 +1700,16 @@
             "loyalty": "",
             "artist": "Wadim Kashin",
             "alias": "",
+            "position": "74",
             "notes": "https://www.artstation.com/artwork/YaEoxq",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anti-Aerial Crawler",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Soldier",
             "number": 115,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1572,8 +1722,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "75",
             "notes": "https://www.artstation.com/artwork/VgWOvb",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hazard Enviro-Mech",
@@ -1592,8 +1744,10 @@
             "loyalty": "",
             "artist": "Ivan Laliashvili",
             "alias": "",
+            "position": "76",
             "notes": "https://www.artstation.com/artwork/w8yVxV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plithium Processing Plant",
@@ -1612,8 +1766,10 @@
             "loyalty": "",
             "artist": "G liulian",
             "alias": "",
+            "position": "77",
             "notes": "https://www.artstation.com/artwork/0l6ynG\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Buoyant Bay Port",
@@ -1632,8 +1788,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "78",
             "notes": "https://www.artstation.com/artwork/XnX1mR\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bismuth Flats",
@@ -1652,8 +1810,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "79",
             "notes": "https://www.artstation.com/artwork/dK8LqJ\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shielding Dome",
@@ -1672,8 +1832,10 @@
             "loyalty": "",
             "artist": "Sasa Kunic",
             "alias": "",
+            "position": "80",
             "notes": "https://www.artstation.com/artwork/bl4r3G",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charging Octomare",
@@ -1692,8 +1854,10 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
+            "position": "81",
             "notes": "https://www.artstation.com/artwork/5Bn21A",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Levicycle Courier",
@@ -1712,8 +1876,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "82",
             "notes": "https://www.artstation.com/artwork/eRaVYb",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sudden Evacuation",
@@ -1732,14 +1898,16 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "83",
             "notes": "https://www.artstation.com/artwork/6aD29V",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Navigator Core",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2013 Robot Pilot",
             "number": 57,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1752,8 +1920,10 @@
             "loyalty": "",
             "artist": "Lav Games",
             "alias": "",
+            "position": "84",
             "notes": "https://www.artstation.com/artwork/lGr0AO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Watcher in the Void",
@@ -1772,8 +1942,10 @@
             "loyalty": "",
             "artist": "Connor Sheehan",
             "alias": "",
+            "position": "85",
             "notes": "https://www.artstation.com/artwork/kDDyEn?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Digitized Duo",
@@ -1792,8 +1964,10 @@
             "loyalty": "",
             "artist": "Reuben Lane",
             "alias": "",
+            "position": "86",
             "notes": "https://www.artstation.com/artwork/981qwo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cultivation Platforms",
@@ -1812,8 +1986,10 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
+            "position": "87",
             "notes": "https://www.artstation.com/artwork/1n4Q88\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wetland Botany Lab",
@@ -1832,8 +2008,10 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
+            "position": "88",
             "notes": "https://www.artstation.com/artwork/4qLX2\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glacial Mill",
@@ -1852,8 +2030,10 @@
             "loyalty": "",
             "artist": "Adrien Usa-Lucas",
             "alias": "",
+            "position": "89",
             "notes": "https://www.artstation.com/artwork/kNe3Oz\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Isle of Prophecy",
@@ -1872,8 +2052,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "90",
             "notes": "https://www.artstation.com/artwork/9Nk04W\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cavern of Piety",
@@ -1892,8 +2074,10 @@
             "loyalty": "",
             "artist": "Quentin Stipp",
             "alias": "",
+            "position": "91",
             "notes": "https://www.artstation.com/artwork/18bO3K\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Auroral Cliffs",
@@ -1912,8 +2096,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "92",
             "notes": "https://www.artstation.com/artwork/491XQq\n\n!landslot",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Precursor Colony",
@@ -1932,6 +2118,7 @@
             "loyalty": "",
             "artist": "Artificial Dimension",
             "alias": "",
+            "position": "93",
             "card_name2": "Precursor Ruins",
             "color2": "",
             "type2": "Enchantment Land \u2013 Outpost",
@@ -1944,7 +2131,8 @@
             "artist2": "Vertigo Studios",
             "alias2": "",
             "notes": "https://www.artstation.com/artwork/Al0DRe\n\nhttps://www.artstation.com/artwork/QXbE1Z",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Veylid Reliquary",
@@ -1963,8 +2151,10 @@
             "loyalty": "",
             "artist": "Hao Wang",
             "alias": "",
+            "position": "94",
             "notes": "https://www.artstation.com/artwork/Nqbn3d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Salvage Hunter",
@@ -1983,8 +2173,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "95",
             "notes": "https://www.artstation.com/artwork/0XL33y",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tremor Spikeworm",
@@ -2003,8 +2195,10 @@
             "loyalty": "",
             "artist": "Hao",
             "alias": "",
+            "position": "96",
             "notes": "https://www.artstation.com/artwork/ZwPLN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stasis Field",
@@ -2023,8 +2217,10 @@
             "loyalty": "",
             "artist": "Nicolas Teetz",
             "alias": "",
+            "position": "97",
             "notes": "https://www.artstation.com/artwork/Jll4ZD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Quell Rebellion",
@@ -2043,8 +2239,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "98",
             "notes": "https://www.artstation.com/artwork/nYLAEO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarab Behemoth",
@@ -2063,8 +2261,10 @@
             "loyalty": "",
             "artist": "Garrett Post",
             "alias": "",
+            "position": "99",
             "notes": "https://www.artstation.com/artwork/vEn2A",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Afflicted Researcher",
@@ -2083,8 +2283,10 @@
             "loyalty": "",
             "artist": "Alejandro Mirabal",
             "alias": "",
+            "position": "100",
             "notes": "https://www.artstation.com/artwork/N5qkWJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Void Specter",
@@ -2103,8 +2305,10 @@
             "loyalty": "",
             "artist": "Elvira Shatunova",
             "alias": "",
+            "position": "101",
             "notes": "https://www.artstation.com/artwork/L3mA5v",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Outskirts Prowler",
@@ -2123,8 +2327,10 @@
             "loyalty": "",
             "artist": "Sanj Thavaraja",
             "alias": "",
+            "position": "102",
             "notes": "https://www.artstation.com/artwork/dO6Z5W",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Duress",
@@ -2143,8 +2349,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "103",
             "notes": "https://www.artstation.com/artwork/oO1bNk",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Subjugation",
@@ -2163,8 +2371,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "104",
             "notes": "https://www.artstation.com/artwork/AZlZaV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Parasite",
@@ -2183,8 +2393,10 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
+            "position": "105",
             "notes": "https://www.artstation.com/artwork/nEW031\n\n!tokentag Parasite",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brood Warden",
@@ -2203,8 +2415,10 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
+            "position": "106",
             "notes": "https://www.artstation.com/artwork/oO2olO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wreckage Raiders",
@@ -2223,8 +2437,10 @@
             "loyalty": "",
             "artist": "Alex Ichim",
             "alias": "",
+            "position": "107",
             "notes": "https://www.artstation.com/artwork/8lyVB6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Field Expeditioners",
@@ -2234,7 +2450,7 @@
             "number": 123,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "You may strain this creature as it attacks. When you do, this creature gets +2/+1 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]\nWhen this creature dies, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "You may strain this creature as it attacks. When you do, this creature gets +2/+1 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]\nWhen this creature dies, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2243,8 +2459,10 @@
             "loyalty": "",
             "artist": "Alvaro Martin",
             "alias": "",
+            "position": "108",
             "notes": "https://www.artstation.com/artwork/nYKzb1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mission Coordinator",
@@ -2263,8 +2481,10 @@
             "loyalty": "",
             "artist": "Kim Trouwborst",
             "alias": "",
+            "position": "109",
             "notes": "https://www.artstation.com/artwork/04wB25",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Smoldering Defiance",
@@ -2283,8 +2503,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "110",
             "notes": "https://www.artstation.com/artwork/0XaDE5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abrade",
@@ -2303,8 +2525,10 @@
             "loyalty": "",
             "artist": "Adrian Biloz\u00f3r",
             "alias": "",
+            "position": "111",
             "notes": "https://www.artstation.com/artwork/NqW8d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Corrupted Monitor",
@@ -2323,14 +2547,16 @@
             "loyalty": "",
             "artist": "Finnian MacManus",
             "alias": "",
+            "position": "112",
             "notes": "https://www.artstation.com/artwork/qAnxwR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hull Mechanic",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2013 Robot Artificer",
             "number": 229,
             "color_identity": "C",
             "cost": "{2}",
@@ -2343,8 +2569,10 @@
             "loyalty": "",
             "artist": "John Wallin Liberto",
             "alias": "",
+            "position": "113",
             "notes": "https://www.artstation.com/artwork/1aV42",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tri-Lateral Grenade",
@@ -2363,8 +2591,10 @@
             "loyalty": "",
             "artist": "Victor Rathsmann",
             "alias": "",
+            "position": "114",
             "notes": "https://www.artstation.com/artwork/Jl4qVv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sampling Laser",
@@ -2374,7 +2604,7 @@
             "number": 179,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Equipped creature gets +1/+1.\nWhenever equipped creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]\nEquip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "Equipped creature gets +1/+1.\nWhenever equipped creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]\nEquip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2383,8 +2613,10 @@
             "loyalty": "",
             "artist": "Andrei Artefact",
             "alias": "",
+            "position": "115",
             "notes": "https://www.artstation.com/artwork/aY2dqk",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nurturing Mantisworm",
@@ -2403,8 +2635,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "116",
             "notes": "https://www.artstation.com/artwork/1xwYkX",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arachnae Behemoth",
@@ -2423,8 +2657,10 @@
             "loyalty": "",
             "artist": "David Auden Nash",
             "alias": "",
+            "position": "117",
             "notes": "https://www.artstation.com/artwork/nvJR1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unbound Subject",
@@ -2443,8 +2679,10 @@
             "loyalty": "",
             "artist": "Christian Fell",
             "alias": "",
+            "position": "118",
             "notes": "https://www.artstation.com/artwork/V4wrg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Broken Wings",
@@ -2463,8 +2701,10 @@
             "loyalty": "",
             "artist": "Joshua Clarke",
             "alias": "",
+            "position": "119",
             "notes": "https://www.artstation.com/artwork/3q0eEv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Organic Printer",
@@ -2483,8 +2723,10 @@
             "loyalty": "",
             "artist": "OS",
             "alias": "",
+            "position": "120",
             "notes": "https://www.artstation.com/artwork/ARqmV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ecological Survey",
@@ -2503,8 +2745,10 @@
             "loyalty": "",
             "artist": "Steven Bongers",
             "alias": "",
+            "position": "121",
             "notes": "https://www.artstation.com/artwork/V2a4Yb",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "EMP Blast",
@@ -2523,8 +2767,10 @@
             "loyalty": "",
             "artist": "Hethe Srodawa",
             "alias": "",
+            "position": "122",
             "notes": "https://www.artstation.com/artwork/z6J9q",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anomalous Animation",
@@ -2543,8 +2789,10 @@
             "loyalty": "",
             "artist": "Nivanh Chanthara",
             "alias": "",
+            "position": "123",
             "notes": "https://www.artstation.com/artwork/8beOLG",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sanguine Stalker",
@@ -2563,8 +2811,10 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
+            "position": "124",
             "notes": "https://www.artstation.com/artwork/Yaa2WV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Corpse Subsumer",
@@ -2574,7 +2824,7 @@
             "number": 160,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, draw a card if a creature died this turn.",
+            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, draw a card if a creature died this turn.",
             "flavor_text": "[i]FT[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2583,8 +2833,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
+            "position": "125",
             "notes": "https://www.artstation.com/artwork/Wmd3PJ?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scour the Ruins",
@@ -2603,8 +2855,10 @@
             "loyalty": "",
             "artist": "Andrej 'BATOU' Durik",
             "alias": "",
+            "position": "126",
             "notes": "https://www.artstation.com/artwork/a0DXmz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Commune With Evil",
@@ -2623,8 +2877,10 @@
             "loyalty": "",
             "artist": "Alvaro Martin",
             "alias": "",
+            "position": "127",
             "notes": "https://www.artstation.com/artwork/YeAYxd",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scorched Desolation",
@@ -2643,8 +2899,10 @@
             "loyalty": "",
             "artist": "Bohao Wang",
             "alias": "",
+            "position": "128",
             "notes": "https://www.artstation.com/artwork/1NlnP8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Despondent Colonists",
@@ -2663,8 +2921,10 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
+            "position": "129",
             "notes": "https://www.artstation.com/artwork/BXW0bm66-66-",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Artificial Warfront",
@@ -2683,8 +2943,10 @@
             "loyalty": "",
             "artist": "G-Hamm",
             "alias": "",
+            "position": "130",
             "notes": "https://www.artstation.com/artwork/9mLZgo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cuphro Invasion",
@@ -2703,8 +2965,10 @@
             "loyalty": "",
             "artist": "Damian Krzywonos",
             "alias": "",
+            "position": "131",
             "notes": "https://www.artstation.com/artwork/w8EDXO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orbital Drop Troopers",
@@ -2723,8 +2987,10 @@
             "loyalty": "",
             "artist": "Satyaki Sarkar",
             "alias": "",
+            "position": "132",
             "notes": "https://www.artstation.com/artwork/8BPdxm",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consider the Cosmos",
@@ -2743,8 +3009,10 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
+            "position": "133",
             "notes": "https://www.artstation.com/artwork/9eKmBN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lunar Archfiend",
@@ -2763,8 +3031,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
+            "position": "134",
             "notes": "https://www.artstation.com/artwork/6bOoan",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Agent of Retribution",
@@ -2783,8 +3053,10 @@
             "loyalty": "",
             "artist": "Roman Groph",
             "alias": "",
+            "position": "135",
             "notes": "https://www.artstation.com/artwork/5WYgQ1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enticing Discovery",
@@ -2803,8 +3075,10 @@
             "loyalty": "",
             "artist": "Navid pourkhak",
             "alias": "",
+            "position": "136",
             "notes": "https://www.artstation.com/artwork/OyO2Xg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unearthly Encounter",
@@ -2823,8 +3097,10 @@
             "loyalty": "",
             "artist": "Christer Degerman",
             "alias": "",
+            "position": "137",
             "notes": "https://www.artstation.com/artwork/rlvrd5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mutagen Spreader",
@@ -2843,8 +3119,10 @@
             "loyalty": "",
             "artist": "Rashed AlAkroka \u2726",
             "alias": "",
+            "position": "138",
             "notes": "https://www.artstation.com/artwork/Kaz9Y9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orchestrator of Wills",
@@ -2863,8 +3141,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
+            "position": "139",
             "notes": "https://www.artstation.com/artwork/qeKG8e",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bravo-2, Ruthless Commando",
@@ -2883,8 +3163,10 @@
             "loyalty": "",
             "artist": "Jeff Bartzis",
             "alias": "",
+            "position": "140",
             "notes": "https://www.artstation.com/artwork/ARWDz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Emberwing Emissary",
@@ -2903,8 +3185,10 @@
             "loyalty": "",
             "artist": "Sam White",
             "alias": "",
+            "position": "141",
             "notes": "https://www.artstation.com/artwork/1n2Gwe",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Path Treading Tank",
@@ -2923,8 +3207,10 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
+            "position": "142",
             "notes": "https://www.artstation.com/artwork/3qnPRB",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Assault Landing",
@@ -2934,7 +3220,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Destroy all creatures with power 3 or greater. Create a Specimen token for each creature that was destroyed this way. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Destroy all creatures with power 3 or greater. Create a Specimen token for each creature that was destroyed this way. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2943,14 +3229,16 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "143",
             "notes": "https://www.artstation.com/artwork/obV2mz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Station Monitor",
             "color": "U",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Soldier",
             "number": 71,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -2963,8 +3251,10 @@
             "loyalty": "",
             "artist": "Leif Heanzo",
             "alias": "",
+            "position": "144",
             "notes": "https://www.artstation.com/artwork/r9JaNJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Into the Pit",
@@ -2983,8 +3273,10 @@
             "loyalty": "",
             "artist": "Aleksandr Kravchuk",
             "alias": "",
+            "position": "145",
             "notes": "https://www.artstation.com/artwork/BkvrR8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lithura, Maiden of Fates",
@@ -2994,7 +3286,7 @@
             "number": 95,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+            "rules_text": "Assimilate {6}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3003,8 +3295,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
+            "position": "146",
             "notes": "https://www.artstation.com/artwork/49JKQL",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orbital Lift",
@@ -3023,8 +3317,10 @@
             "loyalty": "",
             "artist": "Jordan William Hughes",
             "alias": "",
+            "position": "147",
             "notes": "https://www.artstation.com/artwork/PX3848",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shorecrasher Titan",
@@ -3043,8 +3339,10 @@
             "loyalty": "",
             "artist": "Hamish Kentwell",
             "alias": "",
+            "position": "148",
             "notes": "https://www.artstation.com/artwork/KOElVG",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reactor Ignition",
@@ -3063,8 +3361,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "149",
             "notes": "https://www.artstation.com/artwork/0nLA38",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Augmented Starfighter",
@@ -3083,8 +3383,10 @@
             "loyalty": "",
             "artist": "Mathieu Boyer",
             "alias": "",
+            "position": "150",
             "notes": "https://www.artstation.com/artwork/L4gAav",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heart of Astorethe",
@@ -3103,8 +3405,10 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
+            "position": "151",
             "notes": "https://www.artstation.com/artwork/B1248A",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Exhurga, Origin of Mania",
@@ -3114,7 +3418,7 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nVigilance, trample, haste\nAt the beginning of your end step, if you sacrificed a permanent this turn, create two 1/1 black Parasite creature tokens with \u201cThis creature can't block.\u201d",
+            "rules_text": "Assimilate {6}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nVigilance, trample, haste\nAt the beginning of your end step, if you sacrificed a permanent this turn, create two 1/1 black Parasite creature tokens with \u201cThis creature can't block.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -3123,8 +3427,10 @@
             "loyalty": "",
             "artist": "Walter Brocca",
             "alias": "",
+            "position": "152",
             "notes": "https://www.artstation.com/artwork/XaxK0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celestial Generator",
@@ -3143,8 +3449,10 @@
             "loyalty": "",
             "artist": "Anh Le",
             "alias": "",
+            "position": "153",
             "notes": "https://www.artstation.com/artwork/18L6v3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Outpost Zero",
@@ -3163,6 +3471,7 @@
             "loyalty": "",
             "artist": "Amir Zand",
             "alias": "",
+            "position": "154",
             "card_name2": "Ground Zero",
             "color2": "",
             "type2": "Legendary Enchantment Land \u2013 Outpost",
@@ -3175,7 +3484,8 @@
             "artist2": "Alexander Dudar",
             "alias2": "",
             "notes": "https://www.artstation.com/artwork/wdEdV\n\nhttps://www.artstation.com/artwork/ZG5DNN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deflector Operative",
@@ -3194,8 +3504,10 @@
             "loyalty": "",
             "artist": "Tommy Suhartono",
             "alias": "",
+            "position": "155",
             "notes": "https://www.artstation.com/artwork/VgLdqn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Neon Enforcement",
@@ -3214,8 +3526,10 @@
             "loyalty": "",
             "artist": "Blake Rottinger",
             "alias": "",
+            "position": "156",
             "notes": "https://www.artstation.com/artwork/JeY3B0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clattering Chitin",
@@ -3234,8 +3548,10 @@
             "loyalty": "",
             "artist": "NUARE",
             "alias": "",
+            "position": "157",
             "notes": "https://www.artstation.com/artwork/k1grd",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Consuming Tide",
@@ -3254,8 +3570,10 @@
             "loyalty": "",
             "artist": "Tully Summers",
             "alias": "",
+            "position": "158",
             "notes": "https://www.artstation.com/artwork/B1vb24",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bravo-2 Contractee",
@@ -3274,8 +3592,10 @@
             "loyalty": "",
             "artist": "Bram Sels",
             "alias": "",
+            "position": "159",
             "notes": "https://www.artstation.com/artwork/aGgJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Suppression Fire",
@@ -3294,8 +3614,10 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
+            "position": "160",
             "notes": "https://www.artstation.com/artwork/Ga9dQW",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Exfiltration Coordinator",
@@ -3314,8 +3636,10 @@
             "loyalty": "",
             "artist": "MOOD Visuals",
             "alias": "",
+            "position": "161",
             "notes": "https://www.artstation.com/artwork/EvWyJe",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Call to Action",
@@ -3334,8 +3658,10 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
+            "position": "162",
             "notes": "https://www.artstation.com/artwork/rWKd2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Luminescent Aberration",
@@ -3354,8 +3680,10 @@
             "loyalty": "",
             "artist": "Jordi Versteege",
             "alias": "",
+            "position": "163",
             "notes": "https://www.artstation.com/artwork/14qV52",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Genome Sequencing",
@@ -3374,8 +3702,10 @@
             "loyalty": "",
             "artist": "OS",
             "alias": "",
+            "position": "164",
             "notes": "https://www.artstation.com/artwork/ARqmV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Morphose Plague",
@@ -3394,8 +3724,10 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
+            "position": "165",
             "notes": "https://www.artstation.com/artwork/9NB2ma",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bioweapon Engineers",
@@ -3414,8 +3746,10 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
+            "position": "166",
             "notes": "https://www.artstation.com/artwork/5884ag",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Circuit Liberator",
@@ -3434,8 +3768,10 @@
             "loyalty": "",
             "artist": "Michael Black",
             "alias": "",
+            "position": "167",
             "notes": "https://www.artstation.com/artwork/AqwPlV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Galactic Rending",
@@ -3454,8 +3790,10 @@
             "loyalty": "",
             "artist": "\u666e\u901a\u7684\u4eba",
             "alias": "",
+            "position": "168",
             "notes": "https://www.artstation.com/artwork/ZlDEQ1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghoulish Stillthroat",
@@ -3465,7 +3803,7 @@
             "number": 204,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
-            "rules_text": "Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nTrample\nThis creature enters with a +1/+1 counter on it for each creature that died this turn.",
+            "rules_text": "Assimilate {4}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nTrample\nThis creature enters with a +1/+1 counter on it for each creature that died this turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3474,14 +3812,16 @@
             "loyalty": "",
             "artist": "Bobby Rebholz",
             "alias": "",
+            "position": "169",
             "notes": "https://www.artstation.com/artwork/mAn1EY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pathcutter Drone",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Soldier",
             "number": 213,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -3494,8 +3834,10 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
+            "position": "170",
             "notes": "https://www.artstation.com/artwork/zBGDq",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Razefire Raid",
@@ -3514,8 +3856,10 @@
             "loyalty": "",
             "artist": "Wojtek Fus",
             "alias": "",
+            "position": "171",
             "notes": "https://www.artstation.com/artwork/o8RWm",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twilight Observer",
@@ -3534,8 +3878,10 @@
             "loyalty": "",
             "artist": "W\u0112T\u0100 WORKSHOP DESIGN STUDIO",
             "alias": "",
+            "position": "172",
             "notes": "https://www.artstation.com/artwork/3o5XWo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vegetative Biopsy",
@@ -3554,8 +3900,10 @@
             "loyalty": "",
             "artist": "Robin Bouwmeester",
             "alias": "",
+            "position": "173",
             "notes": "https://www.artstation.com/artwork/LR1JVK",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lunar Bog",
@@ -3574,8 +3922,10 @@
             "loyalty": "",
             "artist": "Bram Sels",
             "alias": "",
+            "position": "174",
             "notes": "https://www.artstation.com/artwork/RnDE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Basaltic Reef",
@@ -3594,8 +3944,10 @@
             "loyalty": "",
             "artist": "Zana Bamarni",
             "alias": "",
+            "position": "175",
             "notes": "https://www.artstation.com/artwork/5W0P6P",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Luminous Fen",
@@ -3614,8 +3966,10 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
+            "position": "176",
             "notes": "https://www.artstation.com/artwork/qQQeN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Saltspire Expanse",
@@ -3634,8 +3988,10 @@
             "loyalty": "",
             "artist": "Lola Yiting Zhang",
             "alias": "",
+            "position": "177",
             "notes": "https://www.artstation.com/artwork/K3JYkx",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cascading Grotto",
@@ -3654,8 +4010,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "178",
             "notes": "https://www.artstation.com/artwork/Ea46b8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Null-Tide Seabed",
@@ -3674,8 +4032,10 @@
             "loyalty": "",
             "artist": "Robin Bouwmeester",
             "alias": "",
+            "position": "179",
             "notes": "https://www.artstation.com/artwork/YKoZyP",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tendril Quagmire",
@@ -3694,8 +4054,10 @@
             "loyalty": "",
             "artist": "Tully Summers",
             "alias": "",
+            "position": "180",
             "notes": "https://www.artstation.com/artwork/nYxzb6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Moor",
@@ -3714,8 +4076,10 @@
             "loyalty": "",
             "artist": "Pascal Blanch\u00e9",
             "alias": "",
+            "position": "181",
             "notes": "https://www.artstation.com/artwork/4vKLl",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brewing Crag",
@@ -3734,8 +4098,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "182",
             "notes": "https://www.artstation.com/artwork/WXXVQ3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stillgrove Narrows",
@@ -3754,8 +4120,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "183",
             "notes": "https://www.artstation.com/artwork/L4R3Gv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Adaptive Scoundrel",
@@ -3774,8 +4142,10 @@
             "loyalty": "",
             "artist": "Johann Goutard",
             "alias": "",
+            "position": "184",
             "notes": "https://www.artstation.com/artwork/Ya9vvK",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Agricultural Analysis",
@@ -3785,7 +4155,7 @@
             "number": 149,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Search your library for a basic land or Outpost card and put it onto the battlefield tapped. Then shuffle.\nWhen you exile this card from your graveyard to activate an ability of an Outpost, draw a card.",
+            "rules_text": "Search your library for a basic land or Outpost card and put it onto the battlefield tapped. Then shuffle.\nWhen this card leaves your graveyard, you may pay {2}. When you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3794,8 +4164,10 @@
             "loyalty": "",
             "artist": "Marcel Wissel",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/3EZyND",
-            "image_type": "png"
+            "position": "185",
+            "notes": "https://www.artstation.com/artwork/3EZyND\n\nInspired by philippesaner",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Militech Analysis",
@@ -3805,7 +4177,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Militech Analysis deals 3 damage to target creature or planeswalker.\nWhen you exile this card from your graveyard to activate an ability of an Outpost, draw a card.",
+            "rules_text": "Militech Analysis deals 3 damage to target creature or planeswalker.\nWhen this card leaves your graveyard, you may pay {2}. When you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3814,8 +4186,10 @@
             "loyalty": "",
             "artist": "Bram Sels",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/ABAay",
-            "image_type": "png"
+            "position": "186",
+            "notes": "https://www.artstation.com/artwork/ABAay\n\nInspired by philippesaner",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Contain for Study",
@@ -3834,8 +4208,10 @@
             "loyalty": "",
             "artist": "Ren\u00e9 Aigner",
             "alias": "",
+            "position": "187",
             "notes": "https://www.artstation.com/artwork/RxRDO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Colony Map",
@@ -3854,8 +4230,10 @@
             "loyalty": "",
             "artist": "Igor Savin",
             "alias": "",
+            "position": "188",
             "notes": "https://www.artstation.com/artwork/YZgxV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devastating Blast",
@@ -3874,8 +4252,10 @@
             "loyalty": "",
             "artist": "Wiktor \u00d6hman",
             "alias": "",
+            "position": "189",
             "notes": "https://www.artstation.com/artwork/14agEK",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Insatiable Petrifier",
@@ -3885,7 +4265,7 @@
             "number": 93,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Assimilate {4}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i]",
+            "rules_text": "Assimilate {5}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhen this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3894,8 +4274,10 @@
             "loyalty": "",
             "artist": "Niyaz Karimov",
             "alias": "",
+            "position": "190",
             "notes": "https://www.artstation.com/artwork/ZlXYPm",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Origin Stone Shard",
@@ -3904,8 +4286,8 @@
             "type": "Artifact",
             "number": 60,
             "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "When this artifact enters, return up to one target creature to its owner's hand.\n{2}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "cost": "{1}{U}",
+            "rules_text": "When this artifact enters, if it was cast, return up to one target creature to its owner's hand.\n{3}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3914,8 +4296,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "191",
             "notes": "https://www.artstation.com/artwork/aRgx4L",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fallback Plan",
@@ -3934,8 +4318,10 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
+            "position": "192",
             "notes": "https://www.artstation.com/artwork/LRBayA",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tundra Lurker",
@@ -3954,8 +4340,10 @@
             "loyalty": "",
             "artist": "Maxwell Heartfield",
             "alias": "",
+            "position": "193",
             "notes": "https://www.artstation.com/artwork/aRmxAL",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Omen of Contagion",
@@ -3974,8 +4362,10 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
+            "position": "194",
             "notes": "https://www.artstation.com/artwork/X4Wv3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orbital Crash",
@@ -3994,8 +4384,10 @@
             "loyalty": "",
             "artist": "No\u00e9 Leyva",
             "alias": "",
+            "position": "195",
             "notes": "https://www.artstation.com/artwork/m0Zvy",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Telemagnetic Reclaimation",
@@ -4005,7 +4397,7 @@
             "number": 33,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Return target artifact card from your graveyard to the battlefield.\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Return target artifact card from your graveyard to the battlefield.\nCreate a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4014,8 +4406,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "196",
             "notes": "https://www.artstation.com/artwork/6abd8r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kinetic Shieldbearer",
@@ -4034,8 +4428,10 @@
             "loyalty": "",
             "artist": "VOLTA",
             "alias": "",
+            "position": "197",
             "notes": "https://www.artstation.com/artwork/lVJJ4Y?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hapless Innovators",
@@ -4054,8 +4450,10 @@
             "loyalty": "",
             "artist": "MOOD Visuals",
             "alias": "",
+            "position": "198",
             "notes": "https://www.artstation.com/artwork/lVaYao",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Intensive Study",
@@ -4074,14 +4472,16 @@
             "loyalty": "",
             "artist": "Andrey Serov / Auqrew",
             "alias": "",
+            "position": "199",
             "notes": "https://www.artstation.com/artwork/rRlVJe",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twincannon Warbot",
             "color": "R",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2013 Robot Soldier",
             "number": 147,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -4094,8 +4494,10 @@
             "loyalty": "",
             "artist": "Vizlab Studios",
             "alias": "",
+            "position": "200",
             "notes": "https://www.artstation.com/artwork/d0A62Q",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Undead Bioroid",
@@ -4114,8 +4516,10 @@
             "loyalty": "",
             "artist": "Ninja Jo",
             "alias": "",
+            "position": "201",
             "notes": "https://www.artstation.com/artwork/4bwDq1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Abandon Ship",
@@ -4134,8 +4538,10 @@
             "loyalty": "",
             "artist": "Jakub Dzikowski",
             "alias": "",
+            "position": "202",
             "notes": "https://www.artstation.com/artwork/3qnRoJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Creeping Scavenger",
@@ -4145,7 +4551,7 @@
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nAt the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card.",
+            "rules_text": "Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nAt the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4154,8 +4560,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "203",
             "notes": "https://www.artstation.com/artwork/bl5Nrr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Desperate Wayfarer",
@@ -4174,8 +4582,10 @@
             "loyalty": "",
             "artist": "Maciej Wojtala",
             "alias": "",
+            "position": "204",
             "notes": "https://www.artstation.com/artwork/5vbqw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hardened Commando",
@@ -4194,8 +4604,10 @@
             "loyalty": "",
             "artist": "mist XG",
             "alias": "",
+            "position": "205",
             "notes": "https://www.artstation.com/artwork/Rym8NW",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Devastating Dilemma",
@@ -4214,8 +4626,10 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
+            "position": "206",
             "notes": "https://www.artstation.com/artwork/rJvwl2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Xathyz, Eternal Matriarch",
@@ -4234,8 +4648,10 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
+            "position": "207",
             "notes": "https://www.artstation.com/artwork/48bWK1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blackmarket Orchestrator",
@@ -4254,18 +4670,20 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "208",
             "notes": "https://www.artstation.com/artwork/r9gONE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mobile Containment Unit",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Scout",
             "number": 133,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "When this creature dies, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature dies, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i]No matter whose voice you hear \u2014 don't open the cage.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4274,8 +4692,10 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "209",
             "notes": "https://www.artstation.com/artwork/Krvm6o",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crisis Assayer",
@@ -4294,8 +4714,10 @@
             "loyalty": "",
             "artist": "Lukasz Jaskolski",
             "alias": "",
+            "position": "210",
             "notes": "https://www.artstation.com/artwork/W2qmny",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Terminal Infection",
@@ -4314,8 +4736,10 @@
             "loyalty": "",
             "artist": "Jama Jurabaev",
             "alias": "",
+            "position": "211",
             "notes": "https://www.artstation.com/artwork/lG5lqV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Relentless Miscreant",
@@ -4334,8 +4758,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "212",
             "notes": "https://www.artstation.com/artwork/m8vo4y",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Climactic Rebuke",
@@ -4354,8 +4780,10 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
+            "position": "213",
             "notes": "https://www.artstation.com/artwork/4mrZk",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eldritch Summoning",
@@ -4365,7 +4793,7 @@
             "number": 87,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with a menace counter on it, then shuffle your library.",
+            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nChoose target creature card in your graveyard with mana value equal to or less than 1 plus the sacrificed creature's mana value. Return the chosen card the battlefield with a menace counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4374,8 +4802,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/aYmgr9",
-            "image_type": "png"
+            "position": "214",
+            "notes": "https://www.artstation.com/artwork/aYmgr9\n\nInspired by design concept from redpandersbear",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stun Baton",
@@ -4394,8 +4824,10 @@
             "loyalty": "",
             "artist": "Fabrice ROS PATURAUX",
             "alias": "",
+            "position": "215",
             "notes": "https://www.artstation.com/artwork/rBBd2?collection_id=1838637",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Portable Incinerator",
@@ -4414,8 +4846,10 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
+            "position": "216",
             "notes": "https://www.artstation.com/artwork/qAomLR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Intel Breach",
@@ -4434,8 +4868,10 @@
             "loyalty": "",
             "artist": "Michael Michera",
             "alias": "",
+            "position": "217",
             "notes": "https://www.artstation.com/artwork/WykAD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Piercing Duplicant",
@@ -4444,18 +4880,20 @@
             "type": "Artifact Creature \u2013 Symbiote",
             "number": 214,
             "color_identity": "UBG",
-            "cost": "{B}{G}{U}",
-            "rules_text": "Assimilate {2}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nYou may have other artifacts and creatures you control enter as copies of this creature.\nSymbiotes you control get +1/+1.",
+            "cost": "{1}{B}{G}{U}",
+            "rules_text": "Assimilate {3}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nYou may have other artifacts and creatures you control enter as copies of this creature except they don't have this ability.\nOther Symbiotes you control get +1/+1.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/LR5oZ5",
-            "image_type": "png"
+            "position": "218",
+            "notes": "https://www.artstation.com/artwork/LR5oZ5\n\nOriginal Design by PTM",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scallia, Primal Morphling",
@@ -4474,8 +4912,10 @@
             "loyalty": "",
             "artist": "Ian Barker",
             "alias": "",
+            "position": "219",
             "notes": "https://www.artstation.com/artwork/vk4VY",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Invader Construct",
@@ -4494,8 +4934,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "220",
             "notes": "https://www.artstation.com/artwork/DgOwA",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Predatious Bristleback",
@@ -4514,8 +4956,10 @@
             "loyalty": "",
             "artist": "Hao",
             "alias": "",
+            "position": "221",
             "notes": "https://www.artstation.com/artwork/JlkwaZ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Parsec Tactician",
@@ -4534,8 +4978,10 @@
             "loyalty": "",
             "artist": "8durian",
             "alias": "",
+            "position": "222",
             "notes": "https://www.artstation.com/artwork/WXz9d3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garruk, Augmented Tracker",
@@ -4554,8 +5000,10 @@
             "loyalty": "3",
             "artist": "Tek Tan",
             "alias": "",
+            "position": "223",
             "notes": "https://www.artstation.com/artwork/A3RXe",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stellar Phoenix",
@@ -4574,8 +5022,10 @@
             "loyalty": "",
             "artist": "Renee LeCompte",
             "alias": "",
+            "position": "224",
             "notes": "https://www.artstation.com/artwork/Ze648m",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -4594,8 +5044,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "225",
             "notes": "https://www.artstation.com/artwork/baKRgn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -4614,8 +5066,10 @@
             "loyalty": "",
             "artist": "Alan Albiach",
             "alias": "",
+            "position": "226",
             "notes": "https://www.artstation.com/artwork/XgrvYl",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -4634,8 +5088,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "227",
             "notes": "https://www.artstation.com/artwork/r9AmrG",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -4654,8 +5110,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "228",
             "notes": "https://www.artstation.com/artwork/o8VKB",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -4674,8 +5132,10 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "229",
             "notes": "https://www.artstation.com/artwork/6N1JK6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Primordial Shaper",
@@ -4694,8 +5154,10 @@
             "loyalty": "",
             "artist": "Bo Chen",
             "alias": "",
+            "position": "230",
             "notes": "https://www.artstation.com/artwork/w8BJPw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mori-Bloom",
@@ -4714,8 +5176,10 @@
             "loyalty": "",
             "artist": "Bonifasko",
             "alias": "",
+            "position": "231",
             "notes": "https://www.artstation.com/artwork/3oldbg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Precognitive Tactics",
@@ -4734,8 +5198,10 @@
             "loyalty": "",
             "artist": "Thibault Girard",
             "alias": "",
+            "position": "232",
             "notes": "https://www.artstation.com/artwork/KaV6RW",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Orbital Distorter",
@@ -4754,8 +5220,10 @@
             "loyalty": "",
             "artist": "Shane Rebenschied",
             "alias": "",
+            "position": "233",
             "notes": "https://www.artstation.com/artwork/v2dDgD",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spec-Ops Forerunner",
@@ -4774,8 +5242,10 @@
             "loyalty": "",
             "artist": "Logan Turner",
             "alias": "",
+            "position": "234",
             "notes": "https://www.artstation.com/artwork/gJ36q8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Homogeneous Vessel",
@@ -4794,8 +5264,10 @@
             "loyalty": "",
             "artist": "Nivanh Chanthara",
             "alias": "",
+            "position": "235",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Synthesis Volunteer",
@@ -4814,8 +5286,10 @@
             "loyalty": "",
             "artist": "Lloyd Drake-Brockman",
             "alias": "",
+            "position": "236",
             "notes": "https://www.artstation.com/artwork/JvALlz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unwitting Host",
@@ -4825,7 +5299,7 @@
             "number": 110,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, each player discards a card. If you discarded a card this way, draw a card and create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]\nWhen you sacrifice this creature, create a 2/2 black Horror creature token.",
+            "rules_text": "When this creature enters, each player discards a card. If you discarded a card this way, draw a card and create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]\nWhen you sacrifice this creature, create a 2/2 black Horror creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4834,8 +5308,10 @@
             "loyalty": "",
             "artist": "Kai Gavin Eberl",
             "alias": "",
+            "position": "237",
             "notes": "https://www.artstation.com/artwork/AlzKq",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Temporal Harness",
@@ -4854,8 +5330,10 @@
             "loyalty": "",
             "artist": "Eman Vallejos",
             "alias": "",
+            "position": "238",
             "notes": "https://www.artstation.com/artwork/LRXQ0l",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arboreal Sinewvine",
@@ -4865,7 +5343,7 @@
             "number": 152,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever you attack, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]\nSpecimens you control have \u201c{T}: Add one mana of any color.\u201d",
+            "rules_text": "Whenever you attack, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]\nSpecimens you control have \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -4874,8 +5352,10 @@
             "loyalty": "",
             "artist": "Ana Baltova-Vercuiel",
             "alias": "",
+            "position": "239",
             "notes": "https://www.artstation.com/artwork/1gkRo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enforcer's Assault Rifle",
@@ -4894,8 +5374,10 @@
             "loyalty": "",
             "artist": "Sergey Semenovykh",
             "alias": "",
+            "position": "240",
             "notes": "https://www.artstation.com/artwork/ZlbqAx",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Slipstream Infiltrator",
@@ -4914,8 +5396,10 @@
             "loyalty": "",
             "artist": "Alexis Facque",
             "alias": "",
+            "position": "241",
             "notes": "https://www.artstation.com/artwork/28OJJY?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kinetic Vanguard",
@@ -4934,8 +5418,10 @@
             "loyalty": "",
             "artist": "Jude Smith",
             "alias": "",
+            "position": "242",
             "notes": "https://www.artstation.com/artwork/8wz23q",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pitiless Peacekeeper",
@@ -4954,8 +5440,10 @@
             "loyalty": "",
             "artist": "Lionel Dorviler-Thierry",
             "alias": "",
+            "position": "243",
             "notes": "https://www.artstation.com/artwork/XJb3WL",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Awoken Warframe",
@@ -4974,8 +5462,10 @@
             "loyalty": "",
             "artist": "Danil Kuptsov",
             "alias": "",
+            "position": "244",
             "notes": "https://www.artstation.com/artwork/vbyyN3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Augmented-Reality Visor",
@@ -4984,8 +5474,8 @@
             "type": "Artifact \u2013 Equipment",
             "number": 4,
             "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1 for each artifact you control and has first strike.\nEquip {2}",
+            "cost": "{1}{W}",
+            "rules_text": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1 for each artifact you control.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4994,8 +5484,10 @@
             "loyalty": "",
             "artist": "Phil Saunders",
             "alias": "",
+            "position": "245",
             "notes": "https://www.artstation.com/artwork/L4y2RR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "City Outbreak",
@@ -5014,8 +5506,10 @@
             "loyalty": "",
             "artist": "Oliver Guiney",
             "alias": "",
+            "position": "246",
             "notes": "https://www.artstation.com/artwork/GZd3V?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Operative Reactivation",
@@ -5034,14 +5528,16 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
+            "position": "247",
             "notes": "https://www.artstation.com/artwork/L89Gw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skyline Enforcer",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2013 Drone Soldier",
             "number": 141,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -5054,8 +5550,10 @@
             "loyalty": "",
             "artist": "sparth",
             "alias": "",
+            "position": "248",
             "notes": "https://www.artstation.com/artwork/PJN88",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hive Queen",
@@ -5074,8 +5572,10 @@
             "loyalty": "",
             "artist": "Kim Sung Hwan",
             "alias": "",
+            "position": "249",
             "notes": "https://www.artstation.com/artwork/EoGae",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Infernal Ravager",
@@ -5094,8 +5594,10 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
+            "position": "250",
             "notes": "https://www.artstation.com/artwork/zO3Ql4?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lab Infiltration",
@@ -5105,7 +5607,7 @@
             "number": 129,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and \u201cWhenever this creature deals combat damage to a player, create a Specimen token.\u201d [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and \u201cWhenever this creature deals combat damage to a player, create a Specimen token.\u201d [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5114,8 +5616,10 @@
             "loyalty": "",
             "artist": "Alexander Borodin",
             "alias": "",
+            "position": "251",
             "notes": "https://www.artstation.com/artwork/4Nkwn8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forged Recluse",
@@ -5134,8 +5638,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "252",
             "notes": "https://www.artstation.com/artwork/w4lXg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cunning Tactics",
@@ -5154,8 +5660,10 @@
             "loyalty": "",
             "artist": "Thibault Girard",
             "alias": "",
+            "position": "253",
             "notes": "https://www.artstation.com/artwork/L2V4O0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Awakening",
@@ -5174,8 +5682,10 @@
             "loyalty": "",
             "artist": "Juan Pablo Roldan",
             "alias": "",
+            "position": "254",
             "notes": "https://www.artstation.com/artwork/JrPDqv?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Astral Strategist",
@@ -5194,8 +5704,10 @@
             "loyalty": "",
             "artist": "Thibault Girard",
             "alias": "",
+            "position": "255",
             "notes": "https://www.artstation.com/artwork/9eL8XO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Multi-Point Waygate",
@@ -5214,8 +5726,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "256",
             "notes": "https://www.artstation.com/artwork/J9Zxev",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ensnaring Matrix",
@@ -5234,8 +5748,10 @@
             "loyalty": "",
             "artist": "Gabo Garza",
             "alias": "",
+            "position": "257",
             "notes": "https://www.artstation.com/artwork/bgNKPa?collection_id=2324707",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Maxine, Cynical Renegade",
@@ -5254,8 +5770,10 @@
             "loyalty": "4",
             "artist": "Thanh Tu\u1ea5n",
             "alias": "",
+            "position": "258",
             "notes": "https://www.artstation.com/artwork/EVqza8\n\nZoom 50%",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plithium-Plated Mech",
@@ -5274,8 +5792,10 @@
             "loyalty": "",
             "artist": "Hamish Kentwell",
             "alias": "",
+            "position": "259",
             "notes": "https://www.artstation.com/artwork/g03bmQ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feasting Skittermaw",
@@ -5294,8 +5814,10 @@
             "loyalty": "",
             "artist": "peng lu",
             "alias": "",
+            "position": "260",
             "notes": "https://www.artstation.com/artwork/x3bKRX",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keilan, Rabble-Rouser",
@@ -5314,8 +5836,10 @@
             "loyalty": "",
             "artist": "James Rinere",
             "alias": "",
+            "position": "261",
             "notes": "https://www.artstation.com/artwork/3E9PRB",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sterile Synthesis",
@@ -5334,8 +5858,10 @@
             "loyalty": "",
             "artist": "Ilya Nazarov",
             "alias": "",
+            "position": "262",
             "notes": "https://www.artstation.com/artwork/bz0gk",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Malignant Venomwing",
@@ -5354,8 +5880,10 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "263",
             "notes": "https://www.artstation.com/artwork/nNKWO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horror",
@@ -5374,8 +5902,10 @@
             "loyalty": "",
             "artist": "Starseed",
             "alias": "",
+            "position": "264",
             "notes": "https://www.artstation.com/artwork/295vav",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seed of Infection",
@@ -5394,8 +5924,10 @@
             "loyalty": "",
             "artist": "Alberto Filipponi",
             "alias": "",
+            "position": "265",
             "notes": "https://www.artstation.com/artwork/RyoVmr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Evelyn, Battle Calculatrix",
@@ -5414,8 +5946,10 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
+            "position": "266",
             "notes": "https://www.artstation.com/artwork/nQQNb9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dread Reaper",
@@ -5425,7 +5959,7 @@
             "number": 197,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
-            "rules_text": "Assimilate {4}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhenever a player is dealt combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life.",
+            "rules_text": "Assimilate {5}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]\nWhenever a player is dealt combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -5434,14 +5968,16 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
+            "position": "267",
             "notes": "https://www.artstation.com/artwork/ZeZzx0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blitzwing Striker",
             "color": "WR",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Robot",
+            "type": "Artifact Creature \u2013 Robot Soldier",
             "number": 188,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -5454,8 +5990,10 @@
             "loyalty": "",
             "artist": "Bernard Chan",
             "alias": "",
+            "position": "268",
             "notes": "https://www.artstation.com/artwork/4NlBK1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eldritch Haruspex",
@@ -5474,8 +6012,10 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
+            "position": "269",
             "notes": "https://www.artstation.com/artwork/XBodqw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fluxreactor Manticore",
@@ -5494,8 +6034,10 @@
             "loyalty": "",
             "artist": "Yura Kozhevnikov",
             "alias": "",
+            "position": "270",
             "notes": "https://www.artstation.com/artwork/XJ8Lk3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Relentless Raid",
@@ -5514,8 +6056,10 @@
             "loyalty": "",
             "artist": "Miguel Mitchell Da Silva",
             "alias": "",
+            "position": "271",
             "notes": "https://www.artstation.com/artwork/XJ8bLL",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Maxine, Cynical Renegade",
@@ -5534,8 +6078,10 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
+            "position": "272",
             "notes": "https://www.artstation.com/artwork/EVqza8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Horror",
@@ -5554,8 +6100,10 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
+            "position": "273",
             "notes": "https://www.artstation.com/artwork/rR3d6J",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charim Kosta, Hullraider",
@@ -5574,8 +6122,10 @@
             "loyalty": "4",
             "artist": "Abrar Khan",
             "alias": "",
+            "position": "274",
             "notes": "https://www.artstation.com/artwork/bayR4r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "D'Emil, Apex Hunter",
@@ -5594,8 +6144,10 @@
             "loyalty": "",
             "artist": "James Zapata",
             "alias": "",
+            "position": "275",
             "notes": "https://www.artstation.com/artwork/N405",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Moira, Rapid Adapter",
@@ -5614,8 +6166,10 @@
             "loyalty": "",
             "artist": "Matt Zeilinger",
             "alias": "",
+            "position": "276",
             "notes": "https://www.artstation.com/artwork/VdJlon\n\nRedbay suggestion:\n\nWhenever a creature you control dies, you may return it to the battlefield, then exile it.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hextech Pilferer",
@@ -5634,8 +6188,10 @@
             "loyalty": "",
             "artist": "crow god",
             "alias": "",
+            "position": "277",
             "notes": "https://www.artstation.com/artwork/rRVAyE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Charim Kosta, Hullraider",
@@ -5654,8 +6210,10 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
+            "position": "278",
             "notes": "https://www.artstation.com/artwork/bayR4r",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Weapon",

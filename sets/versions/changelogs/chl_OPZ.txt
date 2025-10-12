@@ -1,4 +1,711 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Forsaken Expedition
+
+Portent Resonance
+
+Taloncrawler
+rules_text: Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a +1/+1 counter if it assimilated. => Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Menace
+This creature enters with a +1/+1 counter if it assimilated.
+
+Renegade Academy
+rules_text: This land enters tapped.
+{T}: Add {W}.
+[i]Catastrophe[/i] — {3}{W}, {T}: Transform this land. Activate only as a sorcery and only if you have seven or more cards in your graveyard. => This land enters tapped.
+{T}: Add {W}.
+[i]Catastrophe[/i] — {3}{W}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery.
+
+Expedition Range
+
+Voyager Station
+rules_text: This enters tapped.
+{T}: Add {U}.
+[i]Catastrophe[/i] — {1}{U}, {T}: Transform this land. Activate only as a sorcery and only if you have seven or more cards in your graveyard. => This enters tapped.
+{T}: Add {U}.
+Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Plithium Quarry
+rules_text: This enters tapped.
+{T}: Add {B}.
+[i]Catastrophe[/i] — {3}{B}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {B}.
+[i]Catastrophe[/i] — {3}{B}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Innovative Hangar
+rules_text: This enters tapped.
+{T}: Add {R}.
+[i]Catastrophe[/i] — {4}{R}, {T}, Exile five cards from your graveyard. Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {R}.
+[i]Catastrophe[/i] — {4}{R}, {T}, Exile five cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Specimen
+
+Proto-Genesis Jellyfish
+
+Ambitious Lab Techs
+rules_text: When this creature enters, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+{2}, {T}: Draw a card, then discard a card. => When this creature enters, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+{2}, {T}: Draw a card, then discard a card.
+
+Targeted Strike
+
+Acrid Chiropteran
+
+Steamcaller
+rules_text: Assimilate {3}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. => Assimilate {4}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.
+
+Haunting Amalgamate
+rules_text: Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with your choice of a haste or +1/+1 counter on it. => Assimilate {6}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+This creature enters with your choice of a haste or +1/+1 counter on it.
+
+Stalking Wispbeast
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever this creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever this creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Rothmas Scouts
+
+Construct
+
+Transferred Soul
+rules_text: When this creature enters, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => When this creature enters, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Drone
+
+Keen-Eyed Engineer
+
+Digital Reconstruction
+rules_text: Return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Return up to one target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+City Sweep
+
+Servitor Drone
+type: Artifact Creature — Drone => Artifact Creature — Drone Scout
+
+Expanse Runners
+
+Gleaming Kite
+
+Swift Response
+
+Convening Nomad
+
+Cryo Chamber
+
+Containment Breach
+rules_text: Surveil 3, then draw a card. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Surveil 3, then draw a card. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Mistweaver
+rules_text: Assimilate {5}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Assimilate {6}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of your upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Overwatch Sentinel
+type: Artifact Creature — Drone => Artifact Creature — Drone Soldier
+
+Observation Crew
+
+Manifested Chimera
+
+Disposal Personnel
+
+Android Maintenance
+
+Don't Make a Sound
+
+Frigid Pass Officers
+
+Splinter Brute
+rules_text: Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Deathtouch
+When this creature enters, if it assimilated, each opponent sacrifices a creature. => Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Deathtouch
+When this creature enters, if it assimilated, each opponent sacrifices a creature.
+
+Painful Excision
+rules_text: As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Nimble Crewmate
+
+Extraction Team
+
+Aerial Heistman
+
+Ignominious Executive
+
+Disfigure
+
+Remote Disintegration
+
+Recovery Mission
+
+Mercenary
+
+Frightened Trainee
+
+Mining Rig
+type: Artifact Creature — Robot => Artifact Creature — Robot Scout
+
+Thrill of Possibility
+
+Tactical Breach
+
+Frontline Dropship
+
+Construction Bot
+type: Artifact Creature — Drone => Artifact Creature — Drone Citizen
+
+Pyroclastic Crewmate
+
+Ops Pointman
+
+Drone Operator
+
+Skittering Swarm
+
+Incinerating Blast
+
+Ambush Drone
+type: Artifact Creature — Drone => Artifact Creature — Drone Soldier
+
+Houkkipi Scavengers
+
+Biogenic Upgrade
+
+Brush Surveyor
+
+Consuming Polyp
+rules_text: Assimilate {3}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, if it assimilated, destroy up to one target artifact or enchantment. => Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, if it assimilated, destroy up to one target artifact or enchantment.
+
+Spontaneous Outburst
+
+Brutal Acquisition
+rules_text: Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Target creature you control fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Rapid Incubation
+rules_text: You may sacrifice two Specimens. If you do, creature two 3/3 green Beast creature tokens. Otherwise, create three Specimen tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => You may sacrifice two Specimens. If you do, creature two 3/3 green Beast creature tokens. Otherwise, create three Specimen tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Beast
+
+Poison Whip-Tail
+rules_text: Reach, deathtouch
+When this creature enters, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Reach, deathtouch
+When this creature enters, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Burgeoning Ascomycota
+
+Radar Glade
+
+Whirring Surveyor
+type: Artifact Creature — Drone => Artifact Creature — Drone Scout
+
+Agile Furrowite
+
+Profound Discovery
+
+Methodical Infantry
+
+Anti-Aerial Crawler
+type: Artifact Creature — Drone => Artifact Creature — Drone Soldier
+
+Hazard Enviro-Mech
+
+Plithium Processing Plant
+
+Buoyant Bay Port
+
+Bismuth Flats
+
+Shielding Dome
+
+Charging Octomare
+
+Levicycle Courier
+
+Sudden Evacuation
+
+Navigator Core
+type: Artifact Creature — Robot => Artifact Creature — Robot Pilot
+
+Watcher in the Void
+
+Digitized Duo
+
+Cultivation Platforms
+
+Wetland Botany Lab
+
+Glacial Mill
+
+Isle of Prophecy
+
+Cavern of Piety
+
+Auroral Cliffs
+
+Precursor Colony
+
+Veylid Reliquary
+
+Salvage Hunter
+
+Tremor Spikeworm
+
+Stasis Field
+
+Quell Rebellion
+
+Scarab Behemoth
+
+Afflicted Researcher
+
+Void Specter
+
+Outskirts Prowler
+
+Duress
+
+Subjugation
+
+Parasite
+
+Brood Warden
+
+Wreckage Raiders
+
+Field Expeditioners
+rules_text: You may strain this creature as it attacks. When you do, this creature gets +2/+1 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]
+When this creature dies, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => You may strain this creature as it attacks. When you do, this creature gets +2/+1 until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]
+When this creature dies, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Mission Coordinator
+
+Smoldering Defiance
+
+Abrade
+
+Corrupted Monitor
+
+Hull Mechanic
+type: Artifact Creature — Robot => Artifact Creature — Robot Artificer
+
+Tri-Lateral Grenade
+
+Sampling Laser
+rules_text: Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Nurturing Mantisworm
+
+Arachnae Behemoth
+
+Unbound Subject
+
+Broken Wings
+
+Organic Printer
+
+Ecological Survey
+
+EMP Blast
+
+Anomalous Animation
+
+Sanguine Stalker
+
+Corpse Subsumer
+rules_text: Assimilate {4}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, draw a card if a creature died this turn. => Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, draw a card if a creature died this turn.
+
+Scour the Ruins
+
+Commune With Evil
+
+Scorched Desolation
+
+Despondent Colonists
+
+Artificial Warfront
+
+Cuphro Invasion
+
+Orbital Drop Troopers
+
+Consider the Cosmos
+
+Lunar Archfiend
+
+Agent of Retribution
+
+Enticing Discovery
+
+Unearthly Encounter
+
+Mutagen Spreader
+
+Orchestrator of Wills
+
+Bravo-2, Ruthless Commando
+
+Emberwing Emissary
+
+Path Treading Tank
+
+Assault Landing
+rules_text: Destroy all creatures with power 3 or greater. Create a Specimen token for each creature that was destroyed this way. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Destroy all creatures with power 3 or greater. Create a Specimen token for each creature that was destroyed this way. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Station Monitor
+type: Artifact Creature — Drone => Artifact Creature — Drone Soldier
+
+Into the Pit
+
+Lithura, Maiden of Fates
+rules_text: Assimilate {5}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell. => Assimilate {6}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.
+
+Orbital Lift
+
+Shorecrasher Titan
+
+Reactor Ignition
+
+Augmented Starfighter
+
+Heart of Astorethe
+
+Exhurga, Origin of Mania
+rules_text: Assimilate {5}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Vigilance, trample, haste
+At the beginning of your end step, if you sacrificed a permanent this turn, create two 1/1 black Parasite creature tokens with “This creature can't block.” => Assimilate {6}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Vigilance, trample, haste
+At the beginning of your end step, if you sacrificed a permanent this turn, create two 1/1 black Parasite creature tokens with “This creature can't block.”
+
+Celestial Generator
+
+Outpost Zero
+
+Deflector Operative
+
+Neon Enforcement
+
+Clattering Chitin
+
+Consuming Tide
+
+Bravo-2 Contractee
+
+Suppression Fire
+
+Exfiltration Coordinator
+
+Call to Action
+
+Luminescent Aberration
+
+Genome Sequencing
+
+Morphose Plague
+
+Bioweapon Engineers
+
+Circuit Liberator
+
+Galactic Rending
+
+Ghoulish Stillthroat
+rules_text: Assimilate {3}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Trample
+This creature enters with a +1/+1 counter on it for each creature that died this turn. => Assimilate {4}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Trample
+This creature enters with a +1/+1 counter on it for each creature that died this turn.
+
+Pathcutter Drone
+type: Artifact Creature — Drone => Artifact Creature — Drone Soldier
+
+Razefire Raid
+
+Twilight Observer
+
+Vegetative Biopsy
+
+Lunar Bog
+
+Basaltic Reef
+
+Luminous Fen
+
+Saltspire Expanse
+
+Cascading Grotto
+
+Null-Tide Seabed
+
+Tendril Quagmire
+
+Crimson Moor
+
+Brewing Crag
+
+Stillgrove Narrows
+
+Adaptive Scoundrel
+
+Agricultural Analysis
+rules_text: Search your library for a basic land or Outpost card and put it onto the battlefield tapped. Then shuffle.
+When you exile this card from your graveyard to activate an ability of an Outpost, draw a card. => Search your library for a basic land or Outpost card and put it onto the battlefield tapped. Then shuffle.
+When this card leaves your graveyard, you may pay {2}. When you do, draw a card.
+
+Militech Analysis
+rules_text: Militech Analysis deals 3 damage to target creature or planeswalker.
+When you exile this card from your graveyard to activate an ability of an Outpost, draw a card. => Militech Analysis deals 3 damage to target creature or planeswalker.
+When this card leaves your graveyard, you may pay {2}. When you do, draw a card.
+
+Contain for Study
+
+Colony Map
+
+Devastating Blast
+
+Insatiable Petrifier
+rules_text: Assimilate {4}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i] => Assimilate {5}{B}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+When this creature enters, up to one target creature you don't control becomes an artifact. [i](It loses all other types.)[/i]
+
+Origin Stone Shard
+cost: {U} => {1}{U}
+rules_text: When this artifact enters, return up to one target creature to its owner's hand.
+{2}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => When this artifact enters, if it was cast, return up to one target creature to its owner's hand.
+{3}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Fallback Plan
+
+Tundra Lurker
+
+Omen of Contagion
+
+Orbital Crash
+
+Telemagnetic Reclaimation
+rules_text: Return target artifact card from your graveyard to the battlefield.
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Return target artifact card from your graveyard to the battlefield.
+Create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Kinetic Shieldbearer
+
+Hapless Innovators
+
+Intensive Study
+
+Twincannon Warbot
+type: Artifact Creature — Robot => Artifact Creature — Robot Soldier
+
+Undead Bioroid
+
+Abandon Ship
+
+Creeping Scavenger
+rules_text: Assimilate {3}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card. => Assimilate {4}{B} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card.
+
+Desperate Wayfarer
+
+Hardened Commando
+
+Devastating Dilemma
+
+Xathyz, Eternal Matriarch
+
+Blackmarket Orchestrator
+
+Mobile Containment Unit
+type: Artifact Creature — Drone => Artifact Creature — Drone Scout
+rules_text: When this creature dies, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => When this creature dies, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Crisis Assayer
+
+Terminal Infection
+
+Relentless Miscreant
+
+Climactic Rebuke
+
+Eldritch Summoning
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with a menace counter on it, then shuffle your library. => As an additional cost to cast this spell, sacrifice a creature.
+Choose target creature card in your graveyard with mana value equal to or less than 1 plus the sacrificed creature's mana value. Return the chosen card the battlefield with a menace counter on it.
+
+Stun Baton
+
+Portable Incinerator
+
+Intel Breach
+
+Piercing Duplicant
+cost: {B}{G}{U} => {1}{B}{G}{U}
+rules_text: Assimilate {2}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+You may have other artifacts and creatures you control enter as copies of this creature.
+Symbiotes you control get +1/+1. => Assimilate {3}{B}{G}{U} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+You may have other artifacts and creatures you control enter as copies of this creature except they don't have this ability.
+Other Symbiotes you control get +1/+1.
+pt: 1/1 => 2/2
+
+Scallia, Primal Morphling
+
+Invader Construct
+
+Predatious Bristleback
+
+Parsec Tactician
+
+Garruk, Augmented Tracker
+
+Stellar Phoenix
+
+Primordial Shaper
+
+Mori-Bloom
+
+Precognitive Tactics
+
+Orbital Distorter
+
+Spec-Ops Forerunner
+
+Homogeneous Vessel
+
+Synthesis Volunteer
+
+Unwitting Host
+rules_text: When this creature enters, each player discards a card. If you discarded a card this way, draw a card and create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+When you sacrifice this creature, create a 2/2 black Horror creature token. => When this creature enters, each player discards a card. If you discarded a card this way, draw a card and create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+When you sacrifice this creature, create a 2/2 black Horror creature token.
+
+Temporal Harness
+
+Arboreal Sinewvine
+rules_text: Whenever you attack, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i]
+Specimens you control have “{T}: Add one mana of any color.” => Whenever you attack, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+Specimens you control have “{T}: Add one mana of any color.”
+
+Enforcer's Assault Rifle
+
+Slipstream Infiltrator
+
+Kinetic Vanguard
+
+Pitiless Peacekeeper
+
+Awoken Warframe
+
+Augmented-Reality Visor
+cost: {W} => {1}{W}
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1 for each artifact you control and has first strike.
+Equip {2} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1 for each artifact you control.
+Equip {3}
+
+City Outbreak
+
+Operative Reactivation
+
+Skyline Enforcer
+type: Artifact Creature — Drone => Artifact Creature — Drone Soldier
+
+Hive Queen
+
+Infernal Ravager
+
+Lab Infiltration
+rules_text: Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and “Whenever this creature deals combat damage to a player, create a Specimen token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.”)[/i] => Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and “Whenever this creature deals combat damage to a player, create a Specimen token.” [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Forged Recluse
+
+Cunning Tactics
+
+Ancient Awakening
+
+Astral Strategist
+
+Multi-Point Waygate
+
+Ensnaring Matrix
+
+Maxine, Cynical Renegade
+
+Plithium-Plated Mech
+
+Feasting Skittermaw
+
+Keilan, Rabble-Rouser
+
+Sterile Synthesis
+
+Malignant Venomwing
+
+Horror
+
+Seed of Infection
+
+Evelyn, Battle Calculatrix
+
+Dread Reaper
+rules_text: Assimilate {4}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a player is dealt combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life. => Assimilate {5}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature's mana value. It enters with a finality counter.)[/i]
+Whenever a player is dealt combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life.
+
+Blitzwing Striker
+type: Artifact Creature — Robot => Artifact Creature — Robot Soldier
+
+Eldritch Haruspex
+
+Fluxreactor Manticore
+
+Relentless Raid
+
+Maxine, Cynical Renegade
+
+Horror
+
+Charim Kosta, Hullraider
+
+D'Emil, Apex Hunter
+
+Moira, Rapid Adapter
+
+Hextech Pilferer
+
+Charim Kosta, Hullraider
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Charim Kosta, Hullraider added.
