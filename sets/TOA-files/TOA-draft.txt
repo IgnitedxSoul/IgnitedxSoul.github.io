@@ -7,7 +7,7 @@
 			"type": "Token Artifact — Equipment Weapon",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9_Weapon.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9t_Weapon.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2_Trials of Aenaris Archetypes.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2t_Trials of Aenaris Archetypes.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Tracker",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7_Incite.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7t_Incite.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5_Saproling.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5t_Saproling.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8_Treasure.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8t_Treasure.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4_Elemental.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4t_Elemental.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Token Creature — Faerie Rogue",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3_Faerie Rogue.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3t_Faerie Rogue.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1_Designer Credits.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1t_Designer Credits.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Token Creature — Devotee",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6_Devotee.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6t_Devotee.png"
 			}
 		},
 		{
