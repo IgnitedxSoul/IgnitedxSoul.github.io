@@ -1,0 +1,2091 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TOA</name>
+			<longname>Trials of Aenaris</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-20</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Weapon TOA</name>
+			<text>Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/0.png" num="9">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment Weapon</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Trials of Aenaris Archetypes TOA</name>
+			<text>{W}{U}: Metalcraft
+{U}{B}: Faerie Typal / Incite
+{B}{R}: Treasure
+{R}{G}: Ramp / Stompy
+{G}{W}: Lifegain
+{W}{B}: Devotee Aristocrats
+{U}{R}: Incite Spellslinger
+{B}{G}: Reanimator
+{R}{W}: Equipment (Weapon Tokens)
+{G}{U}: Feral Control</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/1.png" num="2">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM04 Burning Rebel</name>
+			<text>Haste
+Whenever Burning Rebel attacks, it gets +X/+0 where X is the greatest power among attacking creatures you control.
+{T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/2.png" num="82">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Royal Escort</name>
+			<text>When Royal Escort enters, create a Weapon token and attach it to Royal Escort. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/3.png" num="4">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 Hilgarde Plunderer</name>
+			<text>When Hilgarde Plunderer enters the battlefield, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/4.png" num="50">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incite TOA</name>
+			<text>(Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/5.png" num="7">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Tracker</type>
+				<maintype>Tracker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM07 Mad Marauder</name>
+			<text>Whenever you cast your second spell each turn, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)
+You may cast incited spells you own by discarding a card in addition to paying their other costs.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/6.png" num="85">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Adept Blacksmith</name>
+			<text>When Adept Blacksmith or another nontoken creature enters under your control, you may attach an unattached Weapon you control to it. If you control no unattached Weapons, create a Weapon token first. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/7.png" num="87">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM03 Blackmarket Dealer</name>
+			<text>Whenever Blackmarket Dealer or another nontoken creature enters the battlefield under your control, if mana from a Treasure was spent to cast it, it gains haste until end of turn.
+Whenever another creature you control dies, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/8.png" num="81">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saproling TOA</name>
+			<text></text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/9.png" num="5">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Saproling</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure TOA</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/10.png" num="8">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Nyhela Awoken</reverse_related>
+		</card>
+		<card>
+			<name>RU Xanthicar&apos;s Augury</name>
+			<text>When RU Xanthicar&apos;s Augury enters, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)
+When you add an incited card to your hand you may pay {2}. If you do, incite.</text>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/11.png" num="28">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR Raze the Fields</name>
+			<text>At the beginning of your second main phase, if you&apos;ve attacked this turn, add {R}. If an attacking creature you control died this turn, add {R}{R} instead.</text>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/12.png" num="61">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MR Nyhela Awoken</name>
+			<text>Flying, haste
+Whenever you attack one or more players or permanents, create that many Treasure tokens.
+{T}, Sacrifice X Treasures: MR Nyhela Awoken deals X damage to any target.</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/13.png" num="59">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU Xanthicar, the Mad Prohpet</name>
+			<text>Vigilance
+At the beginning of your end step, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)
+{T}: Add an incited card to your hand. Activate this ability only if you have two or fewer cards in hand.</text>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/14.png" num="27">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elemental TOA</name>
+			<text></text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/15.png" num="4">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Faerie Rogue TOA</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/16.png" num="3">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/17.png" num="108">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/18.png" num="110">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/19.png" num="107">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/20.png" num="109">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CW05 Agile Lifeweaver</name>
+			<text>As long as Agile Lifeweaver is equipped, it has first strike and lifelink.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/21.png" num="5">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG13 Bloodthirsty Bear</name>
+			<text>Trample
+When Bloodthirsty Bear becomes feral, it fights up to one target creature. 6GG — 8/7</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/22.png" num="77">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Omenseer Imbuer</name>
+			<text>As long as you own two or more instant and/or sorcery cards in your graveyard or in exile, Omenseer Imbuer gets +1/+0 and has haste.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/23.png" num="46">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC04 Imbued Arrow</name>
+			<text>Flash
+{4}, {T}, Sacrifice Imbued Arrow: It deals 4 damage to target creature.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/24.png" num="103">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MB Bitterblossom</name>
+			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/25.png" num="43">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Typal Enchantment — Faerie</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB02 Il&apos;Umari Practitioner</name>
+			<text>Flying
+When Il&apos;Umari Practitioner attacks, you may pay 1 life. If you do, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/26.png" num="31">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Daybreaker Diviner</name>
+			<text>Lifelink
+At the beginning of each end step, if you&apos;ve gained life this turn, create a 1/1 white Devotee creature token with lifelink.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/27.png" num="83">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM01 River Guardian</name>
+			<text>Flash
+Flying
+When River Guardian enters the battlefield, exile target attacking or blocking creature. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/28.png" num="90">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/U</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM02 Stubborn Guardian</name>
+			<text>Flying
+When Stubborn Guardian enters the battlefield, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)
+Other Faerie creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/29.png" num="80">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU10 Crystaline Titan</name>
+			<text>As long as you own two or more instant and/or sorcery cards in your graveyard or in exile, Crystaline Titan gets +2/+0.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/30.png" num="23">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10 Il&apos;Umari Web-Weaver</name>
+			<text>Flying
+When Il&apos;Umari Web-Weaver dies, destroy up to one target creature that was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/31.png" num="39">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC01 Soulshard</name>
+			<text>{T}, Sacrifice Soulshard: Add one mana of any color.
+{1}, {T}: Add one mana of any color.
+{2}, {T}, Sacrifice Soulshard: Draw a card or put an incited card you own into your hand.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/32.png" num="104">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR Volcanic Forge</name>
+			<text>{T}, Sacrifice UR Volcanic Forge: Add one mana of any color.
+{2}{R}, {T}, Sacrifice another artifact: Create a 2/2 colorless Construct artifact creature token. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/33.png" num="64">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB Deepwoods Stalker</name>
+			<text>Flying
+Whenever UB Deepwoods Stalker deals combat damage to a player, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/34.png" num="45">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RR Harness... something...</name>
+			<text>Incite three times. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/35.png" num="60">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB Bog Crystals</name>
+			<text>{T}, Sacrifice UB Bog Crystals: Add one mana of any color.
+{1}{B}, {T}, Sacrifice a creature: You gain 1 life and draw a card. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/36.png" num="44">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Designer Credits TOA</name>
+			<text>Credits:
+Weapon Tokens — Bergland
+Reforge — Major help from drakexiv</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/37.png" num="1">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Devotee TOA</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/38.png" num="6">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Devotee</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UM06 Procession Figure</name>
+			<text>Vigilance
+{1}{W}, {T}: Create a 1/1 white Devotee token with lifelink.
+{1}{B}, Sacrifice another creature or artifact: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/39.png" num="84">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB12 Striking Owl</name>
+			<text>Flying
+When Striking Owl becomes feral, target opponent loses 4 life and you gain 4 life. 6B — 4/4</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/40.png" num="41">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU12 Plunging Gator</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When Plunging Gator becomes feral, draw a card. 6U — 6/7 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/41.png" num="25">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM10 Paralytic Serpent</name>
+			<text>Flash
+When Paralytic Serpent becomes feral, tap target creature an opponent controls. That creature doesn&apos;t untap during its controller&apos;s next untap step. 5GU — 7/7</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/42.png" num="88">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Desecration Boar</name>
+			<text>Trample
+Desecration Boar&apos;s feral cost is {1} less for each creature card in your graveyard. 6BG — 7/6</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/43.png" num="86">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR Assault Elemental</name>
+			<text>First strike
+Reforge {3}{R}{R}, Sacrifice an artifact (If you cast this for its reforge cost, it enters with a token copy of this creature&apos;s equipment attached to it.)
+---
+(Back): Molten Axe</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/44_front.png" num="62a">TOA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Elemental Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Molten Axe</related>
+		</card>
+		<card>
+			<name>Molten Axe</name>
+			<text>Equipped creature gets +2/+0 and has haste.
+Equip {3}
+---
+(Front): UR Assault Elemental</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/44_back.png" num="62b">TOA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">UR Assault Elemental</related>
+		</card>
+		<card>
+			<name>CU07 Frontline Sprite</name>
+			<text>Flying
+When Frontline Sprite enters, create a Weapon token and attach it to Frontline Sprite. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/45.png" num="20">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM01 Cloudsworn Warden</name>
+			<text>Flying
+Metalcraft—Cloudsworn Warden gets +1/+1 and vigilance as long as you control three or more artifacts.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/46.png" num="79">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW13 Militia Caller</name>
+			<text>Metalcraft—When Militia Caller enters the battlefield, return target artifact or creature card with mana value 3 or less from your graveyard to your hand. If you control three or more artifacts, return it to the battlefield tapped instead.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/47.png" num="13">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02 Against the Odds</name>
+			<text>Target creature you control gets +1/+1 until end of turn. Create a Weapon token and attach it to that creature. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/48.png" num="2">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW08 Sanctum Blade</name>
+			<text>When Sanctum Blade enters, create a 1/1 white Devotee creature token with lifelink, then attach Sanctum Blade to it.
+Equipped creature gets +0/+2.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/49.png" num="8">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW03 Nephiiram Martyr</name>
+			<text>When Nephiiram Martyr dies, create a 1/1 white Devotee creature token with lifelink.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/50.png" num="3">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW09 Ceremony Leader</name>
+			<text>Vigilance
+When Ceremony Leader enters the battlefield, create a 1/1 white Devotee creature token with lifelink.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/51.png" num="9">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12 Cloudsworn Blessing</name>
+			<text>Creatures you control get +1/+1 until end of turn.
+You gain 1 life for each attacking or blocking creature you control.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/52.png" num="12">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW01 Eager Fledgling</name>
+			<text>Metalcraft—Eager Fledgling gets +1/+1 and has flying as long as you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/53.png" num="1">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Savage Strike</name>
+			<text>Savage Strike deals 3 damage to target attacking or blocking creature.
+Scry 1.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/54.png" num="7">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW06 Orrery Guard</name>
+			<text>{2}{W}, {T}: Tap target creature.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/55.png" num="6">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11 Guiding Herald</name>
+			<text>Flying
+Whenever Guiding Herald attacks, other attacking creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/56.png" num="11">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Smite the Mighty</name>
+			<text>Choose one —
+• Destroy target creature with toughness 4 or greater.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/57.png" num="10">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU03 Il&apos;Umari Dreamer</name>
+			<text>Flying
+When Il&apos;Umari Dreamer dies, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/58.png" num="16">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Crystaline Carapace</name>
+			<text>Whenever you cast your second spell each turn, you may attach Crystaline Carapace to target creature you control.
+Equipped creature gets +1/+1 and has ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/59.png" num="18">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU Nebulous Confirmation</name>
+			<text>Incite, then draw a card. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/60.png" num="29">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Afflicted Vision</name>
+			<text>Metalcraft—Draw three cards, then discard a card unless you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/61.png" num="26">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 Il&apos;Umari Trapper</name>
+			<text>Flying
+When Il&apos;Umari Trapper enters, tap up to one target creature.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/62.png" num="14">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Essence Tamer</name>
+			<text>{T}: Add {U}. Spend this mana only to pay feral costs or cast instant or sorcery spells.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/63.png" num="17">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 Spell Stutter</name>
+			<text>Counter target spell unless its controller pays {2} plus an additional {1} for each Faerie you control.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/64.png" num="19">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU08 Eliuum Construct</name>
+			<text>Defender
+Metalcraft—Eliuum Construct can attack as though it doesn&apos;t have defender as long as you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/65.png" num="21">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 Majestic Metamorphosis</name>
+			<text>Until end of turn, target artifact or creature becomes a 4/4 Angel artifact creature and gains flying.
+Draw a card.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/66.png" num="22">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 Wayward Swarm</name>
+			<text>Return up to one target nonland permanent to its owner&apos;s hand.
+Create two 1/1 black Faerie Rogue creature tokens with flying.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/67.png" num="24">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU02 Witching Well</name>
+			<text>When Witching Well enters, scry 2.
+{3}{U}, {T}, Sacrifice Witching Well: Draw two cards.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/68.png" num="15">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB01 Delayed Atonement</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/69.png" num="30">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB09 Undercity Scrounger</name>
+			<text>{T}: Create a Treasure token. Activate only if a creature died this turn. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/70.png" num="38">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB11 Grim Bounty</name>
+			<text>Destroy target creature or planeswalker. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/71.png" num="40">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB04 Covert Operative</name>
+			<text>Deathtouch
+When Covert Operative enters, if mana from a treasure was spent to cast it, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/72.png" num="33">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Ebon Anointer</name>
+			<text>{1}, Sacrifice an artifact or creature: Each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/73.png" num="32">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07 Mourning Blade</name>
+			<text>When Mourning Blade enters, create a 1/1 white Devotee creature token with lifelink, then attach Sanctum Blade to it.
+Equipped creature gets +2/+0.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/74.png" num="36">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB05 K&apos;Llei Ritual</name>
+			<text>Choose one —
+• Return target artifact or creature card from your graveyard to your hand.
+• Add an incited artifact or creature card you own to your hand.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/75.png" num="34">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB06 Battleworthy Sacrifice</name>
+			<text>Target creature gets -2/-2 until end of turn.
+{3}{B}, Exile Battleworthy Sacrifice from your graveyard: Create a Weapon token and attach it to up to one target creature you control. Activate only as a sorcery. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/76.png" num="35">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 Graveyard Prowler</name>
+			<text>Menace
+When Graveyard Prowler enters, you draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/77.png" num="42">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Il&apos;Umari Herald</name>
+			<text>Flying
+When Il&apos;Umari Herald enters or dies, if an opponent lost life this turn, create a 1/1 black Faerie Rogue creature token with flying.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/78.png" num="37">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Galvanic Blast</name>
+			<text>Galvanic Blast deals 2 damage to any target.
+Metalcraft — Galvanic Blast deals 4 damage instead if you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/79.png" num="47">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR03 Battle Rage</name>
+			<text>Target creature you control gets +2/+0 and gains haste until end of turn. When that creature dies this turn, create a Weapon token. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/80.png" num="48">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR04 Vault Robber</name>
+			<text>{1}, {T}, Exile a creature card from your graveyard: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/81.png" num="49">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Unstable Chargestone</name>
+			<text>When Unstable Chargestone enters or leaves the battlefield, incite. (Exile the top card of your library face-up. At the beginning of your end step, if you attacked this turn, you may put an incited card you own into your hand.)
+{2}{R}, Sacrifice Unstable Chargestone: Create two 1/1 red Elemental creature tokens. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/82.png" num="51">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR07 Sailkite Bandit</name>
+			<text>When Sailkite Bandit enters, choose one —
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+• Sailkite Bandit gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/83.png" num="52">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR08 Bonewhip Brawler</name>
+			<text>Reach
+When Bonewhip Brawler enters, create a Weapon token and attach it to Bonewhip Brawler. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/84.png" num="53">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR09 Omen Steelform</name>
+			<text>When you cast your second spell each turn, you may attach Omen Steelform to target creature you control.
+Equipped creature gets +2/+0 and has menace.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/85.png" num="54">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR10 Molten Brute</name>
+			<text>{1}, Sacrifice another creature or artifact: Molten Brute gets +1/+0 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/86.png" num="55">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR Rapacious Dragon</name>
+			<text>Flying
+When UR Rapacious Dragon enters, create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/87.png" num="63">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR12 Capricious Royal</name>
+			<text>When Capricious Royal enters, if mana from a Treasure was spent to cast it, Capricious Royal deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/88.png" num="57">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR11 Big Score</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/89.png" num="56">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 Pursue the Weak</name>
+			<text>Choose one —
+• Pursue the Weak deals 5 damage to target creature or planeswalker.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/90.png" num="58">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG07 Quick-Draw Archer</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Reach (This creature can block creatures with flying.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/91.png" num="71">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 Decaying Swine</name>
+			<text>When Decaying Swine becomes feral, return target creature card from your graveyard to your hand. Then, put a finality counter on Decaying Swine. 4G — 4/3</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/92.png" num="72">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03 Noxious Spore</name>
+			<text>Deathtouch
+When Noxious Spore dies, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/93.png" num="67">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 Corpse Adorner</name>
+			<text>When Corpse Adorner enters, create a Weapon token and attach it to Corpse Adorner. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/94.png" num="65">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 Lingering Croc</name>
+			<text>Defender
+As long as you control a creature with power 4 or greater, Lingering Croc can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/95.png" num="68">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05 Bramble Armor</name>
+			<text>When Bramble Armor enters the battlefield, attach it to target creature you control.
+Equipped creature gets +2/+1.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/96.png" num="69">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG02 Giant Growth</name>
+			<text>Target creature gets +3/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/97.png" num="66">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG09 Nature&apos;s Reach</name>
+			<text>Destroy target artifact, enchantment, or creature with flying. You gain 3 life.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/98.png" num="73">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG06 Heart of the Forest</name>
+			<text>{T}, Tap an untapped creature you control: Add {G}.
+{2}{G}, Sacrifice Heart of the Forest: Target creature you control gets +2/+2 and Vigilance until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/99.png" num="70">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG10 Ancestral Dryad</name>
+			<text>Vigilance
+When Ancestral Dryad enters, you gain 3 life.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/100.png" num="74">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Hunter&apos;s Pursuit</name>
+			<text>Create a Weapon token and attach it to target creature you control. Then that creature deals damage equal to its power to up to one target creature you don&apos;t control. (It&apos;s an artifact Equipment with &quot;Equipped creature gets +1/+1&quot; and &quot;Equip {2}&quot;.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/101.png" num="75">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RG Bramble Fiend</name>
+			<text>Whenever RG Bramble Fiend becomes the target of a spell you don&apos;t control or an equipment becomes attached to RG Bramble Fiend, create two 1/1 green Saproling creature tokens.</text>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/102.png" num="78">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM02 Il&apos;Umari Deceiver</name>
+			<text>Flying
+When Il&apos;Umari Deceiver enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/103.png" num="91">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM03 Runic Daemon</name>
+			<text>Haste
+When Runic Daemon enters, create two 1/1 red Elemental creature tokens. They gain haste until end of turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/104.png" num="92">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/RB/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM04 Pit Fight</name>
+			<text>Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/105.png" num="93">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CM05 Centaur Safeguard</name>
+			<text>When Centaur Safeguard dies, you may gain 3 life.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/106.png" num="94">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM06 Confession</name>
+			<text>Exile target card from a graveyard. Create a 1/1 white Devotee creature token with lifelink.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/107.png" num="95">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CM07 Mischevious Faerie</name>
+			<text>Defender, flying
+As long as you&apos;ve cast an instant or sorcery spell this turn, Mischevious Faerie can attack as though it doesn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/108.png" num="96">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/RU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG12 Bramble Envoy</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+This spell costs {1} less to cast if you&apos;ve gained life this turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/109.png" num="76">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM08 Rooftop Miscreant</name>
+			<text>This spell costs {2} less to cast if a creature died this turn.
+Deathtouch</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/110.png" num="97">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/GB/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM09 Fresh-Faced Recruit</name>
+			<text>As long as it&apos;s your turn, Fresh-Faced Recruit has first strike.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/111.png" num="98">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CM10 Square Up</name>
+			<text>Target creature has base power and toughness 4/4 until end of turn.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/112.png" num="99">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CL01 Prophetic Peak</name>
+			<text>When Prophetic Peak enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/113.png" num="105">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL02 Aspiring Bloom</name>
+			<text>When Aspiring Bloom enters, you gain 2 life.
+{T}: Add {C}.
+{1}, {T}, Sacrifice Aspiring Bloom: Search your library for a basic land card, put it on the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/114.png" num="106">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CC03 Annealed Brute</name>
+			<text>Annealed Brute attacks or blocks each combat if able.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/115.png" num="102">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC02 Cloudsworn Enforcer</name>
+			<text>Vigilance
+Metalcraft—Cloudsworn Enforcer gets +2/+0 as long as you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/116.png" num="101">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC01 Skozall Monitor</name>
+			<text>When Skozall Monitor enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/117.png" num="100">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dog Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vileform Hydra</name>
+			<text>Haste
+Vileform Hydra enters with X +1/+1 counters on it.
+When Vileform Hydra dies, it deals damage equal to its power to any target.</text>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/TOA-files/img/118.png" num="89">TOA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>XBR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
