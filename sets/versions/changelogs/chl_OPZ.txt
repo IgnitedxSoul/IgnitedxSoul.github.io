@@ -1,4 +1,78 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Predacious Bristleback added.
+Nanotech Pilferer added.
+
+Predatious Bristleback removed.
+Hextech Pilferer removed.
+Charim Kosta, Hullraider removed.
+
+Portent Resonance
+cost: {2}{U} => {3}{U}
+
+Orbital Drop Troopers
+cost: {2}{W} => {3}{W}
+rules_text: Flash
+This creatures has flying if it hasn't dealt damage yet.
+When this creature enters, put a +1/+1 counter on each creature you control. => Flash
+This creatures has flying if it hasn't dealt damage yet.
+When this creature enters, put a +1/+1 counter on each other creature you control.
+
+Assault Landing
+cost: {1}{W}{W} => {2}{W}{W}
+
+Circuit Liberator
+cost: {1}{U}{R} => {2}{U}{R}
+rules_text: When this creature enters, create two 1/1 colorless Construct artifact creature tokens.
+Artifact creatures you control have vigilance and prowess. [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => When this creature enters, create a 1/1 colorless Construct artifact creature token.
+Artifact creatures you control have vigilance and prowess. [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+
+Origin Stone Shard
+rules_text: When this artifact enters, if it was cast, return up to one target creature to its owner's hand.
+{3}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => When this artifact enters, if it was cast, return up to one target creature to its owner's hand.
+{2}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Arboreal Sinewvine
+rules_text: Whenever you attack, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+Specimens you control have “{T}: Add one mana of any color.” => Whenever you attack, create a Specimen token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.” To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+Specimens you control have “{T}, Sacrifice this artifact: Add one mana of any color.”
+
+Maxine, Cynical Renegade
+rules_text: [+2]: Until your next turn, whenever a creature an opponent controls enters, strain it. [i](To strain, tap it then put a stun counter on it.)[/i]
+[+1]: Draw a card. Then discard a card unless you attacked this turn.
+[-3]: Exile target tapped creature.
+[-8]: You get an emblem with “Whenever a creature you control deals combat damage to a player, draw that many cards.” => [+1]: Until your next turn, whenever a creature an opponent controls enters, strain it. [i](To strain, tap it then put a stun counter on it.)[/i]
+[-1]: Draw a card. Then discard a card unless you attacked this turn.
+[-7]: You get an emblem with “Whenever a creature you control deals combat damage to a player, draw that many cards.”
+special_text: [+2]: Until your next turn, whenever a creature an opponent controls enters, strain it. [i](To strain, tap it then put a stun counter on it.)[/i]
+[+1]: Draw a card. Then discard a card unless you attacked this turn.
+[-3]: Exile target tapped creature.
+[-8]: You get an emblem with “Whenever a creature you control deals combat damage to a player, draw that many cards.” => [+1]: Until your next turn, whenever a creature an opponent controls enters, strain it. [i](To strain, tap it then put a stun counter on it.)[/i]
+[-1]: Draw a card. Then discard a card unless you attacked this turn.
+[-7]: You get an emblem with “Whenever a creature you control deals combat damage to a player, draw that many cards.”
+
+Seed of Infection
+cost: {1}{W}{B} => {2}{W}{B}
+
+Charim Kosta, Hullraider
+cost: {3}{B}{R} => {1}{B}{R}
+rules_text: Whenever a creature you control deals combat damage to a player, exile the top card of that player's library with a contraband counter.
+[+1]: Up to one target creature gains menace and haste until end of turn.
+[-X]: Charim deals X damage to any target and you gain X life. X cannot be 0.
+[-7]: You get an emblem with “You may cast cards in exile with contraband counters on them and you may spend mana as though it were mana of any color to cast them.” => [+1]: Up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+special_text: Whenever a creature you control deals combat damage to a player, exile the top card of that player's library with a contraband counter.
+[+1]: Up to one target creature gains menace and haste until end of turn.
+[-X]: Charim deals X damage to any target and you gain X life. X cannot be 0.
+[-7]: You get an emblem with “You may cast cards in exile with contraband counters on them and you may spend mana as though it were mana of any color to cast them.” => [+1]: Up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+loyalty: 4 => 3
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

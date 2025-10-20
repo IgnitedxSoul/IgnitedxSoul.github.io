@@ -7,8 +7,8 @@
         "position": "276"
     },
     {
-        "card_name": "Hextech Pilferer",
-        "number": 52,
+        "card_name": "Nanotech Pilferer",
+        "number": 56,
         "shape": "normal",
         "set": "OPZ",
         "position": "277"
@@ -238,7 +238,7 @@
         "position": "149"
     },
     {
-        "card_name": "Predatious Bristleback",
+        "card_name": "Predacious Bristleback",
         "number": 176,
         "shape": "normal",
         "set": "OPZ",
@@ -463,7 +463,7 @@
     },
     {
         "card_name": "Intensive Study",
-        "number": 53,
+        "number": 52,
         "shape": "normal",
         "set": "OPZ",
         "position": "199"
@@ -498,7 +498,7 @@
     },
     {
         "card_name": "Kinetic Shieldbearer",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "OPZ",
         "position": "197"
@@ -533,7 +533,7 @@
     },
     {
         "card_name": "Manifested Chimera",
-        "number": 55,
+        "number": 54,
         "shape": "normal",
         "set": "OPZ",
         "position": "33"
@@ -568,7 +568,7 @@
     },
     {
         "card_name": "Mistweaver",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "OPZ",
         "position": "30"
@@ -2094,15 +2094,8 @@
         "position": "8"
     },
     {
-        "card_name": "Charim Kosta, Hullraider",
-        "number": 9,
-        "shape": "token",
-        "set": "OPZ",
-        "position": "278"
-    },
-    {
         "card_name": "Maxine, Cynical Renegade",
-        "number": 10,
+        "number": 9,
         "shape": "token",
         "set": "OPZ",
         "position": "272"
@@ -2141,6 +2134,9 @@
         "shape": "token",
         "set": "OPZ",
         "position": "67"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

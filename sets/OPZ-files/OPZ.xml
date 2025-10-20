@@ -37,8 +37,8 @@ Draw a card.</text>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -640,7 +640,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 			<name>Mistweaver</name>
 			<text>Assimilate {6}{U} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/30.png" num="56">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/30.png" num="55">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -694,7 +694,7 @@ When Overwatch Sentinel enters, strain target nonland permanent an opponent cont
 			<name>Manifested Chimera</name>
 			<text>This creature can&apos;t be blocked.
 When this creature enters, sacrifice it unless you return another creature you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/33.png" num="55">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/33.png" num="54">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2424,15 +2424,15 @@ When this creature enters, draw a card if a creature died this turn.</text>
 			<name>Orbital Drop Troopers</name>
 			<text>Flash
 This creatures has flying if it hasn&apos;t dealt damage yet.
-When this creature enters, put a +1/+1 counter on each creature you control.</text>
+When this creature enters, put a +1/+1 counter on each other creature you control.</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/132.png" num="22">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Rogue</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>2/1</pt>
@@ -2623,8 +2623,8 @@ Remove two +1/+1 counters from this creature: Target creature can&apos;t block t
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1WW</manacost>
-				<cmc>3</cmc>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -3053,7 +3053,7 @@ At the beginning of the next end step, for each creature you controlled that die
 		</card>
 		<card>
 			<name>Circuit Liberator</name>
-			<text>When this creature enters, create two 1/1 colorless Construct artifact creature tokens.
+			<text>When this creature enters, create a 1/1 colorless Construct artifact creature token.
 Artifact creatures you control have vigilance and prowess. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/167.png" num="192">OPZ</set>
 			<prop>
@@ -3061,8 +3061,8 @@ Artifact creatures you control have vigilance and prowess. (Whenever you cast a 
 				<side>front</side>
 				<type>Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>1UR</manacost>
-				<cmc>3</cmc>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 				<pt>1/1</pt>
@@ -3464,7 +3464,7 @@ When this creature enters, up to one target creature you don&apos;t control beco
 		<card>
 			<name>Origin Stone Shard</name>
 			<text>When this artifact enters, if it was cast, return up to one target creature to its owner&apos;s hand.
-{3}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+{2}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/191.png" num="60">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3569,7 +3569,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 			<text>Vigilance
 Whenever this creature attacks, you may pay {2}{U}. When you do, strain up to one target creature. (To strain, tap it then put a stun counter on it.)
 Whenever you strain a permanent you don&apos;t control, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/197.png" num="54">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/197.png" num="53">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3604,7 +3604,7 @@ Whenever you strain a permanent you don&apos;t control, put a +1/+1 counter on t
 			<name>Intensive Study</name>
 			<text>Enchant creature
 At the beginning of combat on your turn, put a time counter on this enchantment. Then experiment on enchanted creature once for every time counter on this enchantment. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/199.png" num="53">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/199.png" num="52">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3992,7 +3992,7 @@ Flying, trample</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Predatious Bristleback</name>
+			<name>Predacious Bristleback</name>
 			<text>Trample
 You may strain this creature as it attacks. When you do, it fights target creature. Excess damage is dealt to that creature&apos;s controller instead. (To strain, tap it then put a stun counter on it.)</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/221.png" num="176">OPZ</set>
@@ -4300,7 +4300,7 @@ Once during each of your turns, you may cast a card exiled with this artifact. (
 		<card>
 			<name>Arboreal Sinewvine</name>
 			<text>Whenever you attack, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)
-Specimens you control have &quot;{T}: Add one mana of any color.&quot;</text>
+Specimens you control have &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/239.png" num="152">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4626,10 +4626,9 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 		</card>
 		<card>
 			<name>Maxine, Cynical Renegade</name>
-			<text>[+2]: Until your next turn, whenever a creature an opponent controls enters, strain it. (To strain, tap it then put a stun counter on it.)
-[+1]: Draw a card. Then discard a card unless you attacked this turn.
-[-3]: Exile target tapped creature.
-[-8]: You get an emblem with &quot;Whenever a creature you control deals combat damage to a player, draw that many cards.&quot;</text>
+			<text>[+1]: Until your next turn, whenever a creature an opponent controls enters, strain it. (To strain, tap it then put a stun counter on it.)
+[-1]: Draw a card. Then discard a card unless you attacked this turn.
+[-7]: You get an emblem with &quot;Whenever a creature you control deals combat damage to a player, draw that many cards.&quot;</text>
 			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/258.png" num="209">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4764,8 +4763,8 @@ Whenever another nontoken creature you control dies, create a 1/1 black Parasite
 				<side>front</side>
 				<type>Legendary Creature — Parasite</type>
 				<maintype>Creature</maintype>
-				<manacost>1WB</manacost>
-				<cmc>3</cmc>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 				<pt>3/3</pt>
@@ -4883,7 +4882,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 		<card>
 			<name>Maxine, Cynical Renegade OPZ</name>
 			<text>Whenever a creature you control deals combat damage to a player, draw that many cards.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/272.png" num="10">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/272.png" num="9">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4915,21 +4914,20 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 		</card>
 		<card>
 			<name>Charim Kosta, Hullraider</name>
-			<text>Whenever a creature you control deals combat damage to a player, exile the top card of that player&apos;s library with a contraband counter.
-[+1]: Up to one target creature gains menace and haste until end of turn.
-[-X]: Charim deals X damage to any target and you gain X life. X cannot be 0.
-[-7]: You get an emblem with &quot;You may cast cards in exile with contraband counters on them and you may spend mana as though it were mana of any color to cast them.&quot;</text>
+			<text>[+1]: Up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:</text>
 			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/274.png" num="191">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Planeswalker — Charim</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>3BR</manacost>
-				<cmc>5</cmc>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<loyalty>4</loyalty>
+				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -4970,10 +4968,10 @@ At the beginning of your end step, if an attacking creature died this turn, draw
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Hextech Pilferer</name>
+			<name>Nanotech Pilferer</name>
 			<text>Flash
 You may have this creature enter as a copy of any artifact or creature on the battlefield, except it&apos;s an artifact creature in addition to its other types, it has flying, and it&apos;s X/X where X is the mana value of the copied permanent.</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/277.png" num="52">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/277.png" num="56">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4986,21 +4984,6 @@ You may have this creature enter as a copy of any artifact or creature on the ba
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Charim Kosta, Hullraider OPZ</name>
-			<text>You may cast cards in exile with contraband counters on them and you may spend mana as though it were mana of any color to cast them.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/278.png" num="9">OPZ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Emblem</type>
-				<maintype>Emblem</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
