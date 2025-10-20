@@ -5,6 +5,8 @@
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Weapon",
@@ -23,6 +25,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "0",
             "notes": "https://www.artstation.com/artwork/d8rA33"
         },
         {
@@ -42,6 +45,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "1",
             "notes": "Search Terms:\nCreate_Type_Treasure (Cards that are or create treasures)\narcun (Archetype Uncommon / Signpost)\nproto (belongs in a prototype deck)\nAB (Archetype colors this card is intended to be playable in, list all that apply)\nincite\n\nwhite\nblack\nblue\ngreen\nred\n\nFeral Cards (13)\nCommon: 1 B / 1 G / 1 U\nUncommon: 1 W / 2 U / 2 B / 1 R / 2 G / 2 Gold\n\nExample"
         },
         {
@@ -61,6 +65,7 @@
             "loyalty": "",
             "artist": "Kudos Productions",
             "alias": "",
+            "position": "2",
             "notes": "https://www.artstation.com/artwork/B1ZmK8\n\narcun\n\nExample"
         },
         {
@@ -80,6 +85,7 @@
             "loyalty": "",
             "artist": "WLOP",
             "alias": "",
+            "position": "3",
             "notes": "https://www.artstation.com/artwork/m3ml8\n\nExample"
         },
         {
@@ -99,6 +105,7 @@
             "loyalty": "",
             "artist": "NUARE",
             "alias": "",
+            "position": "4",
             "notes": "https://www.artstation.com/artwork/gv2l8\nplunder\nincite\n\nExample"
         },
         {
@@ -118,6 +125,7 @@
             "loyalty": "",
             "artist": "Ivan Sevic",
             "alias": "",
+            "position": "5",
             "notes": "https://www.artstation.com/artwork/Xqm9w\nincite"
         },
         {
@@ -137,6 +145,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
+            "position": "6",
             "notes": "https://www.artstation.com/artwork/bdbkE\nincite\narcun\nExample"
         },
         {
@@ -156,6 +165,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "7",
             "notes": "https://www.artstation.com/artwork/WBD2xQ\n\narcun\n\nExample"
         },
         {
@@ -166,7 +176,7 @@
             "number": 81,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Whenever Blackmarket Dealer or another nontoken creature enters the battlefield under your control, if mana from a Treasure was spent to cast it, it gains haste until end of turn.\nWhenever another creature you control dies, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Whenever Blackmarket Dealer or another nontoken creature enters the battlefield under your control, if mana from a Treasure was spent to cast it, it gains haste until end of turn.\nWhenever another creature you control dies, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -175,6 +185,7 @@
             "loyalty": "",
             "artist": "guillaume NORMAND",
             "alias": "",
+            "position": "8",
             "notes": "https://www.artstation.com/artwork/BX51B8\n\nCreate_Treasure\narcun\n\nExample"
         },
         {
@@ -194,6 +205,7 @@
             "loyalty": "",
             "artist": "Andrei Modestov",
             "alias": "",
+            "position": "9",
             "notes": "https://www.artstation.com/artwork/nk9PO"
         },
         {
@@ -213,6 +225,7 @@
             "loyalty": "",
             "artist": "Gal Or",
             "alias": "",
+            "position": "10",
             "notes": "!related Nyhela Awoken;\n\nhttps://www.artstation.com/artwork/Xq4ND\n\nTOA: 16 (BR)\n\nType: Treasure\nUNC - 1 R(X) / 1 B(X) / 1 C(X) [3]\n\nMake Treasures:\n1 Colorless Common (X) [1]\n1 BR UNC (X) [1]\n3 Red Common [3]\n2 Red Uncommon [2]\n3 Black Common [2]\n2 Black Uncommon [2]\n1 Green Common [1]\n1 Green Uncommon [1]"
         },
         {
@@ -232,6 +245,7 @@
             "loyalty": "",
             "artist": "Tuomas Korpi",
             "alias": "",
+            "position": "11",
             "notes": "https://www.artstation.com/artwork/kV9l\nincite\n\nExample"
         },
         {
@@ -251,6 +265,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "12",
             "notes": "https://www.artstation.com/artwork/d0R2qQ\n\nExample"
         },
         {
@@ -270,6 +285,7 @@
             "loyalty": "",
             "artist": "Rudy Siswanto",
             "alias": "",
+            "position": "13",
             "notes": "https://www.artstation.com/artwork/d8YvL3\nCreate_Type_Treasure\n\nExample"
         },
         {
@@ -289,6 +305,7 @@
             "loyalty": "",
             "artist": "Lily Abdullina",
             "alias": "",
+            "position": "14",
             "notes": "https://www.artstation.com/artwork/kDqNPd\nincite\n\nExample"
         },
         {
@@ -308,6 +325,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "15",
             "notes": "https://www.artstation.com/artwork/ZG5Xz0"
         },
         {
@@ -327,6 +345,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "16",
             "notes": "https://www.artstation.com/artwork/Gad42W"
         },
         {
@@ -346,6 +365,7 @@
             "loyalty": "",
             "artist": "Joey Pool",
             "alias": "",
+            "position": "17",
             "notes": "https://www.artstation.com/artwork/VJlP9P"
         },
         {
@@ -365,6 +385,7 @@
             "loyalty": "",
             "artist": "Anton Fadeev",
             "alias": "",
+            "position": "18",
             "notes": "https://www.artstation.com/artwork/NymBQb"
         },
         {
@@ -384,6 +405,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "19",
             "notes": "https://www.artstation.com/artwork/JlwDNZ"
         },
         {
@@ -403,6 +425,7 @@
             "loyalty": "",
             "artist": "N-iX Game & VR Studio",
             "alias": "",
+            "position": "20",
             "notes": "https://www.artstation.com/artwork/w65vyV"
         },
         {
@@ -422,6 +445,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "21",
             "notes": "https://www.artstation.com/artwork/8eQ9xG"
         },
         {
@@ -441,6 +465,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "22",
             "notes": "https://www.artstation.com/artwork/A6L6W\nferal\n\nExample"
         },
         {
@@ -460,6 +485,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "23",
             "notes": "https://www.artstation.com/artwork/3olAdY\n\nExample"
         },
         {
@@ -479,6 +505,7 @@
             "loyalty": "",
             "artist": "Alexander Borodin",
             "alias": "",
+            "position": "24",
             "notes": "https://www.artstation.com/artwork/zlEZd"
         },
         {
@@ -498,6 +525,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "25",
             "notes": "https://www.artstation.com/artwork/aRq1J0\n\nExample"
         },
         {
@@ -508,7 +536,7 @@
             "number": 31,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flying\nWhen Il'Umari Practitioner attacks, you may pay 1 life. If you do, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Flying\nWhen Il'Umari Practitioner attacks, you may pay 1 life. If you do, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -517,6 +545,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "26",
             "notes": "https://www.artstation.com/artwork/ybxW5K\n\nExample"
         },
         {
@@ -536,6 +565,7 @@
             "loyalty": "",
             "artist": "Ursula Dorada",
             "alias": "",
+            "position": "27",
             "notes": "https://www.artstation.com/artwork/ZVAAG\n\narcun\nExample"
         },
         {
@@ -555,6 +585,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "28",
             "notes": "Example"
         },
         {
@@ -574,6 +605,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "29",
             "notes": "https://www.artstation.com/artwork/ybxW5K\nincite\narcun\nExample"
         },
         {
@@ -593,6 +625,7 @@
             "loyalty": "",
             "artist": "Joshua Raphael",
             "alias": "",
+            "position": "30",
             "notes": "https://www.artstation.com/artwork/Vg4lX5\n\nExample"
         },
         {
@@ -612,6 +645,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "31",
             "notes": "https://www.artstation.com/artwork/b9rgE\n\nExample"
         },
         {
@@ -631,6 +665,7 @@
             "loyalty": "",
             "artist": "Young Qin",
             "alias": "",
+            "position": "32",
             "notes": "Create_Type_Treasure\nhttps://www.artstation.com/artwork/BXZdJ8\nincite\nExample"
         },
         {
@@ -650,6 +685,7 @@
             "loyalty": "",
             "artist": "Young Qin",
             "alias": "",
+            "position": "33",
             "notes": "https://www.artstation.com/artwork/39yOxA\nCreate_Type_Treasure\n\nExample"
         },
         {
@@ -669,6 +705,7 @@
             "loyalty": "",
             "artist": "Oleg Kapustin",
             "alias": "",
+            "position": "34",
             "notes": "https://www.artstation.com/artwork/ogeBw\nincite\n\nExample"
         },
         {
@@ -688,6 +725,7 @@
             "loyalty": "",
             "artist": "Reza Afshar",
             "alias": "",
+            "position": "35",
             "notes": "https://www.artstation.com/artwork/Ry8RRA\nincite\n\nExample"
         },
         {
@@ -707,6 +745,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "36",
             "notes": "https://www.artstation.com/artwork/3o6Aoo\nCreate_Type_Treasure\n\nExample"
         },
         {
@@ -726,6 +765,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "37",
             "notes": ""
         },
         {
@@ -745,6 +785,7 @@
             "loyalty": "",
             "artist": "Joseph Feely",
             "alias": "",
+            "position": "38",
             "notes": "https://www.artstation.com/artwork/68n5GV"
         },
         {
@@ -764,6 +805,7 @@
             "loyalty": "",
             "artist": "Peter Tozer",
             "alias": "",
+            "position": "39",
             "notes": "https://www.artstation.com/artwork/18A2L3\narcun\nExample"
         },
         {
@@ -783,6 +825,7 @@
             "loyalty": "",
             "artist": "Hosein Jafarpoor",
             "alias": "",
+            "position": "40",
             "notes": "https://www.artstation.com/artwork/WBnB2E\n\nferal\n\nExample"
         },
         {
@@ -802,6 +845,7 @@
             "loyalty": "",
             "artist": "Tom Lopez",
             "alias": "",
+            "position": "41",
             "notes": "https://www.artstation.com/artwork/8l11qO\n\nExample"
         },
         {
@@ -821,6 +865,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "42",
             "notes": "https://www.artstation.com/artwork/Ev1wYq\nferal\narcun\nExample"
         },
         {
@@ -840,6 +885,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "43",
             "notes": "https://www.artstation.com/artwork/PXY9g3\nferal\narcun\nExample"
         },
         {
@@ -859,6 +905,7 @@
             "loyalty": "",
             "artist": "Jiunn Kuo",
             "alias": "",
+            "position": "44",
             "card_name2": "Molten Axe",
             "color2": "R",
             "type2": "Artifact \u2014 Equipment",
@@ -889,6 +936,7 @@
             "loyalty": "",
             "artist": "Sergio Chaves",
             "alias": "",
+            "position": "45",
             "notes": "weapon\nhttps://www.artstation.com/artwork/0nBBn8"
         },
         {
@@ -908,6 +956,7 @@
             "loyalty": "",
             "artist": "Sergio Chaves",
             "alias": "",
+            "position": "46",
             "notes": "arcun\n\nhttps://www.artstation.com/artwork/lxzzxo"
         },
         {
@@ -927,6 +976,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
+            "position": "47",
             "notes": "https://www.artstation.com/artwork/VJKPL5"
         },
         {
@@ -946,6 +996,7 @@
             "loyalty": "",
             "artist": "Anastasia Bulgakova",
             "alias": "",
+            "position": "48",
             "notes": "https://www.artstation.com/artwork/0DLz4\n\nChange to something similar to Resolute Strike from ZNR if this plays poorly."
         },
         {
@@ -965,6 +1016,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "49",
             "notes": "https://www.artstation.com/artwork/xD2wmO"
         },
         {
@@ -984,6 +1036,7 @@
             "loyalty": "",
             "artist": "Niram S",
             "alias": "",
+            "position": "50",
             "notes": "https://www.artstation.com/artwork/DxbkDA"
         },
         {
@@ -1003,6 +1056,7 @@
             "loyalty": "",
             "artist": "Anthony Perales",
             "alias": "",
+            "position": "51",
             "notes": "https://www.artstation.com/artwork/xDRxyO"
         },
         {
@@ -1022,6 +1076,7 @@
             "loyalty": "",
             "artist": "Arif Wijaya",
             "alias": "",
+            "position": "52",
             "notes": "https://www.artstation.com/artwork/YKqEwK"
         },
         {
@@ -1041,6 +1096,7 @@
             "loyalty": "",
             "artist": "Joon Ahn",
             "alias": "",
+            "position": "53",
             "notes": "https://www.artstation.com/artwork/1xoD0e"
         },
         {
@@ -1060,6 +1116,7 @@
             "loyalty": "",
             "artist": "Arif Wijaya",
             "alias": "",
+            "position": "54",
             "notes": "https://www.artstation.com/artwork/YKqEwK"
         },
         {
@@ -1079,6 +1136,7 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
+            "position": "55",
             "notes": "https://www.artstation.com/artwork/w6Qb5X"
         },
         {
@@ -1098,6 +1156,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "56",
             "notes": "https://www.artstation.com/artwork/8e8QRE"
         },
         {
@@ -1117,6 +1176,7 @@
             "loyalty": "",
             "artist": "Alex Petruk (APe)",
             "alias": "",
+            "position": "57",
             "notes": "https://www.artstation.com/artwork/qe2Xqy"
         },
         {
@@ -1136,6 +1196,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "58",
             "notes": "Incite\nhttps://www.artstation.com/artwork/zAlJz6"
         },
         {
@@ -1155,6 +1216,7 @@
             "loyalty": "",
             "artist": "Darya kikiMORA",
             "alias": "",
+            "position": "59",
             "notes": "https://www.artstation.com/artwork/ROBQD"
         },
         {
@@ -1174,6 +1236,7 @@
             "loyalty": "",
             "artist": "Alex Petruk (APe)",
             "alias": "",
+            "position": "60",
             "notes": "https://www.artstation.com/artwork/Jvbndn"
         },
         {
@@ -1193,6 +1256,7 @@
             "loyalty": "",
             "artist": "Erskine",
             "alias": "",
+            "position": "61",
             "notes": "https://www.artstation.com/artwork/w09w4V"
         },
         {
@@ -1212,6 +1276,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "62",
             "notes": "https://www.artstation.com/artwork/W2LoaG"
         },
         {
@@ -1231,6 +1296,7 @@
             "loyalty": "",
             "artist": "Mark Kolobaev\u00a9\ufe0f",
             "alias": "",
+            "position": "63",
             "notes": "https://www.artstation.com/artwork/OGYqo8"
         },
         {
@@ -1250,6 +1316,7 @@
             "loyalty": "",
             "artist": "Liiga Smilshkalne",
             "alias": "",
+            "position": "64",
             "notes": ""
         },
         {
@@ -1269,6 +1336,7 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "65",
             "notes": "https://www.artstation.com/artwork/0XDl8"
         },
         {
@@ -1288,6 +1356,7 @@
             "loyalty": "",
             "artist": "Ben Hill",
             "alias": "",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1307,6 +1376,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "67",
             "notes": "https://www.artstation.com/artwork/mzGPva"
         },
         {
@@ -1326,6 +1396,7 @@
             "loyalty": "",
             "artist": "John Avon",
             "alias": "",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1345,6 +1416,7 @@
             "loyalty": "",
             "artist": "Valeriy Vegera",
             "alias": "",
+            "position": "69",
             "notes": "https://www.artstation.com/artwork/eaELww"
         },
         {
@@ -1355,7 +1427,7 @@
             "number": 38,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "{T}: Create a Treasure token. Activate only if a creature died this turn. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "{T}: Create a Treasure token. Activate only if a creature died this turn. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cThat will pay for another arm extension all by itself! Well, as long as it doesn't explode.\u201d[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1364,6 +1436,7 @@
             "loyalty": "",
             "artist": "Mike Jordana",
             "alias": "",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1374,7 +1447,7 @@
             "number": 40,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Destroy target creature or planeswalker. Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Destroy target creature or planeswalker. Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]Freed from the need to pay tribute to the dragon, the villages gladly paid the dragon-slayers instead.[/i]",
             "pt": "",
             "special_text": "",
@@ -1383,6 +1456,7 @@
             "loyalty": "",
             "artist": "Justine Cruz",
             "alias": "",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1402,6 +1476,7 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
+            "position": "72",
             "notes": "https://www.artstation.com/artwork/lxByak"
         },
         {
@@ -1421,6 +1496,7 @@
             "loyalty": "",
             "artist": "Roland D\u00e1vid",
             "alias": "",
+            "position": "73",
             "notes": "https://www.artstation.com/artwork/5vx1KJ"
         },
         {
@@ -1440,6 +1516,7 @@
             "loyalty": "",
             "artist": "Iwo Widuli\u0144ski",
             "alias": "",
+            "position": "74",
             "notes": "https://www.artstation.com/artwork/el6w6J"
         },
         {
@@ -1459,6 +1536,7 @@
             "loyalty": "",
             "artist": "Erskine",
             "alias": "",
+            "position": "75",
             "notes": "https://www.artstation.com/artwork/8wdx3G"
         },
         {
@@ -1478,6 +1556,7 @@
             "loyalty": "",
             "artist": "huadong lan",
             "alias": "",
+            "position": "76",
             "notes": "https://www.artstation.com/artwork/qeznZ2"
         },
         {
@@ -1497,6 +1576,7 @@
             "loyalty": "",
             "artist": "Oleg Kapustin",
             "alias": "",
+            "position": "77",
             "notes": "https://www.artstation.com/artwork/XkPwR"
         },
         {
@@ -1516,6 +1596,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "78",
             "notes": "https://www.artstation.com/artwork/Gad42W"
         },
         {
@@ -1535,6 +1616,7 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
+            "position": "79",
             "notes": "If proves too opressive switch to \"if mana from treasure\" and 3 damage."
         },
         {
@@ -1554,6 +1636,7 @@
             "loyalty": "",
             "artist": "Jiunn Kuo",
             "alias": "",
+            "position": "80",
             "notes": "https://www.artstation.com/artwork/03VQbe"
         },
         {
@@ -1564,7 +1647,7 @@
             "number": 49,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "{1}, {T}, Exile a creature card from your graveyard: Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "{1}, {T}, Exile a creature card from your graveyard: Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]The dwarves believe works of art should be passed down the generations, not buried with the dead.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1573,6 +1656,7 @@
             "loyalty": "",
             "artist": "Slawomir Maniak",
             "alias": "",
+            "position": "81",
             "notes": ""
         },
         {
@@ -1592,6 +1676,7 @@
             "loyalty": "",
             "artist": "Tommy Arnold",
             "alias": "",
+            "position": "82",
             "notes": "https://www.artstation.com/artwork/yDx8vx"
         },
         {
@@ -1602,7 +1687,7 @@
             "number": 52,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When Sailkite Bandit enters, choose one \u2014\n\u2022 Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\n\u2022 Sailkite Bandit gets +1/+0 and gains haste until end of turn.",
+            "rules_text": "When Sailkite Bandit enters, choose one \u2014\n\u2022 Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\n\u2022 Sailkite Bandit gets +1/+0 and gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1611,6 +1696,7 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
+            "position": "83",
             "notes": "https://www.artstation.com/artwork/R3VXWy"
         },
         {
@@ -1630,6 +1716,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "84",
             "notes": "https://www.artstation.com/artwork/NGyKOq"
         },
         {
@@ -1649,6 +1736,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "85",
             "notes": ""
         },
         {
@@ -1668,6 +1756,7 @@
             "loyalty": "",
             "artist": "Artem Priakhin",
             "alias": "",
+            "position": "86",
             "notes": "https://www.artstation.com/artwork/KaQKAX"
         },
         {
@@ -1678,7 +1767,7 @@
             "number": 63,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Flying\nWhen UR Rapacious Dragon enters, create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Flying\nWhen UR Rapacious Dragon enters, create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1687,6 +1776,7 @@
             "loyalty": "",
             "artist": "Johan Grenier",
             "alias": "",
+            "position": "87",
             "notes": ""
         },
         {
@@ -1706,6 +1796,7 @@
             "loyalty": "",
             "artist": "Terence CANTAL",
             "alias": "",
+            "position": "88",
             "notes": "https://www.artstation.com/artwork/w0l2GV"
         },
         {
@@ -1716,7 +1807,7 @@
             "number": 56,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. [i](They're artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i]\u201cUnimaginable riches? I assure you, I have a vivid imagination.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1725,6 +1816,7 @@
             "loyalty": "",
             "artist": "Gaboleps",
             "alias": "",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1744,6 +1836,7 @@
             "loyalty": "",
             "artist": "Alex Petruk (APe)",
             "alias": "",
+            "position": "90",
             "notes": "https://www.artstation.com/artwork/LR668k"
         },
         {
@@ -1763,6 +1856,7 @@
             "loyalty": "",
             "artist": "Ekaterina Tambovtseva",
             "alias": "",
+            "position": "91",
             "notes": "https://www.artstation.com/artwork/KeWRZ4"
         },
         {
@@ -1782,6 +1876,7 @@
             "loyalty": "",
             "artist": "Tom Lopez",
             "alias": "",
+            "position": "92",
             "notes": "https://www.artstation.com/artwork/8l11qO"
         },
         {
@@ -1801,83 +1896,8 @@
             "loyalty": "",
             "artist": "Tom Lopez",
             "alias": "",
+            "position": "93",
             "notes": "https://www.artstation.com/artwork/8l11qO"
-        },
-        {
-            "card_name": "Aenaris",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOA",
-            "loyalty": "",
-            "artist": "Sergio Chaves",
-            "alias": "",
-            "notes": "Sergio Chaves"
-        },
-        {
-            "card_name": "Aenaris",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOA",
-            "loyalty": "",
-            "artist": "Anato Finnstark",
-            "alias": "",
-            "notes": "https://www.artstation.com/artwork/5vx0YP"
-        },
-        {
-            "card_name": "Aenaris",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOA",
-            "loyalty": "",
-            "artist": "Thomas Chamberlain-Keen",
-            "alias": "",
-            "notes": "https://www.artstation.com/artwork/mz86G8"
-        },
-        {
-            "card_name": "Aenaris",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 0,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TOA",
-            "loyalty": "",
-            "artist": "Erskine",
-            "alias": "",
-            "notes": "https://www.artstation.com/artwork/8bdaBq"
         },
         {
             "card_name": "CG01 Corpse Adorner",
@@ -1896,6 +1916,7 @@
             "loyalty": "",
             "artist": "Brian ValezaPRO",
             "alias": "",
+            "position": "94",
             "notes": "https://www.artstation.com/artwork/DxvgLR"
         },
         {
@@ -1915,6 +1936,7 @@
             "loyalty": "",
             "artist": "Tom Lopez",
             "alias": "",
+            "position": "95",
             "notes": "https://www.artstation.com/artwork/8l11qO"
         },
         {
@@ -1934,6 +1956,7 @@
             "loyalty": "",
             "artist": "Alessandra Pisano",
             "alias": "",
+            "position": "96",
             "notes": ""
         },
         {
@@ -1953,6 +1976,7 @@
             "loyalty": "",
             "artist": "Matt Cavotta",
             "alias": "",
+            "position": "97",
             "notes": ""
         },
         {
@@ -1972,6 +1996,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "98",
             "notes": "https://www.artstation.com/artwork/zPOY4Q"
         },
         {
@@ -1991,6 +2016,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
+            "position": "99",
             "notes": "https://www.artstation.com/artwork/8wO39w"
         },
         {
@@ -2010,6 +2036,7 @@
             "loyalty": "",
             "artist": "Pierre-Yves REAL",
             "alias": "",
+            "position": "100",
             "notes": "https://www.artstation.com/artwork/mzn2ve"
         },
         {
@@ -2029,6 +2056,7 @@
             "loyalty": "",
             "artist": "Ivan Sevic",
             "alias": "",
+            "position": "101",
             "notes": "https://www.artstation.com/artwork/qPBle"
         },
         {
@@ -2048,6 +2076,7 @@
             "loyalty": "",
             "artist": "Jake Ortman",
             "alias": "",
+            "position": "102",
             "notes": "https://www.artstation.com/artwork/8eWL1E"
         },
         {
@@ -2067,6 +2096,7 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
+            "position": "103",
             "notes": "https://www.artstation.com/artwork/zAlJz6"
         },
         {
@@ -2086,6 +2116,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2105,6 +2136,7 @@
             "loyalty": "",
             "artist": "Matt Stewart",
             "alias": "",
+            "position": "105",
             "notes": ""
         },
         {
@@ -2124,6 +2156,7 @@
             "loyalty": "",
             "artist": "Glenn Fabry",
             "alias": "",
+            "position": "106",
             "notes": ""
         },
         {
@@ -2143,6 +2176,7 @@
             "loyalty": "",
             "artist": "zhihui Su",
             "alias": "",
+            "position": "107",
             "notes": "https://www.artstation.com/artwork/28NJ3v"
         },
         {
@@ -2162,6 +2196,7 @@
             "loyalty": "",
             "artist": "Alexandra Jury",
             "alias": "",
+            "position": "108",
             "notes": "https://www.artstation.com/artwork/w8BWKO"
         },
         {
@@ -2181,6 +2216,7 @@
             "loyalty": "",
             "artist": "Alisher Mirzoev",
             "alias": "",
+            "position": "109",
             "notes": "https://www.artstation.com/artwork/EVNVyN"
         },
         {
@@ -2200,6 +2236,7 @@
             "loyalty": "",
             "artist": "Alisher Mirzoev",
             "alias": "",
+            "position": "110",
             "notes": "https://www.artstation.com/artwork/Kl4lo"
         },
         {
@@ -2219,6 +2256,7 @@
             "loyalty": "",
             "artist": "Arif Wijaya",
             "alias": "",
+            "position": "111",
             "notes": "https://www.artstation.com/artwork/5x1d1"
         },
         {
@@ -2238,6 +2276,7 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
+            "position": "112",
             "notes": "https://www.artstation.com/artwork/0X8EAe"
         },
         {
@@ -2257,6 +2296,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "113",
             "notes": "https://www.artstation.com/artwork/KrPW2X"
         },
         {
@@ -2276,6 +2316,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
+            "position": "114",
             "notes": "https://www.artstation.com/artwork/n0kw49"
         },
         {
@@ -2295,6 +2336,7 @@
             "loyalty": "",
             "artist": "Deiv Calviz (David Villegas)",
             "alias": "",
+            "position": "115",
             "notes": "https://www.artstation.com/artwork/x2bOE"
         },
         {
@@ -2314,6 +2356,7 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil",
             "alias": "",
+            "position": "116",
             "notes": "https://www.artstation.com/artwork/R3gbbe"
         },
         {
@@ -2333,6 +2376,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
+            "position": "117",
             "notes": "https://www.artstation.com/artwork/lxQZGO"
         },
         {
@@ -2352,8 +2396,9 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
+            "position": "118",
             "notes": "https://www.artstation.com/artwork/rA2wQL"
         }
     ],
-    "version": 1
+    "version": 2
 }

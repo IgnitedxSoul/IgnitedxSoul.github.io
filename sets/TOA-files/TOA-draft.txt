@@ -7,7 +7,7 @@
 			"type": "Token Artifact — Equipment Weapon",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9t_Weapon.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2t_Trials of Aenaris Archetypes.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/82_UM04 Burning Rebel.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4_CW04 Royal Escort.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/50_CR05 Hilgarde Plunderer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Tracker",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7t_Incite.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/85_UM07 Mad Marauder.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/87_UM09 Adept Blacksmith.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Devil",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/81_UM03 Blackmarket Dealer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5t_Saproling.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8t_Treasure.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/28_RU Xanthicar's Augury.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Enchantment",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/61_RR Raze the Fields.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Legendary Creature — Dragon",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/59_MR Nyhela Awoken.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/27_RU Xanthicar, the Mad Prohpet.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/4t_Elemental.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Token Creature — Faerie Rogue",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3t_Faerie Rogue.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/108_Island.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/110_Mountain.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/107_Plains.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/109_Swamp.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/5_CW05 Agile Lifeweaver.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/77_CG13 Bloodthirsty Bear.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/46_CR01 Omenseer Imbuer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Artifact",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/103_CC04 Imbued Arrow.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Typal Enchantment — Faerie",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/43_MB Bitterblossom.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/31_CB02 Il'Umari Practitioner.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Spirit Cleric",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/83_UM05 Daybreaker Diviner.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/90_CM01 River Guardian.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Faerie Knight",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/80_UM02 Stubborn Guardian.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/23_CU10 Crystaline Titan.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/39_CB10 Il'Umari Web-Weaver.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/31.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/104_UC01 Soulshard.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/32.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/64_UR Volcanic Forge.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Faerie Rogue",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/45_UB Deepwoods Stalker.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/34.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/60_RR Harness... something....png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/44_UB Bog Crystals.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1t_Designer Credits.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Token Creature — Devotee",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6t_Devotee.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Zombie Cleric",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/84_UM06 Procession Figure.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/41_CB12 Striking Owl.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature — Crocodile",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/25_CU12 Plunging Gator.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/88_UM10 Paralytic Serpent.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Boar",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/86_UM08 Desecration Boar.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/43.png"
 			}
 		},
 		{
@@ -450,11 +450,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/62_UR Assault Elemental_back.png"
+					"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/44_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/62_UR Assault Elemental_front.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/44_front.png"
 			}
 		},
 		{
@@ -464,7 +464,7 @@
 			"type": "Creature — Faerie Rogue",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/20_CU07 Frontline Sprite.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/45.png"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			"type": "Creature — Angel Wizard",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/79_UM01 Cloudsworn Warden.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/46.png"
 			}
 		},
 		{
@@ -484,7 +484,7 @@
 			"type": "Creature — Human",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/13_CW13 Militia Caller.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/47.png"
 			}
 		},
 		{
@@ -494,7 +494,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/2_CW02 Against the Odds.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/48.png"
 			}
 		},
 		{
@@ -504,7 +504,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/8_CW08 Sanctum Blade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/49.png"
 			}
 		},
 		{
@@ -514,7 +514,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/3_CW03 Nephiiram Martyr.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/50.png"
 			}
 		},
 		{
@@ -524,7 +524,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/9_CW09 Ceremony Leader.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/51.png"
 			}
 		},
 		{
@@ -534,7 +534,7 @@
 			"type": "Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/12_CW12 Cloudsworn Blessing.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/52.png"
 			}
 		},
 		{
@@ -544,7 +544,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/1_CW01 Eager Fledgling.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/53.png"
 			}
 		},
 		{
@@ -554,7 +554,7 @@
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/7_CW07 Savage Strike.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/54.png"
 			}
 		},
 		{
@@ -564,7 +564,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/6_CW06 Orrery Guard.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/55.png"
 			}
 		},
 		{
@@ -574,7 +574,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/11_CW11 Guiding Herald.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/56.png"
 			}
 		},
 		{
@@ -584,7 +584,7 @@
 			"type": "Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/10_CW10 Smite the Mighty.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/57.png"
 			}
 		},
 		{
@@ -594,7 +594,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/16_CU03 Il'Umari Dreamer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/58.png"
 			}
 		},
 		{
@@ -604,7 +604,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/18_CU05 Crystaline Carapace.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/59.png"
 			}
 		},
 		{
@@ -614,7 +614,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/29_UU Nebulous Confirmation.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/60.png"
 			}
 		},
 		{
@@ -624,7 +624,7 @@
 			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/26_CU13 Afflicted Vision.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/61.png"
 			}
 		},
 		{
@@ -634,7 +634,7 @@
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/14_CU01 Il'Umari Trapper.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/62.png"
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/17_CU04 Essence Tamer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/63.png"
 			}
 		},
 		{
@@ -654,7 +654,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/19_CU06 Spell Stutter.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/64.png"
 			}
 		},
 		{
@@ -664,7 +664,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/21_CU08 Eliuum Construct.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/65.png"
 			}
 		},
 		{
@@ -674,7 +674,7 @@
 			"type": "Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/22_CU09 Majestic Metamorphosis.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/66.png"
 			}
 		},
 		{
@@ -684,7 +684,7 @@
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/24_CU11 Wayward Swarm.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/67.png"
 			}
 		},
 		{
@@ -694,7 +694,7 @@
 			"type": "Artifact",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/15_CU02 Witching Well.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/68.png"
 			}
 		},
 		{
@@ -704,7 +704,7 @@
 			"type": "Instant",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/30_CB01 Delayed Atonement.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/69.png"
 			}
 		},
 		{
@@ -714,7 +714,7 @@
 			"type": "Artifact Creature — Human Rogue",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/38_CB09 Undercity Scrounger.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/70.png"
 			}
 		},
 		{
@@ -724,7 +724,7 @@
 			"type": "Sorcery",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/40_CB11 Grim Bounty.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/71.png"
 			}
 		},
 		{
@@ -734,7 +734,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/33_CB04 Covert Operative.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/72.png"
 			}
 		},
 		{
@@ -744,7 +744,7 @@
 			"type": "Creature — Skeleton Cleric",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/32_CB03 Ebon Anointer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/73.png"
 			}
 		},
 		{
@@ -754,7 +754,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/36_CB07 Mourning Blade.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/74.png"
 			}
 		},
 		{
@@ -764,7 +764,7 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/34_CB05 K'Llei Ritual.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/75.png"
 			}
 		},
 		{
@@ -774,7 +774,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/35_CB06 Battleworthy Sacrifice.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/76.png"
 			}
 		},
 		{
@@ -784,7 +784,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/42_CB13 Graveyard Prowler.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/77.png"
 			}
 		},
 		{
@@ -794,7 +794,7 @@
 			"type": "Creature — Faerie Rogue",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/37_CB08 Il'Umari Herald.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/78.png"
 			}
 		},
 		{
@@ -804,7 +804,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/47_CR02 Galvanic Blast.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/79.png"
 			}
 		},
 		{
@@ -814,7 +814,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/48_CR03 Battle Rage.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/80.png"
 			}
 		},
 		{
@@ -824,7 +824,7 @@
 			"type": "Creature — Dwarf Rogue",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/49_CR04 Vault Robber.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/81.png"
 			}
 		},
 		{
@@ -834,7 +834,7 @@
 			"type": "Artifact",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/51_CR06 Unstable Chargestone.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/82.png"
 			}
 		},
 		{
@@ -844,7 +844,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/52_CR07 Sailkite Bandit.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/83.png"
 			}
 		},
 		{
@@ -854,7 +854,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/53_CR08 Bonewhip Brawler.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/84.png"
 			}
 		},
 		{
@@ -864,7 +864,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/54_CR09 Omen Steelform.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/85.png"
 			}
 		},
 		{
@@ -874,7 +874,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/55_CR10 Molten Brute.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/86.png"
 			}
 		},
 		{
@@ -884,7 +884,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/63_UR Rapacious Dragon.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/87.png"
 			}
 		},
 		{
@@ -894,7 +894,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/57_CR12 Capricious Royal.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/88.png"
 			}
 		},
 		{
@@ -904,7 +904,7 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/56_CR11 Big Score.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/89.png"
 			}
 		},
 		{
@@ -914,7 +914,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/58_CR13 Pursue the Weak.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/90.png"
 			}
 		},
 		{
@@ -924,7 +924,7 @@
 			"type": "Creature — Elf Archer",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/71_CG07 Quick-Draw Archer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/91.png"
 			}
 		},
 		{
@@ -934,7 +934,7 @@
 			"type": "Creature — Boar",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/72_CG08 Decaying Swine.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/92.png"
 			}
 		},
 		{
@@ -944,47 +944,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/67_CG03 Noxious Spore.png"
-			}
-		},
-		{
-			"name": "Aenaris",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
-			}
-		},
-		{
-			"name": "Aenaris",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
-			}
-		},
-		{
-			"name": "Aenaris",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
-			}
-		},
-		{
-			"name": "Aenaris",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/0_Aenaris.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/93.png"
 			}
 		},
 		{
@@ -994,7 +954,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/65_CG01 Corpse Adorner.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/94.png"
 			}
 		},
 		{
@@ -1004,7 +964,7 @@
 			"type": "Creature — Crocodile",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/68_CG04 Lingering Croc.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/95.png"
 			}
 		},
 		{
@@ -1014,7 +974,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/69_CG05 Bramble Armor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/96.png"
 			}
 		},
 		{
@@ -1024,7 +984,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/66_CG02 Giant Growth.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/97.png"
 			}
 		},
 		{
@@ -1034,7 +994,7 @@
 			"type": "Sorcery",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/73_CG09 Nature's Reach.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/98.png"
 			}
 		},
 		{
@@ -1044,7 +1004,7 @@
 			"type": "Artifact",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/70_CG06 Heart of the Forest.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/99.png"
 			}
 		},
 		{
@@ -1054,7 +1014,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/74_CG10 Ancestral Dryad.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/100.png"
 			}
 		},
 		{
@@ -1064,7 +1024,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/75_CG11 Hunter's Pursuit.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/101.png"
 			}
 		},
 		{
@@ -1074,7 +1034,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/78_RG Bramble Fiend.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/102.png"
 			}
 		},
 		{
@@ -1084,7 +1044,7 @@
 			"type": "Creature — Faerie Rogue",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/91_CM02 Il'Umari Deceiver.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/103.png"
 			}
 		},
 		{
@@ -1094,7 +1054,7 @@
 			"type": "Creature — Devil",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/92_CM03 Runic Daemon.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/104.png"
 			}
 		},
 		{
@@ -1104,7 +1064,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/93_CM04 Pit Fight.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/105.png"
 			}
 		},
 		{
@@ -1114,7 +1074,7 @@
 			"type": "Creature — Centaur Warrior",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/94_CM05 Centaur Safeguard.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/106.png"
 			}
 		},
 		{
@@ -1124,7 +1084,7 @@
 			"type": "Instant",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/95_CM06 Confession.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/107.png"
 			}
 		},
 		{
@@ -1134,7 +1094,7 @@
 			"type": "Creature — Faerie Wizard",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/96_CM07 Mischevious Faerie.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/108.png"
 			}
 		},
 		{
@@ -1144,7 +1104,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/76_CG12 Bramble Envoy.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/109.png"
 			}
 		},
 		{
@@ -1154,7 +1114,7 @@
 			"type": "Creature — Goblin Rogue",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/97_CM08 Rooftop Miscreant.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/110.png"
 			}
 		},
 		{
@@ -1164,7 +1124,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/98_CM09 Fresh-Faced Recruit.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/111.png"
 			}
 		},
 		{
@@ -1174,7 +1134,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/99_CM10 Square Up.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/112.png"
 			}
 		},
 		{
@@ -1184,7 +1144,7 @@
 			"type": "Land",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/105_CL01 Prophetic Peak.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/113.png"
 			}
 		},
 		{
@@ -1194,7 +1154,7 @@
 			"type": "Land",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/106_CL02 Aspiring Bloom.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/114.png"
 			}
 		},
 		{
@@ -1204,7 +1164,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/102_CC03 Annealed Brute.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/115.png"
 			}
 		},
 		{
@@ -1214,7 +1174,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/101_CC02 Cloudsworn Enforcer.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/116.png"
 			}
 		},
 		{
@@ -1224,7 +1184,7 @@
 			"type": "Artifact Creature — Dog Horror",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/100_CC01 Skozall Monitor.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/117.png"
 			}
 		},
 		{
@@ -1234,7 +1194,7 @@
 			"type": "Creature — Hydra Horror",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/89_Vileform Hydra.png"
+				"en": "https://IgnitedxSoul.github.io/sets/TOA-files/img/118.png"
 			}
 		}
 	]
@@ -1325,10 +1285,6 @@
 	8 CG07 Quick-Draw Archer
 	8 CG08 Decaying Swine
 	8 CG03 Noxious Spore
-	8 Aenaris
-	8 Aenaris
-	8 Aenaris
-	8 Aenaris
 	8 CG01 Corpse Adorner
 	8 CG04 Lingering Croc
 	8 CG05 Bramble Armor
@@ -1434,10 +1390,6 @@
 	12 CG07 Quick-Draw Archer
 	12 CG08 Decaying Swine
 	12 CG03 Noxious Spore
-	12 Aenaris
-	12 Aenaris
-	12 Aenaris
-	12 Aenaris
 	12 CG01 Corpse Adorner
 	12 CG04 Lingering Croc
 	12 CG05 Bramble Armor
@@ -1545,10 +1497,6 @@
 	6 CG07 Quick-Draw Archer
 	6 CG08 Decaying Swine
 	6 CG03 Noxious Spore
-	6 Aenaris
-	6 Aenaris
-	6 Aenaris
-	6 Aenaris
 	6 CG01 Corpse Adorner
 	6 CG04 Lingering Croc
 	6 CG05 Bramble Armor

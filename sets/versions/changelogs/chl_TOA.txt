@@ -1,4 +1,264 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Aenaris removed.
+Aenaris removed.
+Aenaris removed.
+Aenaris removed.
+
+Weapon
+
+Trials of Aenaris Archetypes
+
+UM04 Burning Rebel
+
+CW04 Royal Escort
+
+CR05 Hilgarde Plunderer
+
+Incite
+
+UM07 Mad Marauder
+
+UM09 Adept Blacksmith
+
+UM03 Blackmarket Dealer
+rules_text: Whenever Blackmarket Dealer or another nontoken creature enters the battlefield under your control, if mana from a Treasure was spent to cast it, it gains haste until end of turn.
+Whenever another creature you control dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Whenever Blackmarket Dealer or another nontoken creature enters the battlefield under your control, if mana from a Treasure was spent to cast it, it gains haste until end of turn.
+Whenever another creature you control dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Saproling
+
+Treasure
+
+RU Xanthicar's Augury
+
+RR Raze the Fields
+
+MR Nyhela Awoken
+
+RU Xanthicar, the Mad Prohpet
+
+Elemental
+
+Faerie Rogue
+
+CW05 Agile Lifeweaver
+
+CG13 Bloodthirsty Bear
+
+CR01 Omenseer Imbuer
+
+CC04 Imbued Arrow
+
+MB Bitterblossom
+
+CB02 Il'Umari Practitioner
+rules_text: Flying
+When Il'Umari Practitioner attacks, you may pay 1 life. If you do, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Flying
+When Il'Umari Practitioner attacks, you may pay 1 life. If you do, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+UM05 Daybreaker Diviner
+
+CM01 River Guardian
+
+UM02 Stubborn Guardian
+
+CU10 Crystaline Titan
+
+CB10 Il'Umari Web-Weaver
+
+UC01 Soulshard
+
+UR Volcanic Forge
+
+UB Deepwoods Stalker
+
+RR Harness... something...
+
+UB Bog Crystals
+
+Designer Credits
+
+Devotee
+
+UM06 Procession Figure
+
+CB12 Striking Owl
+
+CU12 Plunging Gator
+
+UM10 Paralytic Serpent
+
+UM08 Desecration Boar
+
+UR Assault Elemental
+
+CU07 Frontline Sprite
+
+UM01 Cloudsworn Warden
+
+CW13 Militia Caller
+
+CW02 Against the Odds
+
+CW08 Sanctum Blade
+
+CW03 Nephiiram Martyr
+
+CW09 Ceremony Leader
+
+CW12 Cloudsworn Blessing
+
+CW01 Eager Fledgling
+
+CW07 Savage Strike
+
+CW06 Orrery Guard
+
+CW11 Guiding Herald
+
+CW10 Smite the Mighty
+
+CU03 Il'Umari Dreamer
+
+CU05 Crystaline Carapace
+
+UU Nebulous Confirmation
+
+CU13 Afflicted Vision
+
+CU01 Il'Umari Trapper
+
+CU04 Essence Tamer
+
+CU06 Spell Stutter
+
+CU08 Eliuum Construct
+
+CU09 Majestic Metamorphosis
+
+CU11 Wayward Swarm
+
+CU02 Witching Well
+
+CB01 Delayed Atonement
+
+CB09 Undercity Scrounger
+rules_text: {T}: Create a Treasure token. Activate only if a creature died this turn. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}: Create a Treasure token. Activate only if a creature died this turn. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+CB11 Grim Bounty
+rules_text: Destroy target creature or planeswalker. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Destroy target creature or planeswalker. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+CB04 Covert Operative
+
+CB03 Ebon Anointer
+
+CB07 Mourning Blade
+
+CB05 K'Llei Ritual
+
+CB06 Battleworthy Sacrifice
+
+CB13 Graveyard Prowler
+
+CB08 Il'Umari Herald
+
+CR02 Galvanic Blast
+
+CR03 Battle Rage
+
+CR04 Vault Robber
+rules_text: {1}, {T}, Exile a creature card from your graveyard: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {1}, {T}, Exile a creature card from your graveyard: Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+CR06 Unstable Chargestone
+
+CR07 Sailkite Bandit
+rules_text: When Sailkite Bandit enters, choose one —
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+• Sailkite Bandit gets +1/+0 and gains haste until end of turn. => When Sailkite Bandit enters, choose one —
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+• Sailkite Bandit gets +1/+0 and gains haste until end of turn.
+
+CR08 Bonewhip Brawler
+
+CR09 Omen Steelform
+
+CR10 Molten Brute
+
+UR Rapacious Dragon
+rules_text: Flying
+When UR Rapacious Dragon enters, create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Flying
+When UR Rapacious Dragon enters, create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+CR12 Capricious Royal
+
+CR11 Big Score
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => As an additional cost to cast this spell, discard a card.
+Draw two cards and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+CR13 Pursue the Weak
+
+CG07 Quick-Draw Archer
+
+CG08 Decaying Swine
+
+CG03 Noxious Spore
+
+CG01 Corpse Adorner
+
+CG04 Lingering Croc
+
+CG05 Bramble Armor
+
+CG02 Giant Growth
+
+CG09 Nature's Reach
+
+CG06 Heart of the Forest
+
+CG10 Ancestral Dryad
+
+CG11 Hunter's Pursuit
+
+RG Bramble Fiend
+
+CM02 Il'Umari Deceiver
+
+CM03 Runic Daemon
+
+CM04 Pit Fight
+
+CM05 Centaur Safeguard
+
+CM06 Confession
+
+CM07 Mischevious Faerie
+
+CG12 Bramble Envoy
+
+CM08 Rooftop Miscreant
+
+CM09 Fresh-Faced Recruit
+
+CM10 Square Up
+
+CL01 Prophetic Peak
+
+CL02 Aspiring Bloom
+
+CC03 Annealed Brute
+
+CC02 Cloudsworn Enforcer
+
+CC01 Skozall Monitor
+
+Vileform Hydra
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
