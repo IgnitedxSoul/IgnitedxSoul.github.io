@@ -4,7 +4,7 @@
 			"name": "Forsaken Expedition",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Mercenary",
+			"type": "Creature — Human Soldier",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/0.png"
@@ -450,7 +450,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/41.png"
 			}
@@ -466,11 +466,11 @@
 			}
 		},
 		{
-			"name": "Ignominious Executive",
+			"name": "Ava, Ignominious Executive",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Noble",
-			"collector_number": "92",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/43.png"
 			}
@@ -480,7 +480,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/44.png"
 			}
@@ -520,7 +520,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/48.png"
 			}
@@ -1077,7 +1077,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/103.png"
 			}
@@ -1317,7 +1317,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/127.png"
 			}
@@ -1447,7 +1447,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/140.png"
 			}
@@ -1974,7 +1974,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/192.png"
 			}
@@ -2010,10 +2010,10 @@
 			}
 		},
 		{
-			"name": "Telemagnetic Reclaimation",
+			"name": "Telemagnetic Assault",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Sorcery",
+			"mana_cost": "{W}",
+			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/196.png"
@@ -2084,7 +2084,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Symbiote",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/203.png"
 			}
@@ -2104,7 +2104,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/205.png"
 			}
@@ -2114,7 +2114,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/206.png"
 			}
@@ -2134,7 +2134,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/208.png"
 			}
@@ -2194,7 +2194,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/214.png"
 			}
@@ -2514,7 +2514,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/246.png"
 			}
@@ -2831,7 +2831,7 @@
 		}
 	]
 
-[rare(2)]
+[rare(1)]
 	2 Burgeoning Ascomycota
 	2 Orbital Drop Troopers
 	2 Consider the Cosmos
@@ -2905,7 +2905,7 @@
 	2 D'Emil, Apex Hunter
 	1 Moira, Rapid Adapter
 	1 Nanotech Pilferer
-[uncommon(4)]
+[uncommon(3)]
 	4 Renegade Academy
 	4 Expedition Range
 	4 Voyager Station
@@ -2922,7 +2922,7 @@
 	4 Splinter Brute
 	4 Nimble Crewmate
 	4 Extraction Team
-	4 Ignominious Executive
+	4 Ava, Ignominious Executive
 	4 Frontline Dropship
 	4 Construction Bot
 	4 Ops Pointman
@@ -2970,7 +2970,7 @@
 	4 Tundra Lurker
 	4 Omen of Contagion
 	4 Orbital Crash
-	4 Telemagnetic Reclaimation
+	4 Telemagnetic Assault
 	4 Kinetic Shieldbearer
 	4 Hapless Innovators
 	4 Intensive Study
@@ -3006,7 +3006,7 @@
 	4 Astral Strategist
 	4 Multi-Point Waygate
 	4 Ensnaring Matrix
-[common(8)]
+[common(7)]
 	8 Forsaken Expedition
 	8 Portent Resonance
 	8 Taloncrawler
@@ -3046,12 +3046,16 @@
 	8 Spontaneous Outburst
 	8 Brutal Acquisition
 	8 Poison Whip-Tail
+	8 Radar Glade
 	8 Whirring Surveyor
 	8 Agile Furrowite
 	8 Profound Discovery
 	8 Methodical Infantry
 	8 Anti-Aerial Crawler
 	8 Hazard Enviro-Mech
+	8 Plithium Processing Plant
+	8 Buoyant Bay Port
+	8 Bismuth Flats
 	8 Shielding Dome
 	8 Charging Octomare
 	8 Levicycle Courier
@@ -3059,6 +3063,12 @@
 	8 Navigator Core
 	8 Watcher in the Void
 	8 Digitized Duo
+	8 Cultivation Platforms
+	8 Wetland Botany Lab
+	8 Glacial Mill
+	8 Isle of Prophecy
+	8 Cavern of Piety
+	8 Auroral Cliffs
 	8 Precursor Colony
 	8 Veylid Reliquary
 	8 Salvage Hunter
@@ -3088,14 +3098,533 @@
 	8 Enticing Discovery
 	8 Spec-Ops Forerunner
 	8 Synthesis Volunteer
-[land(1)]
-	3 Radar Glade
-	3 Plithium Processing Plant
-	3 Buoyant Bay Port
-	3 Bismuth Flats
-	3 Cultivation Platforms
-	3 Wetland Botany Lab
-	3 Glacial Mill
-	3 Isle of Prophecy
-	3 Cavern of Piety
-	3 Auroral Cliffs
+[foil(1)]
+	12 Forsaken Expedition
+	12 Portent Resonance
+	12 Taloncrawler
+	6 Renegade Academy
+	6 Expedition Range
+	6 Voyager Station
+	6 Plithium Quarry
+	6 Innovative Hangar
+	12 Proto-Genesis Jellyfish
+	12 Ambitious Lab Techs
+	12 Targeted Strike
+	12 Acrid Chiropteran
+	12 Steamcaller
+	12 Haunting Amalgamate
+	6 Stalking Wispbeast
+	6 Rothmas Scouts
+	12 Transferred Soul
+	6 Keen-Eyed Engineer
+	12 Digital Reconstruction
+	12 City Sweep
+	12 Servitor Drone
+	6 Expanse Runners
+	12 Gleaming Kite
+	12 Swift Response
+	12 Convening Nomad
+	12 Cryo Chamber
+	12 Containment Breach
+	6 Mistweaver
+	6 Overwatch Sentinel
+	6 Observation Crew
+	6 Manifested Chimera
+	12 Disposal Personnel
+	12 Android Maintenance
+	12 Don't Make a Sound
+	12 Frigid Pass Officers
+	6 Splinter Brute
+	12 Painful Excision
+	6 Nimble Crewmate
+	6 Extraction Team
+	12 Aerial Heistman
+	6 Ava, Ignominious Executive
+	12 Disfigure
+	12 Remote Disintegration
+	12 Recovery Mission
+	12 Frightened Trainee
+	12 Mining Rig
+	12 Thrill of Possibility
+	12 Tactical Breach
+	6 Frontline Dropship
+	6 Construction Bot
+	12 Pyroclastic Crewmate
+	6 Ops Pointman
+	6 Drone Operator
+	12 Skittering Swarm
+	12 Incinerating Blast
+	12 Ambush Drone
+	6 Houkkipi Scavengers
+	6 Biogenic Upgrade
+	12 Brush Surveyor
+	6 Consuming Polyp
+	12 Spontaneous Outburst
+	12 Brutal Acquisition
+	6 Rapid Incubation
+	12 Poison Whip-Tail
+	2 Burgeoning Ascomycota
+	12 Radar Glade
+	12 Whirring Surveyor
+	12 Agile Furrowite
+	12 Profound Discovery
+	12 Methodical Infantry
+	12 Anti-Aerial Crawler
+	12 Hazard Enviro-Mech
+	12 Plithium Processing Plant
+	12 Buoyant Bay Port
+	12 Bismuth Flats
+	12 Shielding Dome
+	12 Charging Octomare
+	12 Levicycle Courier
+	12 Sudden Evacuation
+	12 Navigator Core
+	12 Watcher in the Void
+	12 Digitized Duo
+	12 Cultivation Platforms
+	12 Wetland Botany Lab
+	12 Glacial Mill
+	12 Isle of Prophecy
+	12 Cavern of Piety
+	12 Auroral Cliffs
+	12 Precursor Colony
+	12 Veylid Reliquary
+	12 Salvage Hunter
+	12 Tremor Spikeworm
+	12 Stasis Field
+	12 Quell Rebellion
+	12 Scarab Behemoth
+	12 Afflicted Researcher
+	12 Void Specter
+	12 Outskirts Prowler
+	12 Duress
+	12 Subjugation
+	12 Brood Warden
+	12 Wreckage Raiders
+	12 Field Expeditioners
+	12 Mission Coordinator
+	12 Smoldering Defiance
+	12 Abrade
+	12 Corrupted Monitor
+	12 Hull Mechanic
+	12 Tri-Lateral Grenade
+	12 Sampling Laser
+	12 Nurturing Mantisworm
+	12 Arachnae Behemoth
+	12 Unbound Subject
+	12 Broken Wings
+	6 Organic Printer
+	6 Ecological Survey
+	6 EMP Blast
+	6 Anomalous Animation
+	6 Sanguine Stalker
+	6 Corpse Subsumer
+	6 Scour the Ruins
+	6 Commune With Evil
+	6 Scorched Desolation
+	6 Despondent Colonists
+	6 Artificial Warfront
+	6 Cuphro Invasion
+	2 Orbital Drop Troopers
+	2 Consider the Cosmos
+	2 Lunar Archfiend
+	2 Agent of Retribution
+	12 Enticing Discovery
+	2 Unearthly Encounter
+	2 Mutagen Spreader
+	2 Orchestrator of Wills
+	2 Bravo-2, Ruthless Commando
+	2 Emberwing Emissary
+	2 Path Treading Tank
+	2 Assault Landing
+	2 Station Monitor
+	2 Into the Pit
+	1 Lithura, Maiden of Fates
+	2 Orbital Lift
+	2 Shorecrasher Titan
+	2 Reactor Ignition
+	2 Augmented Starfighter
+	2 Heart of Astorethe
+	2 Exhurga, Origin of Mania
+	2 Celestial Generator
+	2 Outpost Zero
+	6 Deflector Operative
+	6 Neon Enforcement
+	6 Clattering Chitin
+	6 Consuming Tide
+	6 Bravo-2 Contractee
+	6 Suppression Fire
+	6 Exfiltration Coordinator
+	6 Call to Action
+	6 Luminescent Aberration
+	6 Genome Sequencing
+	6 Morphose Plague
+	6 Bioweapon Engineers
+	6 Circuit Liberator
+	6 Galactic Rending
+	6 Ghoulish Stillthroat
+	6 Pathcutter Drone
+	6 Razefire Raid
+	6 Twilight Observer
+	6 Vegetative Biopsy
+	2 Lunar Bog
+	2 Basaltic Reef
+	2 Luminous Fen
+	2 Saltspire Expanse
+	2 Cascading Grotto
+	2 Null-Tide Seabed
+	2 Tendril Quagmire
+	2 Crimson Moor
+	2 Brewing Crag
+	2 Stillgrove Narrows
+	6 Adaptive Scoundrel
+	6 Agricultural Analysis
+	6 Militech Analysis
+	2 Contain for Study
+	2 Colony Map
+	2 Devastating Blast
+	2 Insatiable Petrifier
+	6 Origin Stone Shard
+	6 Fallback Plan
+	6 Tundra Lurker
+	6 Omen of Contagion
+	6 Orbital Crash
+	6 Telemagnetic Assault
+	6 Kinetic Shieldbearer
+	6 Hapless Innovators
+	6 Intensive Study
+	2 Twincannon Warbot
+	2 Undead Bioroid
+	2 Abandon Ship
+	6 Creeping Scavenger
+	2 Desperate Wayfarer
+	6 Hardened Commando
+	2 Devastating Dilemma
+	1 Xathyz, Eternal Matriarch
+	6 Blackmarket Orchestrator
+	6 Mobile Containment Unit
+	6 Crisis Assayer
+	6 Terminal Infection
+	6 Relentless Miscreant
+	6 Climactic Rebuke
+	6 Eldritch Summoning
+	6 Stun Baton
+	6 Portable Incinerator
+	6 Intel Breach
+	2 Piercing Duplicant
+	2 Scallia, Primal Morphling
+	6 Invader Construct
+	2 Predacious Bristleback
+	2 Parsec Tactician
+	1 Garruk, Augmented Tracker
+	1 Stellar Phoenix
+	2 Primordial Shaper
+	6 Mori-Bloom
+	2 Precognitive Tactics
+	2 Orbital Distorter
+	12 Spec-Ops Forerunner
+	6 Homogeneous Vessel
+	12 Synthesis Volunteer
+	6 Unwitting Host
+	2 Temporal Harness
+	6 Arboreal Sinewvine
+	2 Enforcer's Assault Rifle
+	2 Slipstream Infiltrator
+	6 Kinetic Vanguard
+	6 Pitiless Peacekeeper
+	6 Awoken Warframe
+	6 Augmented-Reality Visor
+	2 City Outbreak
+	6 Operative Reactivation
+	6 Skyline Enforcer
+	6 Hive Queen
+	6 Infernal Ravager
+	6 Lab Infiltration
+	6 Forged Recluse
+	6 Cunning Tactics
+	6 Ancient Awakening
+	6 Astral Strategist
+	6 Multi-Point Waygate
+	6 Ensnaring Matrix
+	1 Maxine, Cynical Renegade
+	2 Plithium-Plated Mech
+	2 Feasting Skittermaw
+	2 Keilan, Rabble-Rouser
+	2 Sterile Synthesis
+	2 Malignant Venomwing
+	2 Seed of Infection
+	2 Evelyn, Battle Calculatrix
+	2 Dread Reaper
+	2 Blitzwing Striker
+	2 Eldritch Haruspex
+	2 Fluxreactor Manticore
+	2 Relentless Raid
+	1 Charim Kosta, Hullraider
+	2 D'Emil, Apex Hunter
+	1 Moira, Rapid Adapter
+	1 Nanotech Pilferer
+[wildcard(1)]
+	6 Forsaken Expedition
+	6 Portent Resonance
+	6 Taloncrawler
+	15 Renegade Academy
+	15 Expedition Range
+	15 Voyager Station
+	15 Plithium Quarry
+	15 Innovative Hangar
+	6 Proto-Genesis Jellyfish
+	6 Ambitious Lab Techs
+	6 Targeted Strike
+	6 Acrid Chiropteran
+	6 Steamcaller
+	6 Haunting Amalgamate
+	15 Stalking Wispbeast
+	15 Rothmas Scouts
+	6 Transferred Soul
+	15 Keen-Eyed Engineer
+	6 Digital Reconstruction
+	6 City Sweep
+	6 Servitor Drone
+	15 Expanse Runners
+	6 Gleaming Kite
+	6 Swift Response
+	6 Convening Nomad
+	6 Cryo Chamber
+	6 Containment Breach
+	15 Mistweaver
+	15 Overwatch Sentinel
+	15 Observation Crew
+	15 Manifested Chimera
+	6 Disposal Personnel
+	6 Android Maintenance
+	6 Don't Make a Sound
+	6 Frigid Pass Officers
+	15 Splinter Brute
+	6 Painful Excision
+	15 Nimble Crewmate
+	15 Extraction Team
+	6 Aerial Heistman
+	15 Ava, Ignominious Executive
+	6 Disfigure
+	6 Remote Disintegration
+	6 Recovery Mission
+	6 Frightened Trainee
+	6 Mining Rig
+	6 Thrill of Possibility
+	6 Tactical Breach
+	15 Frontline Dropship
+	15 Construction Bot
+	6 Pyroclastic Crewmate
+	15 Ops Pointman
+	15 Drone Operator
+	6 Skittering Swarm
+	6 Incinerating Blast
+	6 Ambush Drone
+	15 Houkkipi Scavengers
+	15 Biogenic Upgrade
+	6 Brush Surveyor
+	15 Consuming Polyp
+	6 Spontaneous Outburst
+	6 Brutal Acquisition
+	15 Rapid Incubation
+	6 Poison Whip-Tail
+	7 Burgeoning Ascomycota
+	6 Radar Glade
+	6 Whirring Surveyor
+	6 Agile Furrowite
+	6 Profound Discovery
+	6 Methodical Infantry
+	6 Anti-Aerial Crawler
+	6 Hazard Enviro-Mech
+	6 Plithium Processing Plant
+	6 Buoyant Bay Port
+	6 Bismuth Flats
+	6 Shielding Dome
+	6 Charging Octomare
+	6 Levicycle Courier
+	6 Sudden Evacuation
+	6 Navigator Core
+	6 Watcher in the Void
+	6 Digitized Duo
+	6 Cultivation Platforms
+	6 Wetland Botany Lab
+	6 Glacial Mill
+	6 Isle of Prophecy
+	6 Cavern of Piety
+	6 Auroral Cliffs
+	6 Precursor Colony
+	6 Veylid Reliquary
+	6 Salvage Hunter
+	6 Tremor Spikeworm
+	6 Stasis Field
+	6 Quell Rebellion
+	6 Scarab Behemoth
+	6 Afflicted Researcher
+	6 Void Specter
+	6 Outskirts Prowler
+	6 Duress
+	6 Subjugation
+	6 Brood Warden
+	6 Wreckage Raiders
+	6 Field Expeditioners
+	6 Mission Coordinator
+	6 Smoldering Defiance
+	6 Abrade
+	6 Corrupted Monitor
+	6 Hull Mechanic
+	6 Tri-Lateral Grenade
+	6 Sampling Laser
+	6 Nurturing Mantisworm
+	6 Arachnae Behemoth
+	6 Unbound Subject
+	6 Broken Wings
+	15 Organic Printer
+	15 Ecological Survey
+	15 EMP Blast
+	15 Anomalous Animation
+	15 Sanguine Stalker
+	15 Corpse Subsumer
+	15 Scour the Ruins
+	15 Commune With Evil
+	15 Scorched Desolation
+	15 Despondent Colonists
+	15 Artificial Warfront
+	15 Cuphro Invasion
+	7 Orbital Drop Troopers
+	7 Consider the Cosmos
+	7 Lunar Archfiend
+	7 Agent of Retribution
+	6 Enticing Discovery
+	7 Unearthly Encounter
+	7 Mutagen Spreader
+	7 Orchestrator of Wills
+	7 Bravo-2, Ruthless Commando
+	7 Emberwing Emissary
+	7 Path Treading Tank
+	7 Assault Landing
+	7 Station Monitor
+	7 Into the Pit
+	4 Lithura, Maiden of Fates
+	7 Orbital Lift
+	7 Shorecrasher Titan
+	7 Reactor Ignition
+	7 Augmented Starfighter
+	7 Heart of Astorethe
+	7 Exhurga, Origin of Mania
+	7 Celestial Generator
+	7 Outpost Zero
+	15 Deflector Operative
+	15 Neon Enforcement
+	15 Clattering Chitin
+	15 Consuming Tide
+	15 Bravo-2 Contractee
+	15 Suppression Fire
+	15 Exfiltration Coordinator
+	15 Call to Action
+	15 Luminescent Aberration
+	15 Genome Sequencing
+	15 Morphose Plague
+	15 Bioweapon Engineers
+	15 Circuit Liberator
+	15 Galactic Rending
+	15 Ghoulish Stillthroat
+	15 Pathcutter Drone
+	15 Razefire Raid
+	15 Twilight Observer
+	15 Vegetative Biopsy
+	7 Lunar Bog
+	7 Basaltic Reef
+	7 Luminous Fen
+	7 Saltspire Expanse
+	7 Cascading Grotto
+	7 Null-Tide Seabed
+	7 Tendril Quagmire
+	7 Crimson Moor
+	7 Brewing Crag
+	7 Stillgrove Narrows
+	15 Adaptive Scoundrel
+	15 Agricultural Analysis
+	15 Militech Analysis
+	7 Contain for Study
+	7 Colony Map
+	7 Devastating Blast
+	7 Insatiable Petrifier
+	15 Origin Stone Shard
+	15 Fallback Plan
+	15 Tundra Lurker
+	15 Omen of Contagion
+	15 Orbital Crash
+	15 Telemagnetic Assault
+	15 Kinetic Shieldbearer
+	15 Hapless Innovators
+	15 Intensive Study
+	7 Twincannon Warbot
+	7 Undead Bioroid
+	7 Abandon Ship
+	15 Creeping Scavenger
+	7 Desperate Wayfarer
+	15 Hardened Commando
+	7 Devastating Dilemma
+	4 Xathyz, Eternal Matriarch
+	15 Blackmarket Orchestrator
+	15 Mobile Containment Unit
+	15 Crisis Assayer
+	15 Terminal Infection
+	15 Relentless Miscreant
+	15 Climactic Rebuke
+	15 Eldritch Summoning
+	15 Stun Baton
+	15 Portable Incinerator
+	15 Intel Breach
+	7 Piercing Duplicant
+	7 Scallia, Primal Morphling
+	15 Invader Construct
+	7 Predacious Bristleback
+	7 Parsec Tactician
+	4 Garruk, Augmented Tracker
+	4 Stellar Phoenix
+	7 Primordial Shaper
+	15 Mori-Bloom
+	7 Precognitive Tactics
+	7 Orbital Distorter
+	6 Spec-Ops Forerunner
+	15 Homogeneous Vessel
+	6 Synthesis Volunteer
+	15 Unwitting Host
+	7 Temporal Harness
+	15 Arboreal Sinewvine
+	7 Enforcer's Assault Rifle
+	7 Slipstream Infiltrator
+	15 Kinetic Vanguard
+	15 Pitiless Peacekeeper
+	15 Awoken Warframe
+	15 Augmented-Reality Visor
+	7 City Outbreak
+	15 Operative Reactivation
+	15 Skyline Enforcer
+	15 Hive Queen
+	15 Infernal Ravager
+	15 Lab Infiltration
+	15 Forged Recluse
+	15 Cunning Tactics
+	15 Ancient Awakening
+	15 Astral Strategist
+	15 Multi-Point Waygate
+	15 Ensnaring Matrix
+	4 Maxine, Cynical Renegade
+	7 Plithium-Plated Mech
+	7 Feasting Skittermaw
+	7 Keilan, Rabble-Rouser
+	7 Sterile Synthesis
+	7 Malignant Venomwing
+	7 Seed of Infection
+	7 Evelyn, Battle Calculatrix
+	7 Dread Reaper
+	7 Blitzwing Striker
+	7 Eldritch Haruspex
+	7 Fluxreactor Manticore
+	7 Relentless Raid
+	4 Charim Kosta, Hullraider
+	7 D'Emil, Apex Hunter
+	4 Moira, Rapid Adapter
+	4 Nanotech Pilferer

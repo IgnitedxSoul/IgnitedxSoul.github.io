@@ -5,7 +5,7 @@
 			<name>OPZ</name>
 			<longname>Outpost Zero</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-10-20</releasedate>
+			<releasedate>2025-10-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -16,7 +16,7 @@
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Mercenary</type>
+				<type>Creature — Human Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
@@ -835,7 +835,7 @@ Draw two cards and create a Specimen token. (It&apos;s an artifact with &quot;{1
 			<name>Extraction Team</name>
 			<text>You may strain this creature as it attacks. (To strain, tap it then put a stun counter on it.)
 Whenever you strain a creature you control, you may pay 1 life. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/41.png" num="88">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/41.png" num="89">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -852,7 +852,7 @@ Whenever you strain a creature you control, you may pay 1 life. If you do, draw 
 		<card>
 			<name>Aerial Heistman</name>
 			<text>Flying, haste
-Whenever this creature becomes the target of a spell or ability you control for the first time each turn, each opponent loses 1 life and you gain 1 life.</text>
+Whenever this creature attacks, if its power is 4 or greater, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/42.png" num="76">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -868,14 +868,13 @@ Whenever this creature becomes the target of a spell or ability you control for 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ignominious Executive</name>
-			<text>Mercenaries you control get +1/+0.
-Whenever another creature you control dies, surveil 1 then draw a card. This ability triggers only once each turn. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/43.png" num="92">OPZ</set>
+			<name>Ava, Ignominious Executive</name>
+			<text>Whenever a creature you control attacks alone, surveil 1 then draw a card. Put a +1/+1 counter on that creature. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/43.png" num="79">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Noble</type>
+				<type>Legendary Creature — Human Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
@@ -888,7 +887,7 @@ Whenever another creature you control dies, surveil 1 then draw a card. This abi
 		<card>
 			<name>Disfigure</name>
 			<text>Target creature gets -2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/44.png" num="85">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/44.png" num="86">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -955,7 +954,7 @@ Destroy target creature or planeswalker.</text>
 		<card>
 			<name>Frightened Trainee</name>
 			<text>When this creature dies, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/48.png" num="90">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/48.png" num="91">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1022,8 +1021,8 @@ Draw two cards.</text>
 		</card>
 		<card>
 			<name>Frontline Dropship</name>
-			<text>Create two 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
-Mercenaries you control get +1/+0 and gain haste until end of turn.</text>
+			<text>Create two 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot; They gain haste until end of turn.
+Nontoken creatures you control get +1/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/52.png" num="124">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1931,7 +1930,7 @@ When this creature enters, if you control an Outpost, surveil 1. (Look at the to
 		<card>
 			<name>Duress</name>
 			<text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/103.png" num="86">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/103.png" num="87">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2340,7 +2339,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 		<card>
 			<name>Commune With Evil</name>
 			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/127.png" num="82">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/127.png" num="83">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2565,7 +2564,7 @@ Whenever a card is put into your graveyard from your hand, library, or from exil
 			<name>Bravo-2, Ruthless Commando</name>
 			<text>Whenever you attack, creatures you control with power greater than their base power gain menace until end of turn.
 At the beginning of your end step, if you&apos;ve attacked this turn, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/140.png" num="80">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/140.png" num="81">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2917,7 +2916,7 @@ Draw two cards. Then discard a card unless three or more cards have left your gr
 		<card>
 			<name>Bravo-2 Contractee</name>
 			<text>When this creature enters, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
-Whenever this creature becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.</text>
+Whenever you attack, up to one target creature you control with power greater than its toughness gains trample until end of turn.</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/159.png" num="189">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2928,7 +2927,7 @@ Whenever this creature becomes the target of a spell or ability you control for 
 				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3482,7 +3481,7 @@ When this creature enters, up to one target creature you don&apos;t control beco
 			<name>Fallback Plan</name>
 			<text>As long as you control exactly one creature, that creature gets +2/+0 and has menace and lifelink.
 {3}{B}, Sacrifice this enchantment: Put target creature card from your graveyard onto the battlefield under your control. Activate this ability only as a sorcery and only if you control no creatures.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/192.png" num="89">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/192.png" num="90">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3548,17 +3547,17 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Telemagnetic Reclaimation</name>
-			<text>Return target artifact card from your graveyard to the battlefield.
+			<name>Telemagnetic Assault</name>
+			<text>Telemagnetic Assault deals 3 damage to target attacking or blocking creature.
 Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/196.png" num="33">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>3W</manacost>
-				<cmc>4</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -3674,7 +3673,7 @@ Destroy all creatures.</text>
 			<name>Creeping Scavenger</name>
 			<text>Assimilate {4}{B} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/203.png" num="83">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/203.png" num="84">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3709,7 +3708,7 @@ At the beginning of your end step, put a +1/+1 counter on this creature for each
 		<card>
 			<name>Hardened Commando</name>
 			<text>Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it&apos;s mana value is less than or equal to this creature&apos;s power. Otherwise, you may put it into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/205.png" num="91">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/205.png" num="92">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3730,7 +3729,7 @@ At the beginning of your end step, put a +1/+1 counter on this creature for each
 • Target player loses 3 life.
 • Target player sacrifices a creature.
 • Shuffle this enchantment into its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/206.png" num="84">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/206.png" num="85">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3767,7 +3766,7 @@ When Xathyz enters, you may move any number of counters from Symbiotes you contr
 			<name>Blackmarket Orchestrator</name>
 			<text>{3}{B}, Sacrifice a creature: Draw a card.
 At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot; (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/208.png" num="79">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/208.png" num="80">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3777,7 +3776,7 @@ At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Me
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3872,7 +3871,7 @@ Counter target spell.</text>
 			<name>Eldritch Summoning</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Choose target creature card in your graveyard with mana value equal to or less than 1 plus the sacrificed creature&apos;s mana value. Return the chosen card the battlefield with a menace counter on it.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/214.png" num="87">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/214.png" num="88">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4429,7 +4428,7 @@ Equip {3}</text>
 			<name>City Outbreak</name>
 			<text>As an additional cost to cast this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.
 Each opponent sacrifices a creature.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/246.png" num="81">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/246.png" num="82">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

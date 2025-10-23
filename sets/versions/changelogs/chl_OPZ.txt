@@ -1,4 +1,36 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Ava, Ignominious Executive added.
+Telemagnetic Assault added.
+
+Ignominious Executive removed.
+Telemagnetic Reclaimation removed.
+
+Forsaken Expedition
+type: Creature — Human Mercenary => Creature — Human Soldier
+
+Aerial Heistman
+rules_text: Flying, haste
+Whenever this creature becomes the target of a spell or ability you control for the first time each turn, each opponent loses 1 life and you gain 1 life. => Flying, haste
+Whenever this creature attacks, if its power is 4 or greater, each opponent loses 1 life and you gain 1 life.
+
+Frontline Dropship
+rules_text: Create two 1/1 red Mercenary creature tokens with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+Mercenaries you control get +1/+0 and gain haste until end of turn. => Create two 1/1 red Mercenary creature tokens with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” They gain haste until end of turn.
+Nontoken creatures you control get +1/+0 until end of turn.
+
+Bravo-2 Contractee
+rules_text: When this creature enters, create a 1/1 red Mercenary creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+Whenever this creature becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it. => When this creature enters, create a 1/1 red Mercenary creature token with “{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+Whenever you attack, up to one target creature you control with power greater than its toughness gains trample until end of turn.
+pt: 3/4 => 3/3
+
+Blackmarket Orchestrator
+pt: 3/4 => 3/3
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Predacious Bristleback added.

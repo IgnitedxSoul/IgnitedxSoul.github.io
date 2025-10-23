@@ -50,7 +50,7 @@
     },
     {
         "card_name": "Bravo-2, Ruthless Commando",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "OPZ",
         "position": "140"
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "City Outbreak",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "OPZ",
         "position": "246"
@@ -120,7 +120,7 @@
     },
     {
         "card_name": "Devastating Dilemma",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "OPZ",
         "position": "206"
@@ -329,11 +329,11 @@
         "position": "213"
     },
     {
-        "card_name": "Blackmarket Orchestrator",
+        "card_name": "Ava, Ignominious Executive",
         "number": 79,
         "shape": "normal",
         "set": "OPZ",
-        "position": "208"
+        "position": "43"
     },
     {
         "card_name": "Drone Operator",
@@ -364,11 +364,11 @@
         "position": "210"
     },
     {
-        "card_name": "Commune With Evil",
-        "number": 82,
+        "card_name": "Blackmarket Orchestrator",
+        "number": 80,
         "shape": "normal",
         "set": "OPZ",
-        "position": "127"
+        "position": "208"
     },
     {
         "card_name": "Frontline Dropship",
@@ -399,11 +399,11 @@
         "position": "122"
     },
     {
-        "card_name": "Creeping Scavenger",
+        "card_name": "Commune With Evil",
         "number": 83,
         "shape": "normal",
         "set": "OPZ",
-        "position": "203"
+        "position": "127"
     },
     {
         "card_name": "Hive Queen",
@@ -434,11 +434,11 @@
         "position": "198"
     },
     {
-        "card_name": "Eldritch Summoning",
-        "number": 87,
+        "card_name": "Creeping Scavenger",
+        "number": 84,
         "shape": "normal",
         "set": "OPZ",
-        "position": "214"
+        "position": "203"
     },
     {
         "card_name": "Infernal Ravager",
@@ -469,11 +469,11 @@
         "position": "199"
     },
     {
-        "card_name": "Extraction Team",
+        "card_name": "Eldritch Summoning",
         "number": 88,
         "shape": "normal",
         "set": "OPZ",
-        "position": "41"
+        "position": "214"
     },
     {
         "card_name": "Intel Breach",
@@ -504,11 +504,11 @@
         "position": "197"
     },
     {
-        "card_name": "Fallback Plan",
+        "card_name": "Extraction Team",
         "number": 89,
         "shape": "normal",
         "set": "OPZ",
-        "position": "192"
+        "position": "41"
     },
     {
         "card_name": "Lab Infiltration",
@@ -539,11 +539,11 @@
         "position": "33"
     },
     {
-        "card_name": "Hardened Commando",
-        "number": 91,
+        "card_name": "Fallback Plan",
+        "number": 90,
         "shape": "normal",
         "set": "OPZ",
-        "position": "205"
+        "position": "192"
     },
     {
         "card_name": "Militech Analysis",
@@ -574,11 +574,11 @@
         "position": "30"
     },
     {
-        "card_name": "Ignominious Executive",
+        "card_name": "Hardened Commando",
         "number": 92,
         "shape": "normal",
         "set": "OPZ",
-        "position": "43"
+        "position": "205"
     },
     {
         "card_name": "Mobile Containment Unit",
@@ -665,7 +665,7 @@
         "position": "60"
     },
     {
-        "card_name": "Telemagnetic Reclaimation",
+        "card_name": "Telemagnetic Assault",
         "number": 33,
         "shape": "normal",
         "set": "OPZ",
@@ -890,7 +890,7 @@
     },
     {
         "card_name": "Disfigure",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "OPZ",
         "position": "44"
@@ -925,7 +925,7 @@
     },
     {
         "card_name": "Duress",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "OPZ",
         "position": "103"
@@ -960,7 +960,7 @@
     },
     {
         "card_name": "Frightened Trainee",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "OPZ",
         "position": "48"
