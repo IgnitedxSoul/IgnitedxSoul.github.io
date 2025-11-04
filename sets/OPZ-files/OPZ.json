@@ -1,6 +1,6 @@
 ﻿{
     "name": "Outpost Zero",
-    "formats": "",
+    "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -43,10 +43,10 @@
             "shape": "normal",
             "set": "OPZ",
             "loyalty": "",
-            "artist": "Antoine Collignon",
+            "artist": "Leandre TEKO",
             "alias": "",
             "position": "1",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/gJLGW8\n\nJumpstart\nproto_u"
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/5XGEwg\n\nJumpstart\nproto_u\n\n!tag bounce-nonland"
         },
         {
             "card_name": "Taloncrawler",
@@ -66,7 +66,7 @@
             "artist": "Volmi Games",
             "alias": "",
             "position": "2",
-            "notes": "https://www.artstation.com/artwork/A91Xlz\n\nIDEA\n\nJumpstart\nproto_b"
+            "notes": "https://www.artstation.com/artwork/A91Xlz\n\nIDEA\n\nJumpstart\nproto_b\n\n!tag reanimate-self\n!tag anomaly"
         },
         {
             "card_name": "Renegade Academy",
@@ -190,7 +190,7 @@
             "loyalty2": "",
             "artist2": "Hermann Kromer",
             "alias2": "",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr"
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr\n\n!tag damage-player\n!tag edict-any\n!tag hand-disruption-untargeted"
         },
         {
             "card_name": "Innovative Hangar",
@@ -221,7 +221,7 @@
             "loyalty2": "",
             "artist2": "Spencer Parke",
             "alias2": "",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/4XogkW\n\nhttps://www.artstation.com/artwork/14EBq3"
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/4XogkW\n\nhttps://www.artstation.com/artwork/14EBq3\n\n!tag damage-player"
         },
         {
             "card_name": "Specimen",
@@ -261,7 +261,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "9",
-            "notes": "Idea\n\nhttps://www.artstation.com/artwork/oWBBk"
+            "notes": "Idea\n\nhttps://www.artstation.com/artwork/oWBBk\n\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Ambitious Lab Techs",
@@ -301,7 +301,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "11",
-            "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r\n\n!tag damage-any"
         },
         {
             "card_name": "Acrid Chiropteran",
@@ -321,7 +321,7 @@
             "artist": "Charmaine O'Reilly",
             "alias": "",
             "position": "12",
-            "notes": "idea\n\nhttps://www.artstation.com/artwork/rlOBE6\n\nJumpstart\nproto_b"
+            "notes": "idea\n\nhttps://www.artstation.com/artwork/rlOBE6\n\nJumpstart\nproto_b\n\n!tag damage-player"
         },
         {
             "card_name": "Steamcaller",
@@ -341,7 +341,7 @@
             "artist": "Connor Sheehan",
             "alias": "",
             "position": "13",
-            "notes": "https://www.artstation.com/artwork/aRx4d9"
+            "notes": "https://www.artstation.com/artwork/aRx4d9\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Haunting Amalgamate",
@@ -358,17 +358,17 @@
             "shape": "normal",
             "set": "OPZ",
             "loyalty": "",
-            "artist": "Jakub Bazyluk",
+            "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
             "position": "14",
-            "notes": "https://www.artstation.com/artwork/68Oyl0"
+            "notes": "https://www.artstation.com/artwork/PXPqK3\n\n!tag reanimate-self\n!tag anomaly"
         },
         {
             "card_name": "Stalking Wispbeast",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Beast",
-            "number": 182,
+            "number": 181,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nWhenever this creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
@@ -401,7 +401,7 @@
             "artist": "DOFRESH .",
             "alias": "",
             "position": "16",
-            "notes": "https://www.artstation.com/artwork/5WKmXw"
+            "notes": "https://www.artstation.com/artwork/5WKmXw\n\n!tag anomaly"
         },
         {
             "card_name": "Construct",
@@ -441,7 +441,7 @@
             "artist": "Ying Ding",
             "alias": "",
             "position": "18",
-            "notes": "https://www.artstation.com/artwork/5X6gJJ"
+            "notes": "https://www.artstation.com/artwork/5X6gJJ\n\n!tag anomaly"
         },
         {
             "card_name": "Drone",
@@ -501,7 +501,7 @@
             "artist": "Julia GorokhovaPro",
             "alias": "",
             "position": "21",
-            "notes": "https://www.artstation.com/artwork/r9nkVJ"
+            "notes": "https://www.artstation.com/artwork/r9nkVJ\n\n!tag reanimate-creature\n!tag reanimate-artifact"
         },
         {
             "card_name": "City Sweep",
@@ -541,7 +541,7 @@
             "artist": "Haekel Lav.",
             "alias": "",
             "position": "23",
-            "notes": "https://www.artstation.com/artwork/1lqE2"
+            "notes": "https://www.artstation.com/artwork/1lqE2\n\n!tag anomaly"
         },
         {
             "card_name": "Expanse Runners",
@@ -581,7 +581,7 @@
             "artist": "Chris Falkenberg",
             "alias": "",
             "position": "25",
-            "notes": "https://www.artstation.com/artwork/elKo2D"
+            "notes": "https://www.artstation.com/artwork/elKo2D\n\n!tag anomaly"
         },
         {
             "card_name": "Swift Response",
@@ -601,7 +601,7 @@
             "artist": "DOFRESH .",
             "alias": "",
             "position": "26",
-            "notes": "https://www.artstation.com/artwork/Xgxl3D\n\nJumpstart\nproto_w"
+            "notes": "https://www.artstation.com/artwork/Xgxl3D\n\nJumpstart\nproto_w\n\n!tag removal-creature"
         },
         {
             "card_name": "Convening Nomad",
@@ -621,7 +621,7 @@
             "artist": "Klaus Pillon",
             "alias": "",
             "position": "27",
-            "notes": "https://www.artstation.com/artwork/q9E9kN"
+            "notes": "https://www.artstation.com/artwork/q9E9kN\n\n!tag removal-artifact\n!tag removal-enchantment"
         },
         {
             "card_name": "Cryo Chamber",
@@ -641,7 +641,7 @@
             "artist": "Vinh Pham",
             "alias": "",
             "position": "28",
-            "notes": "https://www.artstation.com/artwork/Je13Ev"
+            "notes": "https://www.artstation.com/artwork/Je13Ev\n\n!tag banish"
         },
         {
             "card_name": "Containment Breach",
@@ -661,7 +661,7 @@
             "artist": "John Griffiths",
             "alias": "",
             "position": "29",
-            "notes": "https://www.artstation.com/artwork/ELZ9o2\n\nJumpstart\nproto_u"
+            "notes": "https://www.artstation.com/artwork/ELZ9o2\n\nJumpstart\nproto_u\n\n!tag cantrip"
         },
         {
             "card_name": "Mistweaver",
@@ -681,7 +681,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "30",
-            "notes": "https://www.artstation.com/artwork/Ye81yV"
+            "notes": "https://www.artstation.com/artwork/Ye81yV\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Overwatch Sentinel",
@@ -701,7 +701,7 @@
             "artist": "Luciano Neves",
             "alias": "",
             "position": "31",
-            "notes": "https://www.artstation.com/artwork/N8krz"
+            "notes": "https://www.artstation.com/artwork/N8krz\n\n!tag tapper\n!tag anomaly"
         },
         {
             "card_name": "Observation Crew",
@@ -781,7 +781,7 @@
             "artist": "DOFRESH .",
             "alias": "",
             "position": "35",
-            "notes": "https://www.artstation.com/artwork/ob1BBO"
+            "notes": "https://www.artstation.com/artwork/ob1BBO\n\n!tag cantrip"
         },
         {
             "card_name": "Don't Make a Sound",
@@ -801,7 +801,7 @@
             "artist": "Nick Hiatt",
             "alias": "",
             "position": "36",
-            "notes": "proto_u\nJumpstart\n\nhttps://www.artstation.com/artwork/v1Rqm3"
+            "notes": "proto_u\nJumpstart\n\nhttps://www.artstation.com/artwork/v1Rqm3\n\n!tag counterspell"
         },
         {
             "card_name": "Frigid Pass Officers",
@@ -841,7 +841,7 @@
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
             "position": "38",
-            "notes": "https://www.artstation.com/artwork/klay4l\n\nIDEA\n\nJumpstart\nproto_b"
+            "notes": "https://www.artstation.com/artwork/klay4l\n\nIDEA\n\nJumpstart\nproto_b\n\n!tag anomaly\n!tag edict-creature"
         },
         {
             "card_name": "Painful Excision",
@@ -861,7 +861,7 @@
             "artist": "Hakob Minasian",
             "alias": "",
             "position": "39",
-            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/Gm2v1"
+            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/Gm2v1\n\n!tag card-advantage"
         },
         {
             "card_name": "Nimble Crewmate",
@@ -881,7 +881,7 @@
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
             "position": "40",
-            "notes": "https://www.artstation.com/artwork/Evlvw0"
+            "notes": "https://www.artstation.com/artwork/Evlvw0\n\n!tag reanimate-self"
         },
         {
             "card_name": "Extraction Team",
@@ -901,7 +901,7 @@
             "artist": "Adrian Mihai Marchidan",
             "alias": "",
             "position": "41",
-            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/8lloPG"
+            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/8lloPG\n\n!tag card-advantage"
         },
         {
             "card_name": "Aerial Heistman",
@@ -921,7 +921,7 @@
             "artist": "James Lewis-Vines",
             "alias": "",
             "position": "42",
-            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/1nxzoo"
+            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/1nxzoo\n\n!tag damage-player"
         },
         {
             "card_name": "Ava, Ignominious Executive",
@@ -941,7 +941,7 @@
             "artist": "Brandon Liao",
             "alias": "",
             "position": "43",
-            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/OyB88"
+            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/OyB88\n\n!tag card-advantage"
         },
         {
             "card_name": "Disfigure",
@@ -961,7 +961,7 @@
             "artist": "Sergey Grechanyuk",
             "alias": "",
             "position": "44",
-            "notes": "https://www.artstation.com/artwork/wb5m9\n\nWATCHLIST"
+            "notes": "https://www.artstation.com/artwork/wb5m9\n\n!tag removal-creature"
         },
         {
             "card_name": "Remote Disintegration",
@@ -981,7 +981,7 @@
             "artist": "Dmitry Vishnevsky",
             "alias": "",
             "position": "45",
-            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/rAQy2E"
+            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/rAQy2E\n\n!tag removal-creature\n!tag removal-planeswalker"
         },
         {
             "card_name": "Recovery Mission",
@@ -1001,7 +1001,7 @@
             "artist": "Quentin Stipp",
             "alias": "",
             "position": "46",
-            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/WKO4lG"
+            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/WKO4lG\n\n!tag regrowth-creature"
         },
         {
             "card_name": "Mercenary",
@@ -1061,7 +1061,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "49",
-            "notes": "https://www.artstation.com/artwork/QnrVvr"
+            "notes": "https://www.artstation.com/artwork/QnrVvr\n\n!tag anomaly"
         },
         {
             "card_name": "Thrill of Possibility",
@@ -1081,7 +1081,7 @@
             "artist": "DOFRESH .",
             "alias": "",
             "position": "50",
-            "notes": "https://www.artstation.com/artwork/39OVrg"
+            "notes": "https://www.artstation.com/artwork/39OVrg\n\n!tag card-advantage"
         },
         {
             "card_name": "Tactical Breach",
@@ -1141,7 +1141,7 @@
             "artist": "Maksym Harahulin",
             "alias": "",
             "position": "53",
-            "notes": "https://www.artstation.com/artwork/L2ee1w"
+            "notes": "https://www.artstation.com/artwork/L2ee1w\n\n!tag anomaly"
         },
         {
             "card_name": "Pyroclastic Crewmate",
@@ -1161,7 +1161,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "54",
-            "notes": "https://www.artstation.com/artwork/1NEYk2"
+            "notes": "https://www.artstation.com/artwork/1NEYk2\n\n!tag damage-player"
         },
         {
             "card_name": "Ops Pointman",
@@ -1181,7 +1181,7 @@
             "artist": "KEAL",
             "alias": "",
             "position": "55",
-            "notes": "https://www.artstation.com/artwork/P6Emor\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/P6Emor\n\nidea\n\nJumpstart\nproto_r\n\n!tag card-advantage"
         },
         {
             "card_name": "Drone Operator",
@@ -1221,7 +1221,7 @@
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
             "position": "57",
-            "notes": "https://www.artstation.com/artwork/oO2olO\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/oO2olO\n\nidea\n\nJumpstart\nproto_r\n\n!tag cantrip"
         },
         {
             "card_name": "Incinerating Blast",
@@ -1241,7 +1241,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "58",
-            "notes": "https://www.artstation.com/artwork/DvyKwE\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/DvyKwE\n\nidea\n\nJumpstart\nproto_r\n\n!tag damage-creature\n!tag cantrip"
         },
         {
             "card_name": "Ambush Drone",
@@ -1261,27 +1261,7 @@
             "artist": "Bohao Wang",
             "alias": "",
             "position": "59",
-            "notes": "https://www.artstation.com/artwork/8BRR8w"
-        },
-        {
-            "card_name": "Houkkipi Scavengers",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Creature \u2014 Beast",
-            "number": 173,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "When this creature enters, distribute two +1/+1 counters among up to two target creatures.\nEach creature you control with a +1/+1 counter on it has trample.",
-            "flavor_text": "[i]FT[/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "OPZ",
-            "loyalty": "",
-            "artist": "Garrett Post",
-            "alias": "",
-            "position": "60",
-            "notes": "https://www.artstation.com/artwork/2qlLoe\n\nIDEA\n\nJumpstart\nproto_g"
+            "notes": "https://www.artstation.com/artwork/8BRR8w\n\n!tag anomaly"
         },
         {
             "card_name": "Biogenic Upgrade",
@@ -1300,7 +1280,7 @@
             "loyalty": "",
             "artist": "Jude Smith",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": "https://www.artstation.com/artwork/ryx12\n\nIDEA\n\nJumpstart\nproto_g"
         },
         {
@@ -1320,8 +1300,8 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "62",
-            "notes": "https://www.artstation.com/artwork/G8abbQ"
+            "position": "61",
+            "notes": "https://www.artstation.com/artwork/G8abbQ\n\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Consuming Polyp",
@@ -1340,15 +1320,15 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "position": "63",
-            "notes": "https://www.artstation.com/artwork/VdL4ZP"
+            "position": "62",
+            "notes": "https://www.artstation.com/artwork/VdL4ZP\n\n!tag anomaly\n!tag reanimate-self\n!tag removal-artifact\n!tag removal-enchantment"
         },
         {
             "card_name": "Spontaneous Outburst",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 181,
+            "number": 180,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature gets +3/+2 and gains reach until end of turn.\nIf that creature has a +1/+1 counter on it, untap it.",
@@ -1360,7 +1340,7 @@
             "loyalty": "",
             "artist": "Andrei Artefact",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/aY2dqk\n\nJumpstart\nproto_g"
         },
         {
@@ -1380,15 +1360,15 @@
             "loyalty": "",
             "artist": "COLIN SHULVER Pro",
             "alias": "",
-            "position": "65",
-            "notes": "Idea\n\nhttps://www.artstation.com/artwork/OG4wGK\n\nJumpstart\nproto_g"
+            "position": "64",
+            "notes": "Idea\n\nhttps://www.artstation.com/artwork/OG4wGK\n\nJumpstart\nproto_g\n\n!tag damage-creature"
         },
         {
             "card_name": "Rapid Incubation",
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 177,
+            "number": 176,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "You may sacrifice two Specimens. If you do, creature two 3/3 green Beast creature tokens. Otherwise, create three Specimen tokens. [i](They're artifacts with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
@@ -1400,7 +1380,7 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "Idea\n\nhttps://www.artstation.com/artwork/rlOBw6\n\nJumpstart\nproto_g"
         },
         {
@@ -1420,7 +1400,7 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "https://www.artstation.com/artwork/PeAKlr"
         },
         {
@@ -1428,7 +1408,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Lizard",
-            "number": 175,
+            "number": 174,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Reach, deathtouch\nWhen this creature enters, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
@@ -1440,7 +1420,7 @@
             "loyalty": "",
             "artist": "Alan Albiach",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "Jumpstart\nproto_g\n\nhttps://www.artstation.com/artwork/XgrvYl"
         },
         {
@@ -1460,7 +1440,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": "https://www.artstation.com/artwork/3d9z5Y"
         },
         {
@@ -1480,7 +1460,7 @@
             "loyalty": "",
             "artist": "Fran Hao Shuang",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "https://www.artstation.com/artwork/k4BaVl\n\n!landslot"
         },
         {
@@ -1500,8 +1480,8 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
-            "position": "71",
-            "notes": "https://www.artstation.com/artwork/zAP6k4"
+            "position": "70",
+            "notes": "https://www.artstation.com/artwork/zAP6k4\n\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Agile Furrowite",
@@ -1520,7 +1500,7 @@
             "loyalty": "",
             "artist": "jordi van hees",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": "https://www.artstation.com/artwork/yDYgPx"
         },
         {
@@ -1540,8 +1520,8 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
-            "position": "73",
-            "notes": "https://www.artstation.com/artwork/nEqdqO"
+            "position": "72",
+            "notes": "https://www.artstation.com/artwork/nEqdqO\n\n!tag card-advantage\n!tag tapper"
         },
         {
             "card_name": "Methodical Infantry",
@@ -1560,8 +1540,8 @@
             "loyalty": "",
             "artist": "Wadim Kashin",
             "alias": "",
-            "position": "74",
-            "notes": "https://www.artstation.com/artwork/YaEoxq"
+            "position": "73",
+            "notes": "https://www.artstation.com/artwork/YaEoxq\n\n!tag cantrip"
         },
         {
             "card_name": "Anti-Aerial Crawler",
@@ -1580,8 +1560,8 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "75",
-            "notes": "https://www.artstation.com/artwork/VgWOvb"
+            "position": "74",
+            "notes": "https://www.artstation.com/artwork/VgWOvb\n\n!tag anomaly"
         },
         {
             "card_name": "Hazard Enviro-Mech",
@@ -1600,8 +1580,8 @@
             "loyalty": "",
             "artist": "Ivan Laliashvili",
             "alias": "",
-            "position": "76",
-            "notes": "https://www.artstation.com/artwork/w8yVxV"
+            "position": "75",
+            "notes": "https://www.artstation.com/artwork/w8yVxV\n\n!tag anomaly"
         },
         {
             "card_name": "Plithium Processing Plant",
@@ -1620,7 +1600,7 @@
             "loyalty": "",
             "artist": "G liulian",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": "https://www.artstation.com/artwork/0l6ynG\n\n!landslot"
         },
         {
@@ -1640,7 +1620,7 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": "https://www.artstation.com/artwork/XnX1mR\n\n!landslot"
         },
         {
@@ -1660,7 +1640,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "https://www.artstation.com/artwork/dK8LqJ\n\n!landslot"
         },
         {
@@ -1680,8 +1660,8 @@
             "loyalty": "",
             "artist": "Sasa Kunic",
             "alias": "",
-            "position": "80",
-            "notes": "https://www.artstation.com/artwork/bl4r3G"
+            "position": "79",
+            "notes": "https://www.artstation.com/artwork/bl4r3G\n\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Charging Octomare",
@@ -1700,7 +1680,7 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": "https://www.artstation.com/artwork/5Bn21A"
         },
         {
@@ -1720,7 +1700,7 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "https://www.artstation.com/artwork/eRaVYb"
         },
         {
@@ -1740,7 +1720,7 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "https://www.artstation.com/artwork/6aD29V"
         },
         {
@@ -1760,8 +1740,8 @@
             "loyalty": "",
             "artist": "Lav Games",
             "alias": "",
-            "position": "84",
-            "notes": "https://www.artstation.com/artwork/lGr0AO"
+            "position": "83",
+            "notes": "https://www.artstation.com/artwork/lGr0AO\n\n!tag anomaly"
         },
         {
             "card_name": "Watcher in the Void",
@@ -1780,7 +1760,7 @@
             "loyalty": "",
             "artist": "Connor Sheehan",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": "https://www.artstation.com/artwork/kDDyEn?collection_id=2324707"
         },
         {
@@ -1800,8 +1780,8 @@
             "loyalty": "",
             "artist": "Reuben Lane",
             "alias": "",
-            "position": "86",
-            "notes": "https://www.artstation.com/artwork/981qwo"
+            "position": "85",
+            "notes": "https://www.artstation.com/artwork/981qwo\n\n!tag cantrip\n!tag bounce-creature"
         },
         {
             "card_name": "Cultivation Platforms",
@@ -1820,7 +1800,7 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": "https://www.artstation.com/artwork/1n4Q88\n\n!landslot"
         },
         {
@@ -1840,7 +1820,7 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "https://www.artstation.com/artwork/4qLX2\n\n!landslot"
         },
         {
@@ -1860,7 +1840,7 @@
             "loyalty": "",
             "artist": "Adrien Usa-Lucas",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": "https://www.artstation.com/artwork/kNe3Oz\n\n!landslot"
         },
         {
@@ -1880,7 +1860,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": "https://www.artstation.com/artwork/9Nk04W\n\n!landslot"
         },
         {
@@ -1900,7 +1880,7 @@
             "loyalty": "",
             "artist": "Quentin Stipp",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": "https://www.artstation.com/artwork/18bO3K\n\n!landslot"
         },
         {
@@ -1920,7 +1900,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": "https://www.artstation.com/artwork/491XQq\n\n!landslot"
         },
         {
@@ -1940,7 +1920,7 @@
             "loyalty": "",
             "artist": "Artificial Dimension",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "card_name2": "Precursor Ruins",
             "color2": "",
             "type2": "Enchantment Land \u2014 Outpost",
@@ -1971,7 +1951,7 @@
             "loyalty": "",
             "artist": "Hao Wang",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "notes": "https://www.artstation.com/artwork/Nqbn3d"
         },
         {
@@ -1991,7 +1971,7 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": "https://www.artstation.com/artwork/0XL33y"
         },
         {
@@ -2011,8 +1991,8 @@
             "loyalty": "",
             "artist": "Hao",
             "alias": "",
-            "position": "96",
-            "notes": "https://www.artstation.com/artwork/ZwPLN"
+            "position": "95",
+            "notes": "https://www.artstation.com/artwork/ZwPLN\n\n!tag cantrip\n!tag tapper"
         },
         {
             "card_name": "Stasis Field",
@@ -2031,8 +2011,8 @@
             "loyalty": "",
             "artist": "Nicolas Teetz",
             "alias": "",
-            "position": "97",
-            "notes": "https://www.artstation.com/artwork/Jll4ZD"
+            "position": "96",
+            "notes": "https://www.artstation.com/artwork/Jll4ZD\n\n!tag pacifism"
         },
         {
             "card_name": "Quell Rebellion",
@@ -2051,8 +2031,8 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "98",
-            "notes": "https://www.artstation.com/artwork/nYLAEO"
+            "position": "97",
+            "notes": "https://www.artstation.com/artwork/nYLAEO\n\n!tag tuck\n!tag tapper"
         },
         {
             "card_name": "Scarab Behemoth",
@@ -2071,8 +2051,8 @@
             "loyalty": "",
             "artist": "Garrett Post",
             "alias": "",
-            "position": "99",
-            "notes": "https://www.artstation.com/artwork/vEn2A"
+            "position": "98",
+            "notes": "https://www.artstation.com/artwork/vEn2A\n\n!tag cantrip"
         },
         {
             "card_name": "Afflicted Researcher",
@@ -2091,8 +2071,8 @@
             "loyalty": "",
             "artist": "Alejandro Mirabal",
             "alias": "",
-            "position": "100",
-            "notes": "https://www.artstation.com/artwork/N5qkWJ"
+            "position": "99",
+            "notes": "https://www.artstation.com/artwork/N5qkWJ\n\n!tag removal-creature"
         },
         {
             "card_name": "Void Specter",
@@ -2111,7 +2091,7 @@
             "loyalty": "",
             "artist": "Elvira Shatunova",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": "https://www.artstation.com/artwork/L3mA5v"
         },
         {
@@ -2131,7 +2111,7 @@
             "loyalty": "",
             "artist": "Sanj Thavaraja",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": "https://www.artstation.com/artwork/dO6Z5W"
         },
         {
@@ -2151,8 +2131,8 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "103",
-            "notes": "https://www.artstation.com/artwork/oO1bNk"
+            "position": "102",
+            "notes": "https://www.artstation.com/artwork/oO1bNk\n\n!tag hand-disruption-targeted"
         },
         {
             "card_name": "Subjugation",
@@ -2171,8 +2151,8 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "104",
-            "notes": "https://www.artstation.com/artwork/AZlZaV"
+            "position": "103",
+            "notes": "https://www.artstation.com/artwork/AZlZaV\n\n!tag removal-creature"
         },
         {
             "card_name": "Parasite",
@@ -2191,7 +2171,7 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": "https://www.artstation.com/artwork/nEW031\n\n!tokentag Parasite"
         },
         {
@@ -2211,8 +2191,8 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
-            "position": "106",
-            "notes": "https://www.artstation.com/artwork/oO2olO"
+            "position": "105",
+            "notes": "https://www.artstation.com/artwork/oO2olO\n\n!tag cantrip"
         },
         {
             "card_name": "Wreckage Raiders",
@@ -2231,8 +2211,8 @@
             "loyalty": "",
             "artist": "Alex Ichim",
             "alias": "",
-            "position": "107",
-            "notes": "https://www.artstation.com/artwork/8lyVB6"
+            "position": "106",
+            "notes": "https://www.artstation.com/artwork/8lyVB6\n\n!tag card-advantage"
         },
         {
             "card_name": "Field Expeditioners",
@@ -2251,7 +2231,7 @@
             "loyalty": "",
             "artist": "Alvaro Martin",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": "https://www.artstation.com/artwork/nYKzb1"
         },
         {
@@ -2271,7 +2251,7 @@
             "loyalty": "",
             "artist": "Kim Trouwborst",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": "https://www.artstation.com/artwork/04wB25"
         },
         {
@@ -2291,8 +2271,8 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "110",
-            "notes": "https://www.artstation.com/artwork/0XaDE5"
+            "position": "109",
+            "notes": "https://www.artstation.com/artwork/0XaDE5\n\n!tag damage-creature"
         },
         {
             "card_name": "Abrade",
@@ -2311,8 +2291,8 @@
             "loyalty": "",
             "artist": "Adrian Biloz\u00f3r",
             "alias": "",
-            "position": "111",
-            "notes": "https://www.artstation.com/artwork/NqW8d"
+            "position": "110",
+            "notes": "https://www.artstation.com/artwork/NqW8d\n\n!tag removal-artifact\n!tag damage-creature"
         },
         {
             "card_name": "Corrupted Monitor",
@@ -2331,8 +2311,8 @@
             "loyalty": "",
             "artist": "Finnian MacManus",
             "alias": "",
-            "position": "112",
-            "notes": "https://www.artstation.com/artwork/qAnxwR"
+            "position": "111",
+            "notes": "https://www.artstation.com/artwork/qAnxwR\n\n!tag graveyard-hate\n!tag anomaly"
         },
         {
             "card_name": "Hull Mechanic",
@@ -2351,8 +2331,8 @@
             "loyalty": "",
             "artist": "John Wallin Liberto",
             "alias": "",
-            "position": "113",
-            "notes": "https://www.artstation.com/artwork/1aV42"
+            "position": "112",
+            "notes": "https://www.artstation.com/artwork/1aV42\n\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Tri-Lateral Grenade",
@@ -2371,15 +2351,15 @@
             "loyalty": "",
             "artist": "Victor Rathsmann",
             "alias": "",
-            "position": "114",
-            "notes": "https://www.artstation.com/artwork/Jl4qVv"
+            "position": "113",
+            "notes": "https://www.artstation.com/artwork/Jl4qVv\n\n!tag removal-creature"
         },
         {
             "card_name": "Sampling Laser",
             "color": "G",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 179,
+            "number": 178,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Equipped creature gets +1/+1.\nWhenever equipped creature deals combat damage to a player, create a Specimen token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.\u201d To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)[/i]\nEquip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -2391,7 +2371,7 @@
             "loyalty": "",
             "artist": "Andrei Artefact",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": "https://www.artstation.com/artwork/aY2dqk"
         },
         {
@@ -2399,7 +2379,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Insect",
-            "number": 174,
+            "number": 173,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "{T}: Add {G}.\n{1}{G}, Sacrifice this creature: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -2411,8 +2391,8 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "116",
-            "notes": "https://www.artstation.com/artwork/1xwYkX"
+            "position": "115",
+            "notes": "https://www.artstation.com/artwork/1xwYkX\n\n!tag cantrip"
         },
         {
             "card_name": "Arachnae Behemoth",
@@ -2431,7 +2411,7 @@
             "loyalty": "",
             "artist": "David Auden Nash",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": "https://www.artstation.com/artwork/nvJR1"
         },
         {
@@ -2451,8 +2431,8 @@
             "loyalty": "",
             "artist": "Christian Fell",
             "alias": "",
-            "position": "118",
-            "notes": "https://www.artstation.com/artwork/V4wrg"
+            "position": "117",
+            "notes": "https://www.artstation.com/artwork/V4wrg\n\n!tag cantrip"
         },
         {
             "card_name": "Broken Wings",
@@ -2471,8 +2451,8 @@
             "loyalty": "",
             "artist": "Joshua Clarke",
             "alias": "",
-            "position": "119",
-            "notes": "https://www.artstation.com/artwork/3q0eEv"
+            "position": "118",
+            "notes": "https://www.artstation.com/artwork/3q0eEv\n\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-creature"
         },
         {
             "card_name": "Organic Printer",
@@ -2491,7 +2471,7 @@
             "loyalty": "",
             "artist": "OS",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": "https://www.artstation.com/artwork/ARqmV"
         },
         {
@@ -2511,7 +2491,7 @@
             "loyalty": "",
             "artist": "Steven Bongers",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": "https://www.artstation.com/artwork/V2a4Yb"
         },
         {
@@ -2531,8 +2511,8 @@
             "loyalty": "",
             "artist": "Hethe Srodawa",
             "alias": "",
-            "position": "122",
-            "notes": "https://www.artstation.com/artwork/z6J9q"
+            "position": "121",
+            "notes": "https://www.artstation.com/artwork/z6J9q\n\n!tag tapper"
         },
         {
             "card_name": "Anomalous Animation",
@@ -2551,8 +2531,8 @@
             "loyalty": "",
             "artist": "Nivanh Chanthara",
             "alias": "",
-            "position": "123",
-            "notes": "https://www.artstation.com/artwork/8beOLG"
+            "position": "122",
+            "notes": "https://www.artstation.com/artwork/8beOLG\n\n!tag reanimate-creature"
         },
         {
             "card_name": "Sanguine Stalker",
@@ -2571,8 +2551,8 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "position": "124",
-            "notes": "https://www.artstation.com/artwork/Yaa2WV"
+            "position": "123",
+            "notes": "https://www.artstation.com/artwork/Yaa2WV\n\n!tag damage-player"
         },
         {
             "card_name": "Corpse Subsumer",
@@ -2591,8 +2571,8 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
-            "position": "125",
-            "notes": "https://www.artstation.com/artwork/Wmd3PJ?collection_id=2324707"
+            "position": "124",
+            "notes": "https://www.artstation.com/artwork/Wmd3PJ?collection_id=2324707\n\n!tag reanimate-self\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Scour the Ruins",
@@ -2611,8 +2591,8 @@
             "loyalty": "",
             "artist": "Andrej 'BATOU' Durik",
             "alias": "",
-            "position": "126",
-            "notes": "https://www.artstation.com/artwork/a0DXmz"
+            "position": "125",
+            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag card-advantage"
         },
         {
             "card_name": "Commune With Evil",
@@ -2631,8 +2611,8 @@
             "loyalty": "",
             "artist": "Alvaro Martin",
             "alias": "",
-            "position": "127",
-            "notes": "https://www.artstation.com/artwork/YeAYxd"
+            "position": "126",
+            "notes": "https://www.artstation.com/artwork/YeAYxd\n\n!tag cantrip"
         },
         {
             "card_name": "Scorched Desolation",
@@ -2651,8 +2631,8 @@
             "loyalty": "",
             "artist": "Bohao Wang",
             "alias": "",
-            "position": "128",
-            "notes": "https://www.artstation.com/artwork/1NlnP8"
+            "position": "127",
+            "notes": "https://www.artstation.com/artwork/1NlnP8\n\n!tag damage-any\n!tag cantrip"
         },
         {
             "card_name": "Despondent Colonists",
@@ -2671,7 +2651,7 @@
             "loyalty": "",
             "artist": "DOFRESH .",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "https://www.artstation.com/artwork/BXW0bm66-66-"
         },
         {
@@ -2691,7 +2671,7 @@
             "loyalty": "",
             "artist": "G-Hamm",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "https://www.artstation.com/artwork/9mLZgo"
         },
         {
@@ -2711,8 +2691,8 @@
             "loyalty": "",
             "artist": "Damian Krzywonos",
             "alias": "",
-            "position": "131",
-            "notes": "https://www.artstation.com/artwork/w8EDXO"
+            "position": "130",
+            "notes": "https://www.artstation.com/artwork/w8EDXO\n\n!tag card-advantage"
         },
         {
             "card_name": "Orbital Drop Troopers",
@@ -2731,7 +2711,7 @@
             "loyalty": "",
             "artist": "Satyaki Sarkar",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "https://www.artstation.com/artwork/8BPdxm"
         },
         {
@@ -2751,8 +2731,8 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
-            "position": "133",
-            "notes": "https://www.artstation.com/artwork/9eKmBN"
+            "position": "132",
+            "notes": "https://www.artstation.com/artwork/9eKmBN\n\n!tag card-advantage"
         },
         {
             "card_name": "Lunar Archfiend",
@@ -2771,8 +2751,8 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
-            "position": "134",
-            "notes": "https://www.artstation.com/artwork/6bOoan"
+            "position": "133",
+            "notes": "https://www.artstation.com/artwork/6bOoan\n\n!tag card-advantage"
         },
         {
             "card_name": "Agent of Retribution",
@@ -2791,7 +2771,7 @@
             "loyalty": "",
             "artist": "Roman Groph",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "https://www.artstation.com/artwork/5WYgQ1"
         },
         {
@@ -2811,8 +2791,8 @@
             "loyalty": "",
             "artist": "Navid pourkhak",
             "alias": "",
-            "position": "136",
-            "notes": "https://www.artstation.com/artwork/OyO2Xg"
+            "position": "135",
+            "notes": "https://www.artstation.com/artwork/OyO2Xg\n\n!tag cantrip"
         },
         {
             "card_name": "Unearthly Encounter",
@@ -2831,8 +2811,8 @@
             "loyalty": "",
             "artist": "Christer Degerman",
             "alias": "",
-            "position": "137",
-            "notes": "https://www.artstation.com/artwork/rlvrd5"
+            "position": "136",
+            "notes": "https://www.artstation.com/artwork/rlvrd5\n\n!tag cantrip"
         },
         {
             "card_name": "Mutagen Spreader",
@@ -2851,7 +2831,7 @@
             "loyalty": "",
             "artist": "Rashed AlAkroka \u2726",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "https://www.artstation.com/artwork/Kaz9Y9"
         },
         {
@@ -2871,8 +2851,8 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
-            "position": "139",
-            "notes": "https://www.artstation.com/artwork/qeKG8e"
+            "position": "138",
+            "notes": "https://www.artstation.com/artwork/qeKG8e\n\n!tag card-advantage"
         },
         {
             "card_name": "Bravo-2, Ruthless Commando",
@@ -2891,7 +2871,7 @@
             "loyalty": "",
             "artist": "Jeff Bartzis",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": "https://www.artstation.com/artwork/ARWDz"
         },
         {
@@ -2911,8 +2891,8 @@
             "loyalty": "",
             "artist": "Sam White",
             "alias": "",
-            "position": "141",
-            "notes": "https://www.artstation.com/artwork/1n2Gwe"
+            "position": "140",
+            "notes": "https://www.artstation.com/artwork/1n2Gwe\n\n!tag damage-any"
         },
         {
             "card_name": "Path Treading Tank",
@@ -2931,8 +2911,8 @@
             "loyalty": "",
             "artist": "Daniel McGarry",
             "alias": "",
-            "position": "142",
-            "notes": "https://www.artstation.com/artwork/3qnPRB"
+            "position": "141",
+            "notes": "https://www.artstation.com/artwork/3qnPRB\n\n!tag anomaly"
         },
         {
             "card_name": "Assault Landing",
@@ -2951,8 +2931,8 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "143",
-            "notes": "https://www.artstation.com/artwork/obV2mz"
+            "position": "142",
+            "notes": "https://www.artstation.com/artwork/obV2mz\n\n!tag wrath"
         },
         {
             "card_name": "Station Monitor",
@@ -2971,8 +2951,8 @@
             "loyalty": "",
             "artist": "Leif Heanzo",
             "alias": "",
-            "position": "144",
-            "notes": "https://www.artstation.com/artwork/r9JaNJ"
+            "position": "143",
+            "notes": "https://www.artstation.com/artwork/r9JaNJ\n\n!tag tapper\n!tag anomaly"
         },
         {
             "card_name": "Into the Pit",
@@ -2991,8 +2971,8 @@
             "loyalty": "",
             "artist": "Aleksandr Kravchuk",
             "alias": "",
-            "position": "145",
-            "notes": "https://www.artstation.com/artwork/BkvrR8"
+            "position": "144",
+            "notes": "https://www.artstation.com/artwork/BkvrR8\n\n!tag card-advantage"
         },
         {
             "card_name": "Lithura, Maiden of Fates",
@@ -3011,8 +2991,8 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin \u25b3 | |",
             "alias": "",
-            "position": "146",
-            "notes": "https://www.artstation.com/artwork/49JKQL"
+            "position": "145",
+            "notes": "https://www.artstation.com/artwork/49JKQL\n\n!tag anomaly\n!tag card-advantage\n!tag reanimate-self"
         },
         {
             "card_name": "Orbital Lift",
@@ -3031,8 +3011,8 @@
             "loyalty": "",
             "artist": "Jordan William Hughes",
             "alias": "",
-            "position": "147",
-            "notes": "https://www.artstation.com/artwork/PX3848"
+            "position": "146",
+            "notes": "https://www.artstation.com/artwork/PX3848\n\n!tag reanimate-any"
         },
         {
             "card_name": "Shorecrasher Titan",
@@ -3051,8 +3031,8 @@
             "loyalty": "",
             "artist": "Hamish Kentwell",
             "alias": "",
-            "position": "148",
-            "notes": "https://www.artstation.com/artwork/KOElVG"
+            "position": "147",
+            "notes": "https://www.artstation.com/artwork/KOElVG\n\n!tag bounce-nonland\n!tag tuck"
         },
         {
             "card_name": "Reactor Ignition",
@@ -3071,8 +3051,8 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "149",
-            "notes": "https://www.artstation.com/artwork/0nLA38"
+            "position": "148",
+            "notes": "https://www.artstation.com/artwork/0nLA38\n\n!tag card-advantage"
         },
         {
             "card_name": "Augmented Starfighter",
@@ -3091,8 +3071,8 @@
             "loyalty": "",
             "artist": "Mathieu Boyer",
             "alias": "",
-            "position": "150",
-            "notes": "https://www.artstation.com/artwork/L4gAav"
+            "position": "149",
+            "notes": "https://www.artstation.com/artwork/L4gAav\n\n!tag damage-creature\n!tag damage-planeswalker"
         },
         {
             "card_name": "Heart of Astorethe",
@@ -3111,7 +3091,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "https://www.artstation.com/artwork/B1248A"
         },
         {
@@ -3131,8 +3111,8 @@
             "loyalty": "",
             "artist": "Walter Brocca",
             "alias": "",
-            "position": "152",
-            "notes": "https://www.artstation.com/artwork/XaxK0"
+            "position": "151",
+            "notes": "https://www.artstation.com/artwork/XaxK0\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Celestial Generator",
@@ -3151,8 +3131,8 @@
             "loyalty": "",
             "artist": "Anh Le",
             "alias": "",
-            "position": "153",
-            "notes": "https://www.artstation.com/artwork/18L6v3"
+            "position": "152",
+            "notes": "https://www.artstation.com/artwork/18L6v3\n\n!tag card-advantage"
         },
         {
             "card_name": "Outpost Zero",
@@ -3171,7 +3151,7 @@
             "loyalty": "",
             "artist": "Amir Zand",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "card_name2": "Ground Zero",
             "color2": "",
             "type2": "Legendary Enchantment Land \u2014 Outpost",
@@ -3202,8 +3182,8 @@
             "loyalty": "",
             "artist": "Tommy Suhartono",
             "alias": "",
-            "position": "155",
-            "notes": "https://www.artstation.com/artwork/VgLdqn"
+            "position": "154",
+            "notes": "https://www.artstation.com/artwork/VgLdqn\n\n!tag tapper\n!tag card-advantage"
         },
         {
             "card_name": "Neon Enforcement",
@@ -3222,8 +3202,8 @@
             "loyalty": "",
             "artist": "Blake Rottinger",
             "alias": "",
-            "position": "156",
-            "notes": "https://www.artstation.com/artwork/JeY3B0"
+            "position": "155",
+            "notes": "https://www.artstation.com/artwork/JeY3B0\n\n!tag tapper\n!tag card-advantage"
         },
         {
             "card_name": "Clattering Chitin",
@@ -3242,8 +3222,8 @@
             "loyalty": "",
             "artist": "NUARE",
             "alias": "",
-            "position": "157",
-            "notes": "https://www.artstation.com/artwork/k1grd"
+            "position": "156",
+            "notes": "https://www.artstation.com/artwork/k1grd\n\n!tag card-advantage"
         },
         {
             "card_name": "Consuming Tide",
@@ -3262,8 +3242,8 @@
             "loyalty": "",
             "artist": "Tully Summers",
             "alias": "",
-            "position": "158",
-            "notes": "https://www.artstation.com/artwork/B1vb24"
+            "position": "157",
+            "notes": "https://www.artstation.com/artwork/B1vb24\n\n!tag card-advantage"
         },
         {
             "card_name": "Bravo-2 Contractee",
@@ -3282,7 +3262,7 @@
             "loyalty": "",
             "artist": "Bram Sels",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": "https://www.artstation.com/artwork/aGgJ"
         },
         {
@@ -3302,8 +3282,8 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
-            "position": "160",
-            "notes": "https://www.artstation.com/artwork/Ga9dQW"
+            "position": "159",
+            "notes": "https://www.artstation.com/artwork/Ga9dQW\n\n!tag damage-creature"
         },
         {
             "card_name": "Exfiltration Coordinator",
@@ -3322,8 +3302,8 @@
             "loyalty": "",
             "artist": "MOOD Visuals",
             "alias": "",
-            "position": "161",
-            "notes": "https://www.artstation.com/artwork/EvWyJe"
+            "position": "160",
+            "notes": "https://www.artstation.com/artwork/EvWyJe\n\n!tag damage-player\n!tag damage-creature"
         },
         {
             "card_name": "Call to Action",
@@ -3342,7 +3322,7 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": "https://www.artstation.com/artwork/rWKd2"
         },
         {
@@ -3362,7 +3342,7 @@
             "loyalty": "",
             "artist": "Jordi Versteege",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": "https://www.artstation.com/artwork/14qV52"
         },
         {
@@ -3382,7 +3362,7 @@
             "loyalty": "",
             "artist": "OS",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": "https://www.artstation.com/artwork/ARqmV"
         },
         {
@@ -3402,7 +3382,7 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": "https://www.artstation.com/artwork/9NB2ma"
         },
         {
@@ -3422,8 +3402,8 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
-            "position": "166",
-            "notes": "https://www.artstation.com/artwork/5884ag"
+            "position": "165",
+            "notes": "https://www.artstation.com/artwork/5884ag\n\n!tag removal-creature"
         },
         {
             "card_name": "Circuit Liberator",
@@ -3442,8 +3422,8 @@
             "loyalty": "",
             "artist": "Michael Black",
             "alias": "",
-            "position": "167",
-            "notes": "https://www.artstation.com/artwork/AqwPlV"
+            "position": "166",
+            "notes": "https://www.artstation.com/artwork/AqwPlV\n\n!tag anomaly"
         },
         {
             "card_name": "Galactic Rending",
@@ -3462,8 +3442,8 @@
             "loyalty": "",
             "artist": "\u666e\u901a\u7684\u4eba",
             "alias": "",
-            "position": "168",
-            "notes": "https://www.artstation.com/artwork/ZlDEQ1"
+            "position": "167",
+            "notes": "https://www.artstation.com/artwork/ZlDEQ1\n\n!tag card-advantage\n!tag damage-creature"
         },
         {
             "card_name": "Ghoulish Stillthroat",
@@ -3482,8 +3462,8 @@
             "loyalty": "",
             "artist": "Bobby Rebholz",
             "alias": "",
-            "position": "169",
-            "notes": "https://www.artstation.com/artwork/mAn1EY"
+            "position": "168",
+            "notes": "https://www.artstation.com/artwork/mAn1EY\n\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Pathcutter Drone",
@@ -3502,8 +3482,8 @@
             "loyalty": "",
             "artist": "David Knapp",
             "alias": "",
-            "position": "170",
-            "notes": "https://www.artstation.com/artwork/zBGDq"
+            "position": "169",
+            "notes": "https://www.artstation.com/artwork/zBGDq\n\n!tag anomaly"
         },
         {
             "card_name": "Razefire Raid",
@@ -3522,8 +3502,8 @@
             "loyalty": "",
             "artist": "Wojtek Fus",
             "alias": "",
-            "position": "171",
-            "notes": "https://www.artstation.com/artwork/o8RWm"
+            "position": "170",
+            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any"
         },
         {
             "card_name": "Twilight Observer",
@@ -3542,8 +3522,8 @@
             "loyalty": "",
             "artist": "W\u0112T\u0100 WORKSHOP DESIGN STUDIO",
             "alias": "",
-            "position": "172",
-            "notes": "https://www.artstation.com/artwork/3o5XWo"
+            "position": "171",
+            "notes": "https://www.artstation.com/artwork/3o5XWo\n\n!tag card-advantage"
         },
         {
             "card_name": "Vegetative Biopsy",
@@ -3562,8 +3542,8 @@
             "loyalty": "",
             "artist": "Robin Bouwmeester",
             "alias": "",
-            "position": "173",
-            "notes": "https://www.artstation.com/artwork/LR1JVK"
+            "position": "172",
+            "notes": "https://www.artstation.com/artwork/LR1JVK\n\n!tag regrowth-land\n!tag card-advantage"
         },
         {
             "card_name": "Lunar Bog",
@@ -3582,7 +3562,7 @@
             "loyalty": "",
             "artist": "Bram Sels",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": "https://www.artstation.com/artwork/RnDE"
         },
         {
@@ -3602,7 +3582,7 @@
             "loyalty": "",
             "artist": "Zana Bamarni",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": "https://www.artstation.com/artwork/5W0P6P"
         },
         {
@@ -3622,7 +3602,7 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": "https://www.artstation.com/artwork/qQQeN"
         },
         {
@@ -3642,7 +3622,7 @@
             "loyalty": "",
             "artist": "Lola Yiting Zhang",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": "https://www.artstation.com/artwork/K3JYkx"
         },
         {
@@ -3662,7 +3642,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "https://www.artstation.com/artwork/Ea46b8"
         },
         {
@@ -3682,7 +3662,7 @@
             "loyalty": "",
             "artist": "Robin Bouwmeester",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": "https://www.artstation.com/artwork/YKoZyP"
         },
         {
@@ -3702,7 +3682,7 @@
             "loyalty": "",
             "artist": "Tully Summers",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "https://www.artstation.com/artwork/nYxzb6"
         },
         {
@@ -3722,7 +3702,7 @@
             "loyalty": "",
             "artist": "Pascal Blanch\u00e9",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "https://www.artstation.com/artwork/4vKLl"
         },
         {
@@ -3742,7 +3722,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": "https://www.artstation.com/artwork/WXXVQ3"
         },
         {
@@ -3762,7 +3742,7 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "https://www.artstation.com/artwork/L4R3Gv"
         },
         {
@@ -3782,8 +3762,8 @@
             "loyalty": "",
             "artist": "Johann Goutard",
             "alias": "",
-            "position": "184",
-            "notes": "https://www.artstation.com/artwork/Ya9vvK"
+            "position": "183",
+            "notes": "https://www.artstation.com/artwork/Ya9vvK\n\n!tag card-advantage"
         },
         {
             "card_name": "Agricultural Analysis",
@@ -3802,8 +3782,8 @@
             "loyalty": "",
             "artist": "Marcel Wissel",
             "alias": "",
-            "position": "185",
-            "notes": "https://www.artstation.com/artwork/3EZyND\n\nInspired by philippesaner"
+            "position": "184",
+            "notes": "https://www.artstation.com/artwork/3EZyND\n\nInspired by philippesaner\n\n!tag card-advantage"
         },
         {
             "card_name": "Militech Analysis",
@@ -3822,8 +3802,8 @@
             "loyalty": "",
             "artist": "Bram Sels",
             "alias": "",
-            "position": "186",
-            "notes": "https://www.artstation.com/artwork/ABAay\n\nInspired by philippesaner"
+            "position": "185",
+            "notes": "https://www.artstation.com/artwork/ABAay\n\nInspired by philippesaner\n\n!tag damage-creature\n!tag damage-planeswalker\n!tag card-advantage"
         },
         {
             "card_name": "Contain for Study",
@@ -3842,8 +3822,8 @@
             "loyalty": "",
             "artist": "Ren\u00e9 Aigner",
             "alias": "",
-            "position": "187",
-            "notes": "https://www.artstation.com/artwork/RxRDO"
+            "position": "186",
+            "notes": "https://www.artstation.com/artwork/RxRDO\n\n!tag pacifism"
         },
         {
             "card_name": "Colony Map",
@@ -3862,8 +3842,8 @@
             "loyalty": "",
             "artist": "Igor Savin",
             "alias": "",
-            "position": "188",
-            "notes": "https://www.artstation.com/artwork/YZgxV"
+            "position": "187",
+            "notes": "https://www.artstation.com/artwork/YZgxV\n\n!tag card-advantage"
         },
         {
             "card_name": "Devastating Blast",
@@ -3882,8 +3862,8 @@
             "loyalty": "",
             "artist": "Wiktor \u00d6hman",
             "alias": "",
-            "position": "189",
-            "notes": "https://www.artstation.com/artwork/14agEK"
+            "position": "188",
+            "notes": "https://www.artstation.com/artwork/14agEK\n\n!tag wrath"
         },
         {
             "card_name": "Insatiable Petrifier",
@@ -3902,8 +3882,8 @@
             "loyalty": "",
             "artist": "Niyaz Karimov",
             "alias": "",
-            "position": "190",
-            "notes": "https://www.artstation.com/artwork/ZlXYPm"
+            "position": "189",
+            "notes": "https://www.artstation.com/artwork/ZlXYPm\n\n!tag removal-creature\n!tag reanimate-self\n!tag anomaly"
         },
         {
             "card_name": "Origin Stone Shard",
@@ -3922,8 +3902,8 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "191",
-            "notes": "https://www.artstation.com/artwork/aRgx4L"
+            "position": "190",
+            "notes": "https://www.artstation.com/artwork/aRgx4L\n\n!tag bounce-creature\n!tag cantrip"
         },
         {
             "card_name": "Fallback Plan",
@@ -3942,8 +3922,8 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "position": "192",
-            "notes": "https://www.artstation.com/artwork/LRBayA"
+            "position": "191",
+            "notes": "https://www.artstation.com/artwork/LRBayA\n\n!tag reanimate-creature"
         },
         {
             "card_name": "Tundra Lurker",
@@ -3962,8 +3942,8 @@
             "loyalty": "",
             "artist": "Maxwell Heartfield",
             "alias": "",
-            "position": "193",
-            "notes": "https://www.artstation.com/artwork/aRmxAL"
+            "position": "192",
+            "notes": "https://www.artstation.com/artwork/aRmxAL\n\n!tag card-advantage"
         },
         {
             "card_name": "Omen of Contagion",
@@ -3982,7 +3962,7 @@
             "loyalty": "",
             "artist": "Sandeep Karunakaran",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": "https://www.artstation.com/artwork/X4Wv3"
         },
         {
@@ -4002,8 +3982,8 @@
             "loyalty": "",
             "artist": "No\u00e9 Leyva",
             "alias": "",
-            "position": "195",
-            "notes": "https://www.artstation.com/artwork/m0Zvy"
+            "position": "194",
+            "notes": "https://www.artstation.com/artwork/m0Zvy\n\n!tag removal-creature\n!tag tapper\n!tag cantrip"
         },
         {
             "card_name": "Telemagnetic Assault",
@@ -4022,8 +4002,8 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "196",
-            "notes": "https://www.artstation.com/artwork/6abd8r"
+            "position": "195",
+            "notes": "https://www.artstation.com/artwork/6abd8r\n\n!tag removal-creature"
         },
         {
             "card_name": "Kinetic Shieldbearer",
@@ -4042,8 +4022,8 @@
             "loyalty": "",
             "artist": "VOLTA",
             "alias": "",
-            "position": "197",
-            "notes": "https://www.artstation.com/artwork/lVJJ4Y?collection_id=2324707"
+            "position": "196",
+            "notes": "https://www.artstation.com/artwork/lVJJ4Y?collection_id=2324707\n\n!tag tapper"
         },
         {
             "card_name": "Hapless Innovators",
@@ -4062,8 +4042,8 @@
             "loyalty": "",
             "artist": "MOOD Visuals",
             "alias": "",
-            "position": "198",
-            "notes": "https://www.artstation.com/artwork/lVaYao"
+            "position": "197",
+            "notes": "https://www.artstation.com/artwork/lVaYao\n\n!tag card-advantage"
         },
         {
             "card_name": "Intensive Study",
@@ -4082,7 +4062,7 @@
             "loyalty": "",
             "artist": "Andrey Serov / Auqrew",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": "https://www.artstation.com/artwork/rRlVJe"
         },
         {
@@ -4102,8 +4082,8 @@
             "loyalty": "",
             "artist": "Vizlab Studios",
             "alias": "",
-            "position": "200",
-            "notes": "https://www.artstation.com/artwork/d0A62Q"
+            "position": "199",
+            "notes": "https://www.artstation.com/artwork/d0A62Q\n\n!tag anomaly"
         },
         {
             "card_name": "Undead Bioroid",
@@ -4122,8 +4102,8 @@
             "loyalty": "",
             "artist": "Ninja Jo",
             "alias": "",
-            "position": "201",
-            "notes": "https://www.artstation.com/artwork/4bwDq1"
+            "position": "200",
+            "notes": "https://www.artstation.com/artwork/4bwDq1\n\n!tag anomaly\n!tag reanimate-creature"
         },
         {
             "card_name": "Abandon Ship",
@@ -4142,8 +4122,8 @@
             "loyalty": "",
             "artist": "Jakub Dzikowski",
             "alias": "",
-            "position": "202",
-            "notes": "https://www.artstation.com/artwork/3qnRoJ"
+            "position": "201",
+            "notes": "https://www.artstation.com/artwork/3qnRoJ\n\n!tag wrath"
         },
         {
             "card_name": "Creeping Scavenger",
@@ -4162,8 +4142,8 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "203",
-            "notes": "https://www.artstation.com/artwork/bl5Nrr"
+            "position": "202",
+            "notes": "https://www.artstation.com/artwork/bl5Nrr\n\n!tag anomaly\n!tag reanimate-self\n!tag card-advantage"
         },
         {
             "card_name": "Desperate Wayfarer",
@@ -4182,7 +4162,7 @@
             "loyalty": "",
             "artist": "Maciej Wojtala",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "notes": "https://www.artstation.com/artwork/5vbqw"
         },
         {
@@ -4202,8 +4182,8 @@
             "loyalty": "",
             "artist": "mist XG",
             "alias": "",
-            "position": "205",
-            "notes": "https://www.artstation.com/artwork/Rym8NW"
+            "position": "204",
+            "notes": "https://www.artstation.com/artwork/Rym8NW\n\n!tag card-advantage"
         },
         {
             "card_name": "Devastating Dilemma",
@@ -4222,8 +4202,8 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
-            "position": "206",
-            "notes": "https://www.artstation.com/artwork/rJvwl2"
+            "position": "205",
+            "notes": "https://www.artstation.com/artwork/rJvwl2\n\n!tag edict-creature\n!tag hand-disruption-untargeted"
         },
         {
             "card_name": "Xathyz, Eternal Matriarch",
@@ -4242,8 +4222,8 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
-            "position": "207",
-            "notes": "https://www.artstation.com/artwork/48bWK1"
+            "position": "206",
+            "notes": "https://www.artstation.com/artwork/48bWK1\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Blackmarket Orchestrator",
@@ -4262,8 +4242,8 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "208",
-            "notes": "https://www.artstation.com/artwork/r9gONE"
+            "position": "207",
+            "notes": "https://www.artstation.com/artwork/r9gONE\n\n!tag card-advantage"
         },
         {
             "card_name": "Mobile Containment Unit",
@@ -4282,8 +4262,8 @@
             "loyalty": "",
             "artist": "Terraform Studios",
             "alias": "",
-            "position": "209",
-            "notes": "https://www.artstation.com/artwork/Krvm6o"
+            "position": "208",
+            "notes": "https://www.artstation.com/artwork/Krvm6o\n\n!tag anomaly"
         },
         {
             "card_name": "Crisis Assayer",
@@ -4302,8 +4282,8 @@
             "loyalty": "",
             "artist": "Lukasz Jaskolski",
             "alias": "",
-            "position": "210",
-            "notes": "https://www.artstation.com/artwork/W2qmny"
+            "position": "209",
+            "notes": "https://www.artstation.com/artwork/W2qmny\n\n!tag card-advantage"
         },
         {
             "card_name": "Terminal Infection",
@@ -4322,15 +4302,15 @@
             "loyalty": "",
             "artist": "Jama Jurabaev",
             "alias": "",
-            "position": "211",
-            "notes": "https://www.artstation.com/artwork/lG5lqV"
+            "position": "210",
+            "notes": "https://www.artstation.com/artwork/lG5lqV\n\n!tag tapper\n!tag removal-creature\n!tag pacifism"
         },
         {
             "card_name": "Relentless Miscreant",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Beast Mutant",
-            "number": 178,
+            "number": 177,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Trample\n{1}, Remove a stun counter from a creature you control: Put a +1/+1 counter on that creature.",
@@ -4342,7 +4322,7 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": "https://www.artstation.com/artwork/m8vo4y"
         },
         {
@@ -4362,8 +4342,8 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
-            "position": "213",
-            "notes": "https://www.artstation.com/artwork/4mrZk"
+            "position": "212",
+            "notes": "https://www.artstation.com/artwork/4mrZk\n\n!tag counterspell"
         },
         {
             "card_name": "Eldritch Summoning",
@@ -4382,8 +4362,8 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "214",
-            "notes": "https://www.artstation.com/artwork/aYmgr9\n\nInspired by design concept from redpandersbear"
+            "position": "213",
+            "notes": "https://www.artstation.com/artwork/aYmgr9\n\nInspired by design concept from redpandersbear\n\n!tag card-advantage"
         },
         {
             "card_name": "Stun Baton",
@@ -4402,8 +4382,8 @@
             "loyalty": "",
             "artist": "Fabrice ROS PATURAUX",
             "alias": "",
-            "position": "215",
-            "notes": "https://www.artstation.com/artwork/rBBd2?collection_id=1838637"
+            "position": "214",
+            "notes": "https://www.artstation.com/artwork/rBBd2?collection_id=1838637\n\n!tag tapper"
         },
         {
             "card_name": "Portable Incinerator",
@@ -4422,8 +4402,8 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
-            "position": "216",
-            "notes": "https://www.artstation.com/artwork/qAomLR"
+            "position": "215",
+            "notes": "https://www.artstation.com/artwork/qAomLR\n\n!tag damage-creature"
         },
         {
             "card_name": "Intel Breach",
@@ -4442,8 +4422,8 @@
             "loyalty": "",
             "artist": "Michael Michera",
             "alias": "",
-            "position": "217",
-            "notes": "https://www.artstation.com/artwork/WykAD"
+            "position": "216",
+            "notes": "https://www.artstation.com/artwork/WykAD\n\n!tag card-advantage"
         },
         {
             "card_name": "Piercing Duplicant",
@@ -4462,8 +4442,8 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
-            "position": "218",
-            "notes": "https://www.artstation.com/artwork/LR5oZ5\n\nOriginal Design by PTM"
+            "position": "217",
+            "notes": "https://www.artstation.com/artwork/LR5oZ5\n\nOriginal Design by PTM\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Scallia, Primal Morphling",
@@ -4482,8 +4462,8 @@
             "loyalty": "",
             "artist": "Ian Barker",
             "alias": "",
-            "position": "219",
-            "notes": "https://www.artstation.com/artwork/vk4VY"
+            "position": "218",
+            "notes": "https://www.artstation.com/artwork/vk4VY\n\n!tag damage-any\n!tag reanimate-self"
         },
         {
             "card_name": "Invader Construct",
@@ -4502,15 +4482,15 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "220",
-            "notes": "https://www.artstation.com/artwork/DgOwA"
+            "position": "219",
+            "notes": "https://www.artstation.com/artwork/DgOwA\n\n!tag anomaly"
         },
         {
             "card_name": "Predacious Bristleback",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Beast",
-            "number": 176,
+            "number": 175,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Trample\nYou may strain this creature as it attacks. When you do, it fights target creature. Excess damage is dealt to that creature's controller instead. [i](To strain, tap it then put a stun counter on it.)[/i]",
@@ -4522,8 +4502,8 @@
             "loyalty": "",
             "artist": "Hao",
             "alias": "",
-            "position": "221",
-            "notes": "https://www.artstation.com/artwork/JlkwaZ"
+            "position": "220",
+            "notes": "https://www.artstation.com/artwork/JlkwaZ\n\n!tag damage-creature"
         },
         {
             "card_name": "Parsec Tactician",
@@ -4542,7 +4522,7 @@
             "loyalty": "",
             "artist": "8durian",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": "https://www.artstation.com/artwork/WXz9d3"
         },
         {
@@ -4562,8 +4542,8 @@
             "loyalty": "3",
             "artist": "Tek Tan",
             "alias": "",
-            "position": "223",
-            "notes": "https://www.artstation.com/artwork/A3RXe"
+            "position": "222",
+            "notes": "https://www.artstation.com/artwork/A3RXe\n\n!tag card-advantage"
         },
         {
             "card_name": "Stellar Phoenix",
@@ -4582,8 +4562,8 @@
             "loyalty": "",
             "artist": "Renee LeCompte",
             "alias": "",
-            "position": "224",
-            "notes": "https://www.artstation.com/artwork/Ze648m"
+            "position": "223",
+            "notes": "https://www.artstation.com/artwork/Ze648m\n\n!tag reanimate-self"
         },
         {
             "card_name": "Mountain",
@@ -4602,7 +4582,7 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "notes": "https://www.artstation.com/artwork/baKRgn"
         },
         {
@@ -4622,7 +4602,7 @@
             "loyalty": "",
             "artist": "Alan Albiach",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "notes": "https://www.artstation.com/artwork/XgrvYl"
         },
         {
@@ -4642,7 +4622,7 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "notes": "https://www.artstation.com/artwork/r9AmrG"
         },
         {
@@ -4662,7 +4642,7 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": "https://www.artstation.com/artwork/o8VKB"
         },
         {
@@ -4682,7 +4662,7 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": "https://www.artstation.com/artwork/6N1JK6"
         },
         {
@@ -4702,7 +4682,7 @@
             "loyalty": "",
             "artist": "Bo Chen",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": "https://www.artstation.com/artwork/w8BJPw"
         },
         {
@@ -4722,8 +4702,8 @@
             "loyalty": "",
             "artist": "Bonifasko",
             "alias": "",
-            "position": "231",
-            "notes": "https://www.artstation.com/artwork/3oldbg"
+            "position": "230",
+            "notes": "https://www.artstation.com/artwork/3oldbg\n\n!tag removal-creature"
         },
         {
             "card_name": "Precognitive Tactics",
@@ -4742,8 +4722,8 @@
             "loyalty": "",
             "artist": "Thibault Girard",
             "alias": "",
-            "position": "232",
-            "notes": "https://www.artstation.com/artwork/KaV6RW"
+            "position": "231",
+            "notes": "https://www.artstation.com/artwork/KaV6RW\n\n!tag card-advantage"
         },
         {
             "card_name": "Orbital Distorter",
@@ -4762,15 +4742,15 @@
             "loyalty": "",
             "artist": "Shane Rebenschied",
             "alias": "",
-            "position": "233",
-            "notes": "https://www.artstation.com/artwork/v2dDgD"
+            "position": "232",
+            "notes": "https://www.artstation.com/artwork/v2dDgD\n\n!tag counterspell\n!tag tapper"
         },
         {
             "card_name": "Spec-Ops Forerunner",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Soldier",
-            "number": 180,
+            "number": 179,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "You may strain this creature as it attacks. When you do, it gets +1/+1 until end of turn and can't be blocked by creatures with power 2 or less this turn. [i](To strain, tap it then put a stun counter on it.)[/i]",
@@ -4782,7 +4762,7 @@
             "loyalty": "",
             "artist": "Logan Turner",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "https://www.artstation.com/artwork/gJ36q8"
         },
         {
@@ -4802,15 +4782,15 @@
             "loyalty": "",
             "artist": "Nivanh Chanthara",
             "alias": "",
-            "position": "235",
-            "notes": ""
+            "position": "234",
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/4beBLk"
         },
         {
             "card_name": "Synthesis Volunteer",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Mutant",
-            "number": 183,
+            "number": 182,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "When this creature enters, create a 3/3 green Beast creature token. Then if you're desperate, put a +1/+1 counter on that token. [i](You're desperate if you've discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)[/i]",
@@ -4822,7 +4802,7 @@
             "loyalty": "",
             "artist": "Lloyd Drake-Brockman",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": "https://www.artstation.com/artwork/JvALlz"
         },
         {
@@ -4842,8 +4822,8 @@
             "loyalty": "",
             "artist": "Kai Gavin Eberl",
             "alias": "",
-            "position": "237",
-            "notes": "https://www.artstation.com/artwork/AlzKq"
+            "position": "236",
+            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-disruption-untargeted"
         },
         {
             "card_name": "Temporal Harness",
@@ -4862,8 +4842,8 @@
             "loyalty": "",
             "artist": "Eman Vallejos",
             "alias": "",
-            "position": "238",
-            "notes": "https://www.artstation.com/artwork/LRXQ0l"
+            "position": "237",
+            "notes": "https://www.artstation.com/artwork/LRXQ0l\n\n!tag card-advantage"
         },
         {
             "card_name": "Arboreal Sinewvine",
@@ -4882,7 +4862,7 @@
             "loyalty": "",
             "artist": "Ana Baltova-Vercuiel",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": "https://www.artstation.com/artwork/1gkRo"
         },
         {
@@ -4902,8 +4882,8 @@
             "loyalty": "",
             "artist": "Sergey Semenovykh",
             "alias": "",
-            "position": "240",
-            "notes": "https://www.artstation.com/artwork/ZlbqAx"
+            "position": "239",
+            "notes": "https://www.artstation.com/artwork/ZlbqAx\n\n!tag damage-any"
         },
         {
             "card_name": "Slipstream Infiltrator",
@@ -4922,8 +4902,8 @@
             "loyalty": "",
             "artist": "Alexis Facque",
             "alias": "",
-            "position": "241",
-            "notes": "https://www.artstation.com/artwork/28OJJY?collection_id=2324707"
+            "position": "240",
+            "notes": "https://www.artstation.com/artwork/28OJJY?collection_id=2324707\n\n!tag anomaly\n!tag cantrip"
         },
         {
             "card_name": "Kinetic Vanguard",
@@ -4942,7 +4922,7 @@
             "loyalty": "",
             "artist": "Jude Smith",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "notes": "https://www.artstation.com/artwork/8wz23q"
         },
         {
@@ -4962,8 +4942,8 @@
             "loyalty": "",
             "artist": "Lionel Dorviler-Thierry",
             "alias": "",
-            "position": "243",
-            "notes": "https://www.artstation.com/artwork/XJb3WL"
+            "position": "242",
+            "notes": "https://www.artstation.com/artwork/XJb3WL\n\n!tag tapper\n!tag anomaly"
         },
         {
             "card_name": "Awoken Warframe",
@@ -4982,8 +4962,8 @@
             "loyalty": "",
             "artist": "Danil Kuptsov",
             "alias": "",
-            "position": "244",
-            "notes": "https://www.artstation.com/artwork/vbyyN3"
+            "position": "243",
+            "notes": "https://www.artstation.com/artwork/vbyyN3\n\n!tag anomaly"
         },
         {
             "card_name": "Augmented-Reality Visor",
@@ -5002,7 +4982,7 @@
             "loyalty": "",
             "artist": "Phil Saunders",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": "https://www.artstation.com/artwork/L4y2RR"
         },
         {
@@ -5022,8 +5002,8 @@
             "loyalty": "",
             "artist": "Oliver Guiney",
             "alias": "",
-            "position": "246",
-            "notes": "https://www.artstation.com/artwork/GZd3V?collection_id=2324707"
+            "position": "245",
+            "notes": "https://www.artstation.com/artwork/GZd3V?collection_id=2324707\n\n!tag edict-creature\n!tag wrath"
         },
         {
             "card_name": "Operative Reactivation",
@@ -5042,8 +5022,8 @@
             "loyalty": "",
             "artist": "Sergey Grechanyuk",
             "alias": "",
-            "position": "247",
-            "notes": "https://www.artstation.com/artwork/L89Gw"
+            "position": "246",
+            "notes": "https://www.artstation.com/artwork/L89Gw\n\n!tag reanimate-creature"
         },
         {
             "card_name": "Skyline Enforcer",
@@ -5062,8 +5042,8 @@
             "loyalty": "",
             "artist": "sparth",
             "alias": "",
-            "position": "248",
-            "notes": "https://www.artstation.com/artwork/PJN88"
+            "position": "247",
+            "notes": "https://www.artstation.com/artwork/PJN88\n\n!tag anomaly"
         },
         {
             "card_name": "Hive Queen",
@@ -5082,7 +5062,7 @@
             "loyalty": "",
             "artist": "Kim Sung Hwan",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "https://www.artstation.com/artwork/EoGae"
         },
         {
@@ -5102,8 +5082,8 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "position": "250",
-            "notes": "https://www.artstation.com/artwork/zO3Ql4?collection_id=2324707"
+            "position": "249",
+            "notes": "https://www.artstation.com/artwork/zO3Ql4?collection_id=2324707\n\n!tag damage-creature\n!tag damage-player"
         },
         {
             "card_name": "Lab Infiltration",
@@ -5122,7 +5102,7 @@
             "loyalty": "",
             "artist": "Alexander Borodin",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "https://www.artstation.com/artwork/4Nkwn8"
         },
         {
@@ -5140,10 +5120,10 @@
             "shape": "normal",
             "set": "OPZ",
             "loyalty": "",
-            "artist": "Biagio D'Alessandro",
+            "artist": "Alexander Gluhachev",
             "alias": "",
-            "position": "252",
-            "notes": "https://www.artstation.com/artwork/w4lXg"
+            "position": "251",
+            "notes": "https://www.artstation.com/artwork/OoAR6\n\n!tag anomaly"
         },
         {
             "card_name": "Cunning Tactics",
@@ -5162,7 +5142,7 @@
             "loyalty": "",
             "artist": "Thibault Girard",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "https://www.artstation.com/artwork/L2V4O0"
         },
         {
@@ -5182,8 +5162,8 @@
             "loyalty": "",
             "artist": "Juan Pablo Roldan",
             "alias": "",
-            "position": "254",
-            "notes": "https://www.artstation.com/artwork/JrPDqv?collection_id=2324707"
+            "position": "253",
+            "notes": "https://www.artstation.com/artwork/JrPDqv?collection_id=2324707\n\n!tag regrowth-creature\n!tag regrowth-land\n!tag card-advantage"
         },
         {
             "card_name": "Astral Strategist",
@@ -5202,8 +5182,8 @@
             "loyalty": "",
             "artist": "Thibault Girard",
             "alias": "",
-            "position": "255",
-            "notes": "https://www.artstation.com/artwork/9eL8XO"
+            "position": "254",
+            "notes": "https://www.artstation.com/artwork/9eL8XO\n\n!tag anomaly"
         },
         {
             "card_name": "Multi-Point Waygate",
@@ -5222,7 +5202,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "https://www.artstation.com/artwork/J9Zxev"
         },
         {
@@ -5242,8 +5222,8 @@
             "loyalty": "",
             "artist": "Gabo Garza",
             "alias": "",
-            "position": "257",
-            "notes": "https://www.artstation.com/artwork/bgNKPa?collection_id=2324707"
+            "position": "256",
+            "notes": "https://www.artstation.com/artwork/bgNKPa?collection_id=2324707\n\n!tag card-advantage"
         },
         {
             "card_name": "Maxine, Cynical Renegade",
@@ -5262,8 +5242,8 @@
             "loyalty": "4",
             "artist": "Thanh Tu\u1ea5n",
             "alias": "",
-            "position": "258",
-            "notes": "https://www.artstation.com/artwork/EVqza8\n\nZoom 50%"
+            "position": "257",
+            "notes": "https://www.artstation.com/artwork/EVqza8\n\nZoom 50%\n\n!tag tapper\n!tag card-advantage"
         },
         {
             "card_name": "Plithium-Plated Mech",
@@ -5282,8 +5262,8 @@
             "loyalty": "",
             "artist": "Hamish Kentwell",
             "alias": "",
-            "position": "259",
-            "notes": "https://www.artstation.com/artwork/g03bmQ"
+            "position": "258",
+            "notes": "https://www.artstation.com/artwork/g03bmQ\n\n!tag anomaly"
         },
         {
             "card_name": "Feasting Skittermaw",
@@ -5302,7 +5282,7 @@
             "loyalty": "",
             "artist": "peng lu",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "https://www.artstation.com/artwork/x3bKRX"
         },
         {
@@ -5322,7 +5302,7 @@
             "loyalty": "",
             "artist": "James Rinere",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "https://www.artstation.com/artwork/3E9PRB"
         },
         {
@@ -5342,8 +5322,8 @@
             "loyalty": "",
             "artist": "Ilya Nazarov",
             "alias": "",
-            "position": "262",
-            "notes": "https://www.artstation.com/artwork/bz0gk"
+            "position": "261",
+            "notes": "https://www.artstation.com/artwork/bz0gk\n\n!tag card-advantage"
         },
         {
             "card_name": "Malignant Venomwing",
@@ -5362,7 +5342,7 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "https://www.artstation.com/artwork/nNKWO"
         },
         {
@@ -5382,7 +5362,7 @@
             "loyalty": "",
             "artist": "Starseed",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "https://www.artstation.com/artwork/295vav"
         },
         {
@@ -5402,7 +5382,7 @@
             "loyalty": "",
             "artist": "Alberto Filipponi",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "https://www.artstation.com/artwork/RyoVmr"
         },
         {
@@ -5422,8 +5402,8 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "266",
-            "notes": "https://www.artstation.com/artwork/nQQNb9"
+            "position": "265",
+            "notes": "https://www.artstation.com/artwork/nQQNb9\n\n!tag card-advantage\n!tag anomaly"
         },
         {
             "card_name": "Dread Reaper",
@@ -5442,8 +5422,8 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "position": "267",
-            "notes": "https://www.artstation.com/artwork/ZeZzx0"
+            "position": "266",
+            "notes": "https://www.artstation.com/artwork/ZeZzx0\n\n!tag anomaly\n!tag reanimate-self"
         },
         {
             "card_name": "Blitzwing Striker",
@@ -5462,8 +5442,8 @@
             "loyalty": "",
             "artist": "Bernard Chan",
             "alias": "",
-            "position": "268",
-            "notes": "https://www.artstation.com/artwork/4NlBK1"
+            "position": "267",
+            "notes": "https://www.artstation.com/artwork/4NlBK1\n\n!tag anomaly\n!tag damage-player"
         },
         {
             "card_name": "Eldritch Haruspex",
@@ -5482,8 +5462,8 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "269",
-            "notes": "https://www.artstation.com/artwork/XBodqw"
+            "position": "268",
+            "notes": "https://www.artstation.com/artwork/XBodqw\n\n!tag card-advantage"
         },
         {
             "card_name": "Fluxreactor Manticore",
@@ -5502,8 +5482,8 @@
             "loyalty": "",
             "artist": "Yura Kozhevnikov",
             "alias": "",
-            "position": "270",
-            "notes": "https://www.artstation.com/artwork/XJ8Lk3"
+            "position": "269",
+            "notes": "https://www.artstation.com/artwork/XJ8Lk3\n\n!tag damage-player\n!tag anomaly"
         },
         {
             "card_name": "Relentless Raid",
@@ -5522,7 +5502,7 @@
             "loyalty": "",
             "artist": "Miguel Mitchell Da Silva",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": "https://www.artstation.com/artwork/XJ8bLL"
         },
         {
@@ -5542,7 +5522,7 @@
             "loyalty": "",
             "artist": "Thanh Tuan",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "https://www.artstation.com/artwork/EVqza8"
         },
         {
@@ -5562,7 +5542,7 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "https://www.artstation.com/artwork/rR3d6J"
         },
         {
@@ -5582,8 +5562,8 @@
             "loyalty": "3",
             "artist": "Abrar Khan",
             "alias": "",
-            "position": "274",
-            "notes": "https://www.artstation.com/artwork/bayR4r"
+            "position": "273",
+            "notes": "https://www.artstation.com/artwork/bayR4r\n\n!tag card-advantage"
         },
         {
             "card_name": "D'Emil, Apex Hunter",
@@ -5602,8 +5582,8 @@
             "loyalty": "",
             "artist": "James Zapata",
             "alias": "",
-            "position": "275",
-            "notes": "https://www.artstation.com/artwork/N405"
+            "position": "274",
+            "notes": "https://www.artstation.com/artwork/N405\n\n!tag card-advantage"
         },
         {
             "card_name": "Moira, Rapid Adapter",
@@ -5622,7 +5602,7 @@
             "loyalty": "",
             "artist": "Matt Zeilinger",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "https://www.artstation.com/artwork/VdJlon\n\nRedbay suggestion:\n\nWhenever a creature you control dies, you may return it to the battlefield, then exile it."
         },
         {
@@ -5642,9 +5622,29 @@
             "loyalty": "",
             "artist": "crow god",
             "alias": "",
+            "position": "276",
+            "notes": "https://www.artstation.com/artwork/rRVAyE\n\n!tag anomaly"
+        },
+        {
+            "card_name": "Synthetic Kobold",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Kobold Mutant",
+            "number": 183,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "When this creature enters, distribute two +1/+1 counters among up to two target creatures.\nEach creature you control with a +1/+1 counter on it has trample.",
+            "flavor_text": "[i]FT[/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "OPZ",
+            "loyalty": "",
+            "artist": "Pencil Equipped",
+            "alias": "",
             "position": "277",
-            "notes": "https://www.artstation.com/artwork/rRVAyE"
+            "notes": "https://www.artstation.com/artwork/q9dDoe\n\nIDEA\n\nJumpstart\nproto_g"
         }
     ],
-    "version": 13
+    "version": 2
 }
