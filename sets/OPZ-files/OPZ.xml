@@ -473,7 +473,7 @@ Whenever this creature and at least two other creatures attack, put a +1/+1 coun
 			<token>1</token>
 		</card>
 		<card>
-			<name>Keen-Eyed Engineer OPZ</name>
+			<name>Keen-Eyed Engineer</name>
 			<text>When this creature enters, create a 1/1 colorless Construct artifact creature token.
 Whenever another artifact creature you control enters, experiment on it. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/20.png" num="16">OPZ</set>
@@ -489,7 +489,6 @@ Whenever another artifact creature you control enters, experiment on it. (Add or
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Digital Reconstruction</name>
@@ -2400,7 +2399,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Artificial Warfront OPZ</name>
+			<name>Artificial Warfront</name>
 			<text>Create three 1/1 colorless Construct artifact creature tokens.</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/129.png" num="2">OPZ</set>
 			<prop>
@@ -2414,7 +2413,6 @@ When this creature enters, draw a card if a creature died this turn.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Cuphro Invasion</name>
@@ -3070,7 +3068,7 @@ At the beginning of the next end step, for each creature you controlled that die
 			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
-			<name>Circuit Liberator OPZ</name>
+			<name>Circuit Liberator</name>
 			<text>When this creature enters, create a 1/1 colorless Construct artifact creature token.
 Artifact creatures you control have vigilance and prowess. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/166.png" num="197">OPZ</set>
@@ -3086,7 +3084,6 @@ Artifact creatures you control have vigilance and prowess. (Whenever you cast a 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Galactic Rending</name>
@@ -3143,7 +3140,7 @@ This creature and other artifact creatures you control enter with an additional 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Razefire Raid OPZ</name>
+			<name>Razefire Raid</name>
 			<text>Choose one —
 • Create two 1/1 colorless Construct artifact creature tokens.
 • Razefire Raid deals 2 damage to any target and you gain 2 life.</text>
@@ -3159,7 +3156,6 @@ This creature and other artifact creatures you control enter with an additional 
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Twilight Observer</name>
@@ -4344,7 +4340,7 @@ Specimens you control have &quot;{T}, Sacrifice this artifact: Add one mana of a
 			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
-			<name>Enforcer&apos;s Assault Rifle OPZ</name>
+			<name>Enforcer&apos;s Assault Rifle</name>
 			<text>When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
 Equipped creature gets +2/+0 and has &quot;When this creature dies, it deals 1 damage to any target.&quot;
 Equip {R}</text>
@@ -4360,7 +4356,6 @@ Equip {R}</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>Slipstream Infiltrator</name>
