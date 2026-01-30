@@ -1226,7 +1226,89 @@
 	4 UM01 Cloudsworn Warden
 	4 UU Nebulous Confirmation
 	4 UR Rapacious Dragon
-[common(7)]
+[common(6)]
+	8 CW04 Royal Escort
+	8 CR05 Hilgarde Plunderer
+	8 CW05 Agile Lifeweaver
+	8 CG13 Bloodthirsty Bear
+	8 CR01 Omenseer Imbuer
+	8 CC04 Imbued Arrow
+	8 CB02 Il'Umari Practitioner
+	8 CM01 River Guardian
+	8 CU10 Crystaline Titan
+	8 CB10 Il'Umari Web-Weaver
+	8 CB12 Striking Owl
+	8 CU12 Plunging Gator
+	8 CU07 Frontline Sprite
+	8 CW13 Militia Caller
+	8 CW02 Against the Odds
+	8 CW08 Sanctum Blade
+	8 CW03 Nephiiram Martyr
+	8 CW09 Ceremony Leader
+	8 CW12 Cloudsworn Blessing
+	8 CW01 Eager Fledgling
+	8 CW07 Savage Strike
+	8 CW06 Orrery Guard
+	8 CW11 Guiding Herald
+	8 CW10 Smite the Mighty
+	8 CU03 Il'Umari Dreamer
+	8 CU05 Crystaline Carapace
+	8 CU13 Afflicted Vision
+	8 CU01 Il'Umari Trapper
+	8 CU04 Essence Tamer
+	8 CU06 Spell Stutter
+	8 CU08 Eliuum Construct
+	8 CU09 Majestic Metamorphosis
+	8 CU11 Wayward Swarm
+	8 CU02 Witching Well
+	8 CB01 Delayed Atonement
+	8 CB09 Undercity Scrounger
+	8 CB11 Grim Bounty
+	8 CB04 Covert Operative
+	8 CB03 Ebon Anointer
+	8 CB07 Mourning Blade
+	8 CB05 K'Llei Ritual
+	8 CB06 Battleworthy Sacrifice
+	8 CB13 Graveyard Prowler
+	8 CB08 Il'Umari Herald
+	8 CR02 Galvanic Blast
+	8 CR03 Battle Rage
+	8 CR04 Vault Robber
+	8 CR06 Unstable Chargestone
+	8 CR07 Sailkite Bandit
+	8 CR08 Bonewhip Brawler
+	8 CR09 Omen Steelform
+	8 CR10 Molten Brute
+	8 CR12 Capricious Royal
+	8 CR11 Big Score
+	8 CR13 Pursue the Weak
+	8 CG07 Quick-Draw Archer
+	8 CG08 Decaying Swine
+	8 CG03 Noxious Spore
+	8 CG01 Corpse Adorner
+	8 CG04 Lingering Croc
+	8 CG05 Bramble Armor
+	8 CG02 Giant Growth
+	8 CG09 Nature's Reach
+	8 CG06 Heart of the Forest
+	8 CG10 Ancestral Dryad
+	8 CG11 Hunter's Pursuit
+	8 CM02 Il'Umari Deceiver
+	8 CM03 Runic Daemon
+	8 CM04 Pit Fight
+	8 CM05 Centaur Safeguard
+	8 CM06 Confession
+	8 CM07 Mischevious Faerie
+	8 CG12 Bramble Envoy
+	8 CM08 Rooftop Miscreant
+	8 CM09 Fresh-Faced Recruit
+	8 CM10 Square Up
+	8 CL01 Prophetic Peak
+	8 CL02 Aspiring Bloom
+	8 CC03 Annealed Brute
+	8 CC02 Cloudsworn Enforcer
+	8 CC01 Skozall Monitor
+[common | masterpiece(1)]
 	8 CW04 Royal Escort
 	8 CR05 Hilgarde Plunderer
 	8 CW05 Agile Lifeweaver

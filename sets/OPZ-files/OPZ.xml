@@ -5,14 +5,14 @@
 			<name>OPZ</name>
 			<longname>Outpost Zero</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-04</releasedate>
+			<releasedate>2026-01-29</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Forsaken Expedition</name>
 			<text>At the beginning of your end step, if you&apos;re desperate, put a +1/+1 counter on this creature. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/0.png" num="168">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/0.png" num="172">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Return target nonland permanent to its owner&apos;s hand.
 Draw a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/1.png" num="62">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/1.png" num="64">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -49,7 +49,7 @@ Draw a card.</text>
 			<text>Assimilate {5}{B} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Menace
 This creature enters with a +1/+1 counter if it assimilated.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/2.png" num="108">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/2.png" num="111">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -70,7 +70,7 @@ This creature enters with a +1/+1 counter if it assimilated.</text>
 Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform this land. Activate only as a sorcery.
 ---
 (Back): What Lurks Beneath</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/3_front.png" num="249a">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/3_front.png" num="254a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -82,6 +82,7 @@ Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform thi
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">What Lurks Beneath</related>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>What Lurks Beneath</name>
@@ -89,7 +90,7 @@ Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform thi
 {T}: Add {W}.
 ---
 (Front): Renegade Academy</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/3_back.png" num="249b">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/3_back.png" num="254b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -101,6 +102,7 @@ Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform thi
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">Renegade Academy</related>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Expedition Range</name>
@@ -109,7 +111,7 @@ Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform thi
 Catastrophe — {3}{G}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Voracious Wildgrowth</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/4_front.png" num="241a">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/4_front.png" num="246a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -128,7 +130,7 @@ Catastrophe — {3}{G}, {T}, Exile four cards from your graveyard: Transform thi
 {T}: Add {G}.
 ---
 (Front): Expedition Range</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/4_back.png" num="241b">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/4_back.png" num="246b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -148,7 +150,7 @@ Catastrophe — {3}{G}, {T}, Exile four cards from your graveyard: Transform thi
 Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Cosmic Encounter</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/5_front.png" num="254a">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/5_front.png" num="259a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -160,14 +162,15 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">Cosmic Encounter</related>
+			<reverse_related>Leviathan OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Cosmic Encounter</name>
-			<text>When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has five or more voyage counters on it, sacrifice it and create an 8/8 blue Horror creature token with hexproof.
+			<text>When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has five or more voyage counters on it, sacrifice it and create an 8/8 blue Leviathan creature token with hexproof.
 {T}: Add {U}.
 ---
 (Front): Voyager Station</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/5_back.png" num="254b">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/5_back.png" num="259b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -179,6 +182,7 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">Voyager Station</related>
+			<reverse_related>Leviathan OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Plithium Quarry</name>
@@ -187,7 +191,7 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 Catastrophe — {3}{B}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Consuming Spores</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_front.png" num="247a">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_front.png" num="252a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -206,7 +210,7 @@ Catastrophe — {3}{B}, {T}, Exile four cards from your graveyard: Transform thi
 {T}: Add {B}.
 ---
 (Front): Plithium Quarry</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_back.png" num="247b">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_back.png" num="252b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -226,7 +230,7 @@ Catastrophe — {3}{B}, {T}, Exile four cards from your graveyard: Transform thi
 Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Reactor Meltdown</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/7_front.png" num="242a">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/7_front.png" num="247a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -245,7 +249,7 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 {T}: Add {R}.
 ---
 (Front): Innovative Hangar</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/7_back.png" num="242b">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/7_back.png" num="247b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -277,7 +281,7 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 			<name>Proto-Genesis Jellyfish</name>
 			<text>Flying, vigilance
 {1}{U}, Exile this card from your graveyard: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/9.png" num="65">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/9.png" num="67">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,7 +299,7 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 			<name>Ambitious Lab Techs</name>
 			<text>When this creature enters, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)
 {2}, {T}: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/10.png" num="39">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/10.png" num="41">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -308,11 +312,12 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Targeted Strike</name>
 			<text>Targeted Strike deals 2 damage to any target. If you&apos;re desperate, it deals 3 damage instead. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/11.png" num="145">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/11.png" num="149">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -329,7 +334,7 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 			<name>Acrid Chiropteran</name>
 			<text>Flying
 At the beginning of your end step, if you&apos;re desperate, each opponent loses 1 life and you gain 1 life. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/12.png" num="75">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/12.png" num="77">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -348,7 +353,7 @@ At the beginning of your end step, if you&apos;re desperate, each opponent loses
 			<text>Assimilate {4}{U} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Flying
 Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/13.png" num="72">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/13.png" num="74">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -366,7 +371,7 @@ Whenever you cast your second spell each turn, put a +1/+1 counter on this creat
 			<name>Haunting Amalgamate</name>
 			<text>Assimilate {6}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 This creature enters with your choice of a haste or +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/14.png" num="170">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/14.png" num="174">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -384,7 +389,7 @@ This creature enters with your choice of a haste or +1/+1 counter on it.</text>
 			<name>Stalking Wispbeast</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever this creature deals combat damage to a player, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/15.png" num="181">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/15.png" num="185">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -397,12 +402,13 @@ Whenever this creature deals combat damage to a player, create a Specimen token.
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Rothmas Scouts</name>
 			<text>Vigilance
 Whenever this creature and at least two other creatures attack, put a +1/+1 counter on target attacking creature with lesser power.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/16.png" num="27">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/16.png" num="28">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -435,7 +441,7 @@ Whenever this creature and at least two other creatures attack, put a +1/+1 coun
 		<card>
 			<name>Transferred Soul</name>
 			<text>When this creature enters, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/18.png" num="35">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/18.png" num="36">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -448,6 +454,7 @@ Whenever this creature and at least two other creatures attack, put a +1/+1 coun
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Drone OPZ</name>
@@ -466,10 +473,10 @@ Whenever this creature and at least two other creatures attack, put a +1/+1 coun
 			<token>1</token>
 		</card>
 		<card>
-			<name>Keen-Eyed Engineer</name>
+			<name>Keen-Eyed Engineer OPZ</name>
 			<text>When this creature enters, create a 1/1 colorless Construct artifact creature token.
 Whenever another artifact creature you control enters, experiment on it. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/20.png" num="15">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/20.png" num="16">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -482,6 +489,7 @@ Whenever another artifact creature you control enters, experiment on it. (Add or
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Digital Reconstruction</name>
@@ -499,6 +507,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>City Sweep</name>
@@ -521,7 +530,7 @@ Creatures you control get +2/+0 until end of turn.</text>
 			<name>Servitor Drone</name>
 			<text>Flying, vigilance
 When this creature dies, experiment on target creature you control. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/23.png" num="29">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/23.png" num="30">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -538,7 +547,7 @@ When this creature dies, experiment on target creature you control. (Add or remo
 		<card>
 			<name>Expanse Runners</name>
 			<text>Whenever this creature attacks, create a 1/1 colorless Drone artifact creature token with flying that&apos;s tapped and attacking.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/24.png" num="13">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/24.png" num="14">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -551,12 +560,13 @@ When this creature dies, experiment on target creature you control. (Add or remo
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Gleaming Kite</name>
 			<text>Flying
 Whenever this creature attacks, target attacking creature without flying gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/25.png" num="14">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/25.png" num="15">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -573,7 +583,7 @@ Whenever this creature attacks, target attacking creature without flying gains f
 		<card>
 			<name>Swift Response</name>
 			<text>Destroy target tapped creature.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/26.png" num="32">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/26.png" num="33">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -588,7 +598,8 @@ Whenever this creature attacks, target attacking creature without flying gains f
 		</card>
 		<card>
 			<name>Convening Nomad</name>
-			<text>{1}, Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.</text>
+			<text>When this creature dies, if it wasn&apos;t sacrificed, draw a card.
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
 			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/27.png" num="8">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -599,7 +610,7 @@ Whenever this creature attacks, target attacking creature without flying gains f
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -623,7 +634,7 @@ Whenever this creature attacks, target attacking creature without flying gains f
 			<name>Containment Breach</name>
 			<text>Surveil 3, then draw a card. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/29.png" num="44">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/29.png" num="46">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -635,12 +646,13 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Mistweaver</name>
 			<text>Assimilate {6}{U} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/30.png" num="55">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/30.png" num="57">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -659,7 +671,7 @@ At the beginning of your upkeep, surveil 1. (Look at the top card of your librar
 			<text>Flash
 Flying
 When Overwatch Sentinel enters, strain target nonland permanent an opponent controls. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/31.png" num="61">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/31.png" num="63">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -676,7 +688,7 @@ When Overwatch Sentinel enters, strain target nonland permanent an opponent cont
 		<card>
 			<name>Observation Crew</name>
 			<text>{3}{U}: Experiment on another target creature you control. It can&apos;t be blocked this turn. Activate only as a sorcery. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/32.png" num="58">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/32.png" num="60">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -694,7 +706,7 @@ When Overwatch Sentinel enters, strain target nonland permanent an opponent cont
 			<name>Manifested Chimera</name>
 			<text>This creature can&apos;t be blocked.
 When this creature enters, sacrifice it unless you return another creature you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/33.png" num="54">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/33.png" num="56">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -712,7 +724,7 @@ When this creature enters, sacrifice it unless you return another creature you c
 			<name>Disposal Personnel</name>
 			<text>Defender
 Whenever one or more cards leave your graveyard, this creature loses defender until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/34.png" num="47">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/34.png" num="49">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -730,7 +742,7 @@ Whenever one or more cards leave your graveyard, this creature loses defender un
 			<name>Android Maintenance</name>
 			<text>Until end of turn, target creature or artifact becomes an artifact creature with base power and toughness 4/5.
 Draw a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/35.png" num="40">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/35.png" num="42">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -746,7 +758,7 @@ Draw a card.</text>
 		<card>
 			<name>Don&apos;t Make a Sound</name>
 			<text>Counter target spell unless its controller pays {2}. If they do, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/36.png" num="48">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/36.png" num="50">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -763,7 +775,7 @@ Draw a card.</text>
 			<name>Frigid Pass Officers</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 When this creature enters, create a 1/1 colorless Drone artifact creature token with flying.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/37.png" num="50">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/37.png" num="52">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -776,13 +788,14 @@ When this creature enters, create a 1/1 colorless Drone artifact creature token 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Splinter Brute</name>
 			<text>Assimilate {4}{B} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Deathtouch
 When this creature enters, if it assimilated, each opponent sacrifices a creature.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/38.png" num="106">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/38.png" num="108">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -800,7 +813,7 @@ When this creature enters, if it assimilated, each opponent sacrifices a creatur
 			<name>Painful Excision</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Draw two cards and create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/39.png" num="102">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/39.png" num="104">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -812,12 +825,13 @@ Draw two cards and create a Specimen token. (It&apos;s an artifact with &quot;{1
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Nimble Crewmate</name>
 			<text>This creature enters tapped.
 {1}{B}: Return this creature from your graveyard to the battlefield. Activate only if you&apos;re desperate. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/40.png" num="99">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/40.png" num="101">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -835,7 +849,7 @@ Draw two cards and create a Specimen token. (It&apos;s an artifact with &quot;{1
 			<name>Extraction Team</name>
 			<text>You may strain this creature as it attacks. (To strain, tap it then put a stun counter on it.)
 Whenever you strain a creature you control, you may pay 1 life. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/41.png" num="89">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/41.png" num="91">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -853,7 +867,7 @@ Whenever you strain a creature you control, you may pay 1 life. If you do, draw 
 			<name>Aerial Heistman</name>
 			<text>Flying, haste
 Whenever this creature attacks, if its power is 4 or greater, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/42.png" num="76">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/42.png" num="78">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -870,7 +884,7 @@ Whenever this creature attacks, if its power is 4 or greater, each opponent lose
 		<card>
 			<name>Ava, Ignominious Executive</name>
 			<text>Whenever a creature you control attacks alone, surveil 1 then draw a card. Put a +1/+1 counter on that creature. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/43.png" num="79">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/43.png" num="81">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -887,7 +901,7 @@ Whenever this creature attacks, if its power is 4 or greater, each opponent lose
 		<card>
 			<name>Disfigure</name>
 			<text>Target creature gets -2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/44.png" num="86">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/44.png" num="88">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -904,7 +918,7 @@ Whenever this creature attacks, if its power is 4 or greater, each opponent lose
 			<name>Remote Disintegration</name>
 			<text>This spell costs {2} less to cast if you&apos;re desperate. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)
 Destroy target creature or planeswalker.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/45.png" num="104">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/45.png" num="106">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -920,7 +934,7 @@ Destroy target creature or planeswalker.</text>
 		<card>
 			<name>Recovery Mission</name>
 			<text>Create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot; When you do, return up to two target creature cards from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/46.png" num="103">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/46.png" num="105">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,6 +946,7 @@ Destroy target creature or planeswalker.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Mercenary OPZ</name>
@@ -954,7 +969,7 @@ Destroy target creature or planeswalker.</text>
 		<card>
 			<name>Frightened Trainee</name>
 			<text>When this creature dies, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/48.png" num="91">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/48.png" num="93">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -967,12 +982,13 @@ Destroy target creature or planeswalker.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Mining Rig</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 {T}, Sacrifice this creature: It deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/49.png" num="131">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/49.png" num="135">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -990,7 +1006,7 @@ Destroy target creature or planeswalker.</text>
 			<name>Thrill of Possibility</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/50.png" num="146">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/50.png" num="150">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1006,7 +1022,7 @@ Draw two cards.</text>
 		<card>
 			<name>Tactical Breach</name>
 			<text>Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/51.png" num="144">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/51.png" num="148">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1018,12 +1034,13 @@ Draw two cards.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Frontline Dropship</name>
 			<text>Create two 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot; They gain haste until end of turn.
 Nontoken creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/52.png" num="124">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/52.png" num="127">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1035,13 +1052,14 @@ Nontoken creatures you control get +1/+0 until end of turn.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Construction Bot</name>
 			<text>{T}: Add {R}.
 {T}, Sacrifice this creature: Add one mana of any color.
 If mana produced by this creature is spent on a creature spell, that creature gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/53.png" num="118">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/53.png" num="121">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1059,7 +1077,7 @@ If mana produced by this creature is spent on a creature spell, that creature ga
 			<name>Pyroclastic Crewmate</name>
 			<text>You may strain this creature as it attacks. When you do, this creature deals 1 damage to each opponent. (To strain, tap it then put a stun counter on it.)
 {R}: This creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/54.png" num="136">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/54.png" num="140">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1077,7 +1095,7 @@ If mana produced by this creature is spent on a creature spell, that creature ga
 			<name>Ops Pointman</name>
 			<text>First strike
 You may strain this creature as it attacks. When you do, exile the top two cards of your library. Until the end of your next turn, you may play those cards. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/55.png" num="134">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/55.png" num="138">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1095,7 +1113,7 @@ You may strain this creature as it attacks. When you do, exile the top two cards
 			<name>Drone Operator</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 When this creature enters, create a 1/1 colorless Drone artifact creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/56.png" num="120">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/56.png" num="123">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1108,12 +1126,13 @@ When this creature enters, create a 1/1 colorless Drone artifact creature token 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Skittering Swarm</name>
 			<text>Menace
 At the beginning of your end step, if you&apos;re desperate, you may discard a card. If you do, draw a card. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/57.png" num="140">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/57.png" num="144">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1131,7 +1150,7 @@ At the beginning of your end step, if you&apos;re desperate, you may discard a c
 			<name>Incinerating Blast</name>
 			<text>Incinerating Blast deals 6 damage to target creature.
 You may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/58.png" num="126">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/58.png" num="129">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1148,7 +1167,7 @@ You may discard a card. If you do, draw a card.</text>
 			<name>Ambush Drone</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever this creature attacks, if its power is 4 or greater, it gains menace until end of turn. (This creature can&apos;t be blocked except by two or more creatures.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/59.png" num="114">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/59.png" num="117">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1165,7 +1184,7 @@ Whenever this creature attacks, if its power is 4 or greater, it gains menace un
 		<card>
 			<name>Biogenic Upgrade</name>
 			<text>Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/60.png" num="153">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/60.png" num="157">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1182,7 +1201,7 @@ Whenever this creature attacks, if its power is 4 or greater, it gains menace un
 			<name>Brush Surveyor</name>
 			<text>Vigilance
 When this creature enters, surveil 2, then you may return a land card from your graveyard to your hand. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/61.png" num="155">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/61.png" num="159">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1200,7 +1219,7 @@ When this creature enters, surveil 2, then you may return a land card from your 
 			<name>Consuming Polyp</name>
 			<text>Assimilate {4}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 When this creature enters, if it assimilated, destroy up to one target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/62.png" num="159">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/62.png" num="163">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1218,7 +1237,7 @@ When this creature enters, if it assimilated, destroy up to one target artifact 
 			<name>Spontaneous Outburst</name>
 			<text>Target creature gets +3/+2 and gains reach until end of turn.
 If that creature has a +1/+1 counter on it, untap it.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/63.png" num="180">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/63.png" num="184">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1235,7 +1254,7 @@ If that creature has a +1/+1 counter on it, untap it.</text>
 			<name>Brutal Acquisition</name>
 			<text>Target creature you control fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
 Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/64.png" num="156">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/64.png" num="160">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1247,11 +1266,12 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Rapid Incubation</name>
 			<text>You may sacrifice two Specimens. If you do, creature two 3/3 green Beast creature tokens. Otherwise, create three Specimen tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/65.png" num="176">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/65.png" num="180">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1263,6 +1283,8 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse_related>Beast OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Beast OPZ</name>
@@ -1286,7 +1308,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 			<name>Poison Whip-Tail</name>
 			<text>Reach, deathtouch
 When this creature enters, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/67.png" num="174">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/67.png" num="178">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1299,12 +1321,13 @@ When this creature enters, create a Specimen token. (It&apos;s an artifact with 
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Burgeoning Ascomycota</name>
 			<text>Whenever you attack, put a +1/+1 counter on this creature.
 {T}, Remove any number of +1/+1 counters from this creature: Add that much mana in any combination of colors.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/68.png" num="157">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/68.png" num="161">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1323,7 +1346,7 @@ When this creature enters, create a Specimen token. (It&apos;s an artifact with 
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.
 {2}{RG}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/69.png" num="263">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/69.png" num="268">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1339,7 +1362,7 @@ When this creature enters, create a Specimen token. (It&apos;s an artifact with 
 			<name>Whirring Surveyor</name>
 			<text>Flying
 When this creature enters, you may search your library for a basic land card or Outpost card, reveal it, then shuffle and put that card on top.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/70.png" num="236">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/70.png" num="241">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1372,7 +1395,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 		<card>
 			<name>Profound Discovery</name>
 			<text>Target player draws three cards. If you control an Outpost, strain up to one target nonland permanent. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/72.png" num="64">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/72.png" num="66">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1389,7 +1412,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 			<name>Methodical Infantry</name>
 			<text>When this creature enters, target creature an opponent controls gets -1/-1 until end of turn.
 {2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/73.png" num="97">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/73.png" num="99">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1430,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 			<name>Anti-Aerial Crawler</name>
 			<text>Reach
 This creature enters with a +1/+1 counter if you control an Outpost.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/74.png" num="115">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/74.png" num="118">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1424,7 +1447,7 @@ This creature enters with a +1/+1 counter if you control an Outpost.</text>
 		<card>
 			<name>Hazard Enviro-Mech</name>
 			<text>You may strain this creature as it attacks. When you do, this creature gains trample and gets +2/+2 until end of turn. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/75.png" num="171">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/75.png" num="175">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1443,7 +1466,7 @@ This creature enters with a +1/+1 counter if you control an Outpost.</text>
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {2}{GW}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/76.png" num="262">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/76.png" num="267">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1460,7 +1483,7 @@ This creature enters with a +1/+1 counter if you control an Outpost.</text>
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
 {2}{WU}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/77.png" num="257">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/77.png" num="262">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1477,7 +1500,7 @@ This creature enters with a +1/+1 counter if you control an Outpost.</text>
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 {2}{UB}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/78.png" num="256">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/78.png" num="261">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1493,7 +1516,7 @@ This creature enters with a +1/+1 counter if you control an Outpost.</text>
 			<name>Shielding Dome</name>
 			<text>Defender, reach
 When this creature enters, if you control an Outpost, draw a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/79.png" num="30">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/79.png" num="31">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1529,7 +1552,7 @@ Whenever this creature attacks with two or more other creatures, untap it and pu
 			<name>Levicycle Courier</name>
 			<text>Flying
 When this creature enters, create two 1/1 colorless Drone artifact creature tokens with flying.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/81.png" num="17">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/81.png" num="18">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1542,11 +1565,12 @@ When this creature enters, create two 1/1 colorless Drone artifact creature toke
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Sudden Evacuation</name>
 			<text>Target creature you control gets +2/+2 until end of turn. If that creature is attacking, it also gains indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/82.png" num="31">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/82.png" num="32">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1563,7 +1587,7 @@ When this creature enters, create two 1/1 colorless Drone artifact creature toke
 			<name>Navigator Core</name>
 			<text>Vigilance
 This creature can&apos;t be blocked as long as a counter has been put on it this turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/83.png" num="57">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/83.png" num="59">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1581,7 +1605,7 @@ This creature can&apos;t be blocked as long as a counter has been put on it this
 			<name>Watcher in the Void</name>
 			<text>Flying
 Whenever this creature enters or attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/84.png" num="74">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/84.png" num="76">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1599,7 +1623,7 @@ Whenever this creature enters or attacks, surveil 1. (Look at the top card of yo
 			<name>Digitized Duo</name>
 			<text>When this creature enters, return up to one other target creature to its owner&apos;s hand.
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/85.png" num="46">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/85.png" num="48">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1618,7 +1642,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
 {2}{RW}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/86.png" num="259">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/86.png" num="264">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1635,7 +1659,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {2}{BG}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/87.png" num="264">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/87.png" num="269">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1652,7 +1676,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {2}{UR}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/88.png" num="260">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/88.png" num="265">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1669,7 +1693,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {2}{GU}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/89.png" num="261">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/89.png" num="266">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1686,7 +1710,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {2}{WB}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/90.png" num="258">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/90.png" num="263">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1703,7 +1727,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {2}{BR}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/91.png" num="255">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/91.png" num="260">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1721,7 +1745,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Precursor Ruins</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/92_front.png" num="248a">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/92_front.png" num="253a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1738,7 +1762,7 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			<text>{T}: Add one mana of any color.
 ---
 (Front): Precursor Colony</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/92_back.png" num="248b">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/92_back.png" num="253b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1754,7 +1778,7 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			<name>Veylid Reliquary</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {1}, {T}, Sacrifice this land: Experiment on target permanent you control. Activate only as a sorcery. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/93.png" num="253">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/93.png" num="258">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1769,7 +1793,7 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			<name>Salvage Hunter</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 {1}{W}, Exile this card from your graveyard: Create a 1/1 colorless Drone artifact creature token with flying. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/94.png" num="28">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/94.png" num="29">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1782,12 +1806,13 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Tremor Spikeworm</name>
 			<text>When this creature enters, strain up to one target nonland permanent and you gain 3 life. (To strain, tap it then put a stun counter on it.)
 Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/95.png" num="36">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/95.png" num="37">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1805,7 +1830,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<name>Stasis Field</name>
 			<text>Enchant creature
 Enchanted creature has base power and toughness 0/2, has defender, and loses all other abilities.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/96.png" num="70">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/96.png" num="72">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1823,7 +1848,7 @@ Enchanted creature has base power and toughness 0/2, has defender, and loses all
 			<text>Choose one —
 • The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
 • Strain up to two target nonland permanents. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/97.png" num="66">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/97.png" num="68">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1840,7 +1865,7 @@ Enchanted creature has base power and toughness 0/2, has defender, and loses all
 			<name>Scarab Behemoth</name>
 			<text>When this creature enters, you draw a card and you lose 1 life.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/98.png" num="105">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/98.png" num="107">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1859,7 +1884,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 			<text>Flash
 Lifelink
 When this creature enters, destroy up to one target creature that was dealt damage this turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/99.png" num="77">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/99.png" num="79">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1877,7 +1902,7 @@ When this creature enters, destroy up to one target creature that was dealt dama
 			<name>Void Specter</name>
 			<text>Flying
 Discard a card: This creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/100.png" num="111">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/100.png" num="114">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1895,7 +1920,7 @@ Discard a card: This creature gets +1/+1 until end of turn.</text>
 			<name>Outskirts Prowler</name>
 			<text>Deathtouch
 When this creature enters, if you control an Outpost, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/101.png" num="101">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/101.png" num="103">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1912,7 +1937,7 @@ When this creature enters, if you control an Outpost, surveil 1. (Look at the to
 		<card>
 			<name>Duress</name>
 			<text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/102.png" num="87">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/102.png" num="89">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1930,7 +1955,7 @@ When this creature enters, if you control an Outpost, surveil 1. (Look at the to
 			<text>Choose one —
 • Target creature gets +2/+1 and gains lifelink until end of turn.
 • Target creature gets -4/-4 until end of turn. If that creature would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/103.png" num="107">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/103.png" num="109">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1965,7 +1990,7 @@ When this creature enters, if you control an Outpost, surveil 1. (Look at the to
 			<name>Brood Warden</name>
 			<text>When this creature enters, target creature gets +4/+0 until end of turn.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/105.png" num="117">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/105.png" num="120">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1982,7 +2007,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>Wreckage Raiders</name>
 			<text>{2}, {T}, Sacrifice an artifact or creature: Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/106.png" num="148">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/106.png" num="152">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2000,7 +2025,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 			<name>Field Expeditioners</name>
 			<text>You may strain this creature as it attacks. When you do, this creature gets +2/+1 until end of turn. (To strain, tap it then put a stun counter on it.)
 When this creature dies, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/107.png" num="123">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/107.png" num="126">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2013,11 +2038,12 @@ When this creature dies, create a Specimen token. (It&apos;s an artifact with &q
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Mission Coordinator</name>
 			<text>When this creature enters, create two 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/108.png" num="132">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/108.png" num="136">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2030,12 +2056,13 @@ When this creature dies, create a Specimen token. (It&apos;s an artifact with &q
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Smoldering Defiance</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Smoldering Defiance deals 1 damage to each of up to three target creatures. Those creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/109.png" num="142">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/109.png" num="146">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2053,7 +2080,7 @@ Smoldering Defiance deals 1 damage to each of up to three target creatures. Thos
 			<text>Choose one —
 • Abrade deals 3 damage to target creature.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/110.png" num="112">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/110.png" num="115">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2069,7 +2096,7 @@ Smoldering Defiance deals 1 damage to each of up to three target creatures. Thos
 		<card>
 			<name>Corrupted Monitor</name>
 			<text>Whenever this creature enters or attacks, exile up to one target card from a graveyard.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/111.png" num="227">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/111.png" num="232">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2085,7 +2112,7 @@ Smoldering Defiance deals 1 damage to each of up to three target creatures. Thos
 			<name>Hull Mechanic</name>
 			<text>{1}: Add one mana of any color. Activate only once each turn.
 {4}, Exile this card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/112.png" num="229">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/112.png" num="234">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2101,7 +2128,7 @@ Smoldering Defiance deals 1 damage to each of up to three target creatures. Thos
 			<name>Tri-Lateral Grenade</name>
 			<text>Flash
 {4}, {T}, Sacrifice this artifact: Tri-Lateral Grenade deals 4 damage to target creature.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/113.png" num="235">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/113.png" num="240">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2117,7 +2144,7 @@ Smoldering Defiance deals 1 damage to each of up to three target creatures. Thos
 			<text>Equipped creature gets +1/+1.
 Whenever equipped creature deals combat damage to a player, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/114.png" num="178">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/114.png" num="182">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2129,12 +2156,13 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Nurturing Mantisworm</name>
 			<text>{T}: Add {G}.
 {1}{G}, Sacrifice this creature: Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/115.png" num="173">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/115.png" num="177">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2152,7 +2180,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Arachnae Behemoth</name>
 			<text>Reach, trample
 This creature enters with two +1/+1 counters on it if you&apos;re desperate. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/116.png" num="151">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/116.png" num="155">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2170,7 +2198,7 @@ This creature enters with two +1/+1 counters on it if you&apos;re desperate. (Yo
 			<name>Unbound Subject</name>
 			<text>When this creature enters, experiment on each of up to three target creatures you control. (Add or remove a +1/+1 counter or a type of counter already on the target.)
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/117.png" num="184">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/117.png" num="189">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2187,7 +2215,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		<card>
 			<name>Broken Wings</name>
 			<text>Destroy target artifact, enchantment, or creature with flying.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/118.png" num="154">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/118.png" num="158">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2204,7 +2232,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>Organic Printer</name>
 			<text>{T}: Add {C}.
 {3}, {T}: Experiment on target creature you control. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/119.png" num="232">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/119.png" num="237">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2235,7 +2263,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>EMP Blast</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Strain each attacking creature. They get -2/-0 until end of turn. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/121.png" num="49">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/121.png" num="51">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2253,7 +2281,7 @@ Strain each attacking creature. They get -2/-0 until end of turn. (To strain, ta
 			<text>Choose one —
 • Return target creature card from your graveyard to the battlefield.
 • Create three 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/122.png" num="78">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/122.png" num="80">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2265,12 +2293,13 @@ Strain each attacking creature. They get -2/-0 until end of turn. (To strain, ta
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Sanguine Stalker</name>
 			<text>Reach
 Whenever another creature you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/123.png" num="138">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/123.png" num="142">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2288,7 +2317,7 @@ Whenever another creature you control enters, this creature deals 1 damage to ea
 			<name>Corpse Subsumer</name>
 			<text>Assimilate {5}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 When this creature enters, draw a card if a creature died this turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/124.png" num="160">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/124.png" num="164">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2305,7 +2334,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 		<card>
 			<name>Scour the Ruins</name>
 			<text>Surveil 2. Create a 1/1 colorless Drone artifact creature token with flying for each card you put into your graveyard this way, then draw a card for each card you kept on top. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/125.png" num="67">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/125.png" num="69">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2317,11 +2346,12 @@ When this creature enters, draw a card if a creature died this turn.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Commune With Evil</name>
 			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/126.png" num="83">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/126.png" num="85">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2339,7 +2369,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 			<text>Choose one —
 • Scorched Desolation deals 2 damage to any target.
 • Discard up to two cards, then draw that many cards.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/127.png" num="139">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/127.png" num="143">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2355,7 +2385,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 		<card>
 			<name>Despondent Colonists</name>
 			<text>You may strain this creature as it attacks. When you do, put a +1/+1 counter on it. Then up to one other target creature gets +X/+X until end of turn where X is the number of counters on this creature. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/128.png" num="163">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/128.png" num="167">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2370,7 +2400,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Artificial Warfront</name>
+			<name>Artificial Warfront OPZ</name>
 			<text>Create three 1/1 colorless Construct artifact creature tokens.</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/129.png" num="2">OPZ</set>
 			<prop>
@@ -2384,11 +2414,12 @@ When this creature enters, draw a card if a creature died this turn.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Cuphro Invasion</name>
 			<text>Whenever you attack, if you control a creature with power 4 or greater, draw a card. Then if you control a creature with power 7 or greater, each creature you control you control can&apos;t be blocked by more than one creature until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/130.png" num="162">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/130.png" num="166">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2406,7 +2437,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 			<text>Flash
 This creatures has flying if it hasn&apos;t dealt damage yet.
 When this creature enters, put a +1/+1 counter on each other creature you control.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/131.png" num="22">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/131.png" num="23">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2424,7 +2455,7 @@ When this creature enters, put a +1/+1 counter on each other creature you contro
 			<name>Consider the Cosmos</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Draw X cards, then discard a card.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/132.png" num="42">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/132.png" num="44">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2442,7 +2473,7 @@ Draw X cards, then discard a card.</text>
 			<text>Flying
 At the beginning of your upkeep, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Whenever a creature card enters your graveyard from anywhere other than the battlefield, you may pay life equal to its mana value. When you do, return that card to your hand.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/133.png" num="96">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/133.png" num="98">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2460,7 +2491,7 @@ Whenever a creature card enters your graveyard from anywhere other than the batt
 			<name>Agent of Retribution</name>
 			<text>Trample
 At the beginning of combat on your turn, this creature gets +1/+0 for each tapped creature you control.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/134.png" num="113">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/134.png" num="116">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2477,7 +2508,7 @@ At the beginning of combat on your turn, this creature gets +1/+0 for each tappe
 		<card>
 			<name>Enticing Discovery</name>
 			<text>Surveil 3, then you may reveal the top card of your library. If you reveal a land card this way, put it on the battlefield tapped, if you reveal a creature card this way, put it into your hand, otherwise put the card back on top of your library. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/135.png" num="164">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/135.png" num="168">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2493,7 +2524,7 @@ At the beginning of combat on your turn, this creature gets +1/+0 for each tappe
 		<card>
 			<name>Unearthly Encounter</name>
 			<text>Search your library for a basic land card. If you&apos;re desperate, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/136.png" num="185">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/136.png" num="190">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2510,7 +2541,7 @@ At the beginning of combat on your turn, this creature gets +1/+0 for each tappe
 			<name>Mutagen Spreader</name>
 			<text>Whenever another creature you control enters, experiment on up to one target creature that hasn&apos;t been experimented on this turn. (Add or remove a +1/+1 counter or a type of counter already on the target.)
 When you experiment on a creature you control, it gains flying and vigilance until end of turn.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/137.png" num="19">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/137.png" num="20">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2528,7 +2559,7 @@ When you experiment on a creature you control, it gains flying and vigilance unt
 			<name>Orchestrator of Wills</name>
 			<text>If you would draw a card, instead surveil 1 then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 Whenever a card is put into your graveyard from your hand, library, or from exile, you may pay {2}. If you do, put that card into your hand.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/138.png" num="59">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/138.png" num="61">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2546,7 +2577,7 @@ Whenever a card is put into your graveyard from your hand, library, or from exil
 			<name>Bravo-2, Ruthless Commando</name>
 			<text>Whenever you attack, creatures you control with power greater than their base power gain menace until end of turn.
 At the beginning of your end step, if you&apos;ve attacked this turn, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/139.png" num="81">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/139.png" num="83">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2559,12 +2590,13 @@ At the beginning of your end step, if you&apos;ve attacked this turn, create a 1
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Emberwing Emissary</name>
 			<text>Flying, haste
 Whenever this creature attacks, it deals 2 damage to each of up to three targets. If a creature dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/140.png" num="121">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/140.png" num="124">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2583,7 +2615,7 @@ Whenever this creature attacks, it deals 2 damage to each of up to three targets
 			<text>This creature enters with X +1/+1 counters on it.
 Remove two +1/+1 counters from this creature: Target creature can&apos;t block this turn.
 {1}, {T}: Put a +1/+1 counter on this creature.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/141.png" num="233">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/141.png" num="238">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2610,13 +2642,14 @@ Remove two +1/+1 counters from this creature: Target creature can&apos;t block t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Station Monitor</name>
 			<text>Flying
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast an instant or sorcery spell, strain target nonland permanent an opponent controls that hasn&apos;t been strained this turn. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/143.png" num="71">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/143.png" num="73">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2634,7 +2667,7 @@ Whenever you cast an instant or sorcery spell, strain target nonland permanent a
 			<name>Into the Pit</name>
 			<text>You may look at the top card of your library any time.
 You may cast spells from the top of your library by sacrificing a nonland permanent in addition to paying their other costs.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/144.png" num="94">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/144.png" num="96">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2651,7 +2684,7 @@ You may cast spells from the top of your library by sacrificing a nonland perman
 			<name>Lithura, Maiden of Fates</name>
 			<text>Assimilate {6}{B} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Whenever a creature you control deals combat damage to a player, exile the top card of that player&apos;s library face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/145.png" num="95">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/145.png" num="97">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2669,7 +2702,7 @@ Whenever a creature you control deals combat damage to a player, exile the top c
 			<name>Orbital Lift</name>
 			<text>Whenever you attack, put a charge counter on this artifact. If you attacked with three or more creatures, put two counters on it instead.
 {T}, Remove X charge counters from this artifact: Return target nonland permanent with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/146.png" num="23">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/146.png" num="24">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2686,7 +2719,7 @@ Whenever a creature you control deals combat damage to a player, exile the top c
 			<name>Shorecrasher Titan</name>
 			<text>Flash
 Whenever this creature attacks, for each spell you&apos;ve cast this turn, return up to one target nonland permanent an opponent controls to its owner&apos;s hand. If you&apos;ve cast three or more spells this turn, put those cards on top of their owner&apos;s libraries in a random order instead.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/147.png" num="68">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/147.png" num="70">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2704,7 +2737,7 @@ Whenever this creature attacks, for each spell you&apos;ve cast this turn, retur
 			<name>Reactor Ignition</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 You may cast up to two instant and/or sorcery spells with total mana value X or less from your graveyard and/or hand without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. Exile Reactor Ignition.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/148.png" num="137">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/148.png" num="141">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2722,7 +2755,7 @@ You may cast up to two instant and/or sorcery spells with total mana value X or 
 			<text>Flying
 Whenever this Vehicle enters or attacks, it deals damage to target creature or planeswalker an opponent controls equal to the number of artifact creatures you control.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/149.png" num="116">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/149.png" num="119">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2740,7 +2773,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<name>Heart of Astorethe</name>
 			<text>If you would experiment on a permanent you control, experiment on that permanent twice instead. (Add or remove a +1/+1 counter or a type of counter already on the target.)
 {2}{G}, {T}: Experiment on target permanent you control. You may have that target become a 0/0 Mutant creature in addition to its other types until end of turn. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/150.png" num="172">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/150.png" num="176">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2758,7 +2791,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<text>Assimilate {6}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Vigilance, trample, haste
 At the beginning of your end step, if you sacrificed a permanent this turn, create two 1/1 black Parasite creature tokens with &quot;This creature can&apos;t block.&quot;</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/151.png" num="165">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/151.png" num="169">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2771,12 +2804,13 @@ At the beginning of your end step, if you sacrificed a permanent this turn, crea
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Celestial Generator</name>
 			<text>{T}: Add {C}. Put a charge counter on this artifact.
 {T}, Remove X charge counters from this artifact: Look at the top X cards of your library. You may cast a spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/152.png" num="226">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/152.png" num="231">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2794,7 +2828,7 @@ At the beginning of your end step, if you sacrificed a permanent this turn, crea
 Catastrophe — {6}, Exile six cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Ground Zero</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/153_front.png" num="246a">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/153_front.png" num="251a">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2812,7 +2846,7 @@ Catastrophe — {6}, Exile six cards from your graveyard: Transform this land. A
 {T}: Add one mana of any color.
 ---
 (Front): Outpost Zero</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/153_back.png" num="246b">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/153_back.png" num="251b">OPZ</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2828,7 +2862,7 @@ Catastrophe — {6}, Exile six cards from your graveyard: Transform this land. A
 			<name>Deflector Operative</name>
 			<text>When this creature enters, strain target creature an opponent controls. (To strain, tap it then put a stun counter on it.)
 At the beginning of each end step, if you strained a permanent you don&apos;t control this turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/154.png" num="195">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/154.png" num="200">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2846,7 +2880,7 @@ At the beginning of each end step, if you strained a permanent you don&apos;t co
 			<name>Neon Enforcement</name>
 			<text>Strain up to two target nonland permanents. (To strain, tap it then put a stun counter on it.)
 Draw two cards, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/155.png" num="211">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/155.png" num="216">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2864,7 +2898,7 @@ Draw two cards, then discard a card.</text>
 			<text>Menace
 Whenever one or more cards leave your graveyard, draw a card. This ability triggers only once each turn.
 {1}{U}{B}, Exile a card from your graveyard: Put a +1/+1 counter on this creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/156.png" num="193">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/156.png" num="198">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,7 +2916,7 @@ Whenever one or more cards leave your graveyard, draw a card. This ability trigg
 			<name>Consuming Tide</name>
 			<text>As an additional cost to cast this spell, exile up to three cards from your graveyard.
 Draw two cards. Then discard a card unless three or more cards have left your graveyard this turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/157.png" num="194">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/157.png" num="199">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2899,7 +2933,7 @@ Draw two cards. Then discard a card unless three or more cards have left your gr
 			<name>Bravo-2 Contractee</name>
 			<text>When this creature enters, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot;
 Whenever you attack, up to one target creature you control with power greater than its toughness gains trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/158.png" num="189">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/158.png" num="194">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2912,11 +2946,12 @@ Whenever you attack, up to one target creature you control with power greater th
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Suppression Fire</name>
 			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. Excess damage is dealt to that creature&apos;s controller instead and you gain that much life.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/159.png" num="221">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/159.png" num="226">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2933,7 +2968,7 @@ Whenever you attack, up to one target creature you control with power greater th
 			<name>Exfiltration Coordinator</name>
 			<text>You may strain this creature as it attacks. When you do, it deals 1 damage to each opponent and each creature they control. (To strain, tap it then put a stun counter on it.)
 Whenever you strain a creature you control, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/160.png" num="200">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/160.png" num="205">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2950,7 +2985,7 @@ Whenever you strain a creature you control, this creature gets +1/+0 until end o
 		<card>
 			<name>Call to Action</name>
 			<text>Strain any number of attacking creatures you control. They each get +2/+0 and gain trample until end of turn. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/161.png" num="190">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/161.png" num="195">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2967,7 +3002,7 @@ Whenever you strain a creature you control, this creature gets +1/+0 until end o
 			<name>Luminescent Aberration</name>
 			<text>Creatures you control with +1/+1 counters have trample.
 {2}{G}{W}: Experiment on target creature you control. It gains lifelink until end of turn. Activate only as a sorcery. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/162.png" num="207">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/162.png" num="212">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2984,7 +3019,7 @@ Whenever you strain a creature you control, this creature gets +1/+0 until end o
 		<card>
 			<name>Genome Sequencing</name>
 			<text>At the beginning of combat on your turn, experiment on target nontoken creature you control with the least power or tied for the least power. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/163.png" num="203">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/163.png" num="208">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3001,7 +3036,7 @@ Whenever you strain a creature you control, this creature gets +1/+0 until end o
 			<name>Morphose Plague</name>
 			<text>Creatures you control gain lifelink and deathtouch until end of turn.
 At the beginning of the next end step, for each creature you controlled that died this turn, create a 1/1 black Parasite creature token with &quot;This creature can&apos;t block.&quot;</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/164.png" num="210">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/164.png" num="215">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3013,12 +3048,13 @@ At the beginning of the next end step, for each creature you controlled that die
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Bioweapon Engineers</name>
 			<text>Whenever a nontoken creature you control dies, create a 1/1 black Parasite creature token with &quot;This creature can&apos;t block.&quot;
 {B}, {T}, Sacrifice X tokens: Target creature gets -X/-X until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/165.png" num="187">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/165.png" num="192">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3031,12 +3067,13 @@ At the beginning of the next end step, for each creature you controlled that die
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
-			<name>Circuit Liberator</name>
+			<name>Circuit Liberator OPZ</name>
 			<text>When this creature enters, create a 1/1 colorless Construct artifact creature token.
 Artifact creatures you control have vigilance and prowess. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/166.png" num="192">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/166.png" num="197">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3049,12 +3086,13 @@ Artifact creatures you control have vigilance and prowess. (Whenever you cast a 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Galactic Rending</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Choose target creature. Draw two cards, then discard a card. Galactic Rending deals damage equal to the discarded card&apos;s mana value to that creature.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/167.png" num="202">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/167.png" num="207">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3072,7 +3110,7 @@ Choose target creature. Draw two cards, then discard a card. Galactic Rending de
 			<text>Assimilate {4}{B}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Trample
 This creature enters with a +1/+1 counter on it for each creature that died this turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/168.png" num="204">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/168.png" num="209">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3090,7 +3128,7 @@ This creature enters with a +1/+1 counter on it for each creature that died this
 			<name>Pathcutter Drone</name>
 			<text>Flying
 This creature and other artifact creatures you control enter with an additional +1/+1 counter.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/169.png" num="213">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/169.png" num="218">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3105,11 +3143,11 @@ This creature and other artifact creatures you control enter with an additional 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Razefire Raid</name>
+			<name>Razefire Raid OPZ</name>
 			<text>Choose one —
 • Create two 1/1 colorless Construct artifact creature tokens.
 • Razefire Raid deals 2 damage to any target and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/170.png" num="216">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/170.png" num="221">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3121,12 +3159,13 @@ This creature and other artifact creatures you control enter with an additional 
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Twilight Observer</name>
 			<text>Flying
 Whenever you surveil, put a +1/+1 counter on target creature. Then if this is the second time this ability has resolved this turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/171.png" num="222">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/171.png" num="227">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3144,7 +3183,7 @@ Whenever you surveil, put a +1/+1 counter on target creature. Then if this is th
 			<name>Vegetative Biopsy</name>
 			<text>You may look at an additional card each time you surveil.
 When this enchantment enters, surveil 1, then draw a card. You may put a land card from your hand or graveyard onto the battlefield tapped. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/172.png" num="223">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/172.png" num="228">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3161,7 +3200,7 @@ When this enchantment enters, surveil 1, then draw a card. You may put a land ca
 			<name>Lunar Bog</name>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped unless you control two or more other Plains and/or Swamps.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/173.png" num="244">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/173.png" num="249">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3177,7 +3216,7 @@ This land enters tapped unless you control two or more other Plains and/or Swamp
 			<name>Basaltic Reef</name>
 			<text>({T}: Add {U} or {R}.)
 This land enters tapped unless you control two or more other Islands and/or Mountains.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/174.png" num="237">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/174.png" num="242">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3193,7 +3232,7 @@ This land enters tapped unless you control two or more other Islands and/or Moun
 			<name>Luminous Fen</name>
 			<text>({T}: Add {B} or {G}.)
 This land enters tapped unless you control two or more other Swamps and/or Forests.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/175.png" num="243">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/175.png" num="248">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3209,7 +3248,7 @@ This land enters tapped unless you control two or more other Swamps and/or Fores
 			<name>Saltspire Expanse</name>
 			<text>({T}: Add {R} or {W}.)
 This land enters tapped unless you control two or more other Mountains and/or Plains.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/176.png" num="250">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/176.png" num="255">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3225,7 +3264,7 @@ This land enters tapped unless you control two or more other Mountains and/or Pl
 			<name>Cascading Grotto</name>
 			<text>({T}: Add {G} or {U}.)
 This land enters tapped unless you control two or more other Forests and/or Islands.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/177.png" num="239">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/177.png" num="244">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3241,7 +3280,7 @@ This land enters tapped unless you control two or more other Forests and/or Isla
 			<name>Null-Tide Seabed</name>
 			<text>({T}: Add {W} or {U}.)
 This land enters tapped unless you control two or more other Plains and/or Islands.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/178.png" num="245">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/178.png" num="250">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3257,7 +3296,7 @@ This land enters tapped unless you control two or more other Plains and/or Islan
 			<name>Tendril Quagmire</name>
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped unless you control two or more other Islands and/or Swamps.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/179.png" num="252">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/179.png" num="257">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3273,7 +3312,7 @@ This land enters tapped unless you control two or more other Islands and/or Swam
 			<name>Crimson Moor</name>
 			<text>({T}: Add {B} or {R}.)
 This land enters tapped unless you control two or more other Swamps and/or Mountains.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/180.png" num="240">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/180.png" num="245">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3289,7 +3328,7 @@ This land enters tapped unless you control two or more other Swamps and/or Mount
 			<name>Brewing Crag</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped unless you control two or more other Mountains and/or Forests.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/181.png" num="238">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/181.png" num="243">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3305,7 +3344,7 @@ This land enters tapped unless you control two or more other Mountains and/or Fo
 			<name>Stillgrove Narrows</name>
 			<text>({T}: Add {G} or {W}.)
 This land enters tapped unless you control two or more other Forests and/or Plains.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/182.png" num="251">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/182.png" num="256">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3322,7 +3361,7 @@ This land enters tapped unless you control two or more other Forests and/or Plai
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
 When this card leaves your graveyard, you may pay {2}. When you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/183.png" num="38">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/183.png" num="40">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3340,7 +3379,7 @@ When this card leaves your graveyard, you may pay {2}. When you do, draw a card.
 			<name>Agricultural Analysis</name>
 			<text>Search your library for a basic land or Outpost card and put it onto the battlefield tapped. Then shuffle.
 When this card leaves your graveyard, you may pay {2}. When you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/184.png" num="149">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/184.png" num="153">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3357,7 +3396,7 @@ When this card leaves your graveyard, you may pay {2}. When you do, draw a card.
 			<name>Militech Analysis</name>
 			<text>Militech Analysis deals 3 damage to target creature or planeswalker.
 When this card leaves your graveyard, you may pay {2}. When you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/185.png" num="130">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/185.png" num="134">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3375,7 +3414,7 @@ When this card leaves your graveyard, you may pay {2}. When you do, draw a card.
 			<text>Enchant creature
 Enchanted creature loses all abilities and has base power and toughness 0/4.
 When an Outpost you control transforms, sacrifice this enchantment and gain control of enchanted creature.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/186.png" num="43">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/186.png" num="45">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3394,7 +3433,7 @@ When an Outpost you control transforms, sacrifice this enchantment and gain cont
 • Search your library for an Outpost card and put it into your hand, then shuffle.
 • Put an Outpost card from your hand onto the battlefield.
 • Add {G}{U}{R}. Spend this mana only to activate an ability of an Outpost.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/187.png" num="158">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/187.png" num="162">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3411,7 +3450,7 @@ When an Outpost you control transforms, sacrifice this enchantment and gain cont
 			<name>Devastating Blast</name>
 			<text>Devastating Blast deals X damage to each creature and each planeswalker.
 Add X mana of any one color. Spend this mana only to activate abilities of Outposts.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/188.png" num="119">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/188.png" num="122">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3428,7 +3467,7 @@ Add X mana of any one color. Spend this mana only to activate abilities of Outpo
 			<name>Insatiable Petrifier</name>
 			<text>Assimilate {5}{B}{B} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 When this creature enters, up to one target creature you don&apos;t control becomes an artifact. (It loses all other types.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/189.png" num="93">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/189.png" num="95">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3446,7 +3485,7 @@ When this creature enters, up to one target creature you don&apos;t control beco
 			<name>Origin Stone Shard</name>
 			<text>When this artifact enters, if it was cast, return up to one target creature to its owner&apos;s hand.
 {2}, {T}, Sacrifice this artifact: Surveil 1 then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/190.png" num="60">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/190.png" num="62">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3463,7 +3502,7 @@ When this creature enters, up to one target creature you don&apos;t control beco
 			<name>Fallback Plan</name>
 			<text>As long as you control exactly one creature, that creature gets +2/+0 and has menace and lifelink.
 {3}{B}, Sacrifice this enchantment: Put target creature card from your graveyard onto the battlefield under your control. Activate this ability only as a sorcery and only if you control no creatures.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/191.png" num="90">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/191.png" num="92">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3479,7 +3518,7 @@ When this creature enters, up to one target creature you don&apos;t control beco
 		<card>
 			<name>Tundra Lurker</name>
 			<text>Whenever you experiment on a creature you control, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/192.png" num="37">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/192.png" num="38">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3497,7 +3536,7 @@ When this creature enters, up to one target creature you don&apos;t control beco
 			<name>Omen of Contagion</name>
 			<text>Flying
 Attacking tokens you control get +1/+0 and have lifelink.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/193.png" num="20">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/193.png" num="21">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3515,7 +3554,7 @@ Attacking tokens you control get +1/+0 and have lifelink.</text>
 			<name>Orbital Crash</name>
 			<text>Strain target nonland permanent. If that permanent has two or more stun counters on it, destroy it. (To strain, tap it then put a stun counter on it.)
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/194.png" num="21">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/194.png" num="22">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3532,7 +3571,7 @@ Draw a card.</text>
 			<name>Telemagnetic Assault</name>
 			<text>Telemagnetic Assault deals 3 damage to target attacking or blocking creature.
 Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/195.png" num="33">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/195.png" num="34">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3544,13 +3583,14 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Kinetic Shieldbearer</name>
 			<text>Vigilance
 Whenever this creature attacks, you may pay {2}{U}. When you do, strain up to one target creature. (To strain, tap it then put a stun counter on it.)
 Whenever you strain a permanent you don&apos;t control, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/196.png" num="53">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/196.png" num="55">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3567,7 +3607,7 @@ Whenever you strain a permanent you don&apos;t control, put a +1/+1 counter on t
 		<card>
 			<name>Hapless Innovators</name>
 			<text>When this creature enters, you may search your library for an artifact card, reveal it, then shuffle. Put that card into your hand if you control a Symbiote. Otherwise, put that card on top of your library.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/197.png" num="51">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/197.png" num="53">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3585,7 +3625,7 @@ Whenever you strain a permanent you don&apos;t control, put a +1/+1 counter on t
 			<name>Intensive Study</name>
 			<text>Enchant creature
 At the beginning of combat on your turn, put a time counter on this enchantment. Then experiment on enchanted creature once for every time counter on this enchantment. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/198.png" num="52">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/198.png" num="54">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3602,7 +3642,7 @@ At the beginning of combat on your turn, put a time counter on this enchantment.
 			<name>Twincannon Warbot</name>
 			<text>This creature enters with a double strike counter on it.
 Remove a double strike counter from this attacking creature: Untap all attacking creatures. After this phase, there is an additional combat phase. Activate only during your combat phase.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/199.png" num="147">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/199.png" num="151">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3620,7 +3660,7 @@ Remove a double strike counter from this attacking creature: Untap all attacking
 			<name>Undead Bioroid</name>
 			<text>Menace
 At the beginning of each end step, each opponent loses 2 life if you&apos;re desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. (You&apos;re desperate if you&apos;ve discarded a card, lost three or more life, or a permanent died under your control this turn. You&apos;re fully desperate if you&apos;ve done all three.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/200.png" num="109">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/200.png" num="112">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3638,7 +3678,7 @@ At the beginning of each end step, each opponent loses 2 life if you&apos;re des
 			<name>Abandon Ship</name>
 			<text>Up to one target non-Symbiote creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
 Destroy all creatures.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/201.png" num="186">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/201.png" num="191">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3655,7 +3695,7 @@ Destroy all creatures.</text>
 			<name>Creeping Scavenger</name>
 			<text>Assimilate {4}{B} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on this creature. If three or more creatures died this turn, also draw a card.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/202.png" num="84">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/202.png" num="86">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3689,8 +3729,8 @@ At the beginning of your end step, put a +1/+1 counter on this creature for each
 		</card>
 		<card>
 			<name>Hardened Commando</name>
-			<text>Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it&apos;s mana value is less than or equal to this creature&apos;s power. Otherwise, you may put it into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/204.png" num="92">OPZ</set>
+			<text>Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it&apos;s mana value is less than or equal to this creature&apos;s power. If you do, you lose life equal to that card&apos;s mana value. Otherwise, put it into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/204.png" num="94">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3711,7 +3751,7 @@ At the beginning of your end step, put a +1/+1 counter on this creature for each
 • Target player loses 3 life.
 • Target player sacrifices a creature.
 • Shuffle this enchantment into its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/205.png" num="85">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/205.png" num="87">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3730,7 +3770,7 @@ At the beginning of your end step, put a +1/+1 counter on this creature for each
 You may assimilate Xathyz from exile.
 Assimilate {6}{B}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 When Xathyz enters, you may move any number of counters from Symbiotes you control onto her.</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/206.png" num="224">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/206.png" num="229">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3748,7 +3788,7 @@ When Xathyz enters, you may move any number of counters from Symbiotes you contr
 			<name>Blackmarket Orchestrator</name>
 			<text>{3}{B}, Sacrifice a creature: Draw a card.
 At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Mercenary creature token with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot; (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/207.png" num="80">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/207.png" num="82">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3761,11 +3801,12 @@ At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Me
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Mobile Containment Unit</name>
 			<text>When this creature dies, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/208.png" num="133">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/208.png" num="137">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3778,11 +3819,12 @@ At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Me
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Crisis Assayer</name>
 			<text>When this creature enters, surveil 3, then you may return an instant, sorcery, or artifact card that entered your graveyard this way from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/209.png" num="45">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/209.png" num="47">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3801,7 +3843,7 @@ At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Me
 			<text>Enchant creature
 When this Aura enters, strain enchanted creature. (To strain, tap it then put a stun counter on it.)
 {2}{W}: Exile enchanted creature. When you do, create two 1/1 black Parasite creature tokens with &quot;This creature can&apos;t block.&quot;</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/210.png" num="34">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/210.png" num="35">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3813,12 +3855,13 @@ When this Aura enters, strain enchanted creature. (To strain, tap it then put a 
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Relentless Miscreant</name>
 			<text>Trample
 {1}, Remove a stun counter from a creature you control: Put a +1/+1 counter on that creature.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/211.png" num="177">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/211.png" num="181">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3836,7 +3879,7 @@ When this Aura enters, strain enchanted creature. (To strain, tap it then put a 
 			<name>Climactic Rebuke</name>
 			<text>This spell costs {U} less to cast if any player is desperate. (They&apos;re desperate if they&apos;ve discarded a card, lost 3 or more life, or a permanent died under their control this turn.)
 Counter target spell.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/212.png" num="41">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/212.png" num="43">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3853,7 +3896,7 @@ Counter target spell.</text>
 			<name>Eldritch Summoning</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Choose target creature card in your graveyard with mana value equal to or less than 1 plus the sacrificed creature&apos;s mana value. Return the chosen card the battlefield with a menace counter on it.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/213.png" num="88">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/213.png" num="90">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3871,7 +3914,7 @@ Choose target creature card in your graveyard with mana value equal to or less t
 			<text>When this artifact enters, strain target creature you don&apos;t control then experiment on it. (To strain, tap it then put a stun counter on it. Add or remove a +1/+1 counter or a type of counter already on the target.)
 Equipped creature can&apos;t be blocked by creatures with greater power.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/214.png" num="73">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/214.png" num="75">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3889,7 +3932,7 @@ Equip {2}</text>
 			<text>When this artifact enters, it deals deals 4 damage to target creature. If that creature would die this turn, exile it instead.
 Equipped creature gets +2/+0.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/215.png" num="135">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/215.png" num="139">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3906,7 +3949,7 @@ Equip {2}</text>
 			<name>Intel Breach</name>
 			<text>This spell costs {2} less to cast if any player is desperate. (They&apos;re desperate if they&apos;ve discarded a card, lost 3 or more life, or a permanent died under their control this turn.)
 Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/216.png" num="128">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/216.png" num="132">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3924,7 +3967,7 @@ Exile the top two cards of your library. Until the end of your next turn, you ma
 			<text>Assimilate {3}{B}{G}{U} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 You may have other artifacts and creatures you control enter as copies of this creature except they don&apos;t have this ability.
 Other Symbiotes you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/217.png" num="214">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/217.png" num="219">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3942,7 +3985,7 @@ Other Symbiotes you control get +1/+1.</text>
 			<name>Scallia, Primal Morphling</name>
 			<text>Whenever Scallia attacks, she deals damage equal to her power to any target.
 Tap three untapped mercenaries you control: Return this card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/218.png" num="218">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/218.png" num="223">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3960,7 +4003,7 @@ Tap three untapped mercenaries you control: Return this card from your graveyard
 			<name>Invader Construct</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Flying, trample</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/219.png" num="230">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/219.png" num="235">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3976,7 +4019,7 @@ Flying, trample</text>
 			<name>Predacious Bristleback</name>
 			<text>Trample
 You may strain this creature as it attacks. When you do, it fights target creature. Excess damage is dealt to that creature&apos;s controller instead. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/220.png" num="175">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/220.png" num="179">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3994,7 +4037,7 @@ You may strain this creature as it attacks. When you do, it fights target creatu
 			<name>Parsec Tactician</name>
 			<text>First strike
 Spell cast from anywhere other than a players hand cost {2} more to cast.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/221.png" num="24">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/221.png" num="25">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4014,7 +4057,7 @@ Spell cast from anywhere other than a players hand cost {2} more to cast.</text>
 [+1]: Look at the top two cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 [0]: Add {G}{G}. Spend this mana only to cast creature spells.
 [-6]: Creatures you control get +3/+3 and gain vigilance, trample, and indestructible until end of turn.</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/222.png" num="169">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/222.png" num="173">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4032,7 +4075,7 @@ Spell cast from anywhere other than a players hand cost {2} more to cast.</text>
 			<name>Stellar Phoenix</name>
 			<text>Flying, haste
 Whenever you attack, you may pay {R}{R} and strain an attacking creature you control. If you do, return this card from your graveyard to the battlefield tapped and attacking. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/223.png" num="143">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/223.png" num="147">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4049,7 +4092,7 @@ Whenever you attack, you may pay {R}{R} and strain an attacking creature you con
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/224.png" num="268">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/224.png" num="273">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4064,7 +4107,7 @@ Whenever you attack, you may pay {R}{R} and strain an attacking creature you con
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/225.png" num="269">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/225.png" num="274">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4079,7 +4122,7 @@ Whenever you attack, you may pay {R}{R} and strain an attacking creature you con
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/226.png" num="266">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/226.png" num="271">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4094,7 +4137,7 @@ Whenever you attack, you may pay {R}{R} and strain an attacking creature you con
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/227.png" num="267">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/227.png" num="272">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4109,7 +4152,7 @@ Whenever you attack, you may pay {R}{R} and strain an attacking creature you con
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/228.png" num="265">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/228.png" num="270">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4125,7 +4168,7 @@ Whenever you attack, you may pay {R}{R} and strain an attacking creature you con
 			<name>Primordial Shaper</name>
 			<text>As long as you control seven or more differently named lands, Primordial Shaper has hexproof and indestructible.
 At the beginning of combat on your turn, for each color, choose one land you control that can produce mana of that color. Put a +1/+1 counter on each of those lands. They become 0/0 Elemental creatures with haste and indestructible until end of turn. They&apos;re still lands.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/229.png" num="215">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/229.png" num="220">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4143,7 +4186,7 @@ At the beginning of combat on your turn, for each color, choose one land you con
 			<name>Mori-Bloom</name>
 			<text>Destroy target creature.
 {1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/230.png" num="98">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/230.png" num="100">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4161,7 +4204,7 @@ At the beginning of combat on your turn, for each color, choose one land you con
 			<text>As this enchantment enters, choose a nonland card name.
 Spells with the chosen name cost {3} more to cast.
 When an opponent casts a spell with the chosen name, you draw a card.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/231.png" num="63">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/231.png" num="65">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4180,7 +4223,7 @@ When an opponent casts a spell with the chosen name, you draw a card.</text>
 When this creature enters, choose one—
 • Exile target spell with three time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of its owner&apos;s upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it&apos;s a creature, it has haste.)
 • Strain target creature three times.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/232.png" num="212">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/232.png" num="217">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4197,7 +4240,7 @@ When this creature enters, choose one—
 		<card>
 			<name>Spec-Ops Forerunner</name>
 			<text>You may strain this creature as it attacks. When you do, it gets +1/+1 until end of turn and can&apos;t be blocked by creatures with power 2 or less this turn. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/233.png" num="179">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/233.png" num="183">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4214,7 +4257,7 @@ When this creature enters, choose one—
 		<card>
 			<name>Homogeneous Vessel</name>
 			<text>When this creature enters and when you sacrifice it, look at the top two cards of your library, then put one into your hand and the other into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/234.png" num="205">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/234.png" num="210">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4231,7 +4274,7 @@ When this creature enters, choose one—
 		<card>
 			<name>Synthesis Volunteer</name>
 			<text>When this creature enters, create a 3/3 green Beast creature token. Then if you&apos;re desperate, put a +1/+1 counter on that token. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/235.png" num="182">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/235.png" num="186">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4244,12 +4287,13 @@ When this creature enters, choose one—
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Beast OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Unwitting Host</name>
 			<text>When this creature enters, each player discards a card. If you discarded a card this way, draw a card and create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)
 When you sacrifice this creature, create a 2/2 black Horror creature token.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/236.png" num="110">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/236.png" num="113">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4262,12 +4306,14 @@ When you sacrifice this creature, create a 2/2 black Horror creature token.</tex
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse_related>Horror OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Temporal Harness</name>
 			<text>Imprint — Whenever you cast an instant or sorcery spell from your hand, exile it instead of putting it into a graveyard as it resolves.
 Once during each of your turns, you may cast a card exiled with this artifact. (You still pay its costs.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/237.png" num="234">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/237.png" num="239">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4282,7 +4328,7 @@ Once during each of your turns, you may cast a card exiled with this artifact. (
 			<name>Arboreal Sinewvine</name>
 			<text>Whenever you attack, create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)
 Specimens you control have &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/238.png" num="152">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/238.png" num="156">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4295,13 +4341,14 @@ Specimens you control have &quot;{T}, Sacrifice this artifact: Add one mana of a
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
-			<name>Enforcer&apos;s Assault Rifle</name>
+			<name>Enforcer&apos;s Assault Rifle OPZ</name>
 			<text>When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
-Equipped creature gets +2/+0, has trample, and has &quot;When this creature dies, it deals 1 damage to any target.&quot;
+Equipped creature gets +2/+0 and has &quot;When this creature dies, it deals 1 damage to any target.&quot;
 Equip {R}</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/239.png" num="122">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/239.png" num="125">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4313,6 +4360,7 @@ Equip {R}</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Slipstream Infiltrator</name>
@@ -4320,7 +4368,7 @@ Equip {R}</text>
 • Draw a card, then discard a card.
 • Put a +1/+1 counter on this creature.
 • This creature can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/240.png" num="69">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/240.png" num="71">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4338,7 +4386,7 @@ Equip {R}</text>
 			<name>Kinetic Vanguard</name>
 			<text>Defender
 {1}, Sacrifice this creature: Target creature you control gains indestructible until end of turn. Experiment on that creature. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/241.png" num="16">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/241.png" num="17">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4355,7 +4403,7 @@ Equip {R}</text>
 		<card>
 			<name>Pitiless Peacekeeper</name>
 			<text>{2}{W}, {T}: Tap target creature. You may strain it. If you do, strain this creature. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/242.png" num="25">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/242.png" num="26">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4410,7 +4458,7 @@ Equip {3}</text>
 			<name>City Outbreak</name>
 			<text>As an additional cost to cast this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.
 Each opponent sacrifices a creature.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/245.png" num="82">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/245.png" num="84">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4426,7 +4474,7 @@ Each opponent sacrifices a creature.</text>
 		<card>
 			<name>Operative Reactivation</name>
 			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield under its owner&apos;s control and strain it.&quot; (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/246.png" num="100">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/246.png" num="102">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4443,7 +4491,7 @@ Each opponent sacrifices a creature.</text>
 			<name>Skyline Enforcer</name>
 			<text>Flying
 Whenever an artifact creature you control deals combat damage to a player, put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/247.png" num="141">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/247.png" num="145">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4461,7 +4509,7 @@ Whenever an artifact creature you control deals combat damage to a player, put a
 			<name>Hive Queen</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
 Whenever you attack, you may sacrifice a creature or discard a card. If you do, draw a card and this creature gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/248.png" num="125">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/248.png" num="128">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4479,7 +4527,7 @@ Whenever you attack, you may sacrifice a creature or discard a card. If you do, 
 			<name>Infernal Ravager</name>
 			<text>Trample, haste
 Whenever this creature attacks, if you&apos;re desperate, it deals 1 damage to target player and each creature that player controls. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/249.png" num="127">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/249.png" num="130">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4496,7 +4544,7 @@ Whenever this creature attacks, if you&apos;re desperate, it deals 1 damage to t
 		<card>
 			<name>Lab Infiltration</name>
 			<text>Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and &quot;Whenever this creature deals combat damage to a player, create a Specimen token.&quot; (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery.&quot; To experiment, add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/250.png" num="129">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/250.png" num="133">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4508,13 +4556,14 @@ Whenever this creature attacks, if you&apos;re desperate, it deals 1 damage to t
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Specimen OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Forged Recluse</name>
 			<text>Defender, reach
 Whenever you surveil, put a +1/+1 counter on this creature.
 As long as this creature has three or more +1/+1 counters on it, it can attack as though it didn&apos;t have defender.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/251.png" num="167">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/251.png" num="171">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4531,7 +4580,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 		<card>
 			<name>Cunning Tactics</name>
 			<text>Target creature you control gets +2/+2 until end of turn. You may strain that creature. When you do, it gains trample, hexproof, and indestructible until end of turn. (To strain, tap it then put a stun counter on it.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/252.png" num="161">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/252.png" num="165">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4547,7 +4596,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 		<card>
 			<name>Ancient Awakening</name>
 			<text>Surveil 2, then return a creature card and a land card from your graveyard to your hand. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/253.png" num="150">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/253.png" num="154">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4563,7 +4612,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 		<card>
 			<name>Astral Strategist</name>
 			<text>You may strain this creature as it attacks. When you do, it can&apos;t be blocked this turn and you surveil 1. (To strain, tap it then put a stun counter on it. To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/254.png" num="225">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/254.png" num="230">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4579,7 +4628,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 			<name>Multi-Point Waygate</name>
 			<text>{2}, {T}: Exile target creature you control.
 {4}, {T}, Sacrifice this artifact: Return each creature card exiled with this artifact to the battlefield under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/255.png" num="231">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/255.png" num="236">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4594,7 +4643,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 			<name>Ensnaring Matrix</name>
 			<text>{T}, Sacrifice a creature: Put a charge counter on this artifact.
 {5}, {T}: Draw a card. This ability costs {1} less for each charge counter on this artifact.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/256.png" num="228">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/256.png" num="233">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4610,7 +4659,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 			<text>[+1]: Until your next turn, whenever a creature an opponent controls enters, strain it. (To strain, tap it then put a stun counter on it.)
 [-1]: Draw a card. Then discard a card unless you attacked this turn.
 [-7]: You get an emblem with &quot;Whenever a creature you control deals combat damage to a player, draw that many cards.&quot;</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/257.png" num="209">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/257.png" num="214">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4629,7 +4678,7 @@ As long as this creature has three or more +1/+1 counters on it, it can attack a
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Double strike, vigilance, trample
 This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/258.png" num="26">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/258.png" num="27">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4647,7 +4696,7 @@ This creature enters with a shield counter on it. (If it would be dealt damage o
 			<name>Feasting Skittermaw</name>
 			<text>At the beginning of each end step, put a +1/+1 counter on each creature you control for each player that is desperate. (You&apos;re desperate if you&apos;ve discarded a card, lost 3 or more life, or a nonland permanent died under your control this turn.)
 Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on this creature.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/259.png" num="166">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/259.png" num="170">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4666,7 +4715,7 @@ Whenever a creature you control leaves the battlefield, if it had counters on it
 			<text>Haste
 You may strain Keilan as she attacks. (To strain, tap it then put a stun counter on it.)
 Whenever you strain a creature you control, add {R}{G}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/260.png" num="206">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/260.png" num="211">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4684,7 +4733,7 @@ Whenever you strain a creature you control, add {R}{G}. Until end of turn, you d
 			<name>Sterile Synthesis</name>
 			<text>You may exile any number of creature cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.
 Search your library for up to two creature cards, each with mana value 3 or less. Reveal them. Put one of them onto the battlefield, put the other into your hand, and then shuffle.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/261.png" num="220">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/261.png" num="225">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4701,7 +4750,7 @@ Search your library for up to two creature cards, each with mana value 3 or less
 			<name>Malignant Venomwing</name>
 			<text>Flying, deathtouch
 Whenever you attack, experiment on each attacking creature. For each counter you remove this way, create a 1/1 black Parasite creature token with &quot;This creature can&apos;t block.&quot; (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/262.png" num="208">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/262.png" num="213">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4714,6 +4763,7 @@ Whenever you attack, experiment on each attacking creature. For each counter you
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Horror OPZ</name>
@@ -4738,7 +4788,7 @@ Whenever you attack, experiment on each attacking creature. For each counter you
 			<text>Vigilance, lifelink
 Creature tokens you control get +1/+1.
 Whenever another nontoken creature you control dies, create a 1/1 black Parasite creature token with &quot;This creature can&apos;t block.&quot;</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/264.png" num="219">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/264.png" num="224">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4751,12 +4801,13 @@ Whenever another nontoken creature you control dies, create a 1/1 black Parasite
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Parasite OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Evelyn, Battle Calculatrix</name>
 			<text>Noncreature spells you cast have improvise. (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Whenever you cast your second spell each turn, put a +1/+1 counter on Evelyn and draw a card.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/265.png" num="199">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/265.png" num="204">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4774,7 +4825,7 @@ Whenever you cast your second spell each turn, put a +1/+1 counter on Evelyn and
 			<name>Dread Reaper</name>
 			<text>Assimilate {5}{B}{G} (You may cast this spell from your graveyard by sacrificing a creature and paying the assimilate cost reduced by that creature&apos;s mana value. It enters with a finality counter.)
 Whenever a player is dealt combat damage, they mill that many cards. For each creature card put into a graveyard this way, put a +1/+1 counter on this creature and each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/266.png" num="197">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/266.png" num="202">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4793,7 +4844,7 @@ Whenever a player is dealt combat damage, they mill that many cards. For each cr
 			<text>Flying, haste
 Other artifact creatures you control have haste.
 Whenever this creature attacks, it deals damage equal to the number of attacking artifact creatures you control to target opponent.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/267.png" num="188">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/267.png" num="193">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4811,7 +4862,7 @@ Whenever this creature attacks, it deals damage equal to the number of attacking
 			<name>Eldritch Haruspex</name>
 			<text>At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Once each turn, you may put a land card from among cards you are looking at while surveiling onto the battlefield.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/268.png" num="198">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/268.png" num="203">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4829,7 +4880,7 @@ Once each turn, you may put a land card from among cards you are looking at whil
 			<name>Fluxreactor Manticore</name>
 			<text>Menace, haste
 Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. Then this creature deals damage equal to the number of counters on it to each opponent. You gain that much life.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/269.png" num="201">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/269.png" num="206">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4847,7 +4898,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. The
 			<name>Relentless Raid</name>
 			<text>Untap all creatures you control. If it&apos;s your combat phase, there is an additional main phase after this phase followed by an additional combat phase.
 Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.&quot; They gain haste until end of turn.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/270.png" num="217">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/270.png" num="222">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4859,6 +4910,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 				<coloridentity>WBR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Mercenary OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Maxine, Cynical Renegade OPZ</name>
@@ -4876,13 +4928,13 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 			<token>1</token>
 		</card>
 		<card>
-			<name>Horror OPZ</name>
+			<name>Leviathan OPZ</name>
 			<text>Hexproof</text>
 			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/272.png" num="1">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Horror</type>
+				<type>Token Creature — Leviathan</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4895,10 +4947,10 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 		</card>
 		<card>
 			<name>Charim Kosta, Hullraider</name>
-			<text>[+1]: Up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
+			<text>[+1]: Until end of turn, up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
 [-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
 [-X]:</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/273.png" num="191">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/273.png" num="196">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4917,7 +4969,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 			<text>Vigilance, reach, trample, haste
 When D&apos;Emil enters, create two 1/1 colorless Drone artifact creature tokens with flying.
 At the beginning of your end step, if an attacking creature died this turn, draw a card and put two +1/+1 counters on D&apos;Emil.</text>
-			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/274.png" num="196">OPZ</set>
+			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/274.png" num="201">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4930,11 +4982,12 @@ At the beginning of your end step, if an attacking creature died this turn, draw
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Drone OPZ</reverse_related>
 		</card>
 		<card>
 			<name>Moira, Rapid Adapter</name>
 			<text>Creatures you control dying causes their triggered abilities to trigger as though they had entered.</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/275.png" num="18">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/275.png" num="19">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4952,7 +5005,7 @@ At the beginning of your end step, if an attacking creature died this turn, draw
 			<name>Nanotech Pilferer</name>
 			<text>Flash
 You may have this creature enter as a copy of any artifact or creature on the battlefield, except it&apos;s an artifact creature in addition to its other types, it has flying, and it&apos;s X/X where X is the mana value of the copied permanent.</text>
-			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/276.png" num="56">OPZ</set>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/276.png" num="58">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4970,7 +5023,7 @@ You may have this creature enter as a copy of any artifact or creature on the ba
 			<name>Synthetic Kobold</name>
 			<text>When this creature enters, distribute two +1/+1 counters among up to two target creatures.
 Each creature you control with a +1/+1 counter on it has trample.</text>
-			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/277.png" num="183">OPZ</set>
+			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/277.png" num="187">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4983,6 +5036,96 @@ Each creature you control with a +1/+1 counter on it has trample.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elion Nexus</name>
+			<text>Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+[level 10+] Flying, vigilance [5/6]</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/278.png" num="13">OPZ</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Surveilance Nexus</name>
+			<text>Whenever this Spacecraft enters or attacks, target opponent discards two cards. If fewer than two cards were discarded this way, draw a card.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+[level 8+] Flying, menace [6/6]</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/279.png" num="110">OPZ</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jumpship Nexus</name>
+			<text>Whenever this Spacecraft enters or attacks, create a 0/0 colorless Construct artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+[level 10+] Flying, ward {2} [5/5]</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/280.png" num="39">OPZ</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terra Nexus</name>
+			<text>Whenever this Spacecraft enters or attacks, mill three cards, then return up to two land cards from your graveyard to the battlefield tapped.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+[level 8+] Flying, trample [6/6]</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/281.png" num="188">OPZ</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ingenuity Nexus</name>
+			<text>Whenever this Spacecraft enters or attacks, creatures you control get +2/+0 until end of turn.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+[level 10+] Flying, double strike [3/5]</text>
+			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/282.png" num="131">OPZ</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

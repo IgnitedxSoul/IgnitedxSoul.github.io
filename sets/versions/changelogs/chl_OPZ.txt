@@ -1,4 +1,568 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Leviathan added.
+Synthetic Kobold added.
+Elion Nexus added.
+Surveilance Nexus added.
+Jumpship Nexus added.
+Terra Nexus added.
+Ingenuity Nexus added.
+
+Houkkipi Scavengers removed.
+Horror removed.
+
+Portent Resonance
+
+Taloncrawler
+
+Renegade Academy
+
+Voyager Station
+
+Plithium Quarry
+
+Innovative Hangar
+
+Proto-Genesis Jellyfish
+
+Ambitious Lab Techs
+
+Targeted Strike
+
+Acrid Chiropteran
+
+Steamcaller
+
+Haunting Amalgamate
+
+Stalking Wispbeast
+
+Rothmas Scouts
+
+Transferred Soul
+
+Keen-Eyed Engineer
+
+Digital Reconstruction
+
+City Sweep
+
+Servitor Drone
+
+Expanse Runners
+
+Gleaming Kite
+
+Swift Response
+
+Convening Nomad
+rules_text: {1}, Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery. => When this creature dies, if it wasn't sacrificed, draw a card.
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.
+pt: 2/2 => 1/2
+
+Cryo Chamber
+
+Containment Breach
+
+Mistweaver
+
+Overwatch Sentinel
+
+Observation Crew
+
+Manifested Chimera
+
+Disposal Personnel
+
+Android Maintenance
+
+Don't Make a Sound
+
+Frigid Pass Officers
+
+Splinter Brute
+
+Painful Excision
+
+Nimble Crewmate
+
+Extraction Team
+
+Aerial Heistman
+
+Ava, Ignominious Executive
+
+Disfigure
+
+Remote Disintegration
+
+Recovery Mission
+
+Frightened Trainee
+
+Mining Rig
+
+Thrill of Possibility
+
+Tactical Breach
+
+Frontline Dropship
+
+Construction Bot
+
+Pyroclastic Crewmate
+
+Ops Pointman
+
+Drone Operator
+
+Skittering Swarm
+
+Incinerating Blast
+
+Ambush Drone
+
+Biogenic Upgrade
+
+Brush Surveyor
+
+Consuming Polyp
+
+Spontaneous Outburst
+
+Brutal Acquisition
+
+Rapid Incubation
+
+Beast
+
+Poison Whip-Tail
+
+Burgeoning Ascomycota
+
+Radar Glade
+
+Whirring Surveyor
+
+Agile Furrowite
+
+Profound Discovery
+
+Methodical Infantry
+
+Anti-Aerial Crawler
+
+Hazard Enviro-Mech
+
+Plithium Processing Plant
+
+Buoyant Bay Port
+
+Bismuth Flats
+
+Shielding Dome
+
+Charging Octomare
+
+Levicycle Courier
+
+Sudden Evacuation
+
+Navigator Core
+
+Watcher in the Void
+
+Digitized Duo
+
+Cultivation Platforms
+
+Wetland Botany Lab
+
+Glacial Mill
+
+Isle of Prophecy
+
+Cavern of Piety
+
+Auroral Cliffs
+
+Precursor Colony
+
+Veylid Reliquary
+
+Salvage Hunter
+
+Tremor Spikeworm
+
+Stasis Field
+
+Quell Rebellion
+
+Scarab Behemoth
+
+Afflicted Researcher
+
+Void Specter
+
+Outskirts Prowler
+
+Duress
+
+Subjugation
+
+Parasite
+
+Brood Warden
+
+Wreckage Raiders
+
+Field Expeditioners
+
+Mission Coordinator
+
+Smoldering Defiance
+
+Abrade
+
+Corrupted Monitor
+
+Hull Mechanic
+
+Tri-Lateral Grenade
+
+Sampling Laser
+
+Nurturing Mantisworm
+
+Arachnae Behemoth
+
+Unbound Subject
+
+Broken Wings
+
+Organic Printer
+
+Ecological Survey
+
+EMP Blast
+
+Anomalous Animation
+
+Sanguine Stalker
+
+Corpse Subsumer
+
+Scour the Ruins
+
+Commune With Evil
+
+Scorched Desolation
+
+Despondent Colonists
+
+Artificial Warfront
+
+Cuphro Invasion
+
+Orbital Drop Troopers
+
+Consider the Cosmos
+
+Lunar Archfiend
+
+Agent of Retribution
+
+Enticing Discovery
+
+Unearthly Encounter
+
+Mutagen Spreader
+
+Orchestrator of Wills
+
+Bravo-2, Ruthless Commando
+
+Emberwing Emissary
+
+Path Treading Tank
+
+Assault Landing
+
+Station Monitor
+
+Into the Pit
+
+Lithura, Maiden of Fates
+
+Orbital Lift
+
+Shorecrasher Titan
+
+Reactor Ignition
+
+Augmented Starfighter
+
+Heart of Astorethe
+
+Exhurga, Origin of Mania
+
+Celestial Generator
+
+Outpost Zero
+
+Deflector Operative
+
+Neon Enforcement
+
+Clattering Chitin
+
+Consuming Tide
+
+Bravo-2 Contractee
+
+Suppression Fire
+
+Exfiltration Coordinator
+
+Call to Action
+
+Luminescent Aberration
+
+Genome Sequencing
+
+Morphose Plague
+
+Bioweapon Engineers
+
+Circuit Liberator
+
+Galactic Rending
+
+Ghoulish Stillthroat
+
+Pathcutter Drone
+
+Razefire Raid
+
+Twilight Observer
+
+Vegetative Biopsy
+
+Lunar Bog
+
+Basaltic Reef
+
+Luminous Fen
+
+Saltspire Expanse
+
+Cascading Grotto
+
+Null-Tide Seabed
+
+Tendril Quagmire
+
+Crimson Moor
+
+Brewing Crag
+
+Stillgrove Narrows
+
+Adaptive Scoundrel
+
+Agricultural Analysis
+
+Militech Analysis
+
+Contain for Study
+
+Colony Map
+
+Devastating Blast
+
+Insatiable Petrifier
+
+Origin Stone Shard
+
+Fallback Plan
+
+Tundra Lurker
+
+Omen of Contagion
+
+Orbital Crash
+
+Telemagnetic Assault
+
+Kinetic Shieldbearer
+
+Hapless Innovators
+
+Intensive Study
+
+Twincannon Warbot
+
+Undead Bioroid
+
+Abandon Ship
+
+Creeping Scavenger
+
+Desperate Wayfarer
+
+Hardened Commando
+rules_text: Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it's mana value is less than or equal to this creature's power. Otherwise, you may put it into your graveyard. => Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it's mana value is less than or equal to this creature's power. If you do, you lose life equal to that card's mana value. Otherwise, put it into your graveyard.
+
+Devastating Dilemma
+
+Xathyz, Eternal Matriarch
+
+Blackmarket Orchestrator
+
+Mobile Containment Unit
+
+Crisis Assayer
+
+Terminal Infection
+
+Relentless Miscreant
+
+Climactic Rebuke
+
+Eldritch Summoning
+
+Stun Baton
+
+Portable Incinerator
+
+Intel Breach
+
+Piercing Duplicant
+
+Scallia, Primal Morphling
+
+Invader Construct
+
+Predacious Bristleback
+
+Parsec Tactician
+
+Garruk, Augmented Tracker
+
+Stellar Phoenix
+
+Primordial Shaper
+
+Mori-Bloom
+
+Precognitive Tactics
+
+Orbital Distorter
+
+Spec-Ops Forerunner
+
+Homogeneous Vessel
+
+Synthesis Volunteer
+
+Unwitting Host
+
+Temporal Harness
+
+Arboreal Sinewvine
+
+Enforcer's Assault Rifle
+rules_text: When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
+Equipped creature gets +2/+0, has trample, and has “When this creature dies, it deals 1 damage to any target.”
+Equip {R} => When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
+Equipped creature gets +2/+0 and has “When this creature dies, it deals 1 damage to any target.”
+Equip {R}
+
+Slipstream Infiltrator
+
+Kinetic Vanguard
+
+Pitiless Peacekeeper
+
+Awoken Warframe
+
+Augmented-Reality Visor
+
+City Outbreak
+
+Operative Reactivation
+
+Skyline Enforcer
+
+Hive Queen
+
+Infernal Ravager
+
+Lab Infiltration
+
+Forged Recluse
+
+Cunning Tactics
+
+Ancient Awakening
+
+Astral Strategist
+
+Multi-Point Waygate
+
+Ensnaring Matrix
+
+Maxine, Cynical Renegade
+
+Plithium-Plated Mech
+
+Feasting Skittermaw
+
+Keilan, Rabble-Rouser
+
+Sterile Synthesis
+
+Malignant Venomwing
+
+Horror
+
+Seed of Infection
+
+Evelyn, Battle Calculatrix
+
+Dread Reaper
+
+Blitzwing Striker
+
+Eldritch Haruspex
+
+Fluxreactor Manticore
+
+Relentless Raid
+
+Maxine, Cynical Renegade
+
+Charim Kosta, Hullraider
+rules_text: [+1]: Up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]: => [+1]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+special_text: [+1]: Up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]: => [+1]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+
+D'Emil, Apex Hunter
+
+Moira, Rapid Adapter
+
+Nanotech Pilferer
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Ava, Ignominious Executive added.
