@@ -5,7 +5,7 @@
 			<name>OPZ</name>
 			<longname>Outpost Zero</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-29</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -82,7 +82,7 @@ Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform thi
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">What Lurks Beneath</related>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>What Lurks Beneath</name>
@@ -102,7 +102,7 @@ Catastrophe — {3}{W}, {T}, Exile four cards from your graveyard. Transform thi
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">Renegade Academy</related>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Expedition Range</name>
@@ -162,11 +162,11 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">Cosmic Encounter</related>
-			<reverse_related>Leviathan OPZ</reverse_related>
+			<reverse-related>Leviathan OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Cosmic Encounter</name>
-			<text>When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has five or more voyage counters on it, sacrifice it and create an 8/8 blue Leviathan creature token with hexproof.
+			<text>When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has six or more voyage counters on it, sacrifice it and create an 8/8 blue Leviathan creature token with hexproof.
 {T}: Add {U}.
 ---
 (Front): Voyager Station</text>
@@ -182,13 +182,13 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 			</prop>
 			<tablerow>0</tablerow>
 			<related attach="transform">Voyager Station</related>
-			<reverse_related>Leviathan OPZ</reverse_related>
+			<reverse-related>Leviathan OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Plithium Quarry</name>
 			<text>This enters tapped.
 {T}: Add {B}.
-Catastrophe — {3}{B}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery.
+Catastrophe — {4}{B}, {T}, Exile five cards from your graveyard: Transform this land. Activate only as a sorcery.
 ---
 (Back): Consuming Spores</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/6_front.png" num="252a">OPZ</set>
@@ -312,7 +312,7 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Targeted Strike</name>
@@ -402,7 +402,7 @@ Whenever this creature deals combat damage to a player, create a Specimen token.
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Rothmas Scouts</name>
@@ -454,7 +454,7 @@ Whenever this creature and at least two other creatures attack, put a +1/+1 coun
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Drone OPZ</name>
@@ -506,7 +506,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>City Sweep</name>
@@ -559,7 +559,7 @@ When this creature dies, experiment on target creature you control. (Add or remo
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Gleaming Kite</name>
@@ -645,7 +645,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Mistweaver</name>
@@ -787,7 +787,7 @@ When this creature enters, create a 1/1 colorless Drone artifact creature token 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Splinter Brute</name>
@@ -824,7 +824,7 @@ Draw two cards and create a Specimen token. (It&apos;s an artifact with &quot;{1
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Nimble Crewmate</name>
@@ -882,7 +882,7 @@ Whenever this creature attacks, if its power is 4 or greater, each opponent lose
 		</card>
 		<card>
 			<name>Ava, Ignominious Executive</name>
-			<text>Whenever a creature you control attacks alone, surveil 1 then draw a card. Put a +1/+1 counter on that creature. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<text>Whenever a creature you control attacks alone, surveil 1, then draw a card. Put a +1/+1 counter on that creature. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/43.png" num="81">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -945,7 +945,7 @@ Destroy target creature or planeswalker.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Mercenary OPZ</name>
@@ -981,7 +981,7 @@ Destroy target creature or planeswalker.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Mining Rig</name>
@@ -1033,7 +1033,7 @@ Draw two cards.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Frontline Dropship</name>
@@ -1051,7 +1051,7 @@ Nontoken creatures you control get +1/+0 until end of turn.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Construction Bot</name>
@@ -1125,7 +1125,7 @@ When this creature enters, create a 1/1 colorless Drone artifact creature token 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Skittering Swarm</name>
@@ -1265,7 +1265,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Rapid Incubation</name>
@@ -1282,8 +1282,8 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
-			<reverse_related>Beast OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
+			<reverse-related>Beast OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Beast OPZ</name>
@@ -1320,7 +1320,7 @@ When this creature enters, create a Specimen token. (It&apos;s an artifact with 
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Burgeoning Ascomycota</name>
@@ -1564,7 +1564,7 @@ When this creature enters, create two 1/1 colorless Drone artifact creature toke
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Sudden Evacuation</name>
@@ -1805,7 +1805,7 @@ Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. A
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Tremor Spikeworm</name>
@@ -2037,7 +2037,7 @@ When this creature dies, create a Specimen token. (It&apos;s an artifact with &q
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Mission Coordinator</name>
@@ -2055,7 +2055,7 @@ When this creature dies, create a Specimen token. (It&apos;s an artifact with &q
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Smoldering Defiance</name>
@@ -2155,7 +2155,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Nurturing Mantisworm</name>
@@ -2292,7 +2292,7 @@ Strain each attacking creature. They get -2/-0 until end of turn. (To strain, ta
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Sanguine Stalker</name>
@@ -2345,7 +2345,7 @@ When this creature enters, draw a card if a creature died this turn.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Commune With Evil</name>
@@ -2588,7 +2588,7 @@ At the beginning of your end step, if you&apos;ve attacked this turn, create a 1
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Emberwing Emissary</name>
@@ -2611,7 +2611,7 @@ Whenever this creature attacks, it deals 2 damage to each of up to three targets
 		<card>
 			<name>Path Treading Tank</name>
 			<text>This creature enters with X +1/+1 counters on it.
-Remove two +1/+1 counters from this creature: Target creature can&apos;t block this turn.
+Remove a +1/+1 counter from this creature: Target creature can&apos;t block this turn.
 {1}, {T}: Put a +1/+1 counter on this creature.</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/141.png" num="238">OPZ</set>
 			<prop>
@@ -2640,7 +2640,7 @@ Remove two +1/+1 counters from this creature: Target creature can&apos;t block t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Station Monitor</name>
@@ -2802,7 +2802,7 @@ At the beginning of your end step, if you sacrificed a permanent this turn, crea
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Celestial Generator</name>
@@ -2944,7 +2944,7 @@ Whenever you attack, up to one target creature you control with power greater th
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Suppression Fire</name>
@@ -2982,7 +2982,7 @@ Whenever you strain a creature you control, this creature gets +1/+0 until end o
 		</card>
 		<card>
 			<name>Call to Action</name>
-			<text>Strain any number of attacking creatures you control. They each get +2/+0 and gain trample until end of turn. (To strain, tap it then put a stun counter on it.)</text>
+			<text>Strain any number of attacking creatures you control. They each get +3/+0 and gain trample until end of turn. (To strain, tap it then put a stun counter on it.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/161.png" num="195">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3046,7 +3046,7 @@ At the beginning of the next end step, for each creature you controlled that die
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Bioweapon Engineers</name>
@@ -3065,7 +3065,7 @@ At the beginning of the next end step, for each creature you controlled that die
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Circuit Liberator</name>
@@ -3579,7 +3579,7 @@ Create a Specimen token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Kinetic Shieldbearer</name>
@@ -3637,7 +3637,7 @@ At the beginning of combat on your turn, put a time counter on this enchantment.
 		<card>
 			<name>Twincannon Warbot</name>
 			<text>This creature enters with a double strike counter on it.
-Remove a double strike counter from this attacking creature: Untap all attacking creatures. After this phase, there is an additional combat phase. Activate only during your combat phase.</text>
+Remove a double strike counter from this attacking creature: Untap all attacking creatures. After this phase, there is an additional combat phase.</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/199.png" num="151">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3655,7 +3655,7 @@ Remove a double strike counter from this attacking creature: Untap all attacking
 		<card>
 			<name>Undead Bioroid</name>
 			<text>Menace
-At the beginning of each end step, each opponent loses 2 life if you&apos;re desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. (You&apos;re desperate if you&apos;ve discarded a card, lost three or more life, or a permanent died under your control this turn. You&apos;re fully desperate if you&apos;ve done all three.)</text>
+At the beginning of each end step, each opponent loses 2 life if you&apos;re desperate. If you are fully desperate, you may return a creature card from your graveyard to the battlefield with a finality counter on it. (You&apos;re desperate if you&apos;ve discarded a card, lost three or more life, or a permanent died under your control this turn. You&apos;re fully desperate if you&apos;ve done all three.)</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/200.png" num="112">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3797,7 +3797,7 @@ At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Me
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Mobile Containment Unit</name>
@@ -3815,7 +3815,7 @@ At the beginning of your end step, if you&apos;re desperate, create a 1/1 red Me
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Crisis Assayer</name>
@@ -3851,7 +3851,7 @@ When this Aura enters, strain enchanted creature. (To strain, tap it then put a 
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Relentless Miscreant</name>
@@ -3980,7 +3980,7 @@ Other Symbiotes you control get +1/+1.</text>
 		<card>
 			<name>Scallia, Primal Morphling</name>
 			<text>Whenever Scallia attacks, she deals damage equal to her power to any target.
-Tap three untapped mercenaries you control: Return this card from your graveyard to your hand.</text>
+Tap three untapped Mercenaries you control: Return this card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/218.png" num="223">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4032,7 +4032,7 @@ You may strain this creature as it attacks. When you do, it fights target creatu
 		<card>
 			<name>Parsec Tactician</name>
 			<text>First strike
-Spell cast from anywhere other than a players hand cost {2} more to cast.</text>
+Spells cast from anywhere other than a player&apos;s hand cost {2} more to cast.</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/221.png" num="25">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4283,7 +4283,7 @@ When this creature enters, choose one—
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Beast OPZ</reverse_related>
+			<reverse-related>Beast OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Unwitting Host</name>
@@ -4302,8 +4302,8 @@ When you sacrifice this creature, create a 2/2 black Horror creature token.</tex
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
-			<reverse_related>Horror OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
+			<reverse-related>Horror OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Temporal Harness</name>
@@ -4337,13 +4337,13 @@ Specimens you control have &quot;{T}, Sacrifice this artifact: Add one mana of a
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Enforcer&apos;s Assault Rifle</name>
 			<text>When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
 Equipped creature gets +2/+0 and has &quot;When this creature dies, it deals 1 damage to any target.&quot;
-Equip {R}</text>
+Equip {1}{R}</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/239.png" num="125">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4434,8 +4434,8 @@ This creature enters with four +1/+1 counters. When it dies, distribute its +1/+
 		<card>
 			<name>Augmented-Reality Visor</name>
 			<text>When this Equipment enters, attach it to target creature you control.
-Equipped creature gets +1/+1 for each artifact you control.
-Equip {3}</text>
+Equipped creature gets +1/+0 for each artifact you control.
+Equip {2}</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/244.png" num="4">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4468,7 +4468,7 @@ Each opponent sacrifices a creature.</text>
 		</card>
 		<card>
 			<name>Operative Reactivation</name>
-			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield under its owner&apos;s control and strain it.&quot; (To strain, tap it then put a stun counter on it.)</text>
+			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield under its owner&apos;s control and strain it&quot;. (To strain, tap it then put a stun counter on it.)</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/246.png" num="102">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4551,7 +4551,7 @@ Whenever this creature attacks, if you&apos;re desperate, it deals 1 damage to t
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Specimen OPZ</reverse_related>
+			<reverse-related>Specimen OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Forged Recluse</name>
@@ -4758,7 +4758,7 @@ Whenever you attack, experiment on each attacking creature. For each counter you
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Horror OPZ</name>
@@ -4796,11 +4796,11 @@ Whenever another nontoken creature you control dies, create a 1/1 black Parasite
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Parasite OPZ</reverse_related>
+			<reverse-related>Parasite OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Evelyn, Battle Calculatrix</name>
-			<text>Noncreature spells you cast have improvise. (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
+			<text>Noncreature nonartifact spells you cast have improvise. (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Whenever you cast your second spell each turn, put a +1/+1 counter on Evelyn and draw a card.</text>
 			<set rarity="rare" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/265.png" num="204">OPZ</set>
 			<prop>
@@ -4905,7 +4905,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 				<coloridentity>WBR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Mercenary OPZ</reverse_related>
+			<reverse-related>Mercenary OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Maxine, Cynical Renegade OPZ</name>
@@ -4942,7 +4942,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 		</card>
 		<card>
 			<name>Charim Kosta, Hullraider</name>
-			<text>[+1]: Until end of turn, up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
+			<text>[+2]: Until end of turn, up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
 [-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
 [-X]:</text>
 			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/273.png" num="196">OPZ</set>
@@ -4977,7 +4977,7 @@ At the beginning of your end step, if an attacking creature died this turn, draw
 				<pt>7/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Drone OPZ</reverse_related>
+			<reverse-related>Drone OPZ</reverse-related>
 		</card>
 		<card>
 			<name>Moira, Rapid Adapter</name>
@@ -5017,7 +5017,7 @@ You may have this creature enter as a copy of any artifact or creature on the ba
 		<card>
 			<name>Synthetic Kobold</name>
 			<text>When this creature enters, distribute two +1/+1 counters among up to two target creatures.
-Each creature you control with a +1/+1 counter on it has trample.</text>
+Whenever another creature you control leaves the battlefield, if it had counters on it, put those counters on this creature. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/277.png" num="187">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -5034,7 +5034,7 @@ Each creature you control with a +1/+1 counter on it has trample.</text>
 		</card>
 		<card>
 			<name>Elion Nexus</name>
-			<text>Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+			<text>Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield tapped.
 Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
 [level 10+] Flying, vigilance [5/6]</text>
 			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/278.png" num="13">OPZ</set>
@@ -5070,7 +5070,7 @@ Station (Tap another creature you control: Put charge counters equal to its powe
 		</card>
 		<card>
 			<name>Jumpship Nexus</name>
-			<text>Whenever this Spacecraft enters or attacks, create a 0/0 colorless Construct artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;
+			<text>Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Construct artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;
 Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
 [level 10+] Flying, ward {2} [5/5]</text>
 			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/280.png" num="39">OPZ</set>

@@ -5,7 +5,7 @@
 			<name>TOA</name>
 			<longname>Trials of Aenaris</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-04</releasedate>
+			<releasedate>2026-02-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -203,7 +203,7 @@ Whenever another creature you control dies, create a Treasure token. (It&apos;s 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Nyhela Awoken</reverse_related>
+			<reverse-related>Nyhela Awoken</reverse-related>
 		</card>
 		<card>
 			<name>RU Xanthicar&apos;s Augury</name>

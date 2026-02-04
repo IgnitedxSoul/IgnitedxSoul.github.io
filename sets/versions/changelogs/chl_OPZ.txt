@@ -1,4 +1,128 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Voyager Station
+rules_text: This enters tapped.
+{T}: Add {U}.
+Catastrophe — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {U}.
+[i]Catastrophe[/i] — {T}, Exile two cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Plithium Quarry
+rules_text: This enters tapped.
+{T}: Add {B}.
+[i]Catastrophe[/i] — {3}{B}, {T}, Exile four cards from your graveyard: Transform this land. Activate only as a sorcery. => This enters tapped.
+{T}: Add {B}.
+[i]Catastrophe[/i] — {4}{B}, {T}, Exile five cards from your graveyard: Transform this land. Activate only as a sorcery.
+
+Keen-Eyed Engineer
+
+Ava, Ignominious Executive
+rules_text: Whenever a creature you control attacks alone, surveil 1 then draw a card. Put a +1/+1 counter on that creature. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever a creature you control attacks alone, surveil 1, then draw a card. Put a +1/+1 counter on that creature. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Artificial Warfront
+
+Path Treading Tank
+rules_text: This creature enters with X +1/+1 counters on it.
+Remove two +1/+1 counters from this creature: Target creature can't block this turn.
+{1}, {T}: Put a +1/+1 counter on this creature. => This creature enters with X +1/+1 counters on it.
+Remove a +1/+1 counter from this creature: Target creature can't block this turn.
+{1}, {T}: Put a +1/+1 counter on this creature.
+
+Call to Action
+rules_text: Strain any number of attacking creatures you control. They each get +2/+0 and gain trample until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i] => Strain any number of attacking creatures you control. They each get +3/+0 and gain trample until end of turn. [i](To strain, tap it then put a stun counter on it.)[/i]
+
+Circuit Liberator
+
+Razefire Raid
+
+Twincannon Warbot
+rules_text: This creature enters with a double strike counter on it.
+Remove a double strike counter from this attacking creature: Untap all attacking creatures. After this phase, there is an additional combat phase. Activate only during your combat phase. => This creature enters with a double strike counter on it.
+Remove a double strike counter from this attacking creature: Untap all attacking creatures. After this phase, there is an additional combat phase.
+
+Undead Bioroid
+rules_text: Menace
+At the beginning of each end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return target creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a permanent died under your control this turn. You're fully desperate if you've done all three.)[/i] => Menace
+At the beginning of each end step, each opponent loses 2 life if you're desperate. If you are fully desperate, you may return a creature card from your graveyard to the battlefield with a finality counter on it. [i](You're desperate if you've discarded a card, lost three or more life, or a permanent died under your control this turn. You're fully desperate if you've done all three.)[/i]
+
+Scallia, Primal Morphling
+rules_text: Whenever Scallia attacks, she deals damage equal to her power to any target.
+Tap three untapped mercenaries you control: Return this card from your graveyard to your hand. => Whenever Scallia attacks, she deals damage equal to her power to any target.
+Tap three untapped Mercenaries you control: Return this card from your graveyard to your hand.
+
+Parsec Tactician
+rules_text: First strike
+Spell cast from anywhere other than a players hand cost {2} more to cast. => First strike
+Spells cast from anywhere other than a player's hand cost {2} more to cast.
+
+Enforcer's Assault Rifle
+rules_text: When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
+Equipped creature gets +2/+0 and has “When this creature dies, it deals 1 damage to any target.”
+Equip {R} => When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
+Equipped creature gets +2/+0 and has “When this creature dies, it deals 1 damage to any target.”
+Equip {1}{R}
+
+Augmented-Reality Visor
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1 for each artifact you control.
+Equip {3} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 for each artifact you control.
+Equip {2}
+
+Operative Reactivation
+rules_text: Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield under its owner's control and strain it.” [i](To strain, tap it then put a stun counter on it.)[/i] => Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield under its owner's control and strain it”. [i](To strain, tap it then put a stun counter on it.)[/i]
+
+Evelyn, Battle Calculatrix
+rules_text: Noncreature spells you cast have improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Whenever you cast your second spell each turn, put a +1/+1 counter on Evelyn and draw a card. => Noncreature nonartifact spells you cast have improvise. [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Whenever you cast your second spell each turn, put a +1/+1 counter on Evelyn and draw a card.
+
+Charim Kosta, Hullraider
+rules_text: [+1]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]: => [+2]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+special_text: [+1]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]: => [+2]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+
+Synthetic Kobold
+rules_text: When this creature enters, distribute two +1/+1 counters among up to two target creatures.
+Each creature you control with a +1/+1 counter on it has trample. => When this creature enters, distribute two +1/+1 counters among up to two target creatures.
+Whenever another creature you control leaves the battlefield, if it had counters on it, put those counters on this creature. This ability triggers only once each turn.
+
+Elion Nexus
+rules_text: Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, vigilance [5/6] => Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield tapped.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, vigilance [5/6]
+special_text: Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, vigilance [5/6] => Whenever this Spacecraft enters or attacks, return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield tapped.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, vigilance [5/6]
+
+Jumpship Nexus
+rules_text: Whenever this Spacecraft enters or attacks, create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5] => Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5]
+special_text: Whenever this Spacecraft enters or attacks, create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5] => Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5]
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
