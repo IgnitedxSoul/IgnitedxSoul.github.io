@@ -120,7 +120,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Specimen",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/8.png"
 			}
@@ -2764,7 +2764,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/271.png"
 			}
@@ -2877,6 +2877,16 @@
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/282.png"
+			}
+		},
+		{
+			"name": "Robot",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://IgnitedxSoul.github.io/sets/OPZ-files/img/283.png"
 			}
 		}
 	]

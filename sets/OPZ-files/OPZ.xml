@@ -265,7 +265,7 @@ Catastrophe — {4}{R}, {T}, Exile five cards from your graveyard: Transform thi
 		<card>
 			<name>Specimen OPZ</name>
 			<text>{1}, {T}, Sacrifice this artifact: Experiment on target permanent you control. Activate only as a sorcery. (Add or remove a +1/+1 counter or a type of counter already on the target.)</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/8.png" num="8">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/8.png" num="9">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4910,7 +4910,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 		<card>
 			<name>Maxine, Cynical Renegade OPZ</name>
 			<text>Whenever a creature you control deals combat damage to a player, draw that many cards.</text>
-			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/271.png" num="9">OPZ</set>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/271.png" num="10">OPZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5070,7 +5070,7 @@ Station (Tap another creature you control: Put charge counters equal to its powe
 		</card>
 		<card>
 			<name>Jumpship Nexus</name>
-			<text>Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Construct artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;
+			<text>Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Robot artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;
 Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
 [level 10+] Flying, ward {2} [5/5]</text>
 			<set rarity="mythic" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/280.png" num="39">OPZ</set>
@@ -5121,6 +5121,22 @@ Station (Tap another creature you control: Put charge counters equal to its powe
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Robot OPZ</name>
+			<text>This token gets +1/+1 for each artifact you control.</text>
+			<set rarity="common" picurl="https://IgnitedxSoul.github.io/sets/OPZ-files/img/283.png" num="8">OPZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

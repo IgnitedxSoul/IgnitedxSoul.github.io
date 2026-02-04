@@ -1,4 +1,23 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Robot added.
+
+
+Jumpship Nexus
+rules_text: Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5] => Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Robot artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5]
+special_text: Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5] => Whenever this Spacecraft enters or attacks, create a tapped 0/0 colorless Robot artifact creature token with “This token gets +1/+1 for each artifact you control.”
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 10+] Flying, ward {2} [5/5]
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

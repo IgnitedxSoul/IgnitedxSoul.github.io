@@ -2398,8 +2398,16 @@
         "position": "19"
     },
     {
-        "card_name": "Specimen",
+        "card_name": "Robot",
         "number": 8,
+        "shape": "token",
+        "set": "OPZ",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "Specimen",
+        "number": 9,
         "shape": "token",
         "set": "OPZ",
         "rotated": false,
@@ -2407,7 +2415,7 @@
     },
     {
         "card_name": "Maxine, Cynical Renegade",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "OPZ",
         "rotated": false,
@@ -2452,9 +2460,6 @@
         "set": "OPZ",
         "rotated": false,
         "position": "66"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
